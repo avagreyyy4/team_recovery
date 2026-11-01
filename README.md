@@ -26,11 +26,13 @@ This repository is our research artifact for our submission to Organization Scie
 
 Requires Python 3.10+. All of the data necessary for the following steps is already aggregated in this repository. There will be no re-running of the gemini huddle clipping or computer vision tracking steps. 
 
-1. **Clone the repo and enter it**
+1. **Clone or download the repo and enter it**
    ```
    git clone <repo_url>
    cd <repo_name>
    ```
+Can also download repo and open in terminal and start at step 2). 
+
 2. **Create a project-specific environment**
    ```
    python3 -m venv .venv
