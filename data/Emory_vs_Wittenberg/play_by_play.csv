@@ -1,0 +1,201 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,WITW,error,attack_error,EU,Kelsey Meins,Charlese Blair,,,Charlese Blair,,0,0,1,0,[Kelsey Meins] Attack error by Charlese Blair.,EU,WITW
+1,2,1,EU,attack,kill,WITW,"Weithman, Lexie",Morgan McKnight,Cassie Srb,,,,0,1,1,1,"[Weithman, Lexie] Kill by Morgan McKnight (from Cassie Srb).",EU,WITW
+1,3,2,WITW,attack,kill,EU,Sara Carr,"Kucinic, Paige","Auble, Sarah",,,,0,0,2,1,"[Sara Carr] Kill by Kucinic, Paige (from Auble, Sarah).",EU,WITW
+1,4,3,WITW,error,attack_error,WITW,"White, Dakota",Morgan McKnight,,,Morgan McKnight,,0,1,3,1,"[White, Dakota] Attack error by Morgan McKnight.",EU,WITW
+1,5,4,WITW,error,attack_error,WITW,"White, Dakota",Leah Saunders,,,Leah Saunders,,0,0,4,1,"[White, Dakota] Attack error by Leah Saunders.",EU,WITW
+1,6,5,EU,error,service_error,WITW,"White, Dakota",,,,"White, Dakota",,0,0,4,2,"[White, Dakota] Service error.",EU,WITW
+1,7,6,WITW,error,attack_error,EU,Morgan McKnight,Leah Saunders,,,Leah Saunders,,0,1,5,2,[Morgan McKnight] Attack error by Leah Saunders.,EU,WITW
+1,8,7,EU,attack,kill,WITW,"Brooks, Ashley",Leah Saunders,Cassie Srb,,,,0,1,5,3,"[Brooks, Ashley] Kill by Leah Saunders (from Cassie Srb).",EU,WITW
+1,9,8,WITW,attack,kill,EU,Elyse Thompson,"Hancock, Gabi","Brooks, Ashley",,,,0,1,6,3,"[Elyse Thompson] Kill by Hancock, Gabi (from Brooks, Ashley).",EU,WITW
+1,10,9,EU,error,service_error,WITW,"Hiestand, Katie",,,,"Hiestand, Katie",,0,1,6,4,"[Hiestand, Katie] Service error.",EU,WITW
+1,11,10,WITW,error,service_error,EU,Leah Saunders,,,,Leah Saunders,,0,0,7,4,[Leah Saunders] Service error.,EU,WITW
+1,12,11,EU,attack,kill,WITW,"Yontz, Taylor",Tara Martin,Cassie Srb,,,,0,0,7,5,"[Yontz, Taylor] Kill by Tara Martin (from Cassie Srb).",EU,WITW
+1,13,12,WITW,attack,kill,EU,Sara Carr,"Reeder, Sidney","Brooks, Ashley",,,,0,1,8,5,"[Sara Carr] Kill by Reeder, Sidney (from Brooks, Ashley).",EU,WITW
+1,14,13,WITW,attack,kill,WITW,"Auble, Sarah","Cox, Aubrey",,,,,0,1,9,5,"[Auble, Sarah] Kill by Cox, Aubrey.",EU,WITW
+1,15,14,WITW,attack,kill,WITW,"Auble, Sarah","Cox, Aubrey","Auble, Sarah",,,,0,0,10,5,"[Auble, Sarah] Kill by Cox, Aubrey (from Auble, Sarah).",EU,WITW
+1,16,15,EU,block,attack_error,WITW,"Auble, Sarah","Cox, Aubrey",,Cassie Srb,"Cox, Aubrey",,1,0,10,6,"[Auble, Sarah] Attack error by Cox, Aubrey (block by Cassie Srb).",EU,WITW
+1,17,16,WITW,error,attack_error,EU,Maggie Rimmel,Sara Carr,,,Sara Carr,,0,0,11,6,[Maggie Rimmel] Attack error by Sara Carr.,EU,WITW
+1,18,17,WITW,block,attack_error,WITW,"Weithman, Lexie",Morgan McKnight,,"Hiestand, Katie; Cox, Aubrey",Morgan McKnight,,0,1,12,6,"[Weithman, Lexie] Attack error by Morgan McKnight (block by Hiestand, Katie; Cox, Aubrey).",EU,WITW
+1,19,18,WITW,attack,kill,WITW,"Weithman, Lexie","Kucinic, Paige","Auble, Sarah",,,,0,0,13,6,"[Weithman, Lexie] Kill by Kucinic, Paige (from Auble, Sarah).",EU,WITW
+1,20,19,WITW,error,attack_error,WITW,"Weithman, Lexie",Charlese Blair,,,Charlese Blair,,0,0,14,6,"[Weithman, Lexie] Attack error by Charlese Blair.",EU,WITW
+1,21,20,WITW,ace,service_ace,WITW,"Weithman, Lexie",,,,,Leah Saunders,0,0,15,6,"[Weithman, Lexie] Service ace (Leah Saunders).",EU,WITW
+1,22,21,EU,error,attack_error,WITW,"Weithman, Lexie","Kucinic, Paige",,,"Kucinic, Paige",,0,0,15,7,"[Weithman, Lexie] Attack error by Kucinic, Paige.",EU,WITW
+1,23,22,WITW,error,service_error,EU,Cassie Srb,,,,Cassie Srb,,0,0,16,7,[Cassie Srb] Service error.,EU,WITW
+1,24,23,WITW,error,ball_handling_error,WITW,"White, Dakota",,,,Elyse Thompson,,0,1,17,7,"[White, Dakota] Ball handling error by Elyse Thompson.",EU,WITW
+1,25,24,WITW,attack,kill,WITW,"White, Dakota","Kucinic, Paige","Auble, Sarah",,,,0,0,18,7,"[White, Dakota] Kill by Kucinic, Paige (from Auble, Sarah).",EU,WITW
+1,26,25,EU,error,service_error,WITW,"White, Dakota",,,,"White, Dakota",,1,0,18,8,"[White, Dakota] Service error.",EU,WITW
+1,27,26,EU,attack,kill,EU,Morgan McKnight,Leah Saunders,Cassie Srb,,,,0,1,18,9,[Morgan McKnight] Kill by Leah Saunders (from Cassie Srb).,EU,WITW
+1,28,27,EU,block,attack_error,EU,Morgan McKnight,"Kucinic, Paige",,Charlese Blair; Tara Martin,"Kucinic, Paige",,0,0,18,10,"[Morgan McKnight] Attack error by Kucinic, Paige (block by Charlese Blair; Tara Martin).",EU,WITW
+1,29,28,WITW,error,attack_error,EU,Morgan McKnight,Leah Saunders,,,Leah Saunders,,1,0,19,10,[Morgan McKnight] Attack error by Leah Saunders.,EU,WITW
+1,30,29,WITW,attack,kill,WITW,"Brooks, Ashley","Hiestand, Katie","Kucinic, Paige",,,,0,1,20,10,"[Brooks, Ashley] Kill by Hiestand, Katie (from Kucinic, Paige).",EU,WITW
+1,31,30,WITW,attack,kill,WITW,"Brooks, Ashley","Hiestand, Katie","Brooks, Ashley",,,,0,0,21,10,"[Brooks, Ashley] Kill by Hiestand, Katie (from Brooks, Ashley).",EU,WITW
+1,32,31,EU,error,service_error,WITW,"Brooks, Ashley",,,,"Brooks, Ashley",,0,0,21,11,"[Brooks, Ashley] Service error.",EU,WITW
+1,33,32,WITW,attack,kill,EU,Elyse Thompson,"Hancock, Gabi","Brooks, Ashley",,,,0,0,22,11,"[Elyse Thompson] Kill by Hancock, Gabi (from Brooks, Ashley).",EU,WITW
+1,34,33,WITW,error,attack_error,WITW,"Hiestand, Katie",Tara Martin,,,Tara Martin,,0,1,23,11,"[Hiestand, Katie] Attack error by Tara Martin.",EU,WITW
+1,35,34,EU,attack,kill,WITW,"Hiestand, Katie",Tara Martin,Cassie Srb,,,,0,0,23,12,"[Hiestand, Katie] Kill by Tara Martin (from Cassie Srb).",EU,WITW
+1,36,35,WITW,attack,kill,EU,Leah Saunders,"Reeder, Sidney","Brooks, Ashley",,,,0,0,24,12,"[Leah Saunders] Kill by Reeder, Sidney (from Brooks, Ashley).",EU,WITW
+1,37,36,EU,attack,kill,WITW,"Yontz, Taylor",Tara Martin,Cassie Srb,,,,0,0,24,13,"[Yontz, Taylor] Kill by Tara Martin (from Cassie Srb).",EU,WITW
+1,38,37,EU,ace,service_ace,EU,Sara Carr,,,,,"Reeder, Sidney",0,1,24,14,"[Sara Carr] Service ace (Reeder, Sidney).",EU,WITW
+1,39,38,WITW,attack,kill,EU,Sara Carr,"Reeder, Sidney","Brooks, Ashley",,,,0,0,25,14,"[Sara Carr] Kill by Reeder, Sidney (from Brooks, Ashley).",EU,WITW
+2,1,0,WITW,error,attack_error,WITW,"Auble, Sarah",Leah Saunders,,,Leah Saunders,,0,0,1,0,"[Auble, Sarah] Attack error by Leah Saunders.",EU,WITW
+2,2,1,EU,error,attack_error,WITW,"Auble, Sarah","Kucinic, Paige",,,"Kucinic, Paige",,0,0,1,1,"[Auble, Sarah] Attack error by Kucinic, Paige.",EU,WITW
+2,3,2,WITW,attack,kill,EU,Elyse Thompson,"Kucinic, Paige","Yontz, Taylor",,,,0,0,2,1,"[Elyse Thompson] Kill by Kucinic, Paige (from Yontz, Taylor).",EU,WITW
+2,4,3,EU,error,service_error,WITW,"Weithman, Lexie",,,,"Weithman, Lexie",,0,1,2,2,"[Weithman, Lexie] Service error.",EU,WITW
+2,5,4,WITW,attack,kill,EU,Leah Saunders,"Cox, Aubrey","Auble, Sarah",,,,0,0,3,2,"[Leah Saunders] Kill by Cox, Aubrey (from Auble, Sarah).",EU,WITW
+2,6,5,EU,attack,kill,WITW,"White, Dakota",Tara Martin,Cassie Srb,,,,0,1,3,3,"[White, Dakota] Kill by Tara Martin (from Cassie Srb).",EU,WITW
+2,7,6,WITW,attack,kill,EU,Sara Carr,"Kucinic, Paige","Auble, Sarah",,,,0,1,4,3,"[Sara Carr] Kill by Kucinic, Paige (from Auble, Sarah).",EU,WITW
+2,8,7,WITW,error,attack_error,WITW,"Brooks, Ashley",Maggie Rimmel,,,Maggie Rimmel,,0,1,5,3,"[Brooks, Ashley] Attack error by Maggie Rimmel.",EU,WITW
+2,9,8,WITW,error,attack_error,WITW,"Brooks, Ashley",Morgan McKnight,,,Morgan McKnight,,0,0,6,3,"[Brooks, Ashley] Attack error by Morgan McKnight.",EU,WITW
+2,10,9,EU,error,attack_error,WITW,"Brooks, Ashley","Hiestand, Katie",,,"Hiestand, Katie",,0,0,6,4,"[Brooks, Ashley] Attack error by Hiestand, Katie.",EU,WITW
+2,11,10,WITW,error,service_error,EU,Kelsey Meins,,,,Kelsey Meins,,0,1,7,4,[Kelsey Meins] Service error.,EU,WITW
+2,12,11,EU,error,attack_error,WITW,"Hiestand, Katie","Reeder, Sidney",,,"Reeder, Sidney",,0,1,7,5,"[Hiestand, Katie] Attack error by Reeder, Sidney.",EU,WITW
+2,13,12,WITW,error,attack_error,EU,Cassie Srb,Charlese Blair,,,Charlese Blair,,0,0,8,5,[Cassie Srb] Attack error by Charlese Blair.,EU,WITW
+2,14,13,WITW,error,attack_error,WITW,"Yontz, Taylor",Morgan McKnight,,,Morgan McKnight,,0,0,9,5,"[Yontz, Taylor] Attack error by Morgan McKnight.",EU,WITW
+2,15,14,WITW,error,attack_error,WITW,"Yontz, Taylor",Leah Saunders,,,Leah Saunders,,0,1,10,5,"[Yontz, Taylor] Attack error by Leah Saunders.",EU,WITW
+2,16,15,EU,attack,kill,WITW,"Yontz, Taylor",Morgan McKnight,Cassie Srb,,,,1,0,10,6,"[Yontz, Taylor] Kill by Morgan McKnight (from Cassie Srb).",EU,WITW
+2,17,16,EU,attack,kill,EU,Morgan McKnight,Leah Saunders,Cassie Srb,,,,0,1,10,7,[Morgan McKnight] Kill by Leah Saunders (from Cassie Srb).,EU,WITW
+2,18,17,WITW,attack,kill,EU,Morgan McKnight,"Lutz, Cora","Brooks, Ashley",,,,0,0,11,7,"[Morgan McKnight] Kill by Lutz, Cora (from Brooks, Ashley).",EU,WITW
+2,19,18,WITW,ace,service_ace,WITW,"Auble, Sarah",,,,,Elyse Thompson,0,1,12,7,"[Auble, Sarah] Service ace (Elyse Thompson).",EU,WITW
+2,20,19,WITW,attack,kill,WITW,"Auble, Sarah","Cox, Aubrey",,,,,0,0,13,7,"[Auble, Sarah] Kill by Cox, Aubrey.",EU,WITW
+2,21,20,WITW,block,attack_error,WITW,"Auble, Sarah",Leah Saunders,,"Cox, Aubrey; Lutz, Cora",Leah Saunders,,0,0,14,7,"[Auble, Sarah] Attack error by Leah Saunders (block by Cox, Aubrey; Lutz, Cora).",EU,WITW
+2,22,21,EU,attack,kill,WITW,"Auble, Sarah",Tara Martin,Cassie Srb,,,,0,0,14,8,"[Auble, Sarah] Kill by Tara Martin (from Cassie Srb).",EU,WITW
+2,23,22,WITW,error,service_error,EU,Elyse Thompson,,,,Elyse Thompson,,0,1,15,8,[Elyse Thompson] Service error.,EU,WITW
+2,24,23,EU,error,service_error,WITW,"Weithman, Lexie",,,,"Weithman, Lexie",,0,1,15,9,"[Weithman, Lexie] Service error.",EU,WITW
+2,25,24,WITW,error,service_error,EU,Leah Saunders,,,,Leah Saunders,,0,0,16,9,[Leah Saunders] Service error.,EU,WITW
+2,26,25,EU,attack,kill,WITW,"White, Dakota",Tara Martin,Cassie Srb,,,,0,1,16,10,"[White, Dakota] Kill by Tara Martin (from Cassie Srb).",EU,WITW
+2,27,26,EU,attack,kill,EU,Sara Carr,Maggie Rimmel,Cassie Srb,,,,0,1,16,11,[Sara Carr] Kill by Maggie Rimmel (from Cassie Srb).,EU,WITW
+2,28,27,WITW,attack,kill,EU,Sara Carr,"Hiestand, Katie","Auble, Sarah",,,,0,0,17,11,"[Sara Carr] Kill by Hiestand, Katie (from Auble, Sarah).",EU,WITW
+2,29,28,EU,error,service_error,WITW,"Brooks, Ashley",,,,"Brooks, Ashley",,0,1,17,12,"[Brooks, Ashley] Service error.",EU,WITW
+2,30,29,EU,attack,kill,EU,Kelsey Meins,Finn Wilkins,Cassie Srb,,,,0,1,17,13,[Kelsey Meins] Kill by Finn Wilkins (from Cassie Srb).,EU,WITW
+2,31,30,WITW,attack,kill,EU,Kelsey Meins,"Hancock, Gabi","Brooks, Ashley",,,,0,0,18,13,"[Kelsey Meins] Kill by Hancock, Gabi (from Brooks, Ashley).",EU,WITW
+2,32,31,EU,attack,kill,WITW,"Hiestand, Katie",Finn Wilkins,Cassie Srb,,,,0,1,18,14,"[Hiestand, Katie] Kill by Finn Wilkins (from Cassie Srb).",EU,WITW
+2,33,32,EU,error,attack_error,EU,Cassie Srb,"Lutz, Cora",,,"Lutz, Cora",,0,1,18,15,"[Cassie Srb] Attack error by Lutz, Cora.",EU,WITW
+2,34,33,WITW,error,ball_handling_error,EU,Cassie Srb,,,,Cassie Srb,,0,0,19,15,[Cassie Srb] Ball handling error by Cassie Srb.,EU,WITW
+2,35,34,WITW,attack,kill,WITW,"Yontz, Taylor","Cox, Aubrey","Brooks, Ashley",,,,0,0,20,15,"[Yontz, Taylor] Kill by Cox, Aubrey (from Brooks, Ashley).",EU,WITW
+2,36,35,EU,attack,kill,WITW,"Yontz, Taylor",Morgan McKnight,Cassie Srb,,,,0,0,20,16,"[Yontz, Taylor] Kill by Morgan McKnight (from Cassie Srb).",EU,WITW
+2,37,36,EU,attack,kill,EU,Morgan McKnight,Leah Saunders,Cassie Srb,,,,0,1,20,17,[Morgan McKnight] Kill by Leah Saunders (from Cassie Srb).,EU,WITW
+2,38,37,WITW,error,service_error,EU,Morgan McKnight,,,,Morgan McKnight,,1,0,21,17,[Morgan McKnight] Service error.,EU,WITW
+2,39,38,WITW,attack,kill,WITW,"Auble, Sarah","Cox, Aubrey","Auble, Sarah",,,,0,1,22,17,"[Auble, Sarah] Kill by Cox, Aubrey (from Auble, Sarah).",EU,WITW
+2,40,39,EU,error,service_error,WITW,"Auble, Sarah",,,,"Auble, Sarah",,0,0,22,18,"[Auble, Sarah] Service error.",EU,WITW
+2,41,40,WITW,error,ball_handling_error,EU,Elyse Thompson,,,,Elyse Thompson,,0,1,23,18,[Elyse Thompson] Ball handling error by Elyse Thompson.,EU,WITW
+2,42,41,WITW,ace,service_ace,WITW,"Lutz, Cora",,,,,Elyse Thompson,0,0,24,18,"[Lutz, Cora] Service ace (Elyse Thompson).",EU,WITW
+2,43,42,EU,attack,kill,WITW,"Lutz, Cora",Tara Martin,Cassie Srb,,,,0,0,24,19,"[Lutz, Cora] Kill by Tara Martin (from Cassie Srb).",EU,WITW
+2,44,43,EU,ace,service_ace,EU,Leah Saunders,,,,,"Yontz, Taylor",0,0,24,20,"[Leah Saunders] Service ace (Yontz, Taylor).",EU,WITW
+2,45,44,WITW,attack,kill,EU,Leah Saunders,"Hiestand, Katie","Auble, Sarah",,,,0,0,25,20,"[Leah Saunders] Kill by Hiestand, Katie (from Auble, Sarah).",EU,WITW
+3,1,0,WITW,attack,kill,EU,Maureen Schick,"Kucinic, Paige","Auble, Sarah",,,,0,0,1,0,"[Maureen Schick] Kill by Kucinic, Paige (from Auble, Sarah).",EU,WITW
+3,2,1,EU,attack,kill,WITW,"Weithman, Lexie",Tara Martin,Cassie Srb,,,,0,1,1,1,"[Weithman, Lexie] Kill by Tara Martin (from Cassie Srb).",EU,WITW
+3,3,2,EU,attack,kill,EU,Elyse Thompson,Tara Martin,Cassie Srb,,,,0,0,1,2,[Elyse Thompson] Kill by Tara Martin (from Cassie Srb).,EU,WITW
+3,4,3,WITW,block,attack_error,EU,Elyse Thompson,Maggie Rimmel,,"Cox, Aubrey",Maggie Rimmel,,0,0,2,2,"[Elyse Thompson] Attack error by Maggie Rimmel (block by Cox, Aubrey).",EU,WITW
+3,5,4,WITW,error,attack_error,WITW,"White, Dakota",Maggie Rimmel,,,Maggie Rimmel,,0,1,3,2,"[White, Dakota] Attack error by Maggie Rimmel.",EU,WITW
+3,6,5,EU,error,attack_error,WITW,"White, Dakota","Hancock, Gabi",,,"Hancock, Gabi",,0,0,3,3,"[White, Dakota] Attack error by Hancock, Gabi.",EU,WITW
+3,7,6,EU,error,attack_error,EU,Leah Saunders,"Hiestand, Katie",,,"Hiestand, Katie",,0,1,3,4,"[Leah Saunders] Attack error by Hiestand, Katie.",EU,WITW
+3,8,7,EU,error,ball_handling_error,EU,Leah Saunders,,,,"Auble, Sarah",,0,0,3,5,"[Leah Saunders] Ball handling error by Auble, Sarah.",EU,WITW
+3,9,8,WITW,attack,kill,EU,Leah Saunders,"Kucinic, Paige","Auble, Sarah",,,,0,0,4,5,"[Leah Saunders] Kill by Kucinic, Paige (from Auble, Sarah).",EU,WITW
+3,10,9,EU,error,ball_handling_error,WITW,"Brooks, Ashley",,,,"Brooks, Ashley",,0,1,4,6,"[Brooks, Ashley] Ball handling error by Brooks, Ashley.",EU,WITW
+3,11,10,EU,ace,service_ace,EU,Sara Carr,,,,,"Hiestand, Katie",0,1,4,7,"[Sara Carr] Service ace (Hiestand, Katie).",EU,WITW
+3,12,11,EU,attack,kill,EU,Sara Carr,Cassie Srb,Maggie Rimmel,,,,0,0,4,8,[Sara Carr] Kill by Cassie Srb (from Maggie Rimmel).,EU,WITW
+3,13,12,EU,attack,kill,EU,Sara Carr,Morgan McKnight,Leah Saunders,,,,1,0,4,9,[Sara Carr] Kill by Morgan McKnight (from Leah Saunders).,EU,WITW
+3,14,13,WITW,attack,kill,EU,Sara Carr,"Reeder, Sidney","Brooks, Ashley",,,,0,0,5,9,"[Sara Carr] Kill by Reeder, Sidney (from Brooks, Ashley).",EU,WITW
+3,15,14,EU,attack,kill,WITW,"Hiestand, Katie",Morgan McKnight,Cassie Srb,,,,0,1,5,10,"[Hiestand, Katie] Kill by Morgan McKnight (from Cassie Srb).",EU,WITW
+3,16,15,WITW,attack,kill,EU,Kelsey Meins,"Reeder, Sidney","Brooks, Ashley",,,,0,1,6,10,"[Kelsey Meins] Kill by Reeder, Sidney (from Brooks, Ashley).",EU,WITW
+3,17,16,WITW,attack,kill,WITW,"Yontz, Taylor","Cox, Aubrey","Brooks, Ashley",,,,0,0,7,10,"[Yontz, Taylor] Kill by Cox, Aubrey (from Brooks, Ashley).",EU,WITW
+3,18,17,EU,attack,kill,WITW,"Yontz, Taylor",Morgan McKnight,Cassie Srb,,,,0,0,7,11,"[Yontz, Taylor] Kill by Morgan McKnight (from Cassie Srb).",EU,WITW
+3,19,18,EU,attack,kill,EU,Cassie Srb,Morgan McKnight,Cassie Srb,,,,0,0,7,12,[Cassie Srb] Kill by Morgan McKnight (from Cassie Srb).,EU,WITW
+3,20,19,EU,attack,kill,EU,Cassie Srb,Leah Saunders,Cassie Srb,,,,0,0,7,13,[Cassie Srb] Kill by Leah Saunders (from Cassie Srb).,EU,WITW
+3,21,20,EU,ace,service_ace,EU,Cassie Srb,,,,,"Yontz, Taylor",1,0,7,14,"[Cassie Srb] Service ace (Yontz, Taylor).",EU,WITW
+3,22,21,WITW,block,attack_error,EU,Cassie Srb,Morgan McKnight,,"Cox, Aubrey; Reeder, Sidney",Morgan McKnight,,0,0,8,14,"[Cassie Srb] Attack error by Morgan McKnight (block by Cox, Aubrey; Reeder, Sidney).",EU,WITW
+3,23,22,WITW,attack,kill,WITW,"Auble, Sarah","Kucinic, Paige","Auble, Sarah",,,,0,1,9,14,"[Auble, Sarah] Kill by Kucinic, Paige (from Auble, Sarah).",EU,WITW
+3,24,23,WITW,ace,service_ace,WITW,"Auble, Sarah",,,,,Elyse Thompson,0,0,10,14,"[Auble, Sarah] Service ace (Elyse Thompson).",EU,WITW
+3,25,24,EU,error,ball_handling_error,WITW,"Auble, Sarah",,,,"Auble, Sarah",,0,0,10,15,"[Auble, Sarah] Ball handling error by Auble, Sarah.",EU,WITW
+3,26,25,WITW,attack,kill,EU,Morgan McKnight,"Kucinic, Paige","Auble, Sarah",,,,0,1,11,15,"[Morgan McKnight] Kill by Kucinic, Paige (from Auble, Sarah).",EU,WITW
+3,27,26,EU,attack,kill,WITW,"Weithman, Lexie",Tara Martin,Cassie Srb,,,,0,1,11,16,"[Weithman, Lexie] Kill by Tara Martin (from Cassie Srb).",EU,WITW
+3,28,27,WITW,attack,kill,EU,Elyse Thompson,"Kucinic, Paige","Auble, Sarah",,,,0,1,12,16,"[Elyse Thompson] Kill by Kucinic, Paige (from Auble, Sarah).",EU,WITW
+3,29,28,EU,attack,kill,WITW,"Cox, Aubrey",Tara Martin,Cassie Srb,,,,0,0,12,17,"[Cox, Aubrey] Kill by Tara Martin (from Cassie Srb).",EU,WITW
+3,30,29,EU,attack,kill,EU,Leah Saunders,Tara Martin,Cassie Srb,,,,0,0,12,18,[Leah Saunders] Kill by Tara Martin (from Cassie Srb).,EU,WITW
+3,31,30,EU,error,attack_error,EU,Leah Saunders,"Hiestand, Katie",,,"Hiestand, Katie",,0,0,12,19,"[Leah Saunders] Attack error by Hiestand, Katie.",EU,WITW
+3,32,31,WITW,attack,kill,EU,Leah Saunders,"Hiestand, Katie","Auble, Sarah",,,,0,0,13,19,"[Leah Saunders] Kill by Hiestand, Katie (from Auble, Sarah).",EU,WITW
+3,33,32,WITW,attack,kill,WITW,"Brooks, Ashley","Reeder, Sidney","Brooks, Ashley",,,,0,1,14,19,"[Brooks, Ashley] Kill by Reeder, Sidney (from Brooks, Ashley).",EU,WITW
+3,34,33,EU,error,service_error,WITW,"Brooks, Ashley",,,,"Brooks, Ashley",,0,0,14,20,"[Brooks, Ashley] Service error.",EU,WITW
+3,35,34,EU,attack,kill,EU,Sara Carr,Morgan McKnight,Cassie Srb,,,,0,1,14,21,[Sara Carr] Kill by Morgan McKnight (from Cassie Srb).,EU,WITW
+3,36,35,WITW,attack,kill,EU,Sara Carr,"Hiestand, Katie","Brooks, Ashley",,,,0,0,15,21,"[Sara Carr] Kill by Hiestand, Katie (from Brooks, Ashley).",EU,WITW
+3,37,36,WITW,attack,kill,WITW,"Hiestand, Katie","Reeder, Sidney","Yontz, Taylor",,,,0,1,16,21,"[Hiestand, Katie] Kill by Reeder, Sidney (from Yontz, Taylor).",EU,WITW
+3,38,37,EU,attack,kill,WITW,"Hiestand, Katie",Morgan McKnight,Cassie Srb,,,,0,1,16,22,"[Hiestand, Katie] Kill by Morgan McKnight (from Cassie Srb).",EU,WITW
+3,39,38,EU,attack,kill,EU,Kelsey Meins,Finn Wilkins,Cassie Srb,,,,0,1,16,23,[Kelsey Meins] Kill by Finn Wilkins (from Cassie Srb).,EU,WITW
+3,40,39,WITW,attack,kill,EU,Kelsey Meins,"Lutz, Cora","Brooks, Ashley",,,,0,0,17,23,"[Kelsey Meins] Kill by Lutz, Cora (from Brooks, Ashley).",EU,WITW
+3,41,40,EU,attack,kill,WITW,"Yontz, Taylor",Morgan McKnight,Cassie Srb,,,,0,0,17,24,"[Yontz, Taylor] Kill by Morgan McKnight (from Cassie Srb).",EU,WITW
+3,42,41,WITW,attack,kill,EU,Cassie Srb,"Reeder, Sidney","Brooks, Ashley",,,,0,0,18,24,"[Cassie Srb] Kill by Reeder, Sidney (from Brooks, Ashley).",EU,WITW
+3,43,42,EU,attack,kill,WITW,"Auble, Sarah",Morgan McKnight,Cassie Srb,,,,0,1,18,25,"[Auble, Sarah] Kill by Morgan McKnight (from Cassie Srb).",EU,WITW
+4,1,0,EU,attack,kill,WITW,"Weithman, Lexie",Tara Martin,Cassie Srb,,,,0,0,0,1,"[Weithman, Lexie] Kill by Tara Martin (from Cassie Srb).",EU,WITW
+4,2,1,EU,error,attack_error,EU,Finn Wilkins,"Hiestand, Katie",,,"Hiestand, Katie",,0,0,0,2,"[Finn Wilkins] Attack error by Hiestand, Katie.",EU,WITW
+4,3,2,WITW,attack,kill,EU,Finn Wilkins,"Cox, Aubrey",,,,,0,0,1,2,"[Finn Wilkins] Kill by Cox, Aubrey.",EU,WITW
+4,4,3,WITW,error,attack_error,WITW,"White, Dakota",Leah Saunders,,,Leah Saunders,,0,1,2,2,"[White, Dakota] Attack error by Leah Saunders.",EU,WITW
+4,5,4,EU,attack,kill,WITW,"White, Dakota",Abby Heimlicher,Cassie Srb,,,,0,0,2,3,"[White, Dakota] Kill by Abby Heimlicher (from Cassie Srb).",EU,WITW
+4,6,5,EU,attack,kill,EU,Leah Saunders,Tara Martin,Cassie Srb,,,,0,1,2,4,[Leah Saunders] Kill by Tara Martin (from Cassie Srb).,EU,WITW
+4,7,6,WITW,attack,kill,EU,Leah Saunders,"Hiestand, Katie","Auble, Sarah",,,,0,0,3,4,"[Leah Saunders] Kill by Hiestand, Katie (from Auble, Sarah).",EU,WITW
+4,8,7,EU,attack,kill,WITW,"Brooks, Ashley",Tara Martin,Cassie Srb,,,,0,1,3,5,"[Brooks, Ashley] Kill by Tara Martin (from Cassie Srb).",EU,WITW
+4,9,8,WITW,attack,kill,EU,Sara Carr,"Hiestand, Katie","Brooks, Ashley",,,,0,1,4,5,"[Sara Carr] Kill by Hiestand, Katie (from Brooks, Ashley).",EU,WITW
+4,10,9,EU,attack,kill,WITW,"Hiestand, Katie",Leah Saunders,Cassie Srb,,,,0,1,4,6,"[Hiestand, Katie] Kill by Leah Saunders (from Cassie Srb).",EU,WITW
+4,11,10,WITW,error,service_error,EU,Elyse Thompson,,,,Elyse Thompson,,0,0,5,6,[Elyse Thompson] Service error.,EU,WITW
+4,12,11,EU,attack,kill,WITW,"Yontz, Taylor",Leah Saunders,Morgan McKnight,,,,0,0,5,7,"[Yontz, Taylor] Kill by Leah Saunders (from Morgan McKnight).",EU,WITW
+4,13,12,WITW,attack,kill,EU,Cassie Srb,"Cox, Aubrey","Brooks, Ashley",,,,0,0,6,7,"[Cassie Srb] Kill by Cox, Aubrey (from Brooks, Ashley).",EU,WITW
+4,14,13,WITW,attack,kill,WITW,"Auble, Sarah","Cox, Aubrey","Auble, Sarah",,,,0,1,7,7,"[Auble, Sarah] Kill by Cox, Aubrey (from Auble, Sarah).",EU,WITW
+4,15,14,EU,error,service_error,WITW,"Auble, Sarah",,,,"Auble, Sarah",,0,0,7,8,"[Auble, Sarah] Service error.",EU,WITW
+4,16,15,EU,attack,kill,EU,Morgan McKnight,Leah Saunders,Cassie Srb,,,,0,1,7,9,[Morgan McKnight] Kill by Leah Saunders (from Cassie Srb).,EU,WITW
+4,17,16,WITW,attack,kill,EU,Morgan McKnight,"Kucinic, Paige","Auble, Sarah",,,,0,0,8,9,"[Morgan McKnight] Kill by Kucinic, Paige (from Auble, Sarah).",EU,WITW
+4,18,17,EU,attack,kill,WITW,"Weithman, Lexie",Leah Saunders,Cassie Srb,,,,0,1,8,10,"[Weithman, Lexie] Kill by Leah Saunders (from Cassie Srb).",EU,WITW
+4,19,18,WITW,attack,kill,EU,Kelsey Meins,"Kucinic, Paige","Auble, Sarah",,,,0,1,9,10,"[Kelsey Meins] Kill by Kucinic, Paige (from Auble, Sarah).",EU,WITW
+4,20,19,WITW,attack,kill,WITW,"White, Dakota","Hiestand, Katie","Auble, Sarah",,,,0,1,10,10,"[White, Dakota] Kill by Hiestand, Katie (from Auble, Sarah).",EU,WITW
+4,21,20,WITW,attack,kill,WITW,"White, Dakota","Kucinic, Paige","Auble, Sarah",,,,0,0,11,10,"[White, Dakota] Kill by Kucinic, Paige (from Auble, Sarah).",EU,WITW
+4,22,21,WITW,attack,kill,WITW,"White, Dakota","Hiestand, Katie","Auble, Sarah",,,,0,0,12,10,"[White, Dakota] Kill by Hiestand, Katie (from Auble, Sarah).",EU,WITW
+4,23,22,EU,attack,kill,WITW,"White, Dakota",Maggie Rimmel,Cassie Srb,,,,0,1,12,11,"[White, Dakota] Kill by Maggie Rimmel (from Cassie Srb).",EU,WITW
+4,24,23,WITW,attack,kill,EU,Leah Saunders,"Auble, Sarah","Weithman, Lexie",,,,0,1,13,11,"[Leah Saunders] Kill by Auble, Sarah (from Weithman, Lexie).",EU,WITW
+4,25,24,EU,attack,kill,WITW,"Brooks, Ashley",Tara Martin,Cassie Srb,,,,0,1,13,12,"[Brooks, Ashley] Kill by Tara Martin (from Cassie Srb).",EU,WITW
+4,26,25,EU,block,attack_error,EU,Sara Carr,"Hiestand, Katie",,Morgan McKnight; Maggie Rimmel,"Hiestand, Katie",,1,1,13,13,"[Sara Carr] Attack error by Hiestand, Katie (block by Morgan McKnight; Maggie Rimmel).",EU,WITW
+4,27,26,WITW,attack,kill,EU,Sara Carr,"Reeder, Sidney","Brooks, Ashley",,,,0,0,14,13,"[Sara Carr] Kill by Reeder, Sidney (from Brooks, Ashley).",EU,WITW
+4,28,27,WITW,attack,kill,WITW,"Hiestand, Katie","Lutz, Cora","Brooks, Ashley",,,,0,1,15,13,"[Hiestand, Katie] Kill by Lutz, Cora (from Brooks, Ashley).",EU,WITW
+4,29,28,EU,error,attack_error,WITW,"Hiestand, Katie","Lutz, Cora",,,"Lutz, Cora",,0,0,15,14,"[Hiestand, Katie] Attack error by Lutz, Cora.",EU,WITW
+4,30,29,WITW,attack,kill,EU,Elyse Thompson,"Reeder, Sidney","Brooks, Ashley",,,,0,1,16,14,"[Elyse Thompson] Kill by Reeder, Sidney (from Brooks, Ashley).",EU,WITW
+4,31,30,EU,attack,kill,WITW,"Yontz, Taylor",Morgan McKnight,Cassie Srb,,,,0,0,16,15,"[Yontz, Taylor] Kill by Morgan McKnight (from Cassie Srb).",EU,WITW
+4,32,31,WITW,attack,kill,EU,Cassie Srb,"Reeder, Sidney","Brooks, Ashley",,,,0,0,17,15,"[Cassie Srb] Kill by Reeder, Sidney (from Brooks, Ashley).",EU,WITW
+4,33,32,EU,attack,kill,WITW,"Auble, Sarah",Morgan McKnight,Cassie Srb,,,,0,1,17,16,"[Auble, Sarah] Kill by Morgan McKnight (from Cassie Srb).",EU,WITW
+4,34,33,EU,attack,kill,EU,Logan van Reken,Finn Wilkins,,,,,0,1,17,17,[Logan van Reken] Kill by Finn Wilkins.,EU,WITW
+4,35,34,WITW,attack,kill,EU,Logan van Reken,"Auble, Sarah","Hiestand, Katie",,Finn Wilkins,,0,0,18,17,"[Logan van Reken] Kill by Auble, Sarah (from Hiestand, Katie), block error by Finn Wilkins.",EU,WITW
+4,36,35,EU,attack,kill,WITW,"Lutz, Cora",Finn Wilkins,Cassie Srb,,,,0,0,18,18,"[Lutz, Cora] Kill by Finn Wilkins (from Cassie Srb).",EU,WITW
+4,37,36,EU,error,attack_error,EU,Kelsey Meins,"Cox, Aubrey",,,"Cox, Aubrey",,0,1,18,19,"[Kelsey Meins] Attack error by Cox, Aubrey.",EU,WITW
+4,38,37,WITW,attack,kill,EU,Kelsey Meins,"Kucinic, Paige","Yontz, Taylor",,,,0,0,19,19,"[Kelsey Meins] Kill by Kucinic, Paige (from Yontz, Taylor).",EU,WITW
+4,39,38,WITW,error,attack_error,WITW,"Cox, Aubrey",Maggie Rimmel,,,Maggie Rimmel,,0,0,20,19,"[Cox, Aubrey] Attack error by Maggie Rimmel.",EU,WITW
+4,40,39,EU,error,service_error,WITW,"Cox, Aubrey",,,,"Cox, Aubrey",,0,0,20,20,"[Cox, Aubrey] Service error.",EU,WITW
+4,41,40,WITW,attack,kill,EU,Leah Saunders,"Kucinic, Paige","Auble, Sarah",,,,0,0,21,20,"[Leah Saunders] Kill by Kucinic, Paige (from Auble, Sarah).",EU,WITW
+4,42,41,EU,attack,kill,WITW,"Kucinic, Paige",Maggie Rimmel,Cassie Srb,,,,0,0,21,21,"[Kucinic, Paige] Kill by Maggie Rimmel (from Cassie Srb).",EU,WITW
+4,43,42,EU,attack,kill,EU,Sara Carr,Morgan McKnight,Cassie Srb,,,,0,1,21,22,[Sara Carr] Kill by Morgan McKnight (from Cassie Srb).,EU,WITW
+4,44,43,EU,attack,kill,EU,Sara Carr,Morgan McKnight,Cassie Srb,,,,1,0,21,23,[Sara Carr] Kill by Morgan McKnight (from Cassie Srb).,EU,WITW
+4,45,44,EU,error,attack_error,EU,Sara Carr,"Hiestand, Katie",,,"Hiestand, Katie",,0,0,21,24,"[Sara Carr] Attack error by Hiestand, Katie.",EU,WITW
+4,46,45,EU,error,attack_error,EU,Sara Carr,"Hiestand, Katie",,,"Hiestand, Katie",,0,0,21,25,"[Sara Carr] Attack error by Hiestand, Katie.",EU,WITW
+5,1,0,WITW,attack,kill,EU,Logan van Reken,"Reeder, Sidney","Brooks, Ashley",,,,0,0,1,0,"[Logan van Reken] Kill by Reeder, Sidney (from Brooks, Ashley).",EU,WITW
+5,2,1,EU,attack,kill,WITW,"Weithman, Lexie",Finn Wilkins,Cassie Srb,,,,0,1,1,1,"[Weithman, Lexie] Kill by Finn Wilkins (from Cassie Srb).",EU,WITW
+5,3,2,EU,attack,kill,EU,Elyse Thompson,Tara Martin,Cassie Srb,,,,0,0,1,2,[Elyse Thompson] Kill by Tara Martin (from Cassie Srb).,EU,WITW
+5,4,3,EU,attack,kill,EU,Elyse Thompson,Maggie Rimmel,,,,,0,0,1,3,[Elyse Thompson] Kill by Maggie Rimmel.,EU,WITW
+5,5,4,WITW,error,ball_handling_error,EU,Elyse Thompson,,,,Cassie Srb,,0,0,2,3,[Elyse Thompson] Ball handling error by Cassie Srb.,EU,WITW
+5,6,5,WITW,attack,kill,WITW,"White, Dakota","Reeder, Sidney","Brooks, Ashley",,,,0,1,3,3,"[White, Dakota] Kill by Reeder, Sidney (from Brooks, Ashley).",EU,WITW
+5,7,6,EU,attack,kill,WITW,"White, Dakota",Leah Saunders,Cassie Srb,,,,0,0,3,4,"[White, Dakota] Kill by Leah Saunders (from Cassie Srb).",EU,WITW
+5,8,7,WITW,attack,kill,EU,Leah Saunders,"Hiestand, Katie","Brooks, Ashley",,,,0,1,4,4,"[Leah Saunders] Kill by Hiestand, Katie (from Brooks, Ashley).",EU,WITW
+5,9,8,EU,error,service_error,WITW,"Auble, Sarah",,,,"Auble, Sarah",,0,1,4,5,"[Auble, Sarah] Service error.",EU,WITW
+5,10,9,WITW,attack,kill,EU,Sara Carr,"Hiestand, Katie","Auble, Sarah",,,,0,1,5,5,"[Sara Carr] Kill by Hiestand, Katie (from Auble, Sarah).",EU,WITW
+5,11,10,EU,error,attack_error,WITW,"Hiestand, Katie","Kucinic, Paige",,,"Kucinic, Paige",,0,1,5,6,"[Hiestand, Katie] Attack error by Kucinic, Paige.",EU,WITW
+5,12,11,WITW,error,attack_error,EU,Kelsey Meins,Sara Carr,,,Sara Carr,,0,1,6,6,[Kelsey Meins] Attack error by Sara Carr.,EU,WITW
+5,13,12,EU,attack,kill,WITW,"Yontz, Taylor",Morgan McKnight,Cassie Srb,,,,0,0,6,7,"[Yontz, Taylor] Kill by Morgan McKnight (from Cassie Srb).",EU,WITW
+5,14,13,EU,attack,kill,EU,Cassie Srb,Morgan McKnight,,,,,0,0,6,8,[Cassie Srb] Kill by Morgan McKnight.,EU,WITW
+5,15,14,EU,attack,kill,EU,Cassie Srb,Morgan McKnight,Cassie Srb,,,,1,0,6,9,[Cassie Srb] Kill by Morgan McKnight (from Cassie Srb).,EU,WITW
+5,16,15,WITW,error,attack_error,EU,Cassie Srb,Leah Saunders,,,Leah Saunders,,0,0,7,9,[Cassie Srb] Attack error by Leah Saunders.,EU,WITW
+5,17,16,EU,attack,kill,WITW,"Brooks, Ashley",Leah Saunders,Cassie Srb,,,,0,1,7,10,"[Brooks, Ashley] Kill by Leah Saunders (from Cassie Srb).",EU,WITW
+5,18,17,WITW,attack,kill,EU,Logan van Reken,"Reeder, Sidney","Brooks, Ashley",,,,0,1,8,10,"[Logan van Reken] Kill by Reeder, Sidney (from Brooks, Ashley).",EU,WITW
+5,19,18,WITW,attack,kill,WITW,"Weithman, Lexie","Cox, Aubrey",,,Finn Wilkins,,0,1,9,10,"[Weithman, Lexie] Kill by Cox, Aubrey, block error by Finn Wilkins.",EU,WITW
+5,20,19,EU,error,service_error,WITW,"Weithman, Lexie",,,,"Weithman, Lexie",,0,0,9,11,"[Weithman, Lexie] Service error.",EU,WITW
+5,21,20,EU,attack,kill,EU,Elyse Thompson,Leah Saunders,Cassie Srb,,,,0,1,9,12,[Elyse Thompson] Kill by Leah Saunders (from Cassie Srb).,EU,WITW
+5,22,21,EU,error,attack_error,EU,Elyse Thompson,"Cox, Aubrey",,,"Cox, Aubrey",,1,0,9,13,"[Elyse Thompson] Attack error by Cox, Aubrey.",EU,WITW
+5,23,22,EU,error,attack_error,EU,Elyse Thompson,"Hiestand, Katie",,,"Hiestand, Katie",,0,0,9,14,"[Elyse Thompson] Attack error by Hiestand, Katie.",EU,WITW
+5,24,23,WITW,attack,kill,EU,Elyse Thompson,"Reeder, Sidney","Brooks, Ashley",,Tara Martin,,0,0,10,14,"[Elyse Thompson] Kill by Reeder, Sidney (from Brooks, Ashley), block error by Tara Martin.",EU,WITW
+5,25,24,WITW,attack,kill,WITW,"White, Dakota","Hiestand, Katie","Brooks, Ashley",,,,0,1,11,14,"[White, Dakota] Kill by Hiestand, Katie (from Brooks, Ashley).",EU,WITW
+5,26,25,WITW,error,ball_handling_error,WITW,"White, Dakota",,,,Cassie Srb,,0,0,12,14,"[White, Dakota] Ball handling error by Cassie Srb.",EU,WITW
+5,27,26,EU,block,attack_error,WITW,"White, Dakota","Reeder, Sidney",,Maggie Rimmel; Tara Martin,"Reeder, Sidney",,0,0,12,15,"[White, Dakota] Attack error by Reeder, Sidney (block by Maggie Rimmel; Tara Martin).",EU,WITW

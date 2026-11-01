@@ -1,0 +1,203 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,Framingham St.,error,attack_error,,"Walter-Goodspeed, Ellie","Garber, Chloie","Harris, Elizabeth",,"Garber, Chloie",,0,0,1,0,"[Walter-Goodspeed, Ellie] Attack error by Garber, Chloie (from Harris, Elizabeth)",MCLA,Framingham St.
+1,2,1,MCLA,attack,kill,,"Beaulieu, Carly","Badio, Anais","Harris, Elizabeth",,,,0,0,1,1,"[Beaulieu, Carly] Kill by Badio, Anais (from Harris, Elizabeth)",MCLA,Framingham St.
+1,3,2,Framingham St.,error,attack_error,,"Garber, Chloie","Melson, Audrey","O'Brien, Shannon",,"Melson, Audrey",,0,1,2,1,"[Garber, Chloie] Attack error by Melson, Audrey (from O'Brien, Shannon)",MCLA,Framingham St.
+1,4,3,Framingham St.,attack,kill,,"Bailey, Stella","Szymanski, Anna","Bailey, Stella",,,,0,1,3,1,"[Bailey, Stella] Kill by Szymanski, Anna (from Bailey, Stella)",MCLA,Framingham St.
+1,5,4,Framingham St.,attack,kill,,"Bailey, Stella","Szymanski, Anna","Bailey, Stella",,,,0,0,4,1,"[Bailey, Stella] Kill by Szymanski, Anna (from Bailey, Stella)",MCLA,Framingham St.
+1,6,5,Framingham St.,block,attack_error,,"Bailey, Stella","Melson, Audrey",,"Dobbins, Emma; Reynolds, Natalie","Melson, Audrey",,0,0,5,1,"[Bailey, Stella] Attack error by Melson, Audrey (block by Dobbins, Emma; Reynolds, Natalie)",MCLA,Framingham St.
+1,7,6,Framingham St.,error,attack_error,,"Bailey, Stella","Garber, Chloie","O'Brien, Shannon",,"Garber, Chloie",,0,0,6,1,"[Bailey, Stella] Attack error by Garber, Chloie (from O'Brien, Shannon)",MCLA,Framingham St.
+1,8,7,Framingham St.,ace,service_ace,,"Bailey, Stella",,,,,"Brown, Elizabeth",0,0,7,1,"[Bailey, Stella] Service ace (Brown, Elizabeth)",MCLA,Framingham St.
+1,9,8,Framingham St.,attack,kill,,"Bailey, Stella","Szymanski, Anna","Bailey, Stella",,,,0,0,8,1,"[Bailey, Stella] Kill by Szymanski, Anna (from Bailey, Stella)",MCLA,Framingham St.
+1,10,9,Framingham St.,error,attack_error,,"Bailey, Stella","Melson, Audrey","O'Brien, Shannon",,"Melson, Audrey",,0,0,9,1,"[Bailey, Stella] Attack error by Melson, Audrey (from O'Brien, Shannon)",MCLA,Framingham St.
+1,11,10,Framingham St.,ace,service_ace,,"Bailey, Stella",,,,,"Walter-Goodspeed, Ellie",0,0,10,1,"[Bailey, Stella] Service ace (Walter-Goodspeed, Ellie)",MCLA,Framingham St.
+1,12,11,MCLA,error,service_error,,"Bailey, Stella",,,,"Bailey, Stella",,0,0,10,2,"[Bailey, Stella] Service error",MCLA,Framingham St.
+1,13,12,Framingham St.,error,ball_handling_error,,"Albright, Ezmeralda",,,,"Badio, Anais",,0,1,11,2,"[Albright, Ezmeralda] Ball handling error by Badio, Anais",MCLA,Framingham St.
+1,14,13,Framingham St.,block,attack_error,,"Szymanski, Anna","Badio, Anais",,"Reynolds, Natalie","Badio, Anais",,0,1,12,2,"[Szymanski, Anna] Attack error by Badio, Anais (block by Reynolds, Natalie)",MCLA,Framingham St.
+1,15,14,Framingham St.,attack,kill,,"Szymanski, Anna","Dobbins, Emma","Bailey, Stella",,,,0,0,13,2,"[Szymanski, Anna] Kill by Dobbins, Emma (from Bailey, Stella)",MCLA,Framingham St.
+1,16,15,MCLA,attack,kill,,"Szymanski, Anna","Brown, Elizabeth","O'Brien, Shannon",,,,0,0,13,3,"[Szymanski, Anna] Kill by Brown, Elizabeth (from O'Brien, Shannon)",MCLA,Framingham St.
+1,17,16,Framingham St.,attack,kill,,"Badio, Anais","Reynolds, Natalie","Bailey, Stella",,,,0,0,14,3,"[Badio, Anais] Kill by Reynolds, Natalie (from Bailey, Stella)",MCLA,Framingham St.
+1,18,17,MCLA,attack,kill,,"Reynolds, Natalie","Carter, Makenna","O'Brien, Shannon",,,,0,0,14,4,"[Reynolds, Natalie] Kill by Carter, Makenna (from O'Brien, Shannon)",MCLA,Framingham St.
+1,19,18,Framingham St.,attack,kill,,"Harris, Elizabeth","Moniz, Jamie","Bailey, Stella",,,,0,0,15,4,"[Harris, Elizabeth] Kill by Moniz, Jamie (from Bailey, Stella)",MCLA,Framingham St.
+1,20,19,MCLA,attack,kill,,"DiVirgilio, Anneli","Carter, Makenna","Harris, Elizabeth",,,,0,0,15,5,"[DiVirgilio, Anneli] Kill by Carter, Makenna (from Harris, Elizabeth)",MCLA,Framingham St.
+1,21,20,Framingham St.,attack,kill,,"Brown, Elizabeth","Sanders, Hailey","Bailey, Stella",,,,0,0,16,5,"[Brown, Elizabeth] Kill by Sanders, Hailey (from Bailey, Stella)",MCLA,Framingham St.
+1,22,21,MCLA,attack,kill,,"Heaney, Mackenzie","Garber, Chloie","Walter-Goodspeed, Ellie",,,,0,0,16,6,"[Heaney, Mackenzie] Kill by Garber, Chloie (from Walter-Goodspeed, Ellie)",MCLA,Framingham St.
+1,23,22,MCLA,block,attack_error,,"Walter-Goodspeed, Ellie","Sanders, Hailey",,"Melson, Audrey","Sanders, Hailey",,0,0,16,7,"[Walter-Goodspeed, Ellie] Attack error by Sanders, Hailey (block by Melson, Audrey)",MCLA,Framingham St.
+1,24,23,Framingham St.,attack,kill,,"Walter-Goodspeed, Ellie","Szymanski, Anna","Bailey, Stella",,,,0,0,17,7,"[Walter-Goodspeed, Ellie] Kill by Szymanski, Anna (from Bailey, Stella)",MCLA,Framingham St.
+1,25,24,MCLA,attack,kill,,"Beaulieu, Carly","Badio, Anais","Garber, Chloie",,,,0,0,17,8,"[Beaulieu, Carly] Kill by Badio, Anais (from Garber, Chloie)",MCLA,Framingham St.
+1,26,25,Framingham St.,attack,kill,,"Garber, Chloie","Reynolds, Natalie","Bailey, Stella",,,,0,0,18,8,"[Garber, Chloie] Kill by Reynolds, Natalie (from Bailey, Stella)",MCLA,Framingham St.
+1,27,26,MCLA,attack,kill,,"Bailey, Stella","Melson, Audrey","Walter-Goodspeed, Ellie",,,,0,0,18,9,"[Bailey, Stella] Kill by Melson, Audrey (from Walter-Goodspeed, Ellie)",MCLA,Framingham St.
+1,28,27,MCLA,attack,kill,,"Albright, Ezmeralda","Badio, Anais","O'Brien, Shannon",,,,0,0,18,10,"[Albright, Ezmeralda] Kill by Badio, Anais (from O'Brien, Shannon)",MCLA,Framingham St.
+1,29,28,Framingham St.,error,ball_handling_error,,"Albright, Ezmeralda",,,,"O'Brien, Shannon",,0,0,19,10,"[Albright, Ezmeralda] Ball handling error by O'Brien, Shannon",MCLA,Framingham St.
+1,30,29,MCLA,error,service_error,,"Szymanski, Anna",,,,"Szymanski, Anna",,0,0,19,11,"[Szymanski, Anna] Service error",MCLA,Framingham St.
+1,31,30,MCLA,attack,kill,,"Badio, Anais","Brown, Elizabeth","O'Brien, Shannon",,,,0,0,19,12,"[Badio, Anais] Kill by Brown, Elizabeth (from O'Brien, Shannon)",MCLA,Framingham St.
+1,32,31,MCLA,attack,kill,,"Badio, Anais","Brown, Elizabeth","O'Brien, Shannon",,,,0,0,19,13,"[Badio, Anais] Kill by Brown, Elizabeth (from O'Brien, Shannon)",MCLA,Framingham St.
+1,33,32,Framingham St.,attack,kill,,"Badio, Anais","Dobbins, Emma","Beaulieu, Carly",,,,0,0,20,13,"[Badio, Anais] Kill by Dobbins, Emma (from Beaulieu, Carly)",MCLA,Framingham St.
+1,34,33,Framingham St.,error,ball_handling_error,,"Sanders, Hailey",,,,"O'Brien, Shannon",,0,0,21,13,"[Sanders, Hailey] Ball handling error by O'Brien, Shannon",MCLA,Framingham St.
+1,35,34,MCLA,error,ball_handling_error,,"Reynolds, Natalie",,,,"Dobbins, Emma",,0,0,21,14,"[Reynolds, Natalie] Ball handling error by Dobbins, Emma",MCLA,Framingham St.
+1,36,35,Framingham St.,attack,kill,,"Harris, Elizabeth","Szymanski, Anna","Bailey, Stella",,,,0,0,22,14,"[Harris, Elizabeth] Kill by Szymanski, Anna (from Bailey, Stella)",MCLA,Framingham St.
+1,37,36,Framingham St.,error,attack_error,,"DiVirgilio, Anneli","Brown, Elizabeth","Walter-Goodspeed, Ellie",,"Brown, Elizabeth",,0,0,23,14,"[DiVirgilio, Anneli] Attack error by Brown, Elizabeth (from Walter-Goodspeed, Ellie)",MCLA,Framingham St.
+1,38,37,MCLA,attack,kill,,"DiVirgilio, Anneli","Garber, Chloie","Harris, Elizabeth",,,,0,0,23,15,"[DiVirgilio, Anneli] Kill by Garber, Chloie (from Harris, Elizabeth)",MCLA,Framingham St.
+1,39,38,MCLA,ace,service_ace,,"Brown, Elizabeth",,,,,"DiVirgilio, Anneli",0,0,23,16,"[Brown, Elizabeth] Service ace (DiVirgilio, Anneli)",MCLA,Framingham St.
+1,40,39,MCLA,attack,kill,,"Brown, Elizabeth","Garber, Chloie","Walter-Goodspeed, Ellie",,,,0,0,23,17,"[Brown, Elizabeth] Kill by Garber, Chloie (from Walter-Goodspeed, Ellie)",MCLA,Framingham St.
+1,41,40,Framingham St.,attack,kill,,"Brown, Elizabeth","Beaulieu, Carly","Sanders, Hailey",,,,0,0,24,17,"[Brown, Elizabeth] Kill by Beaulieu, Carly (from Sanders, Hailey)",MCLA,Framingham St.
+1,42,41,MCLA,attack,kill,,"Heaney, Mackenzie","Garber, Chloie","Harris, Elizabeth",,,,0,0,24,18,"[Heaney, Mackenzie] Kill by Garber, Chloie (from Harris, Elizabeth)",MCLA,Framingham St.
+1,43,42,MCLA,error,ball_handling_error,,"Walter-Goodspeed, Ellie",,,,"Szymanski, Anna",,0,0,24,19,"[Walter-Goodspeed, Ellie] Ball handling error by Szymanski, Anna",MCLA,Framingham St.
+1,44,43,MCLA,attack,kill,,"Walter-Goodspeed, Ellie","Badio, Anais","Harris, Elizabeth",,,,0,0,24,20,"[Walter-Goodspeed, Ellie] Kill by Badio, Anais (from Harris, Elizabeth)",MCLA,Framingham St.
+1,45,44,MCLA,error,attack_error,,"Walter-Goodspeed, Ellie","Szymanski, Anna","Bailey, Stella",,"Szymanski, Anna",,0,0,24,21,"[Walter-Goodspeed, Ellie] Attack error by Szymanski, Anna (from Bailey, Stella)",MCLA,Framingham St.
+1,46,45,MCLA,attack,kill,,"Walter-Goodspeed, Ellie","Melson, Audrey",,,,,0,0,24,22,"[Walter-Goodspeed, Ellie] Kill by Melson, Audrey",MCLA,Framingham St.
+1,47,46,Framingham St.,block,attack_error,,"Walter-Goodspeed, Ellie","Garber, Chloie",,"Sanders, Hailey","Garber, Chloie",,0,0,25,22,"[Walter-Goodspeed, Ellie] Attack error by Garber, Chloie (block by Sanders, Hailey)",MCLA,Framingham St.
+2,1,0,MCLA,block,attack_error,,"Heaney, Mackenzie","Sanders, Hailey",,"Melson, Audrey; Carter, Makenna","Sanders, Hailey",,0,1,0,1,"[Heaney, Mackenzie] Attack error by Sanders, Hailey (block by Melson, Audrey; Carter, Makenna)",MCLA,Framingham St.
+2,2,1,MCLA,attack,kill,,"Walter-Goodspeed, Ellie","Melson, Audrey","Harris, Elizabeth",,,,0,0,0,2,"[Walter-Goodspeed, Ellie] Kill by Melson, Audrey (from Harris, Elizabeth)",MCLA,Framingham St.
+2,3,2,MCLA,attack,kill,,"Walter-Goodspeed, Ellie","Garber, Chloie","Walter-Goodspeed, Ellie",,,,0,0,0,3,"[Walter-Goodspeed, Ellie] Kill by Garber, Chloie (from Walter-Goodspeed, Ellie)",MCLA,Framingham St.
+2,4,3,MCLA,attack,kill,,"Walter-Goodspeed, Ellie","Harris, Elizabeth","Brown, Elizabeth",,,,0,0,0,4,"[Walter-Goodspeed, Ellie] Kill by Harris, Elizabeth (from Brown, Elizabeth)",MCLA,Framingham St.
+2,5,4,MCLA,attack,kill,,"Walter-Goodspeed, Ellie","Brown, Elizabeth","Harris, Elizabeth",,,,0,0,0,5,"[Walter-Goodspeed, Ellie] Kill by Brown, Elizabeth (from Harris, Elizabeth)",MCLA,Framingham St.
+2,6,5,Framingham St.,attack,kill,,"Walter-Goodspeed, Ellie","Szymanski, Anna","DiVirgilio, Anneli",,,,0,0,1,5,"[Walter-Goodspeed, Ellie] Kill by Szymanski, Anna (from DiVirgilio, Anneli)",MCLA,Framingham St.
+2,7,6,MCLA,error,service_error,,"Beaulieu, Carly",,,,"Beaulieu, Carly",,0,0,1,6,"[Beaulieu, Carly] Service error",MCLA,Framingham St.
+2,8,7,Framingham St.,attack,kill,,"Garber, Chloie","Szymanski, Anna","Beaulieu, Carly",,,,0,1,2,6,"[Garber, Chloie] Kill by Szymanski, Anna (from Beaulieu, Carly)",MCLA,Framingham St.
+2,9,8,Framingham St.,error,attack_error,,"Bailey, Stella","Melson, Audrey","O'Brien, Shannon",,"Melson, Audrey",,0,1,3,6,"[Bailey, Stella] Attack error by Melson, Audrey (from O'Brien, Shannon)",MCLA,Framingham St.
+2,10,9,MCLA,attack,kill,,"Bailey, Stella","Melson, Audrey","O'Brien, Shannon",,,,0,0,3,7,"[Bailey, Stella] Kill by Melson, Audrey (from O'Brien, Shannon)",MCLA,Framingham St.
+2,11,10,Framingham St.,attack,kill,,"Albright, Ezmeralda","Dobbins, Emma","Beaulieu, Carly",,,,0,1,4,7,"[Albright, Ezmeralda] Kill by Dobbins, Emma (from Beaulieu, Carly)",MCLA,Framingham St.
+2,12,11,Framingham St.,error,ball_handling_error,,"Szymanski, Anna",,,,"O'Brien, Shannon",,0,0,5,7,"[Szymanski, Anna] Ball handling error by O'Brien, Shannon",MCLA,Framingham St.
+2,13,12,Framingham St.,ace,service_ace,,"Szymanski, Anna",,,,,"Garber, Chloie",0,0,6,7,"[Szymanski, Anna] Service ace (Garber, Chloie)",MCLA,Framingham St.
+2,14,13,MCLA,attack,kill,,"Szymanski, Anna","O'Brien, Shannon","Garber, Chloie",,,,0,0,6,8,"[Szymanski, Anna] Kill by O'Brien, Shannon (from Garber, Chloie)",MCLA,Framingham St.
+2,15,14,MCLA,error,attack_error,,"Badio, Anais","Szymanski, Anna","Beaulieu, Carly",,"Szymanski, Anna",,0,0,6,9,"[Badio, Anais] Attack error by Szymanski, Anna (from Beaulieu, Carly)",MCLA,Framingham St.
+2,16,15,Framingham St.,attack,kill,,"Badio, Anais","Dobbins, Emma","Bailey, Stella",,,,0,1,7,9,"[Badio, Anais] Kill by Dobbins, Emma (from Bailey, Stella)",MCLA,Framingham St.
+2,17,16,Framingham St.,attack,kill,,"Reynolds, Natalie","Sanders, Hailey","Bailey, Stella",,,,0,1,8,9,"[Reynolds, Natalie] Kill by Sanders, Hailey (from Bailey, Stella)",MCLA,Framingham St.
+2,18,17,Framingham St.,attack,kill,,"Reynolds, Natalie","Dobbins, Emma","Bailey, Stella",,,,0,0,9,9,"[Reynolds, Natalie] Kill by Dobbins, Emma (from Bailey, Stella)",MCLA,Framingham St.
+2,19,18,Framingham St.,block,attack_error,,"Reynolds, Natalie","Carter, Makenna",,"Sanders, Hailey","Carter, Makenna",,0,0,10,9,"[Reynolds, Natalie] Attack error by Carter, Makenna (block by Sanders, Hailey)",MCLA,Framingham St.
+2,20,19,Framingham St.,attack,kill,,"Reynolds, Natalie","Sanders, Hailey","Bailey, Stella",,,,0,0,11,9,"[Reynolds, Natalie] Kill by Sanders, Hailey (from Bailey, Stella)",MCLA,Framingham St.
+2,21,20,Framingham St.,error,attack_error,,"Reynolds, Natalie","Carter, Makenna","O'Brien, Shannon",,"Carter, Makenna",,0,0,12,9,"[Reynolds, Natalie] Attack error by Carter, Makenna (from O'Brien, Shannon)",MCLA,Framingham St.
+2,22,21,MCLA,error,service_error,,"Reynolds, Natalie",,,,"Reynolds, Natalie",,0,0,12,10,"[Reynolds, Natalie] Service error",MCLA,Framingham St.
+2,23,22,MCLA,ace,service_ace,,"Harris, Elizabeth",,,,,Team,0,0,12,11,"[Harris, Elizabeth] Service ace (Team)",MCLA,Framingham St.
+2,24,23,MCLA,attack,kill,,"Harris, Elizabeth","Carter, Makenna",,,,,0,0,12,12,"[Harris, Elizabeth] Kill by Carter, Makenna",MCLA,Framingham St.
+2,25,24,Framingham St.,error,service_error,,"Harris, Elizabeth",,,,"Harris, Elizabeth",,0,0,13,12,"[Harris, Elizabeth] Service error",MCLA,Framingham St.
+2,26,25,Framingham St.,error,attack_error,,"DiVirgilio, Anneli","Garber, Chloie","Harris, Elizabeth",,"Garber, Chloie",,0,0,14,12,"[DiVirgilio, Anneli] Attack error by Garber, Chloie (from Harris, Elizabeth)",MCLA,Framingham St.
+2,27,26,Framingham St.,attack,kill,,"DiVirgilio, Anneli","Sanders, Hailey","Bailey, Stella",,,,0,0,15,12,"[DiVirgilio, Anneli] Kill by Sanders, Hailey (from Bailey, Stella)",MCLA,Framingham St.
+2,28,27,Framingham St.,attack,kill,,"DiVirgilio, Anneli","Sanders, Hailey","Harris, Elizabeth",,,,0,0,16,12,"[DiVirgilio, Anneli] Kill by Sanders, Hailey (from Harris, Elizabeth)",MCLA,Framingham St.
+2,29,28,Framingham St.,error,ball_handling_error,,"DiVirgilio, Anneli",,,,"Harris, Elizabeth",,0,0,17,12,"[DiVirgilio, Anneli] Bad set by Harris, Elizabeth",MCLA,Framingham St.
+2,30,29,MCLA,error,service_error,,"DiVirgilio, Anneli",,,,"DiVirgilio, Anneli",,0,0,17,13,"[DiVirgilio, Anneli] Service error",MCLA,Framingham St.
+2,31,30,MCLA,error,attack_error,,"Brown, Elizabeth","Sanders, Hailey","Bailey, Stella",,"Sanders, Hailey",,0,0,17,14,"[Brown, Elizabeth] Attack error by Sanders, Hailey (from Bailey, Stella)",MCLA,Framingham St.
+2,32,31,MCLA,attack,kill,,"Brown, Elizabeth","Garber, Chloie","Harris, Elizabeth",,,,0,0,17,15,"[Brown, Elizabeth] Kill by Garber, Chloie (from Harris, Elizabeth)",MCLA,Framingham St.
+2,33,32,MCLA,block,attack_error,,"Brown, Elizabeth","Sanders, Hailey",,"Carter, Makenna","Sanders, Hailey",,0,0,17,16,"[Brown, Elizabeth] Attack error by Sanders, Hailey (block by Carter, Makenna)",MCLA,Framingham St.
+2,34,33,Framingham St.,error,attack_error,,"Brown, Elizabeth","Garber, Chloie","Harris, Elizabeth",,"Garber, Chloie",,0,0,18,16,"[Brown, Elizabeth] Attack error by Garber, Chloie (from Harris, Elizabeth)",MCLA,Framingham St.
+2,35,34,Framingham St.,attack,kill,,"Heaney, Mackenzie","Sanders, Hailey","Bailey, Stella",,,,0,0,19,16,"[Heaney, Mackenzie] Kill by Sanders, Hailey (from Bailey, Stella)",MCLA,Framingham St.
+2,36,35,MCLA,attack,kill,,"Heaney, Mackenzie","Garber, Chloie","Walter-Goodspeed, Ellie",,,,0,0,19,17,"[Heaney, Mackenzie] Kill by Garber, Chloie (from Walter-Goodspeed, Ellie)",MCLA,Framingham St.
+2,37,36,MCLA,block,attack_error,,"Walter-Goodspeed, Ellie","Sanders, Hailey",,"Melson, Audrey","Sanders, Hailey",,0,0,19,18,"[Walter-Goodspeed, Ellie] Attack error by Sanders, Hailey (block by Melson, Audrey)",MCLA,Framingham St.
+2,38,37,Framingham St.,attack,kill,,"Walter-Goodspeed, Ellie","Sanders, Hailey","Bailey, Stella",,,,0,0,20,18,"[Walter-Goodspeed, Ellie] Kill by Sanders, Hailey (from Bailey, Stella)",MCLA,Framingham St.
+2,39,38,Framingham St.,ace,service_ace,,"Beaulieu, Carly",,,,,"Brown, Elizabeth",0,0,21,18,"[Beaulieu, Carly] Service ace (Brown, Elizabeth)",MCLA,Framingham St.
+2,40,39,MCLA,attack,kill,,"Beaulieu, Carly","Badio, Anais","Harris, Elizabeth",,,,0,0,21,19,"[Beaulieu, Carly] Kill by Badio, Anais (from Harris, Elizabeth)",MCLA,Framingham St.
+2,41,40,Framingham St.,attack,kill,,"Garber, Chloie","Reynolds, Natalie","Bailey, Stella",,,,0,0,22,19,"[Garber, Chloie] Kill by Reynolds, Natalie (from Bailey, Stella)",MCLA,Framingham St.
+2,42,41,Framingham St.,error,attack_error,,"Bailey, Stella","Melson, Audrey","Badio, Anais",,"Melson, Audrey",,0,0,23,19,"[Bailey, Stella] Attack error by Melson, Audrey (from Badio, Anais)",MCLA,Framingham St.
+2,43,42,Framingham St.,attack,kill,,"Bailey, Stella","Reynolds, Natalie","Bailey, Stella",,,,0,0,24,19,"[Bailey, Stella] Kill by Reynolds, Natalie (from Bailey, Stella)",MCLA,Framingham St.
+2,44,43,Framingham St.,attack,kill,,"Bailey, Stella","Dobbins, Emma","Bailey, Stella",,,,0,0,25,19,"[Bailey, Stella] Kill by Dobbins, Emma (from Bailey, Stella)",MCLA,Framingham St.
+3,1,0,Framingham St.,error,attack_error,,"Harris, Elizabeth","Albright, Ezmeralda","Harris, Elizabeth",,"Albright, Ezmeralda",,0,1,1,0,"[Harris, Elizabeth] Attack error by Albright, Ezmeralda (from Harris, Elizabeth)",MCLA,Framingham St.
+3,2,1,MCLA,attack,kill,,"Beaulieu, Carly","Carter, Makenna","Harris, Elizabeth",,,,0,0,1,1,"[Beaulieu, Carly] Kill by Carter, Makenna (from Harris, Elizabeth)",MCLA,Framingham St.
+3,3,2,MCLA,attack,kill,,"Brown, Elizabeth","Carter, Makenna","Harris, Elizabeth",,,,0,1,1,2,"[Brown, Elizabeth] Kill by Carter, Makenna (from Harris, Elizabeth)",MCLA,Framingham St.
+3,4,3,Framingham St.,attack,kill,,"Brown, Elizabeth","Szymanski, Anna","Bailey, Stella",,,,0,0,2,2,"[Brown, Elizabeth] Kill by Szymanski, Anna (from Bailey, Stella)",MCLA,Framingham St.
+3,5,4,MCLA,attack,kill,,"Bailey, Stella","Garber, Chloie","Harris, Elizabeth",,,,0,1,2,3,"[Bailey, Stella] Kill by Garber, Chloie (from Harris, Elizabeth)",MCLA,Framingham St.
+3,6,5,Framingham St.,error,ball_handling_error,,"Walter-Goodspeed, Ellie",,,,"Walter-Goodspeed, Ellie",,0,0,3,3,"[Walter-Goodspeed, Ellie] Bad set by Walter-Goodspeed, Ellie",MCLA,Framingham St.
+3,7,6,MCLA,block,attack_error,,"Szymanski, Anna","Beaulieu, Carly",,"Melson, Audrey","Beaulieu, Carly",,0,1,3,4,"[Szymanski, Anna] Attack error by Beaulieu, Carly (block by Melson, Audrey)",MCLA,Framingham St.
+3,8,7,MCLA,attack,kill,,"Garber, Chloie","Badio, Anais","O'Brien, Shannon",,,,0,1,3,5,"[Garber, Chloie] Kill by Badio, Anais (from O'Brien, Shannon)",MCLA,Framingham St.
+3,9,8,MCLA,attack,kill,,"Garber, Chloie","Melson, Audrey","O'Brien, Shannon",,,,0,0,3,6,"[Garber, Chloie] Kill by Melson, Audrey (from O'Brien, Shannon)",MCLA,Framingham St.
+3,10,9,MCLA,ace,service_ace,,"Garber, Chloie",,,,,Team,0,0,3,7,"[Garber, Chloie] Service ace (Team)",MCLA,Framingham St.
+3,11,10,MCLA,attack,kill,,"Garber, Chloie","Melson, Audrey","O'Brien, Shannon",,,,0,0,3,8,"[Garber, Chloie] Kill by Melson, Audrey (from O'Brien, Shannon)",MCLA,Framingham St.
+3,12,11,MCLA,ace,service_ace,,"Garber, Chloie",,,,,"Reynolds, Natalie",0,0,3,9,"[Garber, Chloie] Service ace (Reynolds, Natalie)",MCLA,Framingham St.
+3,13,12,Framingham St.,error,attack_error,,"Garber, Chloie","Melson, Audrey","O'Brien, Shannon",,"Melson, Audrey",,0,0,4,9,"[Garber, Chloie] Attack error by Melson, Audrey (from O'Brien, Shannon)",MCLA,Framingham St.
+3,14,13,Framingham St.,error,attack_error,,"Reynolds, Natalie","Melson, Audrey","Badio, Anais",,"Melson, Audrey",,0,0,5,9,"[Reynolds, Natalie] Attack error by Melson, Audrey (from Badio, Anais)",MCLA,Framingham St.
+3,15,14,Framingham St.,error,ball_handling_error,,"Reynolds, Natalie",,,,"Badio, Anais",,0,0,6,9,"[Reynolds, Natalie] Ball handling error by Badio, Anais",MCLA,Framingham St.
+3,16,15,MCLA,attack,kill,,"Reynolds, Natalie","Badio, Anais","O'Brien, Shannon",,,,0,0,6,10,"[Reynolds, Natalie] Kill by Badio, Anais (from O'Brien, Shannon)",MCLA,Framingham St.
+3,17,16,MCLA,attack,kill,,"Albright, Ezmeralda","Badio, Anais","O'Brien, Shannon",,,,0,0,6,11,"[Albright, Ezmeralda] Kill by Badio, Anais (from O'Brien, Shannon)",MCLA,Framingham St.
+3,18,17,Framingham St.,attack,kill,,"Albright, Ezmeralda","Sanders, Hailey","Bailey, Stella",,,,0,0,7,11,"[Albright, Ezmeralda] Kill by Sanders, Hailey (from Bailey, Stella)",MCLA,Framingham St.
+3,19,18,MCLA,attack,kill,,"DiVirgilio, Anneli","Badio, Anais","O'Brien, Shannon",,,,0,0,7,12,"[DiVirgilio, Anneli] Kill by Badio, Anais (from O'Brien, Shannon)",MCLA,Framingham St.
+3,20,19,Framingham St.,attack,kill,,"Badio, Anais","Sanders, Hailey","Bailey, Stella",,,,0,0,8,12,"[Badio, Anais] Kill by Sanders, Hailey (from Bailey, Stella)",MCLA,Framingham St.
+3,21,20,MCLA,attack,kill,,"Heaney, Mackenzie","Carter, Makenna","O'Brien, Shannon",,,,0,0,8,13,"[Heaney, Mackenzie] Kill by Carter, Makenna (from O'Brien, Shannon)",MCLA,Framingham St.
+3,22,21,MCLA,block,attack_error,,"Harris, Elizabeth","Szymanski, Anna",,"Garber, Chloie","Szymanski, Anna",,0,0,8,14,"[Harris, Elizabeth] Attack error by Szymanski, Anna (block by Garber, Chloie)",MCLA,Framingham St.
+3,23,22,MCLA,attack,kill,,"Harris, Elizabeth","Brown, Elizabeth","Harris, Elizabeth",,,,0,0,8,15,"[Harris, Elizabeth] Kill by Brown, Elizabeth (from Harris, Elizabeth)",MCLA,Framingham St.
+3,24,23,Framingham St.,attack,kill,,"Harris, Elizabeth","Szymanski, Anna","Bailey, Stella",,,,0,0,9,15,"[Harris, Elizabeth] Kill by Szymanski, Anna (from Bailey, Stella)",MCLA,Framingham St.
+3,25,24,Framingham St.,error,ball_handling_error,,"Beaulieu, Carly",,,,"Garber, Chloie",,0,0,10,15,"[Beaulieu, Carly] Bad set by Garber, Chloie",MCLA,Framingham St.
+3,26,25,Framingham St.,ace,service_ace,,"Beaulieu, Carly",,,,,"Albright, Ezmeralda",0,0,11,15,"[Beaulieu, Carly] Service ace (Albright, Ezmeralda)",MCLA,Framingham St.
+3,27,26,MCLA,error,service_error,,"Beaulieu, Carly",,,,"Beaulieu, Carly",,0,0,11,16,"[Beaulieu, Carly] Service error",MCLA,Framingham St.
+3,28,27,MCLA,attack,kill,,"Brown, Elizabeth","Harris, Elizabeth","Garber, Chloie",,,,0,0,11,17,"[Brown, Elizabeth] Kill by Harris, Elizabeth (from Garber, Chloie)",MCLA,Framingham St.
+3,29,28,MCLA,attack,kill,,"Brown, Elizabeth","Garber, Chloie","Harris, Elizabeth",,,,0,0,11,18,"[Brown, Elizabeth] Kill by Garber, Chloie (from Harris, Elizabeth)",MCLA,Framingham St.
+3,30,29,Framingham St.,attack,kill,,"Brown, Elizabeth","Reynolds, Natalie","Bailey, Stella",,,,0,0,12,18,"[Brown, Elizabeth] Kill by Reynolds, Natalie (from Bailey, Stella)",MCLA,Framingham St.
+3,31,30,Framingham St.,attack,kill,,"Bailey, Stella","Reynolds, Natalie","Bailey, Stella",,,,0,0,13,18,"[Bailey, Stella] Kill by Reynolds, Natalie (from Bailey, Stella)",MCLA,Framingham St.
+3,32,31,MCLA,error,attack_error,,"Bailey, Stella","Dobbins, Emma","Beaulieu, Carly",,"Dobbins, Emma",,0,0,13,19,"[Bailey, Stella] Attack error by Dobbins, Emma (from Beaulieu, Carly)",MCLA,Framingham St.
+3,33,32,Framingham St.,attack,kill,,"Walter-Goodspeed, Ellie","Dobbins, Emma","Bailey, Stella",,,,0,0,14,19,"[Walter-Goodspeed, Ellie] Kill by Dobbins, Emma (from Bailey, Stella)",MCLA,Framingham St.
+3,34,33,MCLA,attack,kill,,"Szymanski, Anna","Melson, Audrey","Walter-Goodspeed, Ellie",,,,0,0,14,20,"[Szymanski, Anna] Kill by Melson, Audrey (from Walter-Goodspeed, Ellie)",MCLA,Framingham St.
+3,35,34,Framingham St.,error,service_error,,"Garber, Chloie",,,,"Garber, Chloie",,0,0,15,20,"[Garber, Chloie] Service error",MCLA,Framingham St.
+3,36,35,MCLA,attack,kill,,"Reynolds, Natalie","Badio, Anais","O'Brien, Shannon",,,,0,0,15,21,"[Reynolds, Natalie] Kill by Badio, Anais (from O'Brien, Shannon)",MCLA,Framingham St.
+3,37,36,Framingham St.,error,ball_handling_error,,"Albright, Ezmeralda",,,,"Badio, Anais",,0,0,16,21,"[Albright, Ezmeralda] Ball handling error by Badio, Anais",MCLA,Framingham St.
+3,38,37,Framingham St.,ace,service_ace,,"DiVirgilio, Anneli",,,,,"Garber, Chloie",0,0,17,21,"[DiVirgilio, Anneli] Service ace (Garber, Chloie)",MCLA,Framingham St.
+3,39,38,Framingham St.,error,attack_error,,"DiVirgilio, Anneli","Badio, Anais","O'Brien, Shannon",,"Badio, Anais",,0,0,18,21,"[DiVirgilio, Anneli] Attack error by Badio, Anais (from O'Brien, Shannon)",MCLA,Framingham St.
+3,40,39,MCLA,attack,kill,,"DiVirgilio, Anneli","Badio, Anais","O'Brien, Shannon",,,,0,0,18,22,"[DiVirgilio, Anneli] Kill by Badio, Anais (from O'Brien, Shannon)",MCLA,Framingham St.
+3,41,40,Framingham St.,attack,kill,,"Badio, Anais","Szymanski, Anna","Bailey, Stella",,,,0,0,19,22,"[Badio, Anais] Kill by Szymanski, Anna (from Bailey, Stella)",MCLA,Framingham St.
+3,42,41,Framingham St.,error,ball_handling_error,,"Heaney, Mackenzie",,,,"Carter, Makenna",,0,0,20,22,"[Heaney, Mackenzie] Ball handling error by Carter, Makenna",MCLA,Framingham St.
+3,43,42,MCLA,error,attack_error,,"Heaney, Mackenzie","Szymanski, Anna","Bailey, Stella",,"Szymanski, Anna",,0,0,20,23,"[Heaney, Mackenzie] Attack error by Szymanski, Anna (from Bailey, Stella)",MCLA,Framingham St.
+3,44,43,MCLA,attack,kill,,"Harris, Elizabeth","Garber, Chloie","Harris, Elizabeth",,,,0,0,20,24,"[Harris, Elizabeth] Kill by Garber, Chloie (from Harris, Elizabeth)",MCLA,Framingham St.
+3,45,44,MCLA,block,attack_error,,"Harris, Elizabeth","Szymanski, Anna",,"Garber, Chloie; Carter, Makenna","Szymanski, Anna",,0,0,20,25,"[Harris, Elizabeth] Attack error by Szymanski, Anna (block by Garber, Chloie; Carter, Makenna)",MCLA,Framingham St.
+4,1,0,MCLA,attack,kill,,"Heaney, Mackenzie","Garber, Chloie","Harris, Elizabeth",,,,0,1,0,1,"[Heaney, Mackenzie] Kill by Garber, Chloie (from Harris, Elizabeth)",MCLA,Framingham St.
+4,2,1,MCLA,ace,service_ace,,"Brown, Elizabeth",,,,,"Beaulieu, Carly",0,1,0,2,"[Brown, Elizabeth] Service ace (Beaulieu, Carly)",MCLA,Framingham St.
+4,3,2,MCLA,attack,kill,,"Brown, Elizabeth","Melson, Audrey","Walter-Goodspeed, Ellie",,,,0,0,0,3,"[Brown, Elizabeth] Kill by Melson, Audrey (from Walter-Goodspeed, Ellie)",MCLA,Framingham St.
+4,4,3,Framingham St.,attack,kill,,"Brown, Elizabeth","Sanders, Hailey","Bailey, Stella",,,,0,0,1,3,"[Brown, Elizabeth] Kill by Sanders, Hailey (from Bailey, Stella)",MCLA,Framingham St.
+4,5,4,MCLA,attack,kill,,"Beaulieu, Carly","Melson, Audrey","Harris, Elizabeth",,,,0,0,1,4,"[Beaulieu, Carly] Kill by Melson, Audrey (from Harris, Elizabeth)",MCLA,Framingham St.
+4,6,5,Framingham St.,attack,kill,,"Walter-Goodspeed, Ellie","Reynolds, Natalie","Bailey, Stella",,,,0,0,2,4,"[Walter-Goodspeed, Ellie] Kill by Reynolds, Natalie (from Bailey, Stella)",MCLA,Framingham St.
+4,7,6,MCLA,error,ball_handling_error,,"Bailey, Stella",,,,"Reynolds, Natalie",,0,1,2,5,"[Bailey, Stella] Ball handling error by Reynolds, Natalie",MCLA,Framingham St.
+4,8,7,Framingham St.,error,service_error,,"Garber, Chloie",,,,"Garber, Chloie",,0,1,3,5,"[Garber, Chloie] Service error",MCLA,Framingham St.
+4,9,8,MCLA,attack,kill,,"Beaulieu, Carly","Badio, Anais","O'Brien, Shannon",,,,0,1,3,6,"[Beaulieu, Carly] Kill by Badio, Anais (from O'Brien, Shannon)",MCLA,Framingham St.
+4,10,9,Framingham St.,error,ball_handling_error,,"Albright, Ezmeralda",,,,"O'Brien, Shannon",,0,0,4,6,"[Albright, Ezmeralda] Bad set by O'Brien, Shannon",MCLA,Framingham St.
+4,11,10,MCLA,attack,kill,,"Reynolds, Natalie","Badio, Anais","O'Brien, Shannon",,,,0,0,4,7,"[Reynolds, Natalie] Kill by Badio, Anais (from O'Brien, Shannon)",MCLA,Framingham St.
+4,12,11,Framingham St.,attack,kill,,"Badio, Anais","Sanders, Hailey","Bailey, Stella",,,,0,0,5,7,"[Badio, Anais] Kill by Sanders, Hailey (from Bailey, Stella)",MCLA,Framingham St.
+4,13,12,Framingham St.,attack,kill,,"DiVirgilio, Anneli","Moniz, Jamie","Bailey, Stella",,,,0,0,6,7,"[DiVirgilio, Anneli] Kill by Moniz, Jamie (from Bailey, Stella)",MCLA,Framingham St.
+4,14,13,MCLA,attack,kill,,"DiVirgilio, Anneli","Brown, Elizabeth","O'Brien, Shannon",,,,0,0,6,8,"[DiVirgilio, Anneli] Kill by Brown, Elizabeth (from O'Brien, Shannon)",MCLA,Framingham St.
+4,15,14,Framingham St.,attack,kill,,"Harris, Elizabeth","Sanders, Hailey","Moniz, Jamie",,,,0,0,7,8,"[Harris, Elizabeth] Kill by Sanders, Hailey (from Moniz, Jamie)",MCLA,Framingham St.
+4,16,15,MCLA,attack,kill,,"Heaney, Mackenzie","Carter, Makenna","Harris, Elizabeth",,,,0,0,7,9,"[Heaney, Mackenzie] Kill by Carter, Makenna (from Harris, Elizabeth)",MCLA,Framingham St.
+4,17,16,Framingham St.,attack,kill,,"Brown, Elizabeth","Sanders, Hailey","Bailey, Stella",,,,0,0,8,9,"[Brown, Elizabeth] Kill by Sanders, Hailey (from Bailey, Stella)",MCLA,Framingham St.
+4,18,17,Framingham St.,ace,service_ace,,"Beaulieu, Carly",,,,,"Walter-Goodspeed, Ellie",0,0,9,9,"[Beaulieu, Carly] Service ace (Walter-Goodspeed, Ellie)",MCLA,Framingham St.
+4,19,18,Framingham St.,error,attack_error,,"Beaulieu, Carly","Melson, Audrey","Harris, Elizabeth",,"Melson, Audrey",,0,0,10,9,"[Beaulieu, Carly] Attack error by Melson, Audrey (from Harris, Elizabeth)",MCLA,Framingham St.
+4,20,19,Framingham St.,attack,kill,,"Beaulieu, Carly","Szymanski, Anna","Bailey, Stella",,,,0,0,11,9,"[Beaulieu, Carly] Kill by Szymanski, Anna (from Bailey, Stella)",MCLA,Framingham St.
+4,21,20,MCLA,error,service_error,,"Beaulieu, Carly",,,,"Beaulieu, Carly",,0,0,11,10,"[Beaulieu, Carly] Service error",MCLA,Framingham St.
+4,22,21,MCLA,error,attack_error,,"Walter-Goodspeed, Ellie","Reynolds, Natalie","Bailey, Stella",,"Reynolds, Natalie",,0,0,11,11,"[Walter-Goodspeed, Ellie] Attack error by Reynolds, Natalie (from Bailey, Stella)",MCLA,Framingham St.
+4,23,22,Framingham St.,attack,kill,,"Walter-Goodspeed, Ellie","Reynolds, Natalie","Bailey, Stella",,,,0,0,12,11,"[Walter-Goodspeed, Ellie] Kill by Reynolds, Natalie (from Bailey, Stella)",MCLA,Framingham St.
+4,24,23,MCLA,error,attack_error,,"Bailey, Stella","Szymanski, Anna",,,"Szymanski, Anna",,0,0,12,12,"[Bailey, Stella] Attack error by Szymanski, Anna",MCLA,Framingham St.
+4,25,24,MCLA,attack,kill,,"Garber, Chloie","Badio, Anais","O'Brien, Shannon",,,,0,0,12,13,"[Garber, Chloie] Kill by Badio, Anais (from O'Brien, Shannon)",MCLA,Framingham St.
+4,26,25,MCLA,ace,service_ace,,"Garber, Chloie",,,,,"Heaney, Mackenzie",0,0,12,14,"[Garber, Chloie] Service ace (Heaney, Mackenzie)",MCLA,Framingham St.
+4,27,26,Framingham St.,attack,kill,,"Garber, Chloie","Dobbins, Emma","Bailey, Stella",,,,0,0,13,14,"[Garber, Chloie] Kill by Dobbins, Emma (from Bailey, Stella)",MCLA,Framingham St.
+4,28,27,MCLA,attack,kill,,"Szymanski, Anna","Badio, Anais","O'Brien, Shannon",,,,0,0,13,15,"[Szymanski, Anna] Kill by Badio, Anais (from O'Brien, Shannon)",MCLA,Framingham St.
+4,29,28,MCLA,attack,kill,,"Albright, Ezmeralda","Badio, Anais","O'Brien, Shannon",,,,0,0,13,16,"[Albright, Ezmeralda] Kill by Badio, Anais (from O'Brien, Shannon)",MCLA,Framingham St.
+4,30,29,MCLA,attack,kill,,"Albright, Ezmeralda","Brown, Elizabeth","O'Brien, Shannon",,,,0,0,13,17,"[Albright, Ezmeralda] Kill by Brown, Elizabeth (from O'Brien, Shannon)",MCLA,Framingham St.
+4,31,30,MCLA,ace,service_ace,,"Albright, Ezmeralda",,,,,"Szymanski, Anna",0,0,13,18,"[Albright, Ezmeralda] Service ace (Szymanski, Anna)",MCLA,Framingham St.
+4,32,31,MCLA,block,attack_error,,"Albright, Ezmeralda","Reynolds, Natalie",,"Badio, Anais","Reynolds, Natalie",,0,0,13,19,"[Albright, Ezmeralda] Attack error by Reynolds, Natalie (block by Badio, Anais)",MCLA,Framingham St.
+4,33,32,MCLA,attack,kill,,"Albright, Ezmeralda","Badio, Anais","O'Brien, Shannon",,,,0,0,13,20,"[Albright, Ezmeralda] Kill by Badio, Anais (from O'Brien, Shannon)",MCLA,Framingham St.
+4,34,33,MCLA,error,ball_handling_error,,"Albright, Ezmeralda",,,,"Bailey, Stella",,0,0,13,21,"[Albright, Ezmeralda] Ball handling error by Bailey, Stella",MCLA,Framingham St.
+4,35,34,MCLA,error,attack_error,,"Albright, Ezmeralda","Dobbins, Emma","Bailey, Stella",,"Dobbins, Emma",,0,0,13,22,"[Albright, Ezmeralda] Attack error by Dobbins, Emma (from Bailey, Stella)",MCLA,Framingham St.
+4,36,35,Framingham St.,attack,kill,,"Albright, Ezmeralda","Dobbins, Emma","Bailey, Stella",,,,0,0,14,22,"[Albright, Ezmeralda] Kill by Dobbins, Emma (from Bailey, Stella)",MCLA,Framingham St.
+4,37,36,Framingham St.,ace,service_ace,,"Reynolds, Natalie",,,,,Team,0,0,15,22,"[Reynolds, Natalie] Service ace (Team)",MCLA,Framingham St.
+4,38,37,MCLA,attack,kill,,"Reynolds, Natalie","Badio, Anais","O'Brien, Shannon",,,,0,0,15,23,"[Reynolds, Natalie] Kill by Badio, Anais (from O'Brien, Shannon)",MCLA,Framingham St.
+4,39,38,Framingham St.,attack,kill,,"Badio, Anais","Sanders, Hailey","Bailey, Stella",,,,0,0,16,23,"[Badio, Anais] Kill by Sanders, Hailey (from Bailey, Stella)",MCLA,Framingham St.
+4,40,39,MCLA,attack,kill,,"DiVirgilio, Anneli","Brown, Elizabeth","O'Brien, Shannon",,,,0,0,16,24,"[DiVirgilio, Anneli] Kill by Brown, Elizabeth (from O'Brien, Shannon)",MCLA,Framingham St.
+4,41,40,Framingham St.,error,service_error,,"Harris, Elizabeth",,,,"Harris, Elizabeth",,0,0,17,24,"[Harris, Elizabeth] Service error",MCLA,Framingham St.
+4,42,41,MCLA,error,attack_error,,"Heaney, Mackenzie","Szymanski, Anna","Bailey, Stella",,"Szymanski, Anna",,0,0,17,25,"[Heaney, Mackenzie] Attack error by Szymanski, Anna (from Bailey, Stella)",MCLA,Framingham St.
+5,1,0,Framingham St.,attack,kill,,"Heaney, Mackenzie","Szymanski, Anna","Bailey, Stella",,,,0,1,1,0,"[Heaney, Mackenzie] Kill by Szymanski, Anna (from Bailey, Stella)",MCLA,Framingham St.
+5,2,1,Framingham St.,attack,kill,,"Heaney, Mackenzie","Heaney, Mackenzie","Szymanski, Anna",,,,0,0,2,0,"[Heaney, Mackenzie] Kill by Heaney, Mackenzie (from Szymanski, Anna)",MCLA,Framingham St.
+5,3,2,MCLA,attack,kill,,"Heaney, Mackenzie","Garber, Chloie","Walter-Goodspeed, Ellie",,,,0,0,2,1,"[Heaney, Mackenzie] Kill by Garber, Chloie (from Walter-Goodspeed, Ellie)",MCLA,Framingham St.
+5,4,3,Framingham St.,attack,kill,,"Brown, Elizabeth","Szymanski, Anna","Bailey, Stella",,,,0,1,3,1,"[Brown, Elizabeth] Kill by Szymanski, Anna (from Bailey, Stella)",MCLA,Framingham St.
+5,5,4,MCLA,attack,kill,,"Beaulieu, Carly","Garber, Chloie","Harris, Elizabeth",,,,0,0,3,2,"[Beaulieu, Carly] Kill by Garber, Chloie (from Harris, Elizabeth)",MCLA,Framingham St.
+5,6,5,Framingham St.,attack,kill,,"Walter-Goodspeed, Ellie","Szymanski, Anna","Bailey, Stella",,,,0,0,4,2,"[Walter-Goodspeed, Ellie] Kill by Szymanski, Anna (from Bailey, Stella)",MCLA,Framingham St.
+5,7,6,MCLA,attack,kill,,"Bailey, Stella","Garber, Chloie","Harris, Elizabeth",,,,0,1,4,3,"[Bailey, Stella] Kill by Garber, Chloie (from Harris, Elizabeth)",MCLA,Framingham St.
+5,8,7,Framingham St.,error,attack_error,,"Garber, Chloie","Melson, Audrey","O'Brien, Shannon",,"Melson, Audrey",,0,1,5,3,"[Garber, Chloie] Attack error by Melson, Audrey (from O'Brien, Shannon)",MCLA,Framingham St.
+5,9,8,MCLA,attack,kill,,"Szymanski, Anna","Melson, Audrey","O'Brien, Shannon",,,,0,1,5,4,"[Szymanski, Anna] Kill by Melson, Audrey (from O'Brien, Shannon)",MCLA,Framingham St.
+5,10,9,Framingham St.,attack,kill,,"Albright, Ezmeralda","Dobbins, Emma","Bailey, Stella",,,,0,0,6,4,"[Albright, Ezmeralda] Kill by Dobbins, Emma (from Bailey, Stella)",MCLA,Framingham St.
+5,11,10,MCLA,attack,kill,,"Reynolds, Natalie","Brown, Elizabeth","O'Brien, Shannon",,,,0,0,6,5,"[Reynolds, Natalie] Kill by Brown, Elizabeth (from O'Brien, Shannon)",MCLA,Framingham St.
+5,12,11,Framingham St.,attack,kill,,"Badio, Anais","Sanders, Hailey","Bailey, Stella",,,,0,0,7,5,"[Badio, Anais] Kill by Sanders, Hailey (from Bailey, Stella)",MCLA,Framingham St.
+5,13,12,MCLA,attack,kill,,"DiVirgilio, Anneli","Brown, Elizabeth","O'Brien, Shannon",,,,0,0,7,6,"[DiVirgilio, Anneli] Kill by Brown, Elizabeth (from O'Brien, Shannon)",MCLA,Framingham St.
+5,14,13,Framingham St.,attack,kill,,"Harris, Elizabeth","Sanders, Hailey","Bailey, Stella",,,,0,0,8,6,"[Harris, Elizabeth] Kill by Sanders, Hailey (from Bailey, Stella)",MCLA,Framingham St.
+5,15,14,MCLA,attack,kill,,"Heaney, Mackenzie","Garber, Chloie","Walter-Goodspeed, Ellie",,,,0,0,8,7,"[Heaney, Mackenzie] Kill by Garber, Chloie (from Walter-Goodspeed, Ellie)",MCLA,Framingham St.
+5,16,15,Framingham St.,attack,kill,,"Brown, Elizabeth","Heaney, Mackenzie",,,,,0,0,9,7,"[Brown, Elizabeth] Kill by Heaney, Mackenzie",MCLA,Framingham St.
+5,17,16,MCLA,attack,kill,,"Beaulieu, Carly","Melson, Audrey","Harris, Elizabeth",,,,0,0,9,8,"[Beaulieu, Carly] Kill by Melson, Audrey (from Harris, Elizabeth)",MCLA,Framingham St.
+5,18,17,Framingham St.,attack,kill,,"Walter-Goodspeed, Ellie","Szymanski, Anna","Bailey, Stella",,,,0,0,10,8,"[Walter-Goodspeed, Ellie] Kill by Szymanski, Anna (from Bailey, Stella)",MCLA,Framingham St.
+5,19,18,Framingham St.,attack,kill,,"Bailey, Stella","Reynolds, Natalie","Bailey, Stella",,,,0,0,11,8,"[Bailey, Stella] Kill by Reynolds, Natalie (from Bailey, Stella)",MCLA,Framingham St.
+5,20,19,Framingham St.,block,attack_error,,"Bailey, Stella","Melson, Audrey",,"Reynolds, Natalie","Melson, Audrey",,0,0,12,8,"[Bailey, Stella] Attack error by Melson, Audrey (block by Reynolds, Natalie)",MCLA,Framingham St.
+5,21,20,Framingham St.,block,attack_error,,"Bailey, Stella","Garber, Chloie",,"Reynolds, Natalie","Garber, Chloie",,0,0,13,8,"[Bailey, Stella] Attack error by Garber, Chloie (block by Reynolds, Natalie)",MCLA,Framingham St.
+5,22,21,MCLA,attack,kill,,"Bailey, Stella","Badio, Anais","Harris, Elizabeth",,,,0,0,13,9,"[Bailey, Stella] Kill by Badio, Anais (from Harris, Elizabeth)",MCLA,Framingham St.
+5,23,22,Framingham St.,error,attack_error,,"Garber, Chloie","Melson, Audrey","O'Brien, Shannon",,"Melson, Audrey",,0,0,14,9,"[Garber, Chloie] Attack error by Melson, Audrey (from O'Brien, Shannon)",MCLA,Framingham St.
+5,24,23,Framingham St.,attack,kill,,"Szymanski, Anna","Reynolds, Natalie","Bailey, Stella",,,,0,0,15,9,"[Szymanski, Anna] Kill by Reynolds, Natalie (from Bailey, Stella)",MCLA,Framingham St.

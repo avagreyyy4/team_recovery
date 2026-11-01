@@ -1,0 +1,196 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,HSU,error,service_error,TrinTX,"DeRivel, Kendall",,,,"DeRivel, Kendall",,0,1,1,0,"[DeRivel, Kendall] Service error.",TrinTX,HSU
+1,2,1,HSU,block,attack_error,HSU,"Jespersen, Leigh","Starr, Taylor",,"Hernandez, Jadyn","Starr, Taylor",,0,0,2,0,"[Jespersen, Leigh] Attack error by Starr, Taylor (block by Hernandez, Jadyn).",TrinTX,HSU
+1,3,2,HSU,ace,service_ace,HSU,"Jespersen, Leigh",,,,,"Rodriguez, Jenna",0,0,3,0,"[Jespersen, Leigh] Service ace (Rodriguez, Jenna).",TrinTX,HSU
+1,4,3,TrinTX,attack,kill,HSU,"Jespersen, Leigh","Whatley, Reagan","DeRivel, Kendall",,,,0,0,3,1,"[Jespersen, Leigh] Kill by Whatley, Reagan (from DeRivel, Kendall).",TrinTX,HSU
+1,5,4,TrinTX,ace,service_ace,TrinTX,"Whatley, Reagan",,,,,Team,0,0,3,2,"[Whatley, Reagan] Service ace (Team).",TrinTX,HSU
+1,6,5,TrinTX,block,attack_error,TrinTX,"Whatley, Reagan","Keidl, Liz",,"Pope, Courtney; Starr, Taylor","Keidl, Liz",,0,0,3,3,"[Whatley, Reagan] Attack error by Keidl, Liz (block by Pope, Courtney; Starr, Taylor).",TrinTX,HSU
+1,7,6,HSU,block,attack_error,TrinTX,"Whatley, Reagan","Drange, Marissa",,"Hernandez, Jadyn; Allen, Abbi","Drange, Marissa",,0,0,4,3,"[Whatley, Reagan] Attack error by Drange, Marissa (block by Hernandez, Jadyn; Allen, Abbi).",TrinTX,HSU
+1,8,7,TrinTX,error,attack_error,HSU,"Martinez, Kat","Allen, Abbi","Rodgers, Keatyn",,"Allen, Abbi",,0,1,4,4,"[Martinez, Kat] Attack error by Allen, Abbi (from Rodgers, Keatyn).",TrinTX,HSU
+1,9,8,TrinTX,attack,kill,TrinTX,"Rodriguez, Jenna","Drange, Marissa","Rodriguez, Jenna",,,,0,1,4,5,"[Rodriguez, Jenna] Kill by Drange, Marissa (from Rodriguez, Jenna).",TrinTX,HSU
+1,10,9,TrinTX,attack,kill,TrinTX,"Rodriguez, Jenna","DeRivel, Kendall","Drange, Marissa",,,,0,0,4,6,"[Rodriguez, Jenna] Kill by DeRivel, Kendall (from Drange, Marissa).",TrinTX,HSU
+1,11,10,TrinTX,ace,service_ace,TrinTX,"Rodriguez, Jenna",,,,,Team,0,0,4,7,"[Rodriguez, Jenna] Service ace (Team).",TrinTX,HSU
+1,12,11,HSU,attack,kill,TrinTX,"Rodriguez, Jenna","Keidl, Liz","Rodgers, Keatyn",,,,0,0,5,7,"[Rodriguez, Jenna] Kill by Keidl, Liz (from Rodgers, Keatyn).",TrinTX,HSU
+1,13,12,HSU,attack,kill,HSU,"O'Shaughnessy, Allison","Nordt, Rachel","Martinez, Kat",,,,0,1,6,7,"[O'Shaughnessy, Allison] Kill by Nordt, Rachel (from Martinez, Kat).",TrinTX,HSU
+1,14,13,HSU,attack,kill,HSU,"O'Shaughnessy, Allison","Nordt, Rachel",,,,,0,0,7,7,"[O'Shaughnessy, Allison] Kill by Nordt, Rachel.",TrinTX,HSU
+1,15,14,TrinTX,attack,kill,HSU,"O'Shaughnessy, Allison","Whatley, Reagan","DeRivel, Kendall",,,,0,0,7,8,"[O'Shaughnessy, Allison] Kill by Whatley, Reagan (from DeRivel, Kendall).",TrinTX,HSU
+1,16,15,TrinTX,block,attack_error,TrinTX,"Dhayer, Jozie","Jespersen, Leigh",,"McWilliams, Connelley; McCarthy, Lauren","Jespersen, Leigh",,0,1,7,9,"[Dhayer, Jozie] Attack error by Jespersen, Leigh (block by McWilliams, Connelley; McCarthy, Lauren).",TrinTX,HSU
+1,17,16,TrinTX,block,attack_error,TrinTX,"Dhayer, Jozie","Keidl, Liz",,"McWilliams, Connelley; McCarthy, Lauren","Keidl, Liz",,0,0,7,10,"[Dhayer, Jozie] Attack error by Keidl, Liz (block by McWilliams, Connelley; McCarthy, Lauren).",TrinTX,HSU
+1,18,17,HSU,error,service_error,TrinTX,"Dhayer, Jozie",,,,"Dhayer, Jozie",,0,0,8,10,"[Dhayer, Jozie] Service error.",TrinTX,HSU
+1,19,18,HSU,error,attack_error,HSU,"Villanueva, Ari","McWilliams, Connelley","Dhayer, Jozie",,"McWilliams, Connelley",,0,1,9,10,"[Villanueva, Ari] Attack error by McWilliams, Connelley (from Dhayer, Jozie).",TrinTX,HSU
+1,20,19,HSU,ace,service_ace,HSU,"Villanueva, Ari",,,,,"Rodriguez, Jenna",0,0,10,10,"[Villanueva, Ari] Service ace (Rodriguez, Jenna).",TrinTX,HSU
+1,21,20,TrinTX,attack,kill,HSU,"Villanueva, Ari","McCarthy, Lauren","Dhayer, Jozie",,,,0,0,10,11,"[Villanueva, Ari] Kill by McCarthy, Lauren (from Dhayer, Jozie).",TrinTX,HSU
+1,22,21,TrinTX,error,attack_error,TrinTX,"Lanik, Annabelle","Tumlinson, Avery","O'Shaughnessy, Allison",,"Tumlinson, Avery",,0,1,10,12,"[Lanik, Annabelle] Attack error by Tumlinson, Avery (from O'Shaughnessy, Allison).",TrinTX,HSU
+1,23,22,TrinTX,attack,kill,TrinTX,"Lanik, Annabelle","McCarthy, Lauren","Dhayer, Jozie",,,,0,0,10,13,"[Lanik, Annabelle] Kill by McCarthy, Lauren (from Dhayer, Jozie).",TrinTX,HSU
+1,24,23,TrinTX,error,attack_error,TrinTX,"Lanik, Annabelle","Jespersen, Leigh","O'Shaughnessy, Allison",,"Jespersen, Leigh",,0,0,10,14,"[Lanik, Annabelle] Attack error by Jespersen, Leigh (from O'Shaughnessy, Allison).",TrinTX,HSU
+1,25,24,HSU,error,service_error,TrinTX,"Lanik, Annabelle",,,,"Lanik, Annabelle",,0,0,11,14,"[Lanik, Annabelle] Service error.",TrinTX,HSU
+1,26,25,TrinTX,attack,kill,HSU,"Tumlinson, Avery","Whatley, Reagan","Dhayer, Jozie",,,,0,1,11,15,"[Tumlinson, Avery] Kill by Whatley, Reagan (from Dhayer, Jozie).",TrinTX,HSU
+1,27,26,TrinTX,attack,kill,TrinTX,"McCarthy, Lauren","McWilliams, Connelley","Lanik, Annabelle",,,,0,1,11,16,"[McCarthy, Lauren] Kill by McWilliams, Connelley (from Lanik, Annabelle).",TrinTX,HSU
+1,28,27,TrinTX,error,attack_error,TrinTX,"McCarthy, Lauren","Jespersen, Leigh","O'Shaughnessy, Allison",,"Jespersen, Leigh",,0,0,11,17,"[McCarthy, Lauren] Attack error by Jespersen, Leigh (from O'Shaughnessy, Allison).",TrinTX,HSU
+1,29,28,TrinTX,ace,service_ace,TrinTX,"McCarthy, Lauren",,,,,Team,0,0,11,18,"[McCarthy, Lauren] Service ace (Team).",TrinTX,HSU
+1,30,29,HSU,attack,kill,TrinTX,"McCarthy, Lauren","Hernandez, Jadyn","O'Shaughnessy, Allison",,,,0,0,12,18,"[McCarthy, Lauren] Kill by Hernandez, Jadyn (from O'Shaughnessy, Allison).",TrinTX,HSU
+1,31,30,HSU,attack,kill,HSU,"Rodgers, Keatyn","Hernandez, Jadyn","Rodgers, Keatyn",,,,0,1,13,18,"[Rodgers, Keatyn] Kill by Hernandez, Jadyn (from Rodgers, Keatyn).",TrinTX,HSU
+1,32,31,TrinTX,attack,kill,HSU,"Rodgers, Keatyn","Whatley, Reagan","Dhayer, Jozie",,,,0,0,13,19,"[Rodgers, Keatyn] Kill by Whatley, Reagan (from Dhayer, Jozie).",TrinTX,HSU
+1,33,32,TrinTX,attack,kill,TrinTX,"DeRivel, Kendall","Whatley, Reagan","Lanik, Annabelle",,,,0,1,13,20,"[DeRivel, Kendall] Kill by Whatley, Reagan (from Lanik, Annabelle).",TrinTX,HSU
+1,34,33,HSU,attack,kill,TrinTX,"DeRivel, Kendall","Allen, Abbi","Rodgers, Keatyn",,,,0,0,14,20,"[DeRivel, Kendall] Kill by Allen, Abbi (from Rodgers, Keatyn).",TrinTX,HSU
+1,35,34,TrinTX,error,service_error,HSU,"Jespersen, Leigh",,,,"Jespersen, Leigh",,0,1,14,21,"[Jespersen, Leigh] Service error.",TrinTX,HSU
+1,36,35,HSU,attack,kill,TrinTX,"Whatley, Reagan","Allen, Abbi","Rodgers, Keatyn",,,,0,1,15,21,"[Whatley, Reagan] Kill by Allen, Abbi (from Rodgers, Keatyn).",TrinTX,HSU
+1,37,36,HSU,attack,kill,HSU,"Martinez, Kat","Tumlinson, Avery","Rodgers, Keatyn",,,,0,1,16,21,"[Martinez, Kat] Kill by Tumlinson, Avery (from Rodgers, Keatyn).",TrinTX,HSU
+1,38,37,HSU,ace,service_ace,HSU,"Martinez, Kat",,,,,Team,0,0,17,21,"[Martinez, Kat] Service ace (Team).",TrinTX,HSU
+1,39,38,HSU,error,attack_error,HSU,"Martinez, Kat","Starr, Taylor","DeRivel, Kendall",,"Starr, Taylor",,0,0,18,21,"[Martinez, Kat] Attack error by Starr, Taylor (from DeRivel, Kendall).",TrinTX,HSU
+1,40,39,TrinTX,attack,kill,HSU,"Martinez, Kat","Pope, Courtney","DeRivel, Kendall",,,,0,0,18,22,"[Martinez, Kat] Kill by Pope, Courtney (from DeRivel, Kendall).",TrinTX,HSU
+1,41,40,HSU,attack,kill,TrinTX,"Rodriguez, Jenna","Tumlinson, Avery","Keidl, Liz",,,,0,1,19,22,"[Rodriguez, Jenna] Kill by Tumlinson, Avery (from Keidl, Liz).",TrinTX,HSU
+1,42,41,TrinTX,attack,kill,HSU,"O'Shaughnessy, Allison","Drange, Marissa","Rodriguez, Jenna",,,,0,1,19,23,"[O'Shaughnessy, Allison] Kill by Drange, Marissa (from Rodriguez, Jenna).",TrinTX,HSU
+1,43,42,TrinTX,error,attack_error,TrinTX,"Dhayer, Jozie","Nordt, Rachel","O'Shaughnessy, Allison",,"Nordt, Rachel",,0,1,19,24,"[Dhayer, Jozie] Attack error by Nordt, Rachel (from O'Shaughnessy, Allison).",TrinTX,HSU
+1,44,43,TrinTX,attack,kill,TrinTX,"Dhayer, Jozie","McWilliams, Connelley","Dhayer, Jozie",,,,0,0,19,25,"[Dhayer, Jozie] Kill by McWilliams, Connelley (from Dhayer, Jozie).",TrinTX,HSU
+2,1,0,TrinTX,attack,kill,HSU,"Rodgers, Keatyn","Pope, Courtney","Dhayer, Jozie",,,,0,1,0,1,"[Rodgers, Keatyn] Kill by Pope, Courtney (from Dhayer, Jozie).",TrinTX,HSU
+2,2,1,HSU,block,attack_error,TrinTX,"Rodriguez, Jenna","McCarthy, Lauren",,"Hernandez, Jadyn","McCarthy, Lauren",,0,1,1,1,"[Rodriguez, Jenna] Attack error by McCarthy, Lauren (block by Hernandez, Jadyn).",TrinTX,HSU
+2,3,2,TrinTX,error,service_error,HSU,"Jespersen, Leigh",,,,"Jespersen, Leigh",,0,0,1,2,"[Jespersen, Leigh] Service error.",TrinTX,HSU
+2,4,3,HSU,attack,kill,TrinTX,"DeRivel, Kendall","Allen, Abbi","Rodgers, Keatyn",,,,0,1,2,2,"[DeRivel, Kendall] Kill by Allen, Abbi (from Rodgers, Keatyn).",TrinTX,HSU
+2,5,4,TrinTX,block,attack_error,HSU,"Martinez, Kat","Keidl, Liz",,"McCarthy, Lauren; McWilliams, Connelley","Keidl, Liz",,0,1,2,3,"[Martinez, Kat] Attack error by Keidl, Liz (block by McCarthy, Lauren; McWilliams, Connelley).",TrinTX,HSU
+2,6,5,TrinTX,ace,service_ace,TrinTX,"Whatley, Reagan",,,,,Team,0,1,2,4,"[Whatley, Reagan] Service ace (Team).",TrinTX,HSU
+2,7,6,TrinTX,error,attack_error,TrinTX,"Whatley, Reagan","Keidl, Liz","Rodgers, Keatyn",,"Keidl, Liz",,0,0,2,5,"[Whatley, Reagan] Attack error by Keidl, Liz (from Rodgers, Keatyn).",TrinTX,HSU
+2,8,7,TrinTX,attack,kill,TrinTX,"Whatley, Reagan","McCarthy, Lauren","DeRivel, Kendall",,,,0,0,2,6,"[Whatley, Reagan] Kill by McCarthy, Lauren (from DeRivel, Kendall).",TrinTX,HSU
+2,9,8,TrinTX,ace,service_ace,TrinTX,"Whatley, Reagan",,,,,"Martinez, Kat",0,0,2,7,"[Whatley, Reagan] Service ace (Martinez, Kat).",TrinTX,HSU
+2,10,9,TrinTX,ace,service_ace,TrinTX,"Whatley, Reagan",,,,,"Martinez, Kat",0,0,2,8,"[Whatley, Reagan] Service ace (Martinez, Kat).",TrinTX,HSU
+2,11,10,HSU,attack,kill,TrinTX,"Whatley, Reagan","Rodgers, Keatyn","Martinez, Kat",,,,0,0,3,8,"[Whatley, Reagan] Kill by Rodgers, Keatyn (from Martinez, Kat).",TrinTX,HSU
+2,12,11,TrinTX,attack,kill,HSU,"O'Shaughnessy, Allison","Drange, Marissa","DeRivel, Kendall",,,,0,1,3,9,"[O'Shaughnessy, Allison] Kill by Drange, Marissa (from DeRivel, Kendall).",TrinTX,HSU
+2,13,12,HSU,attack,kill,TrinTX,"Rodriguez, Jenna","Tumlinson, Avery","O'Shaughnessy, Allison",,,,0,1,4,9,"[Rodriguez, Jenna] Kill by Tumlinson, Avery (from O'Shaughnessy, Allison).",TrinTX,HSU
+2,14,13,HSU,attack,kill,HSU,"Villanueva, Ari","Tumlinson, Avery","O'Shaughnessy, Allison",,,,0,1,5,9,"[Villanueva, Ari] Kill by Tumlinson, Avery (from O'Shaughnessy, Allison).",TrinTX,HSU
+2,15,14,TrinTX,attack,kill,HSU,"Villanueva, Ari","Drange, Marissa","Rodriguez, Jenna",,,,0,0,5,10,"[Villanueva, Ari] Kill by Drange, Marissa (from Rodriguez, Jenna).",TrinTX,HSU
+2,16,15,HSU,attack,kill,TrinTX,"Dhayer, Jozie","Jespersen, Leigh","O'Shaughnessy, Allison",,,,0,1,6,10,"[Dhayer, Jozie] Kill by Jespersen, Leigh (from O'Shaughnessy, Allison).",TrinTX,HSU
+2,17,16,TrinTX,error,service_error,HSU,"Tumlinson, Avery",,,,"Tumlinson, Avery",,0,1,6,11,"[Tumlinson, Avery] Service error.",TrinTX,HSU
+2,18,17,TrinTX,attack,kill,TrinTX,"Lanik, Annabelle","Pope, Courtney","Dhayer, Jozie",,,,0,1,6,12,"[Lanik, Annabelle] Kill by Pope, Courtney (from Dhayer, Jozie).",TrinTX,HSU
+2,19,18,HSU,attack,kill,TrinTX,"Lanik, Annabelle","Nordt, Rachel","O'Shaughnessy, Allison",,,,0,0,7,12,"[Lanik, Annabelle] Kill by Nordt, Rachel (from O'Shaughnessy, Allison).",TrinTX,HSU
+2,20,19,TrinTX,attack,kill,HSU,"Rodgers, Keatyn","Whatley, Reagan","Dhayer, Jozie",,,,0,1,7,13,"[Rodgers, Keatyn] Kill by Whatley, Reagan (from Dhayer, Jozie).",TrinTX,HSU
+2,21,20,HSU,attack,kill,TrinTX,"Rodriguez, Jenna","Allen, Abbi","Hernandez, Jadyn",,,,0,1,8,13,"[Rodriguez, Jenna] Kill by Allen, Abbi (from Hernandez, Jadyn).",TrinTX,HSU
+2,22,21,HSU,attack,kill,HSU,"Jespersen, Leigh","Jespersen, Leigh","Rodgers, Keatyn",,,,0,1,9,13,"[Jespersen, Leigh] Kill by Jespersen, Leigh (from Rodgers, Keatyn).",TrinTX,HSU
+2,23,22,TrinTX,attack,kill,HSU,"Jespersen, Leigh","Pope, Courtney","Dhayer, Jozie",,,,0,0,9,14,"[Jespersen, Leigh] Kill by Pope, Courtney (from Dhayer, Jozie).",TrinTX,HSU
+2,24,23,HSU,error,attack_error,TrinTX,"DeRivel, Kendall","McWilliams, Connelley","DeRivel, Kendall",,"McWilliams, Connelley",,0,1,10,14,"[DeRivel, Kendall] Attack error by McWilliams, Connelley (from DeRivel, Kendall).",TrinTX,HSU
+2,25,24,HSU,block,attack_error,HSU,"Martinez, Kat","McCarthy, Lauren",,"Allen, Abbi; Tumlinson, Avery","McCarthy, Lauren",,0,1,11,14,"[Martinez, Kat] Attack error by McCarthy, Lauren (block by Allen, Abbi; Tumlinson, Avery).",TrinTX,HSU
+2,26,25,TrinTX,attack,kill,HSU,"Martinez, Kat","McCarthy, Lauren","DeRivel, Kendall",,,,0,0,11,15,"[Martinez, Kat] Kill by McCarthy, Lauren (from DeRivel, Kendall).",TrinTX,HSU
+2,27,26,TrinTX,attack,kill,TrinTX,"Whatley, Reagan","McWilliams, Connelley","DeRivel, Kendall",,,,0,1,11,16,"[Whatley, Reagan] Kill by McWilliams, Connelley (from DeRivel, Kendall).",TrinTX,HSU
+2,28,27,HSU,attack,kill,TrinTX,"Whatley, Reagan","Tumlinson, Avery","Rodgers, Keatyn",,,,0,0,12,16,"[Whatley, Reagan] Kill by Tumlinson, Avery (from Rodgers, Keatyn).",TrinTX,HSU
+2,29,28,HSU,block,attack_error,HSU,"O'Shaughnessy, Allison","Drange, Marissa",,"Tumlinson, Avery; Nordt, Rachel","Drange, Marissa",,0,1,13,16,"[O'Shaughnessy, Allison] Attack error by Drange, Marissa (block by Tumlinson, Avery; Nordt, Rachel).",TrinTX,HSU
+2,30,29,TrinTX,attack,kill,HSU,"O'Shaughnessy, Allison","McCarthy, Lauren","DeRivel, Kendall",,"Tumlinson, Avery",,0,0,13,17,"[O'Shaughnessy, Allison] Kill by McCarthy, Lauren (from DeRivel, Kendall), block error by Tumlinson, Avery.",TrinTX,HSU
+2,31,30,HSU,attack,kill,TrinTX,"McCarthy, Lauren","Keidl, Liz","O'Shaughnessy, Allison",,,,0,1,14,17,"[McCarthy, Lauren] Kill by Keidl, Liz (from O'Shaughnessy, Allison).",TrinTX,HSU
+2,32,31,HSU,ace,service_ace,HSU,"Villanueva, Ari",,,,,"Drange, Marissa",0,1,15,17,"[Villanueva, Ari] Service ace (Drange, Marissa).",TrinTX,HSU
+2,33,32,TrinTX,error,service_error,HSU,"Villanueva, Ari",,,,"Villanueva, Ari",,0,1,15,18,"[Villanueva, Ari] Service error.",TrinTX,HSU
+2,34,33,HSU,attack,kill,TrinTX,"Dhayer, Jozie","Tumlinson, Avery","O'Shaughnessy, Allison",,,,0,1,16,18,"[Dhayer, Jozie] Kill by Tumlinson, Avery (from O'Shaughnessy, Allison).",TrinTX,HSU
+2,35,34,TrinTX,attack,kill,HSU,"Tumlinson, Avery","Drange, Marissa","Dhayer, Jozie",,"Hernandez, Jadyn",,0,1,16,19,"[Tumlinson, Avery] Kill by Drange, Marissa (from Dhayer, Jozie), block error by Hernandez, Jadyn.",TrinTX,HSU
+2,36,35,TrinTX,attack,kill,TrinTX,"Lanik, Annabelle","Whatley, Reagan","Dhayer, Jozie",,,,0,1,16,20,"[Lanik, Annabelle] Kill by Whatley, Reagan (from Dhayer, Jozie).",TrinTX,HSU
+2,37,36,TrinTX,error,attack_error,TrinTX,"Lanik, Annabelle","Hernandez, Jadyn","O'Shaughnessy, Allison",,"Hernandez, Jadyn",,0,0,16,21,"[Lanik, Annabelle] Attack error by Hernandez, Jadyn (from O'Shaughnessy, Allison).",TrinTX,HSU
+2,38,37,HSU,attack,kill,TrinTX,"Lanik, Annabelle","Nordt, Rachel","Villanueva, Ari",,,,0,0,17,21,"[Lanik, Annabelle] Kill by Nordt, Rachel (from Villanueva, Ari).",TrinTX,HSU
+2,39,38,TrinTX,attack,kill,HSU,"Rodgers, Keatyn","Pope, Courtney","Dhayer, Jozie",,,,0,1,17,22,"[Rodgers, Keatyn] Kill by Pope, Courtney (from Dhayer, Jozie).",TrinTX,HSU
+2,40,39,HSU,attack,kill,TrinTX,"Rodriguez, Jenna","Jespersen, Leigh","Rodgers, Keatyn",,,,0,1,18,22,"[Rodriguez, Jenna] Kill by Jespersen, Leigh (from Rodgers, Keatyn).",TrinTX,HSU
+2,41,40,HSU,ace,service_ace,HSU,"Jespersen, Leigh",,,,,"Lanik, Annabelle",0,1,19,22,"[Jespersen, Leigh] Service ace (Lanik, Annabelle).",TrinTX,HSU
+2,42,41,HSU,block,attack_error,HSU,"Jespersen, Leigh","Whatley, Reagan",,"Hernandez, Jadyn; Allen, Abbi","Whatley, Reagan",,0,1,20,22,"[Jespersen, Leigh] Attack error by Whatley, Reagan (block by Hernandez, Jadyn; Allen, Abbi).",TrinTX,HSU
+2,43,42,TrinTX,attack,kill,HSU,"Jespersen, Leigh","Pope, Courtney","Verhoff, Anna",,,,0,0,20,23,"[Jespersen, Leigh] Kill by Pope, Courtney (from Verhoff, Anna).",TrinTX,HSU
+2,44,43,TrinTX,block,attack_error,TrinTX,"DeRivel, Kendall","Hernandez, Jadyn",,"McCarthy, Lauren","Hernandez, Jadyn",,0,1,20,24,"[DeRivel, Kendall] Attack error by Hernandez, Jadyn (block by McCarthy, Lauren).",TrinTX,HSU
+2,45,44,TrinTX,block,attack_error,TrinTX,"DeRivel, Kendall","Allen, Abbi",,"McCarthy, Lauren; Whatley, Reagan","Allen, Abbi",,0,0,20,25,"[DeRivel, Kendall] Attack error by Allen, Abbi (block by McCarthy, Lauren; Whatley, Reagan).",TrinTX,HSU
+3,1,0,TrinTX,attack,kill,TrinTX,"DeRivel, Kendall","Starr, Taylor",,,,,0,1,0,1,"[DeRivel, Kendall] Kill by Starr, Taylor.",TrinTX,HSU
+3,2,1,HSU,error,service_error,TrinTX,"DeRivel, Kendall",,,,"DeRivel, Kendall",,0,0,1,1,"[DeRivel, Kendall] Service error.",TrinTX,HSU
+3,3,2,TrinTX,attack,kill,HSU,"Jespersen, Leigh","Pope, Courtney","DeRivel, Kendall",,,,0,0,1,2,"[Jespersen, Leigh] Kill by Pope, Courtney (from DeRivel, Kendall).",TrinTX,HSU
+3,4,3,HSU,error,attack_error,TrinTX,"Whatley, Reagan","Drange, Marissa","DeRivel, Kendall",,"Drange, Marissa",,0,0,2,2,"[Whatley, Reagan] Attack error by Drange, Marissa (from DeRivel, Kendall).",TrinTX,HSU
+3,5,4,TrinTX,attack,kill,HSU,"Hernandez, Jadyn","Starr, Taylor","DeRivel, Kendall",,,,0,1,2,3,"[Hernandez, Jadyn] Kill by Starr, Taylor (from DeRivel, Kendall).",TrinTX,HSU
+3,6,5,TrinTX,block,attack_error,TrinTX,"Rodriguez, Jenna","Allen, Abbi",,"McCarthy, Lauren; Drange, Marissa","Allen, Abbi",,0,1,2,4,"[Rodriguez, Jenna] Attack error by Allen, Abbi (block by McCarthy, Lauren; Drange, Marissa).",TrinTX,HSU
+3,7,6,TrinTX,attack,kill,TrinTX,"Rodriguez, Jenna","Pope, Courtney","Rodriguez, Jenna",,,,0,0,2,5,"[Rodriguez, Jenna] Kill by Pope, Courtney (from Rodriguez, Jenna).",TrinTX,HSU
+3,8,7,TrinTX,attack,kill,TrinTX,"Rodriguez, Jenna","Pope, Courtney","DeRivel, Kendall",,,,0,0,2,6,"[Rodriguez, Jenna] Kill by Pope, Courtney (from DeRivel, Kendall).",TrinTX,HSU
+3,9,8,HSU,attack,kill,TrinTX,"Rodriguez, Jenna","Keidl, Liz","Allen, Abbi",,,,0,0,3,6,"[Rodriguez, Jenna] Kill by Keidl, Liz (from Allen, Abbi).",TrinTX,HSU
+3,10,9,HSU,error,attack_error,HSU,"O'Shaughnessy, Allison","McCarthy, Lauren","DeRivel, Kendall",,"McCarthy, Lauren",,0,1,4,6,"[O'Shaughnessy, Allison] Attack error by McCarthy, Lauren (from DeRivel, Kendall).",TrinTX,HSU
+3,11,10,TrinTX,attack,kill,HSU,"O'Shaughnessy, Allison","Drange, Marissa","DeRivel, Kendall",,,,0,0,4,7,"[O'Shaughnessy, Allison] Kill by Drange, Marissa (from DeRivel, Kendall).",TrinTX,HSU
+3,12,11,HSU,attack,kill,TrinTX,"Verhoff, Anna","Tumlinson, Avery","O'Shaughnessy, Allison",,,,0,1,5,7,"[Verhoff, Anna] Kill by Tumlinson, Avery (from O'Shaughnessy, Allison).",TrinTX,HSU
+3,13,12,TrinTX,attack,kill,HSU,"Villanueva, Ari","Drange, Marissa","Verhoff, Anna",,,,0,1,5,8,"[Villanueva, Ari] Kill by Drange, Marissa (from Verhoff, Anna).",TrinTX,HSU
+3,14,13,HSU,attack,kill,TrinTX,"Lanik, Annabelle","Nordt, Rachel","O'Shaughnessy, Allison",,,,0,1,6,8,"[Lanik, Annabelle] Kill by Nordt, Rachel (from O'Shaughnessy, Allison).",TrinTX,HSU
+3,15,14,TrinTX,block,attack_error,HSU,"Martinez, Kat","Jespersen, Leigh",,"McWilliams, Connelley; McCarthy, Lauren","Jespersen, Leigh",,0,1,6,9,"[Martinez, Kat] Attack error by Jespersen, Leigh (block by McWilliams, Connelley; McCarthy, Lauren).",TrinTX,HSU
+3,16,15,HSU,attack,kill,TrinTX,"McCarthy, Lauren","Nordt, Rachel","O'Shaughnessy, Allison",,,,0,1,7,9,"[McCarthy, Lauren] Kill by Nordt, Rachel (from O'Shaughnessy, Allison).",TrinTX,HSU
+3,17,16,TrinTX,attack,kill,HSU,"Rodgers, Keatyn","McWilliams, Connelley","Rodriguez, Jenna",,,,0,1,7,10,"[Rodgers, Keatyn] Kill by McWilliams, Connelley (from Rodriguez, Jenna).",TrinTX,HSU
+3,18,17,TrinTX,error,attack_error,TrinTX,"DeRivel, Kendall","Hernandez, Jadyn","Rodgers, Keatyn",,"Hernandez, Jadyn",,0,1,7,11,"[DeRivel, Kendall] Attack error by Hernandez, Jadyn (from Rodgers, Keatyn).",TrinTX,HSU
+3,19,18,HSU,error,attack_error,TrinTX,"DeRivel, Kendall","Pope, Courtney","DeRivel, Kendall",,"Pope, Courtney",,0,0,8,11,"[DeRivel, Kendall] Attack error by Pope, Courtney (from DeRivel, Kendall).",TrinTX,HSU
+3,20,19,HSU,block,attack_error,HSU,"Jespersen, Leigh","Whatley, Reagan",,"Hernandez, Jadyn; Allen, Abbi","Whatley, Reagan",,0,1,9,11,"[Jespersen, Leigh] Attack error by Whatley, Reagan (block by Hernandez, Jadyn; Allen, Abbi).",TrinTX,HSU
+3,21,20,TrinTX,attack,kill,HSU,"Jespersen, Leigh","Whatley, Reagan","DeRivel, Kendall",,,,0,0,9,12,"[Jespersen, Leigh] Kill by Whatley, Reagan (from DeRivel, Kendall).",TrinTX,HSU
+3,22,21,HSU,attack,kill,TrinTX,"Whatley, Reagan","Hernandez, Jadyn","Rodgers, Keatyn",,,,0,1,10,12,"[Whatley, Reagan] Kill by Hernandez, Jadyn (from Rodgers, Keatyn).",TrinTX,HSU
+3,23,22,TrinTX,attack,kill,HSU,"Hernandez, Jadyn","Pope, Courtney","DeRivel, Kendall",,,,0,1,10,13,"[Hernandez, Jadyn] Kill by Pope, Courtney (from DeRivel, Kendall).",TrinTX,HSU
+3,24,23,HSU,error,attack_error,TrinTX,"Rodriguez, Jenna","Whatley, Reagan","DeRivel, Kendall",,"Whatley, Reagan",,0,1,11,13,"[Rodriguez, Jenna] Attack error by Whatley, Reagan (from DeRivel, Kendall).",TrinTX,HSU
+3,25,24,HSU,block,attack_error,HSU,"O'Shaughnessy, Allison","McCarthy, Lauren",,"Nordt, Rachel; Tumlinson, Avery","McCarthy, Lauren",,0,1,12,13,"[O'Shaughnessy, Allison] Attack error by McCarthy, Lauren (block by Nordt, Rachel; Tumlinson, Avery).",TrinTX,HSU
+3,26,25,TrinTX,attack,kill,HSU,"O'Shaughnessy, Allison","Pope, Courtney","DeRivel, Kendall",,,,0,0,12,14,"[O'Shaughnessy, Allison] Kill by Pope, Courtney (from DeRivel, Kendall).",TrinTX,HSU
+3,27,26,TrinTX,attack,kill,TrinTX,"Verhoff, Anna","Drange, Marissa",,,,,0,1,12,15,"[Verhoff, Anna] Kill by Drange, Marissa.",TrinTX,HSU
+3,28,27,HSU,attack,kill,TrinTX,"Verhoff, Anna","Jespersen, Leigh","O'Shaughnessy, Allison",,,,0,0,13,15,"[Verhoff, Anna] Kill by Jespersen, Leigh (from O'Shaughnessy, Allison).",TrinTX,HSU
+3,29,28,HSU,attack,kill,HSU,"Villanueva, Ari","Tumlinson, Avery","O'Shaughnessy, Allison",,,,0,1,14,15,"[Villanueva, Ari] Kill by Tumlinson, Avery (from O'Shaughnessy, Allison).",TrinTX,HSU
+3,30,29,HSU,attack,kill,HSU,"Villanueva, Ari","Nordt, Rachel","O'Shaughnessy, Allison",,,,0,0,15,15,"[Villanueva, Ari] Kill by Nordt, Rachel (from O'Shaughnessy, Allison).",TrinTX,HSU
+3,31,30,TrinTX,error,service_error,HSU,"Villanueva, Ari",,,,"Villanueva, Ari",,0,0,15,16,"[Villanueva, Ari] Service error.",TrinTX,HSU
+3,32,31,TrinTX,attack,kill,TrinTX,"Lanik, Annabelle","Whatley, Reagan","Verhoff, Anna",,,,0,1,15,17,"[Lanik, Annabelle] Kill by Whatley, Reagan (from Verhoff, Anna).",TrinTX,HSU
+3,33,32,HSU,attack,kill,TrinTX,"Lanik, Annabelle","Nordt, Rachel",,,,,0,0,16,17,"[Lanik, Annabelle] Kill by Nordt, Rachel.",TrinTX,HSU
+3,34,33,HSU,block,attack_error,HSU,"Martinez, Kat","McWilliams, Connelley",,"Jespersen, Leigh; Hernandez, Jadyn","McWilliams, Connelley",,0,1,17,17,"[Martinez, Kat] Attack error by McWilliams, Connelley (block by Jespersen, Leigh; Hernandez, Jadyn).",TrinTX,HSU
+3,35,34,TrinTX,attack,kill,HSU,"Martinez, Kat","Whatley, Reagan","Verhoff, Anna",,,,0,0,17,18,"[Martinez, Kat] Kill by Whatley, Reagan (from Verhoff, Anna).",TrinTX,HSU
+3,36,35,TrinTX,ace,service_ace,TrinTX,"McCarthy, Lauren",,,,,"Villanueva, Ari",0,1,17,19,"[McCarthy, Lauren] Service ace (Villanueva, Ari).",TrinTX,HSU
+3,37,36,HSU,attack,kill,TrinTX,"McCarthy, Lauren","Nordt, Rachel","Starr, Taylor",,,,0,0,18,19,"[McCarthy, Lauren] Kill by Nordt, Rachel (from Starr, Taylor).",TrinTX,HSU
+3,38,37,HSU,attack,kill,HSU,"Rodgers, Keatyn","Jespersen, Leigh","Rodgers, Keatyn",,,,0,1,19,19,"[Rodgers, Keatyn] Kill by Jespersen, Leigh (from Rodgers, Keatyn).",TrinTX,HSU
+3,39,38,TrinTX,attack,kill,HSU,"Rodgers, Keatyn","Whatley, Reagan","Verhoff, Anna",,,,0,0,19,20,"[Rodgers, Keatyn] Kill by Whatley, Reagan (from Verhoff, Anna).",TrinTX,HSU
+3,40,39,TrinTX,attack,kill,TrinTX,"DeRivel, Kendall","Pope, Courtney","DeRivel, Kendall",,,,0,1,19,21,"[DeRivel, Kendall] Kill by Pope, Courtney (from DeRivel, Kendall).",TrinTX,HSU
+3,41,40,HSU,attack,kill,TrinTX,"DeRivel, Kendall","Hernandez, Jadyn","Rodgers, Keatyn",,,,0,0,20,21,"[DeRivel, Kendall] Kill by Hernandez, Jadyn (from Rodgers, Keatyn).",TrinTX,HSU
+3,42,41,TrinTX,attack,kill,HSU,"Jespersen, Leigh","Pope, Courtney","DeRivel, Kendall",,,,0,1,20,22,"[Jespersen, Leigh] Kill by Pope, Courtney (from DeRivel, Kendall).",TrinTX,HSU
+3,43,42,TrinTX,error,attack_error,TrinTX,"Whatley, Reagan","Keidl, Liz","Rodgers, Keatyn",,"Keidl, Liz",,0,1,20,23,"[Whatley, Reagan] Attack error by Keidl, Liz (from Rodgers, Keatyn).",TrinTX,HSU
+3,44,43,HSU,attack,kill,TrinTX,"Whatley, Reagan","Allen, Abbi","Rodgers, Keatyn",,,,0,0,21,23,"[Whatley, Reagan] Kill by Allen, Abbi (from Rodgers, Keatyn).",TrinTX,HSU
+3,45,44,HSU,attack,kill,HSU,"Hernandez, Jadyn","Jespersen, Leigh","Rodgers, Keatyn",,,,0,1,22,23,"[Hernandez, Jadyn] Kill by Jespersen, Leigh (from Rodgers, Keatyn).",TrinTX,HSU
+3,46,45,TrinTX,error,service_error,HSU,"Hernandez, Jadyn",,,,"Hernandez, Jadyn",,0,0,22,24,"[Hernandez, Jadyn] Service error.",TrinTX,HSU
+3,47,46,HSU,block,attack_error,TrinTX,"Rodriguez, Jenna","Drange, Marissa",,"Tumlinson, Avery; Allen, Abbi","Drange, Marissa",,0,1,23,24,"[Rodriguez, Jenna] Attack error by Drange, Marissa (block by Tumlinson, Avery; Allen, Abbi).",TrinTX,HSU
+3,48,47,HSU,attack,kill,HSU,"O'Shaughnessy, Allison","Tumlinson, Avery","O'Shaughnessy, Allison",,,,0,1,24,24,"[O'Shaughnessy, Allison] Kill by Tumlinson, Avery (from O'Shaughnessy, Allison).",TrinTX,HSU
+3,49,48,TrinTX,error,service_error,HSU,"O'Shaughnessy, Allison",,,,"O'Shaughnessy, Allison",,0,0,24,25,"[O'Shaughnessy, Allison] Service error.",TrinTX,HSU
+3,50,49,HSU,attack,kill,TrinTX,"Verhoff, Anna","Tumlinson, Avery","O'Shaughnessy, Allison",,,,0,1,25,25,"[Verhoff, Anna] Kill by Tumlinson, Avery (from O'Shaughnessy, Allison).",TrinTX,HSU
+3,51,50,HSU,ace,service_ace,HSU,"Villanueva, Ari",,,,,Team,0,1,26,25,"[Villanueva, Ari] Service ace (Team).",TrinTX,HSU
+3,52,51,TrinTX,attack,kill,HSU,"Villanueva, Ari","Drange, Marissa","Rodriguez, Jenna",,,,0,0,26,26,"[Villanueva, Ari] Kill by Drange, Marissa (from Rodriguez, Jenna).",TrinTX,HSU
+3,53,52,TrinTX,attack,kill,TrinTX,"Lanik, Annabelle","McCarthy, Lauren","Verhoff, Anna",,,,0,1,26,27,"[Lanik, Annabelle] Kill by McCarthy, Lauren (from Verhoff, Anna).",TrinTX,HSU
+3,54,53,HSU,block,attack_error,TrinTX,"Lanik, Annabelle","Whatley, Reagan",,"Nordt, Rachel; Tumlinson, Avery","Whatley, Reagan",,0,0,27,27,"[Lanik, Annabelle] Attack error by Whatley, Reagan (block by Nordt, Rachel; Tumlinson, Avery).",TrinTX,HSU
+3,55,54,TrinTX,attack,kill,HSU,"Martinez, Kat","Whatley, Reagan","Verhoff, Anna",,,,0,1,27,28,"[Martinez, Kat] Kill by Whatley, Reagan (from Verhoff, Anna).",TrinTX,HSU
+3,56,55,HSU,attack,kill,TrinTX,"McCarthy, Lauren","Nordt, Rachel","O'Shaughnessy, Allison",,,,0,1,28,28,"[McCarthy, Lauren] Kill by Nordt, Rachel (from O'Shaughnessy, Allison).",TrinTX,HSU
+3,57,56,HSU,attack,kill,HSU,"Nordt, Rachel","Hernandez, Jadyn","Jespersen, Leigh",,,,0,1,29,28,"[Nordt, Rachel] Kill by Hernandez, Jadyn (from Jespersen, Leigh).",TrinTX,HSU
+3,58,57,HSU,error,attack_error,HSU,"Nordt, Rachel","Whatley, Reagan","Verhoff, Anna",,"Whatley, Reagan",,0,0,30,28,"[Nordt, Rachel] Attack error by Whatley, Reagan (from Verhoff, Anna).",TrinTX,HSU
+4,1,0,TrinTX,attack,kill,HSU,"Rodgers, Keatyn","Pope, Courtney","Dhayer, Jozie",,,,0,1,0,1,"[Rodgers, Keatyn] Kill by Pope, Courtney (from Dhayer, Jozie).",TrinTX,HSU
+4,2,1,HSU,attack,kill,TrinTX,"Rodriguez, Jenna","Hernandez, Jadyn","Rodgers, Keatyn",,,,0,1,1,1,"[Rodriguez, Jenna] Kill by Hernandez, Jadyn (from Rodgers, Keatyn).",TrinTX,HSU
+4,3,2,TrinTX,error,attack_error,HSU,"Jespersen, Leigh","Allen, Abbi","Rodgers, Keatyn",,"Allen, Abbi",,0,0,1,2,"[Jespersen, Leigh] Attack error by Allen, Abbi (from Rodgers, Keatyn).",TrinTX,HSU
+4,4,3,HSU,error,attack_error,TrinTX,"DeRivel, Kendall","Whatley, Reagan","Rodriguez, Jenna",,"Whatley, Reagan",,0,1,2,2,"[DeRivel, Kendall] Attack error by Whatley, Reagan (from Rodriguez, Jenna).",TrinTX,HSU
+4,5,4,TrinTX,error,attack_error,HSU,"Hernandez, Jadyn","Tumlinson, Avery","Rodgers, Keatyn",,"Tumlinson, Avery",,0,1,2,3,"[Hernandez, Jadyn] Attack error by Tumlinson, Avery (from Rodgers, Keatyn).",TrinTX,HSU
+4,6,5,HSU,attack,kill,TrinTX,"Whatley, Reagan","Keidl, Liz","Rodgers, Keatyn",,,,0,1,3,3,"[Whatley, Reagan] Kill by Keidl, Liz (from Rodgers, Keatyn).",TrinTX,HSU
+4,7,6,TrinTX,error,attack_error,HSU,"O'Shaughnessy, Allison","Keidl, Liz","O'Shaughnessy, Allison",,"Keidl, Liz",,0,1,3,4,"[O'Shaughnessy, Allison] Attack error by Keidl, Liz (from O'Shaughnessy, Allison).",TrinTX,HSU
+4,8,7,HSU,attack,kill,TrinTX,"McCarthy, Lauren","Nordt, Rachel","O'Shaughnessy, Allison",,,,0,1,4,4,"[McCarthy, Lauren] Kill by Nordt, Rachel (from O'Shaughnessy, Allison).",TrinTX,HSU
+4,9,8,TrinTX,attack,kill,HSU,"Villanueva, Ari","DeRivel, Kendall","Rodriguez, Jenna",,,,0,1,4,5,"[Villanueva, Ari] Kill by DeRivel, Kendall (from Rodriguez, Jenna).",TrinTX,HSU
+4,10,9,HSU,attack,kill,TrinTX,"Dhayer, Jozie","Nordt, Rachel","Villanueva, Ari",,"Drange, Marissa",,0,1,5,5,"[Dhayer, Jozie] Kill by Nordt, Rachel (from Villanueva, Ari), block error by Drange, Marissa.",TrinTX,HSU
+4,11,10,HSU,attack,kill,HSU,"Martinez, Kat","Hernandez, Jadyn","O'Shaughnessy, Allison",,,,0,1,6,5,"[Martinez, Kat] Kill by Hernandez, Jadyn (from O'Shaughnessy, Allison).",TrinTX,HSU
+4,12,11,TrinTX,attack,kill,HSU,"Martinez, Kat","Drange, Marissa","Dhayer, Jozie",,,,0,0,6,6,"[Martinez, Kat] Kill by Drange, Marissa (from Dhayer, Jozie).",TrinTX,HSU
+4,13,12,HSU,attack,kill,TrinTX,"Lanik, Annabelle","Hernandez, Jadyn","O'Shaughnessy, Allison",,,,0,1,7,6,"[Lanik, Annabelle] Kill by Hernandez, Jadyn (from O'Shaughnessy, Allison).",TrinTX,HSU
+4,14,13,HSU,attack,kill,HSU,"Rodgers, Keatyn","Jespersen, Leigh","Rodgers, Keatyn",,,,0,1,8,6,"[Rodgers, Keatyn] Kill by Jespersen, Leigh (from Rodgers, Keatyn).",TrinTX,HSU
+4,15,14,HSU,block,attack_error,HSU,"Rodgers, Keatyn","Pope, Courtney",,"Hernandez, Jadyn; Jespersen, Leigh","Pope, Courtney",,0,0,9,6,"[Rodgers, Keatyn] Attack error by Pope, Courtney (block by Hernandez, Jadyn; Jespersen, Leigh).",TrinTX,HSU
+4,16,15,TrinTX,error,attack_error,HSU,"Rodgers, Keatyn","Jespersen, Leigh","Rodgers, Keatyn",,"Jespersen, Leigh",,0,0,9,7,"[Rodgers, Keatyn] Attack error by Jespersen, Leigh (from Rodgers, Keatyn).",TrinTX,HSU
+4,17,16,HSU,block,attack_error,TrinTX,"Rodriguez, Jenna","Whatley, Reagan",,"Hernandez, Jadyn; Allen, Abbi","Whatley, Reagan",,0,1,10,7,"[Rodriguez, Jenna] Attack error by Whatley, Reagan (block by Hernandez, Jadyn; Allen, Abbi).",TrinTX,HSU
+4,18,17,TrinTX,error,attack_error,HSU,"Jespersen, Leigh","Hernandez, Jadyn","Rodgers, Keatyn",,"Hernandez, Jadyn",,0,1,10,8,"[Jespersen, Leigh] Attack error by Hernandez, Jadyn (from Rodgers, Keatyn).",TrinTX,HSU
+4,19,18,TrinTX,attack,kill,TrinTX,"DeRivel, Kendall","Whatley, Reagan","DeRivel, Kendall",,,,0,1,10,9,"[DeRivel, Kendall] Kill by Whatley, Reagan (from DeRivel, Kendall).",TrinTX,HSU
+4,20,19,HSU,error,attack_error,TrinTX,"DeRivel, Kendall","McCarthy, Lauren","DeRivel, Kendall",,"McCarthy, Lauren",,0,0,11,9,"[DeRivel, Kendall] Attack error by McCarthy, Lauren (from DeRivel, Kendall).",TrinTX,HSU
+4,21,20,TrinTX,attack,kill,HSU,"Hernandez, Jadyn","Whatley, Reagan","DeRivel, Kendall",,,,0,1,11,10,"[Hernandez, Jadyn] Kill by Whatley, Reagan (from DeRivel, Kendall).",TrinTX,HSU
+4,22,21,TrinTX,attack,kill,TrinTX,"Whatley, Reagan","McWilliams, Connelley","Rodgers, Keatyn",,,,0,1,11,11,"[Whatley, Reagan] Kill by McWilliams, Connelley (from Rodgers, Keatyn).",TrinTX,HSU
+4,23,22,TrinTX,error,attack_error,TrinTX,"Whatley, Reagan","Tumlinson, Avery","Rodgers, Keatyn",,"Tumlinson, Avery",,0,0,11,12,"[Whatley, Reagan] Attack error by Tumlinson, Avery (from Rodgers, Keatyn).",TrinTX,HSU
+4,24,23,HSU,attack,kill,TrinTX,"Whatley, Reagan","Tumlinson, Avery","Rodgers, Keatyn",,,,0,0,12,12,"[Whatley, Reagan] Kill by Tumlinson, Avery (from Rodgers, Keatyn).",TrinTX,HSU
+4,25,24,HSU,attack,kill,HSU,"O'Shaughnessy, Allison","Jespersen, Leigh","O'Shaughnessy, Allison",,,,0,1,13,12,"[O'Shaughnessy, Allison] Kill by Jespersen, Leigh (from O'Shaughnessy, Allison).",TrinTX,HSU
+4,26,25,TrinTX,attack,kill,HSU,"O'Shaughnessy, Allison","McCarthy, Lauren","DeRivel, Kendall",,,,0,0,13,13,"[O'Shaughnessy, Allison] Kill by McCarthy, Lauren (from DeRivel, Kendall).",TrinTX,HSU
+4,27,26,TrinTX,ace,service_ace,TrinTX,"McCarthy, Lauren",,,,,"Keidl, Liz",0,1,13,14,"[McCarthy, Lauren] Service ace (Keidl, Liz).",TrinTX,HSU
+4,28,27,HSU,attack,kill,TrinTX,"McCarthy, Lauren","Tumlinson, Avery","O'Shaughnessy, Allison",,,,0,0,14,14,"[McCarthy, Lauren] Kill by Tumlinson, Avery (from O'Shaughnessy, Allison).",TrinTX,HSU
+4,29,28,TrinTX,attack,kill,HSU,"Villanueva, Ari","McWilliams, Connelley","DeRivel, Kendall",,,,0,1,14,15,"[Villanueva, Ari] Kill by McWilliams, Connelley (from DeRivel, Kendall).",TrinTX,HSU
+4,30,29,TrinTX,attack,kill,TrinTX,"Dhayer, Jozie","Pope, Courtney","Dhayer, Jozie",,,,0,1,14,16,"[Dhayer, Jozie] Kill by Pope, Courtney (from Dhayer, Jozie).",TrinTX,HSU
+4,31,30,HSU,attack,kill,TrinTX,"Dhayer, Jozie","Nordt, Rachel","O'Shaughnessy, Allison",,,,0,0,15,16,"[Dhayer, Jozie] Kill by Nordt, Rachel (from O'Shaughnessy, Allison).",TrinTX,HSU
+4,32,31,HSU,ace,service_ace,HSU,"Martinez, Kat",,,,,"Whatley, Reagan",0,1,16,16,"[Martinez, Kat] Service ace (Whatley, Reagan).",TrinTX,HSU
+4,33,32,TrinTX,attack,kill,HSU,"Martinez, Kat","Pope, Courtney","Dhayer, Jozie",,,,0,0,16,17,"[Martinez, Kat] Kill by Pope, Courtney (from Dhayer, Jozie).",TrinTX,HSU
+4,34,33,HSU,error,attack_error,TrinTX,"Lanik, Annabelle","Whatley, Reagan","Dhayer, Jozie",,"Whatley, Reagan",,0,1,17,17,"[Lanik, Annabelle] Attack error by Whatley, Reagan (from Dhayer, Jozie).",TrinTX,HSU
+4,35,34,HSU,error,ball_handling_error,HSU,"Rodgers, Keatyn",,,,"Dhayer, Jozie",,0,1,18,17,"[Rodgers, Keatyn] Bad set by Dhayer, Jozie.",TrinTX,HSU
+4,36,35,HSU,error,attack_error,HSU,"Rodgers, Keatyn","Pope, Courtney","Whatley, Reagan",,"Pope, Courtney",,0,0,19,17,"[Rodgers, Keatyn] Attack error by Pope, Courtney (from Whatley, Reagan).",TrinTX,HSU
+4,37,36,HSU,ace,service_ace,HSU,"Rodgers, Keatyn",,,,,"Rodriguez, Jenna",0,0,20,17,"[Rodgers, Keatyn] Service ace (Rodriguez, Jenna).",TrinTX,HSU
+4,38,37,HSU,ace,service_ace,HSU,"Rodgers, Keatyn",,,,,"Rodriguez, Jenna",0,0,21,17,"[Rodgers, Keatyn] Service ace (Rodriguez, Jenna).",TrinTX,HSU
+4,39,38,TrinTX,attack,kill,HSU,"Rodgers, Keatyn","Pope, Courtney","Dhayer, Jozie",,,,0,0,21,18,"[Rodgers, Keatyn] Kill by Pope, Courtney (from Dhayer, Jozie).",TrinTX,HSU
+4,40,39,HSU,attack,kill,TrinTX,"Rodriguez, Jenna","Hernandez, Jadyn","Rodgers, Keatyn",,,,0,1,22,18,"[Rodriguez, Jenna] Kill by Hernandez, Jadyn (from Rodgers, Keatyn).",TrinTX,HSU
+4,41,40,TrinTX,error,service_error,HSU,"Jespersen, Leigh",,,,"Jespersen, Leigh",,0,1,22,19,"[Jespersen, Leigh] Service error.",TrinTX,HSU
+4,42,41,TrinTX,attack,kill,TrinTX,"DeRivel, Kendall","Whatley, Reagan","Rodriguez, Jenna",,,,0,1,22,20,"[DeRivel, Kendall] Kill by Whatley, Reagan (from Rodriguez, Jenna).",TrinTX,HSU
+4,43,42,TrinTX,attack,kill,TrinTX,"DeRivel, Kendall","McCarthy, Lauren","DeRivel, Kendall",,,,0,0,22,21,"[DeRivel, Kendall] Kill by McCarthy, Lauren (from DeRivel, Kendall).",TrinTX,HSU
+4,44,43,TrinTX,attack,kill,TrinTX,"DeRivel, Kendall","McCarthy, Lauren","DeRivel, Kendall",,,,0,0,22,22,"[DeRivel, Kendall] Kill by McCarthy, Lauren (from DeRivel, Kendall).",TrinTX,HSU
+4,45,44,TrinTX,error,attack_error,TrinTX,"DeRivel, Kendall","Hernandez, Jadyn","Rodgers, Keatyn",,"Hernandez, Jadyn",,0,0,22,23,"[DeRivel, Kendall] Attack error by Hernandez, Jadyn (from Rodgers, Keatyn).",TrinTX,HSU
+4,46,45,HSU,attack,kill,TrinTX,"DeRivel, Kendall","Hernandez, Jadyn","Rodgers, Keatyn",,,,0,0,23,23,"[DeRivel, Kendall] Kill by Hernandez, Jadyn (from Rodgers, Keatyn).",TrinTX,HSU
+4,47,46,TrinTX,attack,kill,HSU,"Hernandez, Jadyn","McCarthy, Lauren","DeRivel, Kendall",,,,0,1,23,24,"[Hernandez, Jadyn] Kill by McCarthy, Lauren (from DeRivel, Kendall).",TrinTX,HSU
+4,48,47,TrinTX,block,attack_error,TrinTX,"Whatley, Reagan","Allen, Abbi",,"Lanik, Annabelle; McCarthy, Lauren","Allen, Abbi",,0,1,23,25,"[Whatley, Reagan] Attack error by Allen, Abbi (block by Lanik, Annabelle; McCarthy, Lauren).",TrinTX,HSU

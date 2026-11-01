@@ -1,0 +1,172 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,Transylvania,error,service_error,,"O'Connor, Alex",,,,"O'Connor, Alex",,0,0,1,0,"[O'Connor, Alex] Service error",Bluffton,Transylvania
+1,2,1,Bluffton,attack,kill,,"Pack, Bekah","Woods, Jenna","Williams, Gabby",,,,0,0,1,1,"[Pack, Bekah] Kill by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+1,3,2,Transylvania,error,service_error,,"Pack, Bekah",,,,"Pack, Bekah",,0,0,2,1,"[Pack, Bekah] Service error",Bluffton,Transylvania
+1,4,3,Transylvania,error,attack_error,,"Brown, Julia","Woods, Jenna","Williams, Gabby",,"Woods, Jenna",,0,0,3,1,"[Brown, Julia] Attack error by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+1,5,4,Bluffton,attack,kill,,"Brown, Julia","Woods, Jenna","Williams, Gabby",,,,0,0,3,2,"[Brown, Julia] Kill by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+1,6,5,Transylvania,error,service_error,,"Ickes, Mariana",,,,"Ickes, Mariana",,0,1,4,2,"[Ickes, Mariana] Service error",Bluffton,Transylvania
+1,7,6,Transylvania,attack,kill,,"Lentz, Macy","Kaiser, Lilly","Lentz, Macy",,,,0,1,5,2,"[Lentz, Macy] Kill by Kaiser, Lilly (from Lentz, Macy)",Bluffton,Transylvania
+1,8,7,Bluffton,attack,kill,,"Lentz, Macy","Woods, Jenna","Williams, Gabby",,,,0,0,5,3,"[Lentz, Macy] Kill by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+1,9,8,Transylvania,error,service_error,,"Woods, Jenna",,,,"Woods, Jenna",,0,1,6,3,"[Woods, Jenna] Service error",Bluffton,Transylvania
+1,10,9,Bluffton,error,ball_handling_error,,"Myers, Isabella",,,,"Brown, Julia",,0,1,6,4,"[Myers, Isabella] Bad set by Brown, Julia",Bluffton,Transylvania
+1,11,10,Bluffton,block,attack_error,,"Organ, Emma","Kaiser, Lilly",,"Pack, Bekah","Kaiser, Lilly",,0,0,6,5,"[Organ, Emma] Attack error by Kaiser, Lilly (block by Pack, Bekah)",Bluffton,Transylvania
+1,12,11,Bluffton,attack,kill,,"Organ, Emma","Pack, Bekah",,,,,0,0,6,6,"[Organ, Emma] Kill by Pack, Bekah",Bluffton,Transylvania
+1,13,12,Bluffton,error,attack_error,,"Organ, Emma","Kaiser, Lilly","Lentz, Macy",,"Kaiser, Lilly",,0,0,6,7,"[Organ, Emma] Attack error by Kaiser, Lilly (from Lentz, Macy)",Bluffton,Transylvania
+1,14,13,Transylvania,attack,kill,,"Organ, Emma","Jarvis, Addison","Myers, Isabella",,,,0,0,7,7,"[Organ, Emma] Kill by Jarvis, Addison (from Myers, Isabella)",Bluffton,Transylvania
+1,15,14,Bluffton,error,attack_error,,"Kaiser, Lilly","Jarvis, Addison","Myers, Isabella",,"Jarvis, Addison",,0,0,7,8,"[Kaiser, Lilly] Attack error by Jarvis, Addison (from Myers, Isabella)",Bluffton,Transylvania
+1,16,15,Transylvania,attack,kill,,"Williams, Gabby","Roberts, Cecelia","Lentz, Macy",,,,0,0,8,8,"[Williams, Gabby] Kill by Roberts, Cecelia (from Lentz, Macy)",Bluffton,Transylvania
+1,17,16,Bluffton,error,attack_error,,"Beatty, Kennedy","Lentz, Macy","Brown, Julia",,"Lentz, Macy",,0,0,8,9,"[Beatty, Kennedy] Attack error by Lentz, Macy (from Brown, Julia)",Bluffton,Transylvania
+1,18,17,Bluffton,attack,kill,,"Lawhorn, Abby","Woods, Jenna","Williams, Gabby",,,,0,0,8,10,"[Lawhorn, Abby] Kill by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+1,19,18,Transylvania,error,attack_error,,"Lawhorn, Abby","Woods, Jenna","Williams, Gabby",,"Woods, Jenna",,0,0,9,10,"[Lawhorn, Abby] Attack error by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+1,20,19,Bluffton,block,attack_error,,"O'Connor, Alex","Roberts, Cecelia",,"Pack, Bekah; Woods, Jenna","Roberts, Cecelia",,0,0,9,11,"[O'Connor, Alex] Attack error by Roberts, Cecelia (block by Pack, Bekah; Woods, Jenna)",Bluffton,Transylvania
+1,21,20,Transylvania,attack,kill,,"Pack, Bekah","Myers, Isabella","Lentz, Macy",,,,0,0,10,11,"[Pack, Bekah] Kill by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+1,22,21,Bluffton,attack,kill,,"Brown, Julia","Woods, Jenna","Williams, Gabby",,"Myers, Isabella",,0,0,10,12,"[Brown, Julia] Kill by Woods, Jenna (from Williams, Gabby), block error by Myers, Isabella",Bluffton,Transylvania
+1,23,22,Transylvania,attack,kill,,"Ickes, Mariana","Kaiser, Lilly","Lentz, Macy",,,,0,0,11,12,"[Ickes, Mariana] Kill by Kaiser, Lilly (from Lentz, Macy)",Bluffton,Transylvania
+1,24,23,Transylvania,attack,kill,,"Lentz, Macy","Kaiser, Lilly","Lentz, Macy",,"Sager, Kasey",,0,0,12,12,"[Lentz, Macy] Kill by Kaiser, Lilly (from Lentz, Macy), block error by Sager, Kasey",Bluffton,Transylvania
+1,25,24,Bluffton,block,attack_error,,"Lentz, Macy","Mast, Peyton",,"Sager, Kasey","Mast, Peyton",,0,0,12,13,"[Lentz, Macy] Attack error by Mast, Peyton (block by Sager, Kasey)",Bluffton,Transylvania
+1,26,25,Transylvania,error,attack_error,,"Nuss, Ashlie","Brentlinger, Madison","Williams, Gabby",,"Brentlinger, Madison",,0,1,13,13,"[Nuss, Ashlie] Attack error by Brentlinger, Madison (from Williams, Gabby)",Bluffton,Transylvania
+1,27,26,Transylvania,attack,kill,,"Myers, Isabella","Mast, Peyton","Lentz, Macy",,,,0,0,14,13,"[Myers, Isabella] Kill by Mast, Peyton (from Lentz, Macy)",Bluffton,Transylvania
+1,28,27,Transylvania,attack,kill,,"Myers, Isabella","Kaiser, Lilly",,,,,0,0,15,13,"[Myers, Isabella] Kill by Kaiser, Lilly",Bluffton,Transylvania
+1,29,28,Transylvania,ace,service_ace,,"Myers, Isabella",,,,,Team,0,0,16,13,"[Myers, Isabella] Service ace (Team)",Bluffton,Transylvania
+1,30,29,Transylvania,ace,service_ace,,"Myers, Isabella",,,,,Team,0,0,17,13,"[Myers, Isabella] Service ace (Team)",Bluffton,Transylvania
+1,31,30,Transylvania,attack,kill,,"Myers, Isabella","Jarvis, Addison","Lentz, Macy",,,,0,0,18,13,"[Myers, Isabella] Kill by Jarvis, Addison (from Lentz, Macy)",Bluffton,Transylvania
+1,32,31,Bluffton,attack,kill,,"Myers, Isabella","Brentlinger, Madison","Williams, Gabby",,,,0,0,18,14,"[Myers, Isabella] Kill by Brentlinger, Madison (from Williams, Gabby)",Bluffton,Transylvania
+1,33,32,Transylvania,attack,kill,,"Organ, Emma","Mast, Peyton","Lentz, Macy",,,,0,0,19,14,"[Organ, Emma] Kill by Mast, Peyton (from Lentz, Macy)",Bluffton,Transylvania
+1,34,33,Bluffton,attack,kill,,"Kaiser, Lilly","Brentlinger, Madison","Williams, Gabby",,,,0,0,19,15,"[Kaiser, Lilly] Kill by Brentlinger, Madison (from Williams, Gabby)",Bluffton,Transylvania
+1,35,34,Transylvania,attack,kill,,"Williams, Gabby","Roberts, Cecelia","Lentz, Macy",,,,0,0,20,15,"[Williams, Gabby] Kill by Roberts, Cecelia (from Lentz, Macy)",Bluffton,Transylvania
+1,36,35,Transylvania,attack,kill,,"Beatty, Kennedy","Lentz, Macy",,,,,0,0,21,15,"[Beatty, Kennedy] Kill by Lentz, Macy",Bluffton,Transylvania
+1,37,36,Bluffton,error,ball_handling_error,,"Beatty, Kennedy",,,,"Roberts, Cecelia",,0,0,21,16,"[Beatty, Kennedy] Bad set by Roberts, Cecelia",Bluffton,Transylvania
+1,38,37,Bluffton,attack,kill,,"Lawhorn, Abby","Woods, Jenna","Williams, Gabby",,,,0,0,21,17,"[Lawhorn, Abby] Kill by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+1,39,38,Transylvania,error,attack_error,,"Lawhorn, Abby","Woods, Jenna",,,"Woods, Jenna",,0,0,22,17,"[Lawhorn, Abby] Attack error by Woods, Jenna",Bluffton,Transylvania
+1,40,39,Transylvania,attack,kill,,"O'Connor, Alex","Roberts, Cecelia","Lentz, Macy",,,,0,0,23,17,"[O'Connor, Alex] Kill by Roberts, Cecelia (from Lentz, Macy)",Bluffton,Transylvania
+1,41,40,Transylvania,block,attack_error,,"O'Connor, Alex","Pack, Bekah",,"Roberts, Cecelia; Myers, Isabella","Pack, Bekah",,0,0,24,17,"[O'Connor, Alex] Attack error by Pack, Bekah (block by Roberts, Cecelia; Myers, Isabella)",Bluffton,Transylvania
+1,42,41,Transylvania,block,attack_error,,"O'Connor, Alex","Woods, Jenna",,"Roberts, Cecelia","Woods, Jenna",,0,0,25,17,"[O'Connor, Alex] Attack error by Woods, Jenna (block by Roberts, Cecelia)",Bluffton,Transylvania
+1,43,42,Bluffton,attack,kill,,"O'Connor, Alex","Pack, Bekah","Williams, Gabby",,,,0,0,25,18,"[O'Connor, Alex] Kill by Pack, Bekah (from Williams, Gabby)",Bluffton,Transylvania
+1,44,43,Bluffton,error,attack_error,,"McCombs, Ella","Myers, Isabella","Lentz, Macy",,"Myers, Isabella",,0,1,25,19,"[McCombs, Ella] Attack error by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+1,45,44,Transylvania,error,attack_error,,"McCombs, Ella","Woods, Jenna","Williams, Gabby",,"Woods, Jenna",,0,0,26,19,"[McCombs, Ella] Attack error by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+2,1,0,Transylvania,ace,service_ace,,"Lawhorn, Abby",,,,,Team,0,1,1,0,"[Lawhorn, Abby] Service ace (Team)",Bluffton,Transylvania
+2,2,1,Transylvania,attack,kill,,"Lawhorn, Abby","Roberts, Cecelia","Lentz, Macy",,,,0,0,2,0,"[Lawhorn, Abby] Kill by Roberts, Cecelia (from Lentz, Macy)",Bluffton,Transylvania
+2,3,2,Transylvania,attack,kill,,"Brown, Julia","Myers, Isabella","Lentz, Macy",,,,0,0,3,0,"[Brown, Julia] Kill by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+2,4,3,Bluffton,attack,kill,,"Brown, Julia","Woods, Jenna","Williams, Gabby",,,,0,0,3,1,"[Brown, Julia] Kill by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+2,5,4,Bluffton,error,attack_error,,"Pack, Bekah","Myers, Isabella","Lentz, Macy",,"Myers, Isabella",,0,0,3,2,"[Pack, Bekah] Attack error by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+2,6,5,Transylvania,attack,kill,,"Pack, Bekah","Kaiser, Lilly","Lentz, Macy",,,,0,0,4,2,"[Pack, Bekah] Kill by Kaiser, Lilly (from Lentz, Macy)",Bluffton,Transylvania
+2,7,6,Transylvania,error,attack_error,,"Lentz, Macy","Sager, Kasey","Williams, Gabby",,"Sager, Kasey",,0,1,5,2,"[Lentz, Macy] Attack error by Sager, Kasey (from Williams, Gabby)",Bluffton,Transylvania
+2,8,7,Bluffton,error,attack_error,,"Lentz, Macy","Myers, Isabella","Brown, Julia",,"Myers, Isabella",,0,0,5,3,"[Lentz, Macy] Attack error by Myers, Isabella (from Brown, Julia)",Bluffton,Transylvania
+2,9,8,Bluffton,ace,service_ace,,"Ickes, Mariana",,,,,"O'Connor, Alex",0,1,5,4,"[Ickes, Mariana] Service ace (O'Connor, Alex)",Bluffton,Transylvania
+2,10,9,Transylvania,attack,kill,,"Ickes, Mariana","Mast, Peyton","Lentz, Macy",,,,0,0,6,4,"[Ickes, Mariana] Kill by Mast, Peyton (from Lentz, Macy)",Bluffton,Transylvania
+2,11,10,Transylvania,block,attack_error,,"Myers, Isabella","Williams, Gabby",,"Jarvis, Addison","Williams, Gabby",,0,1,7,4,"[Myers, Isabella] Attack error by Williams, Gabby (block by Jarvis, Addison)",Bluffton,Transylvania
+2,12,11,Bluffton,attack,kill,,"Myers, Isabella","Woods, Jenna","Williams, Gabby",,,,0,0,7,5,"[Myers, Isabella] Kill by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+2,13,12,Bluffton,ace,service_ace,,"Woods, Jenna",,,,,"Jarvis, Addison",0,1,7,6,"[Woods, Jenna] Service ace (Jarvis, Addison)",Bluffton,Transylvania
+2,14,13,Transylvania,error,service_error,,"Woods, Jenna",,,,"Woods, Jenna",,0,0,8,6,"[Woods, Jenna] Service error",Bluffton,Transylvania
+2,15,14,Transylvania,attack,kill,,"Kaiser, Lilly","Roberts, Cecelia","Lentz, Macy",,,,0,0,9,6,"[Kaiser, Lilly] Kill by Roberts, Cecelia (from Lentz, Macy)",Bluffton,Transylvania
+2,16,15,Bluffton,attack,kill,,"Kaiser, Lilly","Woods, Jenna",,,,,0,0,9,7,"[Kaiser, Lilly] Kill by Woods, Jenna",Bluffton,Transylvania
+2,17,16,Transylvania,attack,kill,,"Organ, Emma","Roberts, Cecelia","Lentz, Macy",,,,0,0,10,7,"[Organ, Emma] Kill by Roberts, Cecelia (from Lentz, Macy)",Bluffton,Transylvania
+2,18,17,Transylvania,error,attack_error,,"Beatty, Kennedy","Woods, Jenna","Williams, Gabby",,"Woods, Jenna",,0,0,11,7,"[Beatty, Kennedy] Attack error by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+2,19,18,Transylvania,attack,kill,,"Beatty, Kennedy","Jarvis, Addison","Lentz, Macy",,"Pack, Bekah",,0,0,12,7,"[Beatty, Kennedy] Kill by Jarvis, Addison (from Lentz, Macy), block error by Pack, Bekah",Bluffton,Transylvania
+2,20,19,Bluffton,attack,kill,,"Beatty, Kennedy","Brentlinger, Madison","Williams, Gabby",,,,0,0,12,8,"[Beatty, Kennedy] Kill by Brentlinger, Madison (from Williams, Gabby)",Bluffton,Transylvania
+2,21,20,Bluffton,attack,kill,,"Williams, Gabby","Brentlinger, Madison","Williams, Gabby",,,,0,0,12,9,"[Williams, Gabby] Kill by Brentlinger, Madison (from Williams, Gabby)",Bluffton,Transylvania
+2,22,21,Bluffton,error,attack_error,,"Williams, Gabby","Lentz, Macy",,,"Lentz, Macy",,0,0,12,10,"[Williams, Gabby] Attack error by Lentz, Macy",Bluffton,Transylvania
+2,23,22,Bluffton,error,attack_error,,"Williams, Gabby","Jarvis, Addison","Lentz, Macy",,"Jarvis, Addison",,0,0,12,11,"[Williams, Gabby] Attack error by Jarvis, Addison (from Lentz, Macy)",Bluffton,Transylvania
+2,24,23,Bluffton,attack,kill,,"Williams, Gabby","Massie, Paige",,,,,0,0,12,12,"[Williams, Gabby] Kill by Massie, Paige",Bluffton,Transylvania
+2,25,24,Transylvania,attack,kill,,"Williams, Gabby","Myers, Isabella","Lentz, Macy",,,,0,0,13,12,"[Williams, Gabby] Kill by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+2,26,25,Transylvania,block,attack_error,,"O'Connor, Alex","Brentlinger, Madison",,"Roberts, Cecelia; Lentz, Macy","Brentlinger, Madison",,0,0,14,12,"[O'Connor, Alex] Attack error by Brentlinger, Madison (block by Roberts, Cecelia; Lentz, Macy)",Bluffton,Transylvania
+2,27,26,Transylvania,ace,service_ace,,"O'Connor, Alex",,,,,Team,0,0,15,12,"[O'Connor, Alex] Service ace (Team)",Bluffton,Transylvania
+2,28,27,Bluffton,attack,kill,,"O'Connor, Alex","Brentlinger, Madison","Williams, Gabby",,,,0,0,15,13,"[O'Connor, Alex] Kill by Brentlinger, Madison (from Williams, Gabby)",Bluffton,Transylvania
+2,29,28,Bluffton,error,attack_error,,"Lawhorn, Abby","Myers, Isabella","Brown, Julia",,"Myers, Isabella",,0,0,15,14,"[Lawhorn, Abby] Attack error by Myers, Isabella (from Brown, Julia)",Bluffton,Transylvania
+2,30,29,Bluffton,attack,kill,,"Lawhorn, Abby","Pack, Bekah","Williams, Gabby",,,,0,0,15,15,"[Lawhorn, Abby] Kill by Pack, Bekah (from Williams, Gabby)",Bluffton,Transylvania
+2,31,30,Bluffton,error,attack_error,,"Lawhorn, Abby","Myers, Isabella","Lentz, Macy",,"Myers, Isabella",,0,0,15,16,"[Lawhorn, Abby] Attack error by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+2,32,31,Bluffton,attack,kill,,"Lawhorn, Abby","Woods, Jenna","Williams, Gabby",,,,0,0,15,17,"[Lawhorn, Abby] Kill by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+2,33,32,Transylvania,attack,kill,,"Lawhorn, Abby","Roberts, Cecelia","Lentz, Macy",,,,0,0,16,17,"[Lawhorn, Abby] Kill by Roberts, Cecelia (from Lentz, Macy)",Bluffton,Transylvania
+2,34,33,Transylvania,error,attack_error,,"Brown, Julia","Woods, Jenna","Williams, Gabby",,"Woods, Jenna",,0,0,17,17,"[Brown, Julia] Attack error by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+2,35,34,Bluffton,attack,kill,,"Brown, Julia","Pack, Bekah","Williams, Gabby",,,,0,0,17,18,"[Brown, Julia] Kill by Pack, Bekah (from Williams, Gabby)",Bluffton,Transylvania
+2,36,35,Transylvania,error,attack_error,,"McCombs, Ella","Massie, Paige","Williams, Gabby",,"Massie, Paige",,0,1,18,18,"[McCombs, Ella] Attack error by Massie, Paige (from Williams, Gabby)",Bluffton,Transylvania
+2,37,36,Bluffton,error,attack_error,,"Lentz, Macy","Myers, Isabella","Lentz, Macy",,"Myers, Isabella",,0,0,18,19,"[Lentz, Macy] Attack error by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+2,38,37,Transylvania,attack,kill,,"Ickes, Mariana","Myers, Isabella","Lentz, Macy",,,,0,0,19,19,"[Ickes, Mariana] Kill by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+2,39,38,Bluffton,attack,kill,,"Myers, Isabella","Sager, Kasey","Williams, Gabby",,,,0,0,19,20,"[Myers, Isabella] Kill by Sager, Kasey (from Williams, Gabby)",Bluffton,Transylvania
+2,40,39,Transylvania,attack,kill,,"Woods, Jenna","Mast, Peyton","Lentz, Macy",,,,0,0,20,20,"[Woods, Jenna] Kill by Mast, Peyton (from Lentz, Macy)",Bluffton,Transylvania
+2,41,40,Transylvania,error,attack_error,,"Kaiser, Lilly","Sager, Kasey","Williams, Gabby",,"Sager, Kasey",,0,0,21,20,"[Kaiser, Lilly] Attack error by Sager, Kasey (from Williams, Gabby)",Bluffton,Transylvania
+2,42,41,Transylvania,attack,kill,,"Kaiser, Lilly","Jarvis, Addison","Lentz, Macy",,,,0,0,22,20,"[Kaiser, Lilly] Kill by Jarvis, Addison (from Lentz, Macy)",Bluffton,Transylvania
+2,43,42,Bluffton,error,service_error,,"Kaiser, Lilly",,,,"Kaiser, Lilly",,0,0,22,21,"[Kaiser, Lilly] Service error",Bluffton,Transylvania
+2,44,43,Bluffton,error,attack_error,,"Organ, Emma","Roberts, Cecelia","Lentz, Macy",,"Roberts, Cecelia",,0,0,22,22,"[Organ, Emma] Attack error by Roberts, Cecelia (from Lentz, Macy)",Bluffton,Transylvania
+2,45,44,Transylvania,attack,kill,,"Organ, Emma","Roberts, Cecelia","Lentz, Macy",,,,0,0,23,22,"[Organ, Emma] Kill by Roberts, Cecelia (from Lentz, Macy)",Bluffton,Transylvania
+2,46,45,Transylvania,block,attack_error,,"Beatty, Kennedy","Brentlinger, Madison",,"Lentz, Macy","Brentlinger, Madison",,0,0,24,22,"[Beatty, Kennedy] Attack error by Brentlinger, Madison (block by Lentz, Macy)",Bluffton,Transylvania
+2,47,46,Bluffton,error,attack_error,,"Beatty, Kennedy","Roberts, Cecelia","Lentz, Macy",,"Roberts, Cecelia",,0,0,24,23,"[Beatty, Kennedy] Attack error by Roberts, Cecelia (from Lentz, Macy)",Bluffton,Transylvania
+2,48,47,Bluffton,block,attack_error,,"Williams, Gabby","Jarvis, Addison",,"Pack, Bekah","Jarvis, Addison",,0,0,24,24,"[Williams, Gabby] Attack error by Jarvis, Addison (block by Pack, Bekah)",Bluffton,Transylvania
+3,1,0,Transylvania,attack,kill,,"O'Connor, Alex","Pack, Bekah","Williams, Gabby",,,,0,1,1,0,"[O'Connor, Alex] Kill by Pack, Bekah (from Williams, Gabby)",Bluffton,Transylvania
+3,2,1,Transylvania,attack,kill,,"Pack, Bekah","Myers, Isabella","Lentz, Macy",,,,0,0,2,0,"[Pack, Bekah] Kill by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+3,3,2,Transylvania,error,attack_error,,"Brown, Julia","Massie, Paige","Williams, Gabby",,"Massie, Paige",,0,0,3,0,"[Brown, Julia] Attack error by Massie, Paige (from Williams, Gabby)",Bluffton,Transylvania
+3,4,3,Transylvania,attack,kill,,"Brown, Julia","Myers, Isabella","Lawhorn, Abby",,,,0,0,4,0,"[Brown, Julia] Kill by Myers, Isabella (from Lawhorn, Abby)",Bluffton,Transylvania
+3,5,4,Transylvania,attack,kill,,"Brown, Julia","Myers, Isabella","Brown, Julia",,,,0,0,5,0,"[Brown, Julia] Kill by Myers, Isabella (from Brown, Julia)",Bluffton,Transylvania
+3,6,5,Transylvania,error,attack_error,,"Brown, Julia","Massie, Paige","Williams, Gabby",,"Massie, Paige",,0,0,6,0,"[Brown, Julia] Attack error by Massie, Paige (from Williams, Gabby)",Bluffton,Transylvania
+3,7,6,Bluffton,error,attack_error,,"Brown, Julia","Kaiser, Lilly","Lentz, Macy",,"Kaiser, Lilly",,0,0,6,1,"[Brown, Julia] Attack error by Kaiser, Lilly (from Lentz, Macy)",Bluffton,Transylvania
+3,8,7,Transylvania,attack,kill,,"Ickes, Mariana","Kaiser, Lilly","Lentz, Macy",,,,0,1,7,1,"[Ickes, Mariana] Kill by Kaiser, Lilly (from Lentz, Macy)",Bluffton,Transylvania
+3,9,8,Transylvania,attack,kill,,"Lentz, Macy","Kaiser, Lilly","Lentz, Macy",,,,0,1,8,1,"[Lentz, Macy] Kill by Kaiser, Lilly (from Lentz, Macy)",Bluffton,Transylvania
+3,10,9,Bluffton,attack,kill,,"Lentz, Macy","Woods, Jenna","Williams, Gabby",,,,0,0,8,2,"[Lentz, Macy] Kill by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+3,11,10,Transylvania,error,service_error,,"Woods, Jenna",,,,"Woods, Jenna",,0,1,9,2,"[Woods, Jenna] Service error",Bluffton,Transylvania
+3,12,11,Transylvania,attack,kill,,"Myers, Isabella","Kaiser, Lilly","Lentz, Macy",,,,0,1,10,2,"[Myers, Isabella] Kill by Kaiser, Lilly (from Lentz, Macy)",Bluffton,Transylvania
+3,13,12,Transylvania,error,attack_error,,"Myers, Isabella","Sager, Kasey","Brentlinger, Madison",,"Sager, Kasey",,0,0,11,2,"[Myers, Isabella] Attack error by Sager, Kasey (from Brentlinger, Madison)",Bluffton,Transylvania
+3,14,13,Transylvania,ace,service_ace,,"Myers, Isabella",,,,,"Woods, Jenna",0,0,12,2,"[Myers, Isabella] Service ace (Woods, Jenna)",Bluffton,Transylvania
+3,15,14,Transylvania,attack,kill,,"Myers, Isabella","Mast, Peyton","Lentz, Macy",,,,0,1,13,2,"[Myers, Isabella] Kill by Mast, Peyton (from Lentz, Macy)",Bluffton,Transylvania
+3,16,15,Transylvania,attack,kill,,"Myers, Isabella","Kaiser, Lilly","Lentz, Macy",,,,0,0,14,2,"[Myers, Isabella] Kill by Kaiser, Lilly (from Lentz, Macy)",Bluffton,Transylvania
+3,17,16,Transylvania,attack,kill,,"Myers, Isabella","Mast, Peyton","Lentz, Macy",,,,0,0,15,2,"[Myers, Isabella] Kill by Mast, Peyton (from Lentz, Macy)",Bluffton,Transylvania
+3,18,17,Transylvania,ace,service_ace,,"Myers, Isabella",,,,,"Sites, Laila",0,1,16,2,"[Myers, Isabella] Service ace (Sites, Laila)",Bluffton,Transylvania
+3,19,18,Transylvania,attack,kill,,"Myers, Isabella","Mast, Peyton","Lentz, Macy",,"Sites, Laila",,0,0,17,2,"[Myers, Isabella] Kill by Mast, Peyton (from Lentz, Macy), block error by Sites, Laila",Bluffton,Transylvania
+3,20,19,Transylvania,error,attack_error,,"Myers, Isabella","Sager, Kasey","Taylor, Ella",,"Sager, Kasey",,0,0,18,2,"[Myers, Isabella] Attack error by Sager, Kasey (from Taylor, Ella)",Bluffton,Transylvania
+3,21,20,Bluffton,attack,kill,,"Myers, Isabella","Sager, Kasey","Taylor, Ella",,,,0,0,18,3,"[Myers, Isabella] Kill by Sager, Kasey (from Taylor, Ella)",Bluffton,Transylvania
+3,22,21,Transylvania,attack,kill,,"Organ, Emma","Kaiser, Lilly","Lentz, Macy",,,,0,0,19,3,"[Organ, Emma] Kill by Kaiser, Lilly (from Lentz, Macy)",Bluffton,Transylvania
+3,23,22,Transylvania,attack,kill,,"Kaiser, Lilly","Jarvis, Addison","Lentz, Macy",,,,0,0,20,3,"[Kaiser, Lilly] Kill by Jarvis, Addison (from Lentz, Macy)",Bluffton,Transylvania
+3,24,23,Bluffton,error,attack_error,,"Kaiser, Lilly","Roberts, Cecelia","Lentz, Macy",,"Roberts, Cecelia",,0,0,20,4,"[Kaiser, Lilly] Attack error by Roberts, Cecelia (from Lentz, Macy)",Bluffton,Transylvania
+3,25,24,Transylvania,error,ball_handling_error,,"Williams, Gabby",,,,"Williams, Gabby",,0,0,21,4,"[Williams, Gabby] Bad set by Williams, Gabby",Bluffton,Transylvania
+3,26,25,Transylvania,ace,service_ace,,"Beatty, Kennedy",,,,,"Woods, Jenna",0,0,22,4,"[Beatty, Kennedy] Service ace (Woods, Jenna)",Bluffton,Transylvania
+3,27,26,Bluffton,attack,kill,,"Beatty, Kennedy","Sites, Laila",,,,,0,1,22,5,"[Beatty, Kennedy] Kill by Sites, Laila",Bluffton,Transylvania
+3,28,27,Bluffton,error,attack_error,,"Lawhorn, Abby","Myers, Isabella","Lentz, Macy",,"Myers, Isabella",,0,0,22,6,"[Lawhorn, Abby] Attack error by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+3,29,28,Bluffton,attack,kill,,"Lawhorn, Abby","Pack, Bekah","Williams, Gabby",,,,0,0,22,7,"[Lawhorn, Abby] Kill by Pack, Bekah (from Williams, Gabby)",Bluffton,Transylvania
+3,30,29,Transylvania,error,service_error,,"Lawhorn, Abby",,,,"Lawhorn, Abby",,0,0,23,7,"[Lawhorn, Abby] Service error",Bluffton,Transylvania
+3,31,30,Transylvania,block,attack_error,,"O'Connor, Alex","Woods, Jenna",,"Lentz, Macy; Roberts, Cecelia","Woods, Jenna",,0,0,24,7,"[O'Connor, Alex] Attack error by Woods, Jenna (block by Lentz, Macy; Roberts, Cecelia)",Bluffton,Transylvania
+3,32,31,Bluffton,attack,kill,,"O'Connor, Alex","Pack, Bekah","Williams, Gabby",,,,0,0,24,8,"[O'Connor, Alex] Kill by Pack, Bekah (from Williams, Gabby)",Bluffton,Transylvania
+3,33,32,Transylvania,attack,kill,,"Pack, Bekah","Myers, Isabella","Lentz, Macy",,,,0,0,25,8,"[Pack, Bekah] Kill by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+3,34,33,Transylvania,attack,kill,,"Brown, Julia","Myers, Isabella","Lentz, Macy",,,,0,0,26,8,"[Brown, Julia] Kill by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+4,1,0,Transylvania,attack,kill,,"Lawhorn, Abby","Myers, Isabella","Lentz, Macy",,,,0,1,1,0,"[Lawhorn, Abby] Kill by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+4,2,1,Transylvania,attack,kill,,"Brown, Julia","Myers, Isabella","Lentz, Macy",,,,0,0,2,0,"[Brown, Julia] Kill by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+4,3,2,Bluffton,attack,kill,,"Brown, Julia","Woods, Jenna","Williams, Gabby",,,,0,0,2,1,"[Brown, Julia] Kill by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+4,4,3,Transylvania,error,attack_error,,"Organ, Emma","Woods, Jenna","Organ, Emma",,"Woods, Jenna",,0,0,3,1,"[Organ, Emma] Attack error by Woods, Jenna (from Organ, Emma)",Bluffton,Transylvania
+4,5,4,Bluffton,attack,kill,,"Lentz, Macy","Woods, Jenna","Williams, Gabby",,,,0,1,3,2,"[Lentz, Macy] Kill by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+4,6,5,Transylvania,attack,kill,,"Williams, Gabby","Myers, Isabella","Lentz, Macy",,,,0,1,4,2,"[Williams, Gabby] Kill by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+4,7,6,Transylvania,attack,kill,,"Myers, Isabella","Kaiser, Lilly","Lentz, Macy",,,,0,1,5,2,"[Myers, Isabella] Kill by Kaiser, Lilly (from Lentz, Macy)",Bluffton,Transylvania
+4,8,7,Bluffton,attack,kill,,"Myers, Isabella","Woods, Jenna","Williams, Gabby",,,,0,0,5,3,"[Myers, Isabella] Kill by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+4,9,8,Bluffton,error,attack_error,,"Woods, Jenna","Jarvis, Addison","Kaiser, Lilly",,"Jarvis, Addison",,0,1,5,4,"[Woods, Jenna] Attack error by Jarvis, Addison (from Kaiser, Lilly)",Bluffton,Transylvania
+4,10,9,Transylvania,error,service_error,,"Woods, Jenna",,,,"Woods, Jenna",,0,0,6,4,"[Woods, Jenna] Service error",Bluffton,Transylvania
+4,11,10,Transylvania,attack,kill,,"Kaiser, Lilly","Mast, Peyton","Kaiser, Lilly",,,,0,0,7,4,"[Kaiser, Lilly] Kill by Mast, Peyton (from Kaiser, Lilly)",Bluffton,Transylvania
+4,12,11,Bluffton,attack,kill,,"Kaiser, Lilly","Pack, Bekah","Williams, Gabby",,,,0,0,7,5,"[Kaiser, Lilly] Kill by Pack, Bekah (from Williams, Gabby)",Bluffton,Transylvania
+4,13,12,Bluffton,attack,kill,,"Pack, Bekah","Sager, Kasey","Williams, Gabby",,,,0,0,7,6,"[Pack, Bekah] Kill by Sager, Kasey (from Williams, Gabby)",Bluffton,Transylvania
+4,14,13,Transylvania,attack,kill,,"Pack, Bekah","Mast, Peyton","Lentz, Macy",,,,0,0,8,6,"[Pack, Bekah] Kill by Mast, Peyton (from Lentz, Macy)",Bluffton,Transylvania
+4,15,14,Bluffton,attack,kill,,"Beatty, Kennedy","Brentlinger, Madison","Williams, Gabby",,,,0,0,8,7,"[Beatty, Kennedy] Kill by Brentlinger, Madison (from Williams, Gabby)",Bluffton,Transylvania
+4,16,15,Transylvania,attack,kill,,"Ickes, Mariana","Roberts, Cecelia","Lentz, Macy",,,,0,0,9,7,"[Ickes, Mariana] Kill by Roberts, Cecelia (from Lentz, Macy)",Bluffton,Transylvania
+4,17,16,Bluffton,error,attack_error,,"O'Connor, Alex","Roberts, Cecelia","Lentz, Macy",,"Roberts, Cecelia",,0,0,9,8,"[O'Connor, Alex] Attack error by Roberts, Cecelia (from Lentz, Macy)",Bluffton,Transylvania
+4,18,17,Transylvania,error,attack_error,,"Lawhorn, Abby","Sager, Kasey","Williams, Gabby",,"Sager, Kasey",,0,0,10,8,"[Lawhorn, Abby] Attack error by Sager, Kasey (from Williams, Gabby)",Bluffton,Transylvania
+4,19,18,Bluffton,attack,kill,,"Brown, Julia","Sager, Kasey","Williams, Gabby",,,,0,0,10,9,"[Brown, Julia] Kill by Sager, Kasey (from Williams, Gabby)",Bluffton,Transylvania
+4,20,19,Bluffton,attack,kill,,"Organ, Emma","Woods, Jenna","Williams, Gabby",,,,0,0,10,10,"[Organ, Emma] Kill by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+4,21,20,Transylvania,attack,kill,,"Organ, Emma","Myers, Isabella","Lentz, Macy",,,,0,0,11,10,"[Organ, Emma] Kill by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+4,22,21,Transylvania,attack,kill,,"Lentz, Macy","Mast, Peyton","Myers, Isabella",,"Pack, Bekah",,0,0,12,10,"[Lentz, Macy] Kill by Mast, Peyton (from Myers, Isabella), block error by Pack, Bekah",Bluffton,Transylvania
+4,23,22,Bluffton,attack,kill,,"Lentz, Macy","Woods, Jenna","Williams, Gabby",,,,0,0,12,11,"[Lentz, Macy] Kill by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania
+4,24,23,Transylvania,attack,kill,,"Williams, Gabby","Mast, Peyton","Brown, Julia",,,,0,0,13,11,"[Williams, Gabby] Kill by Mast, Peyton (from Brown, Julia)",Bluffton,Transylvania
+4,25,24,Bluffton,block,attack_error,,"Myers, Isabella","Jarvis, Addison",,"Pack, Bekah; Massie, Paige","Jarvis, Addison",,0,0,13,12,"[Myers, Isabella] Attack error by Jarvis, Addison (block by Pack, Bekah; Massie, Paige)",Bluffton,Transylvania
+4,26,25,Transylvania,attack,kill,,"Nuss, Ashlie","Kaiser, Lilly","Lentz, Macy",,,,0,1,14,12,"[Nuss, Ashlie] Kill by Kaiser, Lilly (from Lentz, Macy)",Bluffton,Transylvania
+4,27,26,Transylvania,attack,kill,,"Kaiser, Lilly","Jarvis, Addison","Kaiser, Lilly",,,,0,0,15,12,"[Kaiser, Lilly] Kill by Jarvis, Addison (from Kaiser, Lilly)",Bluffton,Transylvania
+4,28,27,Transylvania,error,attack_error,,"Kaiser, Lilly","Brentlinger, Madison","Williams, Gabby",,"Brentlinger, Madison",,0,0,16,12,"[Kaiser, Lilly] Attack error by Brentlinger, Madison (from Williams, Gabby)",Bluffton,Transylvania
+4,29,28,Bluffton,attack,kill,,"Kaiser, Lilly","Pack, Bekah","Williams, Gabby",,,,0,0,16,13,"[Kaiser, Lilly] Kill by Pack, Bekah (from Williams, Gabby)",Bluffton,Transylvania
+4,30,29,Bluffton,block,attack_error,,"Pack, Bekah","Roberts, Cecelia",,"Sager, Kasey","Roberts, Cecelia",,0,0,16,14,"[Pack, Bekah] Attack error by Roberts, Cecelia (block by Sager, Kasey)",Bluffton,Transylvania
+4,31,30,Transylvania,attack,kill,,"Pack, Bekah","Mast, Peyton","Lentz, Macy",,,,0,0,17,14,"[Pack, Bekah] Kill by Mast, Peyton (from Lentz, Macy)",Bluffton,Transylvania
+4,32,31,Bluffton,attack,kill,,"Beatty, Kennedy","Sager, Kasey","Williams, Gabby",,,,0,0,17,15,"[Beatty, Kennedy] Kill by Sager, Kasey (from Williams, Gabby)",Bluffton,Transylvania
+4,33,32,Bluffton,attack,kill,,"Ickes, Mariana","Brentlinger, Madison","Williams, Gabby",,,,0,0,17,16,"[Ickes, Mariana] Kill by Brentlinger, Madison (from Williams, Gabby)",Bluffton,Transylvania
+4,34,33,Bluffton,attack,kill,,"Ickes, Mariana","Sager, Kasey","Williams, Gabby",,,,0,0,17,17,"[Ickes, Mariana] Kill by Sager, Kasey (from Williams, Gabby)",Bluffton,Transylvania
+4,35,34,Bluffton,error,attack_error,,"Ickes, Mariana","Roberts, Cecelia","Lentz, Macy",,"Roberts, Cecelia",,0,0,17,18,"[Ickes, Mariana] Attack error by Roberts, Cecelia (from Lentz, Macy)",Bluffton,Transylvania
+4,36,35,Transylvania,error,attack_error,,"Ickes, Mariana","Woods, Jenna","Organ, Emma",,"Woods, Jenna",,0,0,18,18,"[Ickes, Mariana] Attack error by Woods, Jenna (from Organ, Emma)",Bluffton,Transylvania
+4,37,36,Transylvania,attack,kill,,"O'Connor, Alex","Myers, Isabella","Lentz, Macy",,,,0,0,19,18,"[O'Connor, Alex] Kill by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+4,38,37,Transylvania,attack,kill,,"O'Connor, Alex","Myers, Isabella","Lentz, Macy",,,,0,0,20,18,"[O'Connor, Alex] Kill by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+4,39,38,Transylvania,block,attack_error,,"O'Connor, Alex","Brentlinger, Madison",,"Lentz, Macy; Roberts, Cecelia","Brentlinger, Madison",,0,0,21,18,"[O'Connor, Alex] Attack error by Brentlinger, Madison (block by Lentz, Macy; Roberts, Cecelia)",Bluffton,Transylvania
+4,40,39,Transylvania,attack,kill,,"O'Connor, Alex","Myers, Isabella","Lentz, Macy",,,,0,0,22,18,"[O'Connor, Alex] Kill by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+4,41,40,Transylvania,block,attack_error,,"O'Connor, Alex","Sager, Kasey",,"Roberts, Cecelia; Myers, Isabella","Sager, Kasey",,0,0,23,18,"[O'Connor, Alex] Attack error by Sager, Kasey (block by Roberts, Cecelia; Myers, Isabella)",Bluffton,Transylvania
+4,42,41,Bluffton,attack,kill,,"O'Connor, Alex","Brentlinger, Madison","Williams, Gabby",,,,0,0,23,19,"[O'Connor, Alex] Kill by Brentlinger, Madison (from Williams, Gabby)",Bluffton,Transylvania
+4,43,42,Transylvania,attack,kill,,"Lawhorn, Abby","Myers, Isabella","Lentz, Macy",,,,0,0,24,19,"[Lawhorn, Abby] Kill by Myers, Isabella (from Lentz, Macy)",Bluffton,Transylvania
+4,44,43,Transylvania,error,attack_error,,"Brown, Julia","Woods, Jenna","Williams, Gabby",,"Woods, Jenna",,0,0,25,19,"[Brown, Julia] Attack error by Woods, Jenna (from Williams, Gabby)",Bluffton,Transylvania

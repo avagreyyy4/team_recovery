@@ -1,0 +1,120 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,NYU,attack,kill,SMI,"Higashihara, Skye","Nelson, Grace","Launsbach, Ava",,,,0,0,1,0,"[Higashihara, Skye] Kill by Nelson, Grace (from Launsbach, Ava).",SMI,NYU
+1,2,1,NYU,ace,service_ace,NYU,"Nelson, Grace",,,,,"Feuer, Anna",0,0,2,0,"[Nelson, Grace] Service ace (Feuer, Anna).",SMI,NYU
+1,3,2,NYU,error,ball_handling_error,NYU,"Nelson, Grace",,,,"Tullis, Ruth",,0,0,3,0,"[Nelson, Grace] Bad set by Tullis, Ruth.",SMI,NYU
+1,4,3,NYU,error,ball_handling_error,NYU,"Nelson, Grace",,,,"Higashihara, Skye",,0,0,4,0,"[Nelson, Grace] Bad set by Higashihara, Skye.",SMI,NYU
+1,5,4,NYU,ace,service_ace,NYU,"Nelson, Grace",,,,,Team,0,0,5,0,"[Nelson, Grace] Service ace (Team).",SMI,NYU
+1,6,5,NYU,ace,service_ace,NYU,"Nelson, Grace",,,,,"Hunt, Abby",0,0,6,0,"[Nelson, Grace] Service ace (Hunt, Abby).",SMI,NYU
+1,7,6,NYU,error,attack_error,NYU,"Nelson, Grace","Oakes, Miranda","Higashihara, Skye",,"Oakes, Miranda",,0,0,7,0,"[Nelson, Grace] Attack error by Oakes, Miranda (from Higashihara, Skye).",SMI,NYU
+1,8,7,NYU,ace,service_ace,NYU,"Nelson, Grace",,,,,Team,0,0,8,0,"[Nelson, Grace] Service ace (Team).",SMI,NYU
+1,9,8,SMI,error,service_error,NYU,"Nelson, Grace",,,,"Nelson, Grace",,0,1,8,1,"[Nelson, Grace] Service error.",SMI,NYU
+1,10,9,NYU,attack,kill,SMI,"Etheridge, Mia","Spierenburg, Jessica","Launsbach, Ava",,,,0,0,9,1,"[Etheridge, Mia] Kill by Spierenburg, Jessica (from Launsbach, Ava).",SMI,NYU
+1,11,10,SMI,attack,kill,NYU,"Spierenburg, Jessica","Schulz, Uma",,,,,0,0,9,2,"[Spierenburg, Jessica] Kill by Schulz, Uma.",SMI,NYU
+1,12,11,NYU,error,attack_error,SMI,"Schulz, Uma","Hunt, Abby","Schulz, Uma",,"Hunt, Abby",,0,0,10,2,"[Schulz, Uma] Attack error by Hunt, Abby (from Schulz, Uma).",SMI,NYU
+1,13,12,NYU,attack,kill,NYU,"Ding, Jessica","Barton, Coco","Ding, Jessica",,,,0,1,11,2,"[Ding, Jessica] Kill by Barton, Coco (from Ding, Jessica).",SMI,NYU
+1,14,13,NYU,attack,kill,NYU,"Ding, Jessica","Cho, Casey","Sato, Kaitlyn",,,,0,0,12,2,"[Ding, Jessica] Kill by Cho, Casey (from Sato, Kaitlyn).",SMI,NYU
+1,15,14,NYU,attack,kill,NYU,"Ding, Jessica","Dillon, Stella","Ding, Jessica",,,,0,0,13,2,"[Ding, Jessica] Kill by Dillon, Stella (from Ding, Jessica).",SMI,NYU
+1,16,15,NYU,error,attack_error,NYU,"Ding, Jessica","Poehlmann, Claudia","Higashihara, Skye",,"Poehlmann, Claudia",,0,0,14,2,"[Ding, Jessica] Attack error by Poehlmann, Claudia (from Higashihara, Skye).",SMI,NYU
+1,17,16,SMI,attack,kill,NYU,"Ding, Jessica","Hunt, Abby","Higashihara, Skye",,,,0,0,14,3,"[Ding, Jessica] Kill by Hunt, Abby (from Higashihara, Skye).",SMI,NYU
+1,18,17,SMI,error,attack_error,SMI,"Poehlmann, Claudia","Cho, Casey","Nelson, Grace",,"Cho, Casey",,0,0,14,4,"[Poehlmann, Claudia] Attack error by Cho, Casey (from Nelson, Grace).",SMI,NYU
+1,19,18,NYU,error,service_error,SMI,"Poehlmann, Claudia",,,,"Poehlmann, Claudia",,0,0,15,4,"[Poehlmann, Claudia] Service error.",SMI,NYU
+1,20,19,SMI,attack,kill,NYU,"Cho, Casey","Higashihara, Skye",,,,,0,1,15,5,"[Cho, Casey] Kill by Higashihara, Skye.",SMI,NYU
+1,21,20,NYU,error,attack_error,SMI,"Hunt, Abby","Etheridge, Mia","Higashihara, Skye",,"Etheridge, Mia",,0,0,16,5,"[Hunt, Abby] Attack error by Etheridge, Mia (from Higashihara, Skye).",SMI,NYU
+1,22,21,SMI,attack,kill,NYU,"Sato, Kaitlyn","Etheridge, Mia","Higashihara, Skye",,,,0,0,16,6,"[Sato, Kaitlyn] Kill by Etheridge, Mia (from Higashihara, Skye).",SMI,NYU
+1,23,22,NYU,attack,kill,SMI,"Tullis, Ruth","Dillon, Stella","Ding, Jessica",,,,0,0,17,6,"[Tullis, Ruth] Kill by Dillon, Stella (from Ding, Jessica).",SMI,NYU
+1,24,23,NYU,error,attack_error,NYU,"Launsbach, Ava","Schulz, Uma","Higashihara, Skye",,"Schulz, Uma",,0,0,18,6,"[Launsbach, Ava] Attack error by Schulz, Uma (from Higashihara, Skye).",SMI,NYU
+1,25,24,NYU,error,attack_error,NYU,"Launsbach, Ava","Etheridge, Mia","Higashihara, Skye",,"Etheridge, Mia",,0,0,19,6,"[Launsbach, Ava] Attack error by Etheridge, Mia (from Higashihara, Skye).",SMI,NYU
+1,26,25,NYU,attack,kill,NYU,"Launsbach, Ava","Nelson, Grace","Launsbach, Ava",,,,0,0,20,6,"[Launsbach, Ava] Kill by Nelson, Grace (from Launsbach, Ava).",SMI,NYU
+1,27,26,NYU,ace,service_ace,NYU,"Launsbach, Ava",,,,,"Hliboki, Maddie",0,0,21,6,"[Launsbach, Ava] Service ace (Hliboki, Maddie).",SMI,NYU
+1,28,27,SMI,attack,kill,NYU,"Launsbach, Ava","Chapin, Alison","Higashihara, Skye",,,,0,1,21,7,"[Launsbach, Ava] Kill by Chapin, Alison (from Higashihara, Skye).",SMI,NYU
+1,29,28,SMI,error,attack_error,SMI,"Higashihara, Skye","Hynes, Chloe","Spierenburg, Jessica",,"Hynes, Chloe",,0,0,21,8,"[Higashihara, Skye] Attack error by Hynes, Chloe (from Spierenburg, Jessica).",SMI,NYU
+1,30,29,SMI,block,attack_error,SMI,"Higashihara, Skye","Hynes, Chloe",,"Schulz, Uma; Poehlmann, Claudia","Hynes, Chloe",,0,1,21,9,"[Higashihara, Skye] Attack error by Hynes, Chloe (block by Schulz, Uma; Poehlmann, Claudia).",SMI,NYU
+1,31,30,NYU,error,attack_error,SMI,"Higashihara, Skye","Chapin, Alison","Higashihara, Skye",,"Chapin, Alison",,0,0,22,9,"[Higashihara, Skye] Attack error by Chapin, Alison (from Higashihara, Skye).",SMI,NYU
+1,32,31,NYU,attack,kill,NYU,"Nelson, Grace","Nelson, Grace","Cho, Casey",,,,0,0,23,9,"[Nelson, Grace] Kill by Nelson, Grace (from Cho, Casey).",SMI,NYU
+1,33,32,NYU,ace,service_ace,NYU,"Nelson, Grace",,,,,Team,0,0,24,9,"[Nelson, Grace] Service ace (Team).",SMI,NYU
+1,34,33,NYU,ace,service_ace,NYU,"Nelson, Grace",,,,,"Chapin, Alison",0,0,25,9,"[Nelson, Grace] Service ace (Chapin, Alison).",SMI,NYU
+2,1,0,SMI,error,attack_error,NYU,"Launsbach, Ava","Cho, Casey","Launsbach, Ava",,"Cho, Casey",,0,1,0,1,"[Launsbach, Ava] Attack error by Cho, Casey (from Launsbach, Ava).",SMI,NYU
+2,2,1,SMI,error,attack_error,SMI,"Higashihara, Skye","Nelson, Grace",,,"Nelson, Grace",,0,0,0,2,"[Higashihara, Skye] Attack error by Nelson, Grace.",SMI,NYU
+2,3,2,NYU,attack,kill,SMI,"Higashihara, Skye","Nelson, Grace","Launsbach, Ava",,,,0,0,1,2,"[Higashihara, Skye] Kill by Nelson, Grace (from Launsbach, Ava).",SMI,NYU
+2,4,3,SMI,attack,kill,NYU,"Nelson, Grace","Tullis, Ruth","Higashihara, Skye",,,,0,0,1,3,"[Nelson, Grace] Kill by Tullis, Ruth (from Higashihara, Skye).",SMI,NYU
+2,5,4,SMI,attack,kill,SMI,"Etheridge, Mia","Hunt, Abby","Teske, Olivia",,,,0,0,1,4,"[Etheridge, Mia] Kill by Hunt, Abby (from Teske, Olivia).",SMI,NYU
+2,6,5,SMI,ace,service_ace,SMI,"Etheridge, Mia",,,,,"Topcu, Duru",0,1,1,5,"[Etheridge, Mia] Service ace (Topcu, Duru).",SMI,NYU
+2,7,6,SMI,block,attack_error,SMI,"Etheridge, Mia","Nelson, Grace",,"Teske, Olivia; Feuer, Anna","Nelson, Grace",,0,0,1,6,"[Etheridge, Mia] Attack error by Nelson, Grace (block by Teske, Olivia; Feuer, Anna).",SMI,NYU
+2,8,7,SMI,ace,service_ace,SMI,"Etheridge, Mia",,,,,"Cho, Casey",0,0,1,7,"[Etheridge, Mia] Service ace (Cho, Casey).",SMI,NYU
+2,9,8,SMI,ace,service_ace,SMI,"Etheridge, Mia",,,,,Team,0,0,1,8,"[Etheridge, Mia] Service ace (Team).",SMI,NYU
+2,10,9,SMI,block,attack_error,SMI,"Etheridge, Mia","Spierenburg, Jessica",,"Feuer, Anna","Spierenburg, Jessica",,0,0,1,9,"[Etheridge, Mia] Attack error by Spierenburg, Jessica (block by Feuer, Anna).",SMI,NYU
+2,11,10,NYU,error,attack_error,SMI,"Etheridge, Mia","Teske, Olivia","Higashihara, Skye",,"Teske, Olivia",,0,0,2,9,"[Etheridge, Mia] Attack error by Teske, Olivia (from Higashihara, Skye).",SMI,NYU
+2,12,11,SMI,attack,kill,NYU,"Spierenburg, Jessica","Hunt, Abby","Higashihara, Skye",,,,0,0,2,10,"[Spierenburg, Jessica] Kill by Hunt, Abby (from Higashihara, Skye).",SMI,NYU
+2,13,12,NYU,attack,kill,SMI,"Hliboki, Maddie","Barton, Coco",,,,,0,1,3,10,"[Hliboki, Maddie] Kill by Barton, Coco.",SMI,NYU
+2,14,13,NYU,error,attack_error,NYU,"Ding, Jessica","Teske, Olivia","Higashihara, Skye",,"Teske, Olivia",,0,1,4,10,"[Ding, Jessica] Attack error by Teske, Olivia (from Higashihara, Skye).",SMI,NYU
+2,15,14,SMI,error,service_error,NYU,"Ding, Jessica",,,,"Ding, Jessica",,0,0,4,11,"[Ding, Jessica] Service error.",SMI,NYU
+2,16,15,NYU,attack,kill,SMI,"Teske, Olivia","Dillon, Stella","Ding, Jessica",,,,0,0,5,11,"[Teske, Olivia] Kill by Dillon, Stella (from Ding, Jessica).",SMI,NYU
+2,17,16,NYU,attack,kill,NYU,"Cho, Casey","Barton, Coco","Ding, Jessica",,,,0,0,6,11,"[Cho, Casey] Kill by Barton, Coco (from Ding, Jessica).",SMI,NYU
+2,18,17,NYU,attack,kill,NYU,"Cho, Casey","Nelson, Grace","Ding, Jessica",,,,0,0,7,11,"[Cho, Casey] Kill by Nelson, Grace (from Ding, Jessica).",SMI,NYU
+2,19,18,NYU,attack,kill,NYU,"Cho, Casey","Dillon, Stella","Ding, Jessica",,,,0,0,8,11,"[Cho, Casey] Kill by Dillon, Stella (from Ding, Jessica).",SMI,NYU
+2,20,19,NYU,ace,service_ace,NYU,"Cho, Casey",,,,,"Etheridge, Mia",0,0,9,11,"[Cho, Casey] Service ace (Etheridge, Mia).",SMI,NYU
+2,21,20,NYU,ace,service_ace,NYU,"Cho, Casey",,,,,"Tullis, Ruth",0,0,10,11,"[Cho, Casey] Service ace (Tullis, Ruth).",SMI,NYU
+2,22,21,NYU,error,attack_error,NYU,"Cho, Casey","Teske, Olivia","Higashihara, Skye",,"Teske, Olivia",,0,0,11,11,"[Cho, Casey] Attack error by Teske, Olivia (from Higashihara, Skye).",SMI,NYU
+2,23,22,SMI,attack,kill,NYU,"Cho, Casey","Hunt, Abby","Tullis, Ruth",,,,0,0,11,12,"[Cho, Casey] Kill by Hunt, Abby (from Tullis, Ruth).",SMI,NYU
+2,24,23,NYU,attack,kill,SMI,"Hunt, Abby","Dillon, Stella","Ding, Jessica",,,,0,0,12,12,"[Hunt, Abby] Kill by Dillon, Stella (from Ding, Jessica).",SMI,NYU
+2,25,24,SMI,attack,kill,NYU,"Sato, Kaitlyn","Oakes, Miranda","Higashihara, Skye",,,,0,0,12,13,"[Sato, Kaitlyn] Kill by Oakes, Miranda (from Higashihara, Skye).",SMI,NYU
+2,26,25,NYU,attack,kill,SMI,"Tullis, Ruth","Nelson, Grace","Ding, Jessica",,,,0,0,13,13,"[Tullis, Ruth] Kill by Nelson, Grace (from Ding, Jessica).",SMI,NYU
+2,27,26,SMI,error,attack_error,NYU,"Launsbach, Ava","Sato, Kaitlyn","Launsbach, Ava",,"Sato, Kaitlyn",,0,0,13,14,"[Launsbach, Ava] Attack error by Sato, Kaitlyn (from Launsbach, Ava).",SMI,NYU
+2,28,27,SMI,error,ball_handling_error,SMI,"Higashihara, Skye",,,,"Nelson, Grace",,0,1,13,15,"[Higashihara, Skye] Bad set by Nelson, Grace.",SMI,NYU
+2,29,28,NYU,attack,kill,SMI,"Higashihara, Skye","Spierenburg, Jessica","Launsbach, Ava",,,,0,0,14,15,"[Higashihara, Skye] Kill by Spierenburg, Jessica (from Launsbach, Ava).",SMI,NYU
+2,30,29,NYU,attack,kill,NYU,"Nelson, Grace","Cho, Casey","Launsbach, Ava",,,,0,0,15,15,"[Nelson, Grace] Kill by Cho, Casey (from Launsbach, Ava).",SMI,NYU
+2,31,30,SMI,error,service_error,NYU,"Nelson, Grace",,,,"Nelson, Grace",,0,0,15,16,"[Nelson, Grace] Service error.",SMI,NYU
+2,32,31,NYU,attack,kill,SMI,"Chapin, Alison","Lattan, Sarah","Launsbach, Ava",,,,0,0,16,16,"[Chapin, Alison] Kill by Lattan, Sarah (from Launsbach, Ava).",SMI,NYU
+2,33,32,NYU,attack,kill,NYU,"Spierenburg, Jessica","Cho, Casey","Nelson, Grace",,,,0,0,17,16,"[Spierenburg, Jessica] Kill by Cho, Casey (from Nelson, Grace).",SMI,NYU
+2,34,33,NYU,attack,kill,NYU,"Spierenburg, Jessica","Cho, Casey","Barton, Coco",,,,0,0,18,16,"[Spierenburg, Jessica] Kill by Cho, Casey (from Barton, Coco).",SMI,NYU
+2,35,34,SMI,error,service_error,NYU,"Spierenburg, Jessica",,,,"Spierenburg, Jessica",,0,0,18,17,"[Spierenburg, Jessica] Service error.",SMI,NYU
+2,36,35,SMI,attack,kill,SMI,"Hliboki, Maddie","Teske, Olivia","Higashihara, Skye",,,,0,0,18,18,"[Hliboki, Maddie] Kill by Teske, Olivia (from Higashihara, Skye).",SMI,NYU
+2,37,36,NYU,error,attack_error,SMI,"Hliboki, Maddie","Hunt, Abby","Higashihara, Skye",,"Hunt, Abby",,0,0,19,18,"[Hliboki, Maddie] Attack error by Hunt, Abby (from Higashihara, Skye).",SMI,NYU
+2,38,37,NYU,error,attack_error,NYU,"Ding, Jessica","Oakes, Miranda","Higashihara, Skye",,"Oakes, Miranda",,0,0,20,18,"[Ding, Jessica] Attack error by Oakes, Miranda (from Higashihara, Skye).",SMI,NYU
+2,39,38,NYU,attack,kill,NYU,"Ding, Jessica","Cho, Casey","Ding, Jessica",,,,0,0,21,18,"[Ding, Jessica] Kill by Cho, Casey (from Ding, Jessica).",SMI,NYU
+2,40,39,SMI,error,service_error,NYU,"Ding, Jessica",,,,"Ding, Jessica",,0,0,21,19,"[Ding, Jessica] Service error.",SMI,NYU
+2,41,40,NYU,attack,kill,SMI,"Woodward, Ruby","Dillon, Stella","Topcu, Duru",,,,0,1,22,19,"[Woodward, Ruby] Kill by Dillon, Stella (from Topcu, Duru).",SMI,NYU
+2,42,41,NYU,ace,service_ace,NYU,"Cho, Casey",,,,,"Tullis, Ruth",0,0,23,19,"[Cho, Casey] Service ace (Tullis, Ruth).",SMI,NYU
+2,43,42,NYU,block,attack_error,NYU,"Cho, Casey","Oakes, Miranda",,"Barton, Coco; Nelson, Grace","Oakes, Miranda",,0,0,24,19,"[Cho, Casey] Attack error by Oakes, Miranda (block by Barton, Coco; Nelson, Grace).",SMI,NYU
+2,44,43,SMI,attack,kill,NYU,"Cho, Casey","Schulz, Uma","Woodward, Ruby",,,,0,0,24,20,"[Cho, Casey] Kill by Schulz, Uma (from Woodward, Ruby).",SMI,NYU
+2,45,44,SMI,ace,service_ace,SMI,"Hunt, Abby",,,,,Team,0,0,24,21,"[Hunt, Abby] Service ace (Team).",SMI,NYU
+2,46,45,NYU,block,attack_error,SMI,"Hunt, Abby","Chapin, Alison",,"Dillon, Stella","Chapin, Alison",,0,0,25,21,"[Hunt, Abby] Attack error by Chapin, Alison (block by Dillon, Stella).",SMI,NYU
+3,1,0,NYU,block,attack_error,SMI,"Higashihara, Skye","Poehlmann, Claudia",,"Lattan, Sarah; Spierenburg, Jessica","Poehlmann, Claudia",,0,1,1,0,"[Higashihara, Skye] Attack error by Poehlmann, Claudia (block by Lattan, Sarah; Spierenburg, Jessica).",SMI,NYU
+3,2,1,SMI,attack,kill,NYU,"Nelson, Grace","Schulz, Uma","Higashihara, Skye",,,,0,0,1,1,"[Nelson, Grace] Kill by Schulz, Uma (from Higashihara, Skye).",SMI,NYU
+3,3,2,NYU,attack,kill,SMI,"Etheridge, Mia","Spierenburg, Jessica","Launsbach, Ava",,,,0,0,2,1,"[Etheridge, Mia] Kill by Spierenburg, Jessica (from Launsbach, Ava).",SMI,NYU
+3,4,3,NYU,ace,service_ace,NYU,"Spierenburg, Jessica",,,,,Team,0,0,3,1,"[Spierenburg, Jessica] Service ace (Team).",SMI,NYU
+3,5,4,NYU,attack,kill,NYU,"Spierenburg, Jessica","Lattan, Sarah","Nelson, Grace",,,,0,0,4,1,"[Spierenburg, Jessica] Kill by Lattan, Sarah (from Nelson, Grace).",SMI,NYU
+3,6,5,NYU,attack,kill,NYU,"Spierenburg, Jessica","Cho, Casey","Launsbach, Ava",,,,0,0,5,1,"[Spierenburg, Jessica] Kill by Cho, Casey (from Launsbach, Ava).",SMI,NYU
+3,7,6,SMI,error,service_error,NYU,"Spierenburg, Jessica",,,,"Spierenburg, Jessica",,0,0,5,2,"[Spierenburg, Jessica] Service error.",SMI,NYU
+3,8,7,NYU,attack,kill,SMI,"Schulz, Uma","Lattan, Sarah","Launsbach, Ava",,,,0,0,6,2,"[Schulz, Uma] Kill by Lattan, Sarah (from Launsbach, Ava).",SMI,NYU
+3,9,8,SMI,block,attack_error,NYU,"Ding, Jessica","Cho, Casey",,"Poehlmann, Claudia","Cho, Casey",,0,1,6,3,"[Ding, Jessica] Attack error by Cho, Casey (block by Poehlmann, Claudia).",SMI,NYU
+3,10,9,SMI,ace,service_ace,SMI,"Poehlmann, Claudia",,,,,Team,0,1,6,4,"[Poehlmann, Claudia] Service ace (Team).",SMI,NYU
+3,11,10,NYU,attack,kill,SMI,"Poehlmann, Claudia","Dillon, Stella","Topcu, Duru",,,,0,1,7,4,"[Poehlmann, Claudia] Kill by Dillon, Stella (from Topcu, Duru).",SMI,NYU
+3,12,11,SMI,error,service_error,NYU,"Cho, Casey",,,,"Cho, Casey",,0,0,7,5,"[Cho, Casey] Service error.",SMI,NYU
+3,13,12,NYU,error,service_error,SMI,"Hunt, Abby",,,,"Hunt, Abby",,0,0,8,5,"[Hunt, Abby] Service error.",SMI,NYU
+3,14,13,SMI,error,attack_error,NYU,"Sato, Kaitlyn","Dillon, Stella","Launsbach, Ava",,"Dillon, Stella",,0,0,8,6,"[Sato, Kaitlyn] Attack error by Dillon, Stella (from Launsbach, Ava).",SMI,NYU
+3,15,14,NYU,block,attack_error,SMI,"Hliboki, Maddie","Etheridge, Mia",,"Dillon, Stella; Spierenburg, Jessica","Etheridge, Mia",,0,0,9,6,"[Hliboki, Maddie] Attack error by Etheridge, Mia (block by Dillon, Stella; Spierenburg, Jessica).",SMI,NYU
+3,16,15,SMI,attack,kill,NYU,"Launsbach, Ava","Schulz, Uma","Higashihara, Skye",,,,0,0,9,7,"[Launsbach, Ava] Kill by Schulz, Uma (from Higashihara, Skye).",SMI,NYU
+3,17,16,SMI,attack,kill,SMI,"Higashihara, Skye","Schulz, Uma",,,,,0,0,9,8,"[Higashihara, Skye] Kill by Schulz, Uma.",SMI,NYU
+3,18,17,NYU,attack,kill,SMI,"Higashihara, Skye","Spierenburg, Jessica","Launsbach, Ava",,,,0,0,10,8,"[Higashihara, Skye] Kill by Spierenburg, Jessica (from Launsbach, Ava).",SMI,NYU
+3,19,18,NYU,ace,service_ace,NYU,"Nelson, Grace",,,,,"Etheridge, Mia",0,0,11,8,"[Nelson, Grace] Service ace (Etheridge, Mia).",SMI,NYU
+3,20,19,NYU,attack,kill,NYU,"Nelson, Grace","Lattan, Sarah","Launsbach, Ava",,,,0,0,12,8,"[Nelson, Grace] Kill by Lattan, Sarah (from Launsbach, Ava).",SMI,NYU
+3,21,20,NYU,ace,service_ace,NYU,"Nelson, Grace",,,,,"Hliboki, Maddie",0,0,13,8,"[Nelson, Grace] Service ace (Hliboki, Maddie).",SMI,NYU
+3,22,21,SMI,attack,kill,NYU,"Nelson, Grace","Etheridge, Mia","Higashihara, Skye",,,,0,0,13,9,"[Nelson, Grace] Kill by Etheridge, Mia (from Higashihara, Skye).",SMI,NYU
+3,23,22,NYU,attack,kill,SMI,"Etheridge, Mia","Spierenburg, Jessica","Launsbach, Ava",,,,0,0,14,9,"[Etheridge, Mia] Kill by Spierenburg, Jessica (from Launsbach, Ava).",SMI,NYU
+3,24,23,NYU,ace,service_ace,NYU,"Spierenburg, Jessica",,,,,"Higashihara, Skye",0,0,15,9,"[Spierenburg, Jessica] Service ace (Higashihara, Skye).",SMI,NYU
+3,25,24,SMI,attack,kill,NYU,"Spierenburg, Jessica","Schulz, Uma","Higashihara, Skye",,,,0,0,15,10,"[Spierenburg, Jessica] Kill by Schulz, Uma (from Higashihara, Skye).",SMI,NYU
+3,26,25,NYU,attack,kill,SMI,"Schulz, Uma","Lattan, Sarah","Launsbach, Ava",,,,0,0,16,10,"[Schulz, Uma] Kill by Lattan, Sarah (from Launsbach, Ava).",SMI,NYU
+3,27,26,NYU,error,attack_error,NYU,"Ding, Jessica","Poehlmann, Claudia","Higashihara, Skye",,"Poehlmann, Claudia",,0,0,17,10,"[Ding, Jessica] Attack error by Poehlmann, Claudia (from Higashihara, Skye).",SMI,NYU
+3,28,27,NYU,error,attack_error,NYU,"Ding, Jessica","Hunt, Abby","Hliboki, Maddie",,"Hunt, Abby",,0,1,18,10,"[Ding, Jessica] Attack error by Hunt, Abby (from Hliboki, Maddie).",SMI,NYU
+3,29,28,SMI,attack,kill,NYU,"Ding, Jessica","Poehlmann, Claudia","Woodward, Ruby",,,,0,0,18,11,"[Ding, Jessica] Kill by Poehlmann, Claudia (from Woodward, Ruby).",SMI,NYU
+3,30,29,NYU,attack,kill,SMI,"Poehlmann, Claudia","Nelson, Grace","Cho, Casey",,,,0,0,19,11,"[Poehlmann, Claudia] Kill by Nelson, Grace (from Cho, Casey).",SMI,NYU
+3,31,30,SMI,error,ball_handling_error,NYU,"Ding, Jessica",,,,"Cho, Casey",,0,0,19,12,"[Ding, Jessica] Bad set by Cho, Casey.",SMI,NYU
+3,32,31,NYU,error,attack_error,SMI,"Hunt, Abby","Woodward, Ruby","Etheridge, Mia",,"Woodward, Ruby",,0,0,20,12,"[Hunt, Abby] Attack error by Woodward, Ruby (from Etheridge, Mia).",SMI,NYU
+3,33,32,NYU,attack,kill,NYU,"Sato, Kaitlyn","Nelson, Grace","Ding, Jessica",,,,0,0,21,12,"[Sato, Kaitlyn] Kill by Nelson, Grace (from Ding, Jessica).",SMI,NYU
+3,34,33,NYU,attack,kill,NYU,"Sato, Kaitlyn","Cho, Casey","Ding, Jessica",,,,0,0,22,12,"[Sato, Kaitlyn] Kill by Cho, Casey (from Ding, Jessica).",SMI,NYU
+3,35,34,SMI,error,service_error,NYU,"Sato, Kaitlyn",,,,"Sato, Kaitlyn",,0,0,22,13,"[Sato, Kaitlyn] Service error.",SMI,NYU
+3,36,35,NYU,attack,kill,SMI,"Hliboki, Maddie","Nelson, Grace","Topcu, Duru",,,,0,0,23,13,"[Hliboki, Maddie] Kill by Nelson, Grace (from Topcu, Duru).",SMI,NYU
+3,37,36,SMI,error,attack_error,NYU,"Launsbach, Ava","Lattan, Sarah","Launsbach, Ava",,"Lattan, Sarah",,0,0,23,14,"[Launsbach, Ava] Attack error by Lattan, Sarah (from Launsbach, Ava).",SMI,NYU
+3,38,37,NYU,attack,kill,SMI,"Woodward, Ruby","Nelson, Grace","Launsbach, Ava",,,,0,0,24,14,"[Woodward, Ruby] Kill by Nelson, Grace (from Launsbach, Ava).",SMI,NYU
+3,39,38,NYU,attack,kill,NYU,"Nelson, Grace","Nelson, Grace","Launsbach, Ava",,,,0,0,25,14,"[Nelson, Grace] Kill by Nelson, Grace (from Launsbach, Ava).",SMI,NYU

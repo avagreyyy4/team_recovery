@@ -1,0 +1,66 @@
+You are locating volleyball huddles in this video clip for a research
+study. A huddle is the moment players from BOTH teams (or one team,
+depending what's visible) gather together physically after a point ends --
+NOT a strategic sideline conference, not a coach talk, not a timeout.
+
+EXACT BOUNDARIES -- this is the most important part of this task. Get the
+start and end as tight and accurate as possible; do not pad either
+boundary.
+
+- START: the exact instant the point/rally ends -- the specific frame the
+  ball becomes dead (hits the floor, goes out, hits the net and stops
+  play, a whistle/call ends the rally). This is EARLIER than the moment
+  players are already visibly gathering -- a very common mistake is
+  reporting a start that is a second or more too late, once the group has
+  already started moving together or a high-five/hand-contact is already
+  happening. If your candidate start shows players already forming a
+  group, already reaching toward each other, or already touching hands,
+  that is too late -- rewind to the actual point-ending frame, which is
+  usually 1-2 seconds EARLIER than it first looks like it should be.
+  Players may still be mid-motion in that exact frame (finishing a swing,
+  still airborne from a block/attack, referee mid-signal) -- that is fine
+  and expected; the point can end while someone is still physically
+  completing the prior action. Do not start earlier than the point-ending
+  frame (e.g. mid-rally, before the ball is dead) and do not start later
+  (e.g. after players have already begun reaching for each other).
+
+- END: the exact instant BOTH teams begin to separate -- the first visible
+  moment the gathered group starts breaking apart and players begin moving
+  away from each other. This is EARLIER than the moment they reach their
+  next-play/serve-receive positions on the court -- do not extend the
+  huddle window to cover players walking back into formation. As soon as
+  you see the group start to loosen and disperse (someone turns and
+  starts walking away, the tight cluster starts opening up), that is the
+  end. If only one side is visible, judge separation from that side alone.
+
+A single clip may contain zero, one, or several separate huddles (one per
+rally that ends within the clip) -- find and report every one of them
+independently, each with its own start/end.
+
+BE DECISIVE, NOT CONSERVATIVE. This is a first pass that a human will
+review and correct afterward, so the goal is to catch every real huddle
+with tight, accurate boundaries -- not to hedge or omit borderline cases.
+If a gathering is clearly a huddle by the definition above, report it even
+if part of it is partially occluded; use your best judgment on the exact
+boundary rather than declining to report. Only skip something entirely if
+it is clearly NOT a huddle (e.g. a coach-only conference, a timeout with no
+point just having ended, players simply walking to the service line with
+no gathering).
+
+TIMESTAMPS
+Report start/end as MM:SS.mmm (minutes:seconds.milliseconds) RELATIVE TO
+THE START OF THIS CLIP -- i.e. 00:00.000 is the very first frame of this
+clip, not any absolute game time. Be as precise as you can to the frame.
+
+OUTPUT
+Return one JSON object with a single top-level key "huddles", holding an
+array of objects (empty array if this clip contains no huddles). Each
+object has:
+  - "start": MM:SS.mmm, relative to this clip, per above
+  - "end": MM:SS.mmm, relative to this clip, per above
+  - "confidence": 0.0-1.0, your confidence in this specific detection and
+    its boundaries
+  - "description": one short phrase naming what's visible (e.g. "both
+    teams converge center court after point, break after ~5s")
+Return ONLY the JSON object. No prose, no explanation, no markdown code
+fences, no text before or after it.

@@ -1,0 +1,185 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,ADRIAN,attack,kill,ADRIAN,"Farrell, Hailey","Johnson, Destiny","Farrell, Hailey",,,,0,1,0,1,"[Farrell, Hailey] Kill by Johnson, Destiny (from Farrell, Hailey).",ADRIAN,Ober
+1,2,1,ADRIAN,ace,service_ace,ADRIAN,"Farrell, Hailey",,,,,"Radic, Natasha",0,0,0,2,"[Farrell, Hailey] Service ace (Radic, Natasha).",ADRIAN,Ober
+1,3,2,Ober,error,service_error,ADRIAN,"Farrell, Hailey",,,,"Farrell, Hailey",,0,0,1,2,"[Farrell, Hailey] Service error.",ADRIAN,Ober
+1,4,3,ADRIAN,attack,kill,Ober,"Jones, Andrea","Dorow, Mallory","Farrell, Hailey",,,,0,0,1,3,"[Jones, Andrea] Kill by Dorow, Mallory (from Farrell, Hailey).",ADRIAN,Ober
+1,5,4,ADRIAN,attack,kill,ADRIAN,"Bower, Erikah","Dorow, Mallory","Minjares, Mya",,,,0,1,1,4,"[Bower, Erikah] Kill by Dorow, Mallory (from Minjares, Mya).",ADRIAN,Ober
+1,6,5,Ober,attack,kill,ADRIAN,"Bower, Erikah","Radic, Natasha","Gwynne, Taylor",,,,0,0,2,4,"[Bower, Erikah] Kill by Radic, Natasha (from Gwynne, Taylor).",ADRIAN,Ober
+1,7,6,ADRIAN,attack,kill,Ober,"DeHaro, Moo","Weiman, Blaire","Farrell, Hailey",,,,0,1,2,5,"[DeHaro, Moo] Kill by Weiman, Blaire (from Farrell, Hailey).",ADRIAN,Ober
+1,8,7,Ober,block,attack_error,ADRIAN,"Minjares, Mya","Weiman, Blaire",,"Sweet, Cami; Lewis, Iyanna","Weiman, Blaire",,0,1,3,5,"[Minjares, Mya] Attack error by Weiman, Blaire (block by Sweet, Cami; Lewis, Iyanna).",ADRIAN,Ober
+1,9,8,Ober,error,attack_error,Ober,"Lewis, Iyanna","Dorow, Mallory","Farrell, Hailey",,"Dorow, Mallory",,0,0,4,5,"[Lewis, Iyanna] Attack error by Dorow, Mallory (from Farrell, Hailey).",ADRIAN,Ober
+1,10,9,ADRIAN,attack,kill,Ober,"Lewis, Iyanna","Weiman, Blaire","Minjares, Mya",,,,0,0,4,6,"[Lewis, Iyanna] Kill by Weiman, Blaire (from Minjares, Mya).",ADRIAN,Ober
+1,11,10,Ober,error,attack_error,ADRIAN,"Peters, Maddy","Weiman, Blaire","Farrell, Hailey",,"Weiman, Blaire",,0,1,5,6,"[Peters, Maddy] Attack error by Weiman, Blaire (from Farrell, Hailey).",ADRIAN,Ober
+1,12,11,ADRIAN,attack,kill,Ober,"Sands, Lauren","Peters, Maddy","Farrell, Hailey",,,,0,1,5,7,"[Sands, Lauren] Kill by Peters, Maddy (from Farrell, Hailey).",ADRIAN,Ober
+1,13,12,ADRIAN,attack,kill,ADRIAN,"Weiman, Blaire","Bergman, Katelyn",,,,,0,1,5,8,"[Weiman, Blaire] Kill by Bergman, Katelyn.",ADRIAN,Ober
+1,14,13,ADRIAN,attack,kill,ADRIAN,"Weiman, Blaire","Farrell, Hailey","Minjares, Mya",,,,0,0,5,9,"[Weiman, Blaire] Kill by Farrell, Hailey (from Minjares, Mya).",ADRIAN,Ober
+1,15,14,ADRIAN,error,attack_error,ADRIAN,"Weiman, Blaire","Jones, Andrea","Gwynne, Taylor",,"Jones, Andrea",,0,0,5,10,"[Weiman, Blaire] Attack error by Jones, Andrea (from Gwynne, Taylor).",ADRIAN,Ober
+1,16,15,ADRIAN,error,attack_error,ADRIAN,"Weiman, Blaire","Jones, Andrea","Gwynne, Taylor",,"Jones, Andrea",,0,0,5,11,"[Weiman, Blaire] Attack error by Jones, Andrea (from Gwynne, Taylor).",ADRIAN,Ober
+1,17,16,Ober,attack,kill,ADRIAN,"Weiman, Blaire","Sweet, Cami","Gwynne, Taylor",,,,0,0,6,11,"[Weiman, Blaire] Kill by Sweet, Cami (from Gwynne, Taylor).",ADRIAN,Ober
+1,18,17,Ober,error,attack_error,Ober,"Sweet, Cami","Bergman, Katelyn","Farrell, Hailey",,"Bergman, Katelyn",,0,1,7,11,"[Sweet, Cami] Attack error by Bergman, Katelyn (from Farrell, Hailey).",ADRIAN,Ober
+1,19,18,ADRIAN,attack,kill,Ober,"Sweet, Cami","Farrell, Hailey","Peters, Maddy",,,,0,0,7,12,"[Sweet, Cami] Kill by Farrell, Hailey (from Peters, Maddy).",ADRIAN,Ober
+1,20,19,Ober,attack,kill,ADRIAN,"Bergman, Katelyn","Dufour, Natalie","Gwynne, Taylor",,,,0,1,8,12,"[Bergman, Katelyn] Kill by Dufour, Natalie (from Gwynne, Taylor).",ADRIAN,Ober
+1,21,20,ADRIAN,attack,kill,Ober,"Gwynne, Taylor","Bower, Erikah","Farrell, Hailey",,,,0,1,8,13,"[Gwynne, Taylor] Kill by Bower, Erikah (from Farrell, Hailey).",ADRIAN,Ober
+1,22,21,Ober,attack,kill,ADRIAN,"Farrell, Hailey","Jones, Andrea","Gwynne, Taylor",,,,0,1,9,13,"[Farrell, Hailey] Kill by Jones, Andrea (from Gwynne, Taylor).",ADRIAN,Ober
+1,23,22,Ober,block,attack_error,Ober,"Jones, Andrea","Bower, Erikah",,"Dufour, Natalie; Lewis, Iyanna","Bower, Erikah",,0,1,10,13,"[Jones, Andrea] Attack error by Bower, Erikah (block by Dufour, Natalie; Lewis, Iyanna).",ADRIAN,Ober
+1,24,23,Ober,attack,kill,Ober,"Jones, Andrea","Dufour, Natalie","Gwynne, Taylor",,,,0,0,11,13,"[Jones, Andrea] Kill by Dufour, Natalie (from Gwynne, Taylor).",ADRIAN,Ober
+1,25,24,Ober,attack,kill,Ober,"Jones, Andrea","Lewis, Iyanna","Gwynne, Taylor",,,,0,0,12,13,"[Jones, Andrea] Kill by Lewis, Iyanna (from Gwynne, Taylor).",ADRIAN,Ober
+1,26,25,ADRIAN,attack,kill,Ober,"Jones, Andrea","Johnson, Destiny","Farrell, Hailey",,,,0,0,12,14,"[Jones, Andrea] Kill by Johnson, Destiny (from Farrell, Hailey).",ADRIAN,Ober
+1,27,26,Ober,error,service_error,ADRIAN,"Cox, Lana",,,,"Cox, Lana",,0,1,13,14,"[Cox, Lana] Service error.",ADRIAN,Ober
+1,28,27,Ober,block,attack_error,Ober,"DeHaro, Moo","Johnson, Destiny",,"Radic, Natasha; Sweet, Cami","Johnson, Destiny",,0,1,14,14,"[DeHaro, Moo] Attack error by Johnson, Destiny (block by Radic, Natasha; Sweet, Cami).",ADRIAN,Ober
+1,29,28,ADRIAN,attack,kill,Ober,"DeHaro, Moo","Weiman, Blaire","Farrell, Hailey",,,,0,0,14,15,"[DeHaro, Moo] Kill by Weiman, Blaire (from Farrell, Hailey).",ADRIAN,Ober
+1,30,29,ADRIAN,error,attack_error,ADRIAN,"Minjares, Mya","Radic, Natasha","Gwynne, Taylor",,"Radic, Natasha",,0,1,14,16,"[Minjares, Mya] Attack error by Radic, Natasha (from Gwynne, Taylor).",ADRIAN,Ober
+1,31,30,Ober,error,service_error,ADRIAN,"Minjares, Mya",,,,"Minjares, Mya",,0,0,15,16,"[Minjares, Mya] Service error.",ADRIAN,Ober
+1,32,31,ADRIAN,error,service_error,Ober,"Lewis, Iyanna",,,,"Lewis, Iyanna",,0,0,15,17,"[Lewis, Iyanna] Service error.",ADRIAN,Ober
+1,33,32,Ober,error,service_error,ADRIAN,"Dorow, Mallory",,,,"Dorow, Mallory",,0,1,16,17,"[Dorow, Mallory] Service error.",ADRIAN,Ober
+1,34,33,Ober,attack,kill,Ober,"Sands, Lauren","Sweet, Cami","Gwynne, Taylor",,,,0,1,17,17,"[Sands, Lauren] Kill by Sweet, Cami (from Gwynne, Taylor).",ADRIAN,Ober
+1,35,34,Ober,attack,kill,Ober,"Sands, Lauren","Jones, Andrea","DeHaro, Moo",,,,0,0,18,17,"[Sands, Lauren] Kill by Jones, Andrea (from DeHaro, Moo).",ADRIAN,Ober
+1,36,35,Ober,error,attack_error,Ober,"Sands, Lauren","Weiman, Blaire","Farrell, Hailey",,"Weiman, Blaire",,0,0,19,17,"[Sands, Lauren] Attack error by Weiman, Blaire (from Farrell, Hailey).",ADRIAN,Ober
+1,37,36,Ober,attack,kill,Ober,"Sands, Lauren","Jones, Andrea","Gwynne, Taylor",,,,0,1,20,17,"[Sands, Lauren] Kill by Jones, Andrea (from Gwynne, Taylor).",ADRIAN,Ober
+1,38,37,ADRIAN,block,attack_error,Ober,"Sands, Lauren","Jones, Andrea",,"Peters, Maddy; Bergman, Katelyn","Jones, Andrea",,0,0,20,18,"[Sands, Lauren] Attack error by Jones, Andrea (block by Peters, Maddy; Bergman, Katelyn).",ADRIAN,Ober
+1,39,38,ADRIAN,error,ball_handling_error,ADRIAN,"Bell, Julia",,,,"Sweet, Cami",,0,1,20,19,"[Bell, Julia] Bad set by Sweet, Cami.",ADRIAN,Ober
+1,40,39,Ober,attack,kill,ADRIAN,"Bell, Julia","Sweet, Cami","Gwynne, Taylor",,,,0,0,21,19,"[Bell, Julia] Kill by Sweet, Cami (from Gwynne, Taylor).",ADRIAN,Ober
+1,41,40,Ober,attack,kill,Ober,"Sweet, Cami","Gwynne, Taylor","Fitts, Lauren",,,,0,1,22,19,"[Sweet, Cami] Kill by Gwynne, Taylor (from Fitts, Lauren).",ADRIAN,Ober
+1,42,41,ADRIAN,attack,kill,Ober,"Sweet, Cami","Bower, Erikah","Minjares, Mya",,,,0,1,22,20,"[Sweet, Cami] Kill by Bower, Erikah (from Minjares, Mya).",ADRIAN,Ober
+1,43,42,Ober,error,service_error,ADRIAN,"Thackery, Emma",,,,"Thackery, Emma",,0,1,23,20,"[Thackery, Emma] Service error.",ADRIAN,Ober
+1,44,43,ADRIAN,attack,kill,Ober,"Gwynne, Taylor","Bower, Erikah","Farrell, Hailey",,,,0,1,23,21,"[Gwynne, Taylor] Kill by Bower, Erikah (from Farrell, Hailey).",ADRIAN,Ober
+1,45,44,ADRIAN,attack,kill,ADRIAN,"Farrell, Hailey","Dorow, Mallory","Minjares, Mya",,,,0,1,23,22,"[Farrell, Hailey] Kill by Dorow, Mallory (from Minjares, Mya).",ADRIAN,Ober
+1,46,45,ADRIAN,error,ball_handling_error,ADRIAN,"Farrell, Hailey",,,,"Gwynne, Taylor",,0,0,23,23,"[Farrell, Hailey] Ball handling error by Gwynne, Taylor.",ADRIAN,Ober
+1,47,46,Ober,block,attack_error,ADRIAN,"Farrell, Hailey","Dorow, Mallory",,"Jones, Andrea; Dufour, Natalie","Dorow, Mallory",,0,0,24,23,"[Farrell, Hailey] Attack error by Dorow, Mallory (block by Jones, Andrea; Dufour, Natalie).",ADRIAN,Ober
+1,48,47,Ober,error,ball_handling_error,Ober,"Jones, Andrea",,,,"Johnson, Destiny",,0,1,25,23,"[Jones, Andrea] Bad set by Johnson, Destiny.",ADRIAN,Ober
+2,1,0,ADRIAN,error,service_error,Ober,"Gwynne, Taylor",,,,"Gwynne, Taylor",,0,1,0,1,"[Gwynne, Taylor] Service error.",ADRIAN,Ober
+2,2,1,Ober,attack,kill,ADRIAN,"Bower, Erikah","Lewis, Iyanna","Gwynne, Taylor",,,,0,0,1,1,"[Bower, Erikah] Kill by Lewis, Iyanna (from Gwynne, Taylor).",ADRIAN,Ober
+2,3,2,Ober,ace,service_ace,Ober,"Jones, Andrea",,,,,Team,0,1,2,1,"[Jones, Andrea] Service ace (Team).",ADRIAN,Ober
+2,4,3,Ober,error,attack_error,Ober,"Jones, Andrea","Dorow, Mallory","Farrell, Hailey",,"Dorow, Mallory",,0,0,3,1,"[Jones, Andrea] Attack error by Dorow, Mallory (from Farrell, Hailey).",ADRIAN,Ober
+2,5,4,Ober,error,ball_handling_error,Ober,"Jones, Andrea",,,,"Farrell, Hailey",,0,0,4,1,"[Jones, Andrea] Bad set by Farrell, Hailey.",ADRIAN,Ober
+2,6,5,ADRIAN,attack,kill,Ober,"Jones, Andrea","Dorow, Mallory","Farrell, Hailey",,,,0,0,4,2,"[Jones, Andrea] Kill by Dorow, Mallory (from Farrell, Hailey).",ADRIAN,Ober
+2,7,6,Ober,error,service_error,ADRIAN,"Minjares, Mya",,,,"Minjares, Mya",,0,1,5,2,"[Minjares, Mya] Service error.",ADRIAN,Ober
+2,8,7,ADRIAN,attack,kill,Ober,"DeHaro, Moo","Bergman, Katelyn","Farrell, Hailey",,,,0,1,5,3,"[DeHaro, Moo] Kill by Bergman, Katelyn (from Farrell, Hailey).",ADRIAN,Ober
+2,9,8,ADRIAN,error,attack_error,ADRIAN,"Peters, Maddy","Lewis, Iyanna","Gwynne, Taylor",,"Lewis, Iyanna",,0,1,5,4,"[Peters, Maddy] Attack error by Lewis, Iyanna (from Gwynne, Taylor).",ADRIAN,Ober
+2,10,9,Ober,error,attack_error,ADRIAN,"Peters, Maddy","Bergman, Katelyn","Farrell, Hailey",,"Bergman, Katelyn",,0,0,6,4,"[Peters, Maddy] Attack error by Bergman, Katelyn (from Farrell, Hailey).",ADRIAN,Ober
+2,11,10,ADRIAN,error,service_error,Ober,"Lewis, Iyanna",,,,"Lewis, Iyanna",,0,0,6,5,"[Lewis, Iyanna] Service error.",ADRIAN,Ober
+2,12,11,ADRIAN,error,attack_error,ADRIAN,"Bell, Julia","Hall, Julia","Gwynne, Taylor",,"Hall, Julia",,0,1,6,6,"[Bell, Julia] Attack error by Hall, Julia (from Gwynne, Taylor).",ADRIAN,Ober
+2,13,12,Ober,attack,kill,ADRIAN,"Bell, Julia","Sweet, Cami","Gwynne, Taylor",,,,0,0,7,6,"[Bell, Julia] Kill by Sweet, Cami (from Gwynne, Taylor).",ADRIAN,Ober
+2,14,13,ADRIAN,attack,kill,Ober,"Sands, Lauren","Bower, Erikah","Farrell, Hailey",,,,0,1,7,7,"[Sands, Lauren] Kill by Bower, Erikah (from Farrell, Hailey).",ADRIAN,Ober
+2,15,14,ADRIAN,attack,kill,ADRIAN,"Bergman, Katelyn","Bower, Erikah","Peters, Maddy",,,,0,1,7,8,"[Bergman, Katelyn] Kill by Bower, Erikah (from Peters, Maddy).",ADRIAN,Ober
+2,16,15,Ober,attack,kill,ADRIAN,"Bergman, Katelyn","Gwynne, Taylor","Sands, Lauren",,,,0,0,8,8,"[Bergman, Katelyn] Kill by Gwynne, Taylor (from Sands, Lauren).",ADRIAN,Ober
+2,17,16,Ober,attack,kill,Ober,"Sweet, Cami","Dufour, Natalie","Gwynne, Taylor",,,,0,1,9,8,"[Sweet, Cami] Kill by Dufour, Natalie (from Gwynne, Taylor).",ADRIAN,Ober
+2,18,17,ADRIAN,attack,kill,Ober,"Sweet, Cami","Johnson, Destiny","Farrell, Hailey",,,,0,0,9,9,"[Sweet, Cami] Kill by Johnson, Destiny (from Farrell, Hailey).",ADRIAN,Ober
+2,19,18,ADRIAN,error,attack_error,ADRIAN,"Farrell, Hailey","Jones, Andrea","Gwynne, Taylor",,"Jones, Andrea",,0,1,9,10,"[Farrell, Hailey] Attack error by Jones, Andrea (from Gwynne, Taylor).",ADRIAN,Ober
+2,20,19,ADRIAN,attack,kill,ADRIAN,"Farrell, Hailey","Johnson, Destiny","Farrell, Hailey",,,,0,0,9,11,"[Farrell, Hailey] Kill by Johnson, Destiny (from Farrell, Hailey).",ADRIAN,Ober
+2,21,20,ADRIAN,error,attack_error,ADRIAN,"Farrell, Hailey","Sands, Lauren","Gwynne, Taylor",,"Sands, Lauren",,0,0,9,12,"[Farrell, Hailey] Attack error by Sands, Lauren (from Gwynne, Taylor).",ADRIAN,Ober
+2,22,21,ADRIAN,attack,kill,ADRIAN,"Farrell, Hailey","Bower, Erikah","Minjares, Mya",,,,0,0,9,13,"[Farrell, Hailey] Kill by Bower, Erikah (from Minjares, Mya).",ADRIAN,Ober
+2,23,22,Ober,attack,kill,ADRIAN,"Farrell, Hailey","Dufour, Natalie","Gwynne, Taylor",,,,0,0,10,13,"[Farrell, Hailey] Kill by Dufour, Natalie (from Gwynne, Taylor).",ADRIAN,Ober
+2,24,23,Ober,error,attack_error,Ober,"Gwynne, Taylor","Dorow, Mallory","Minjares, Mya",,"Dorow, Mallory",,0,1,11,13,"[Gwynne, Taylor] Attack error by Dorow, Mallory (from Minjares, Mya).",ADRIAN,Ober
+2,25,24,ADRIAN,attack,kill,Ober,"Gwynne, Taylor","Minjares, Mya","Gwynne, Taylor",,,,0,0,11,14,"[Gwynne, Taylor] Kill by Minjares, Mya (from Gwynne, Taylor).",ADRIAN,Ober
+2,26,25,Ober,error,service_error,ADRIAN,"Cox, Lana",,,,"Cox, Lana",,0,1,12,14,"[Cox, Lana] Service error.",ADRIAN,Ober
+2,27,26,ADRIAN,attack,kill,Ober,"Jones, Andrea","Johnson, Destiny","Farrell, Hailey",,,,0,1,12,15,"[Jones, Andrea] Kill by Johnson, Destiny (from Farrell, Hailey).",ADRIAN,Ober
+2,28,27,Ober,attack,kill,ADRIAN,"Minjares, Mya","Lewis, Iyanna","Gwynne, Taylor",,,,0,1,13,15,"[Minjares, Mya] Kill by Lewis, Iyanna (from Gwynne, Taylor).",ADRIAN,Ober
+2,29,28,ADRIAN,error,ball_handling_error,Ober,"DeHaro, Moo",,,,"Hall, Julia",,0,1,13,16,"[DeHaro, Moo] Bad set by Hall, Julia.",ADRIAN,Ober
+2,30,29,Ober,error,attack_error,ADRIAN,"Peters, Maddy","Bergman, Katelyn","Farrell, Hailey",,"Bergman, Katelyn",,0,1,14,16,"[Peters, Maddy] Attack error by Bergman, Katelyn (from Farrell, Hailey).",ADRIAN,Ober
+2,31,30,Ober,attack,kill,Ober,"Fitts, Lauren","Radic, Natasha","Gwynne, Taylor",,,,0,1,15,16,"[Fitts, Lauren] Kill by Radic, Natasha (from Gwynne, Taylor).",ADRIAN,Ober
+2,32,31,ADRIAN,attack,kill,Ober,"Fitts, Lauren","Bergman, Katelyn","Farrell, Hailey",,,,0,0,15,17,"[Fitts, Lauren] Kill by Bergman, Katelyn (from Farrell, Hailey).",ADRIAN,Ober
+2,33,32,Ober,attack,kill,ADRIAN,"Bell, Julia","Sweet, Cami","Gwynne, Taylor",,,,0,1,16,17,"[Bell, Julia] Kill by Sweet, Cami (from Gwynne, Taylor).",ADRIAN,Ober
+2,34,33,ADRIAN,attack,kill,Ober,"Sands, Lauren","Bower, Erikah","Farrell, Hailey",,,,0,1,16,18,"[Sands, Lauren] Kill by Bower, Erikah (from Farrell, Hailey).",ADRIAN,Ober
+2,35,34,ADRIAN,error,attack_error,ADRIAN,"Bergman, Katelyn","Jones, Andrea","Gwynne, Taylor",,"Jones, Andrea",,0,1,16,19,"[Bergman, Katelyn] Attack error by Jones, Andrea (from Gwynne, Taylor).",ADRIAN,Ober
+2,36,35,Ober,attack,kill,ADRIAN,"Bergman, Katelyn","Gwynne, Taylor","Fitts, Lauren",,,,0,0,17,19,"[Bergman, Katelyn] Kill by Gwynne, Taylor (from Fitts, Lauren).",ADRIAN,Ober
+2,37,36,ADRIAN,error,service_error,Ober,"Sweet, Cami",,,,"Sweet, Cami",,0,1,17,20,"[Sweet, Cami] Service error.",ADRIAN,Ober
+2,38,37,ADRIAN,attack,kill,ADRIAN,"Farrell, Hailey","Johnson, Destiny","Gwynne, Taylor",,,,0,1,17,21,"[Farrell, Hailey] Kill by Johnson, Destiny (from Gwynne, Taylor).",ADRIAN,Ober
+2,39,38,ADRIAN,error,attack_error,ADRIAN,"Farrell, Hailey","Jones, Andrea","Gwynne, Taylor",,"Jones, Andrea",,0,1,17,22,"[Farrell, Hailey] Attack error by Jones, Andrea (from Gwynne, Taylor).",ADRIAN,Ober
+2,40,39,ADRIAN,error,attack_error,ADRIAN,"Farrell, Hailey","Jones, Andrea","Gwynne, Taylor",,"Jones, Andrea",,0,0,17,23,"[Farrell, Hailey] Attack error by Jones, Andrea (from Gwynne, Taylor).",ADRIAN,Ober
+2,41,40,Ober,attack,kill,ADRIAN,"Farrell, Hailey","Hall, Julia","Gwynne, Taylor",,,,0,1,18,23,"[Farrell, Hailey] Kill by Hall, Julia (from Gwynne, Taylor).",ADRIAN,Ober
+2,42,41,ADRIAN,attack,kill,Ober,"Gwynne, Taylor","Johnson, Destiny","Farrell, Hailey",,,,0,1,18,24,"[Gwynne, Taylor] Kill by Johnson, Destiny (from Farrell, Hailey).",ADRIAN,Ober
+2,43,42,Ober,attack,kill,ADRIAN,"Bower, Erikah","Lewis, Iyanna","Gwynne, Taylor",,,,0,0,19,24,"[Bower, Erikah] Kill by Lewis, Iyanna (from Gwynne, Taylor).",ADRIAN,Ober
+2,44,43,Ober,block,attack_error,Ober,"Hall, Julia","Johnson, Destiny",,"Dufour, Natalie","Johnson, Destiny",,0,1,20,24,"[Hall, Julia] Attack error by Johnson, Destiny (block by Dufour, Natalie).",ADRIAN,Ober
+2,45,44,ADRIAN,attack,kill,Ober,"Hall, Julia","Dorow, Mallory","Farrell, Hailey",,,,0,0,20,25,"[Hall, Julia] Kill by Dorow, Mallory (from Farrell, Hailey).",ADRIAN,Ober
+3,1,0,ADRIAN,error,attack_error,ADRIAN,"Farrell, Hailey","Radic, Natasha","Gwynne, Taylor",,"Radic, Natasha",,0,1,0,1,"[Farrell, Hailey] Attack error by Radic, Natasha (from Gwynne, Taylor).",ADRIAN,Ober
+3,2,1,Ober,error,service_error,ADRIAN,"Farrell, Hailey",,,,"Farrell, Hailey",,0,0,1,1,"[Farrell, Hailey] Service error.",ADRIAN,Ober
+3,3,2,Ober,attack,kill,Ober,"Jones, Andrea","Lewis, Iyanna","Gwynne, Taylor",,,,0,0,2,1,"[Jones, Andrea] Kill by Lewis, Iyanna (from Gwynne, Taylor).",ADRIAN,Ober
+3,4,3,ADRIAN,attack,kill,Ober,"Jones, Andrea","Dorow, Mallory","Farrell, Hailey",,,,0,0,2,2,"[Jones, Andrea] Kill by Dorow, Mallory (from Farrell, Hailey).",ADRIAN,Ober
+3,5,4,Ober,attack,kill,ADRIAN,"Bower, Erikah","Radic, Natasha","Gwynne, Taylor",,,,0,1,3,2,"[Bower, Erikah] Kill by Radic, Natasha (from Gwynne, Taylor).",ADRIAN,Ober
+3,6,5,Ober,ace,service_ace,Ober,"DeHaro, Moo",,,,,"Cox, Lana",0,1,4,2,"[DeHaro, Moo] Service ace (Cox, Lana).",ADRIAN,Ober
+3,7,6,ADRIAN,attack,kill,Ober,"DeHaro, Moo","Dorow, Mallory","Farrell, Hailey",,,,0,0,4,3,"[DeHaro, Moo] Kill by Dorow, Mallory (from Farrell, Hailey).",ADRIAN,Ober
+3,8,7,Ober,attack,kill,ADRIAN,"Minjares, Mya","Sweet, Cami","Gwynne, Taylor",,,,0,1,5,3,"[Minjares, Mya] Kill by Sweet, Cami (from Gwynne, Taylor).",ADRIAN,Ober
+3,9,8,Ober,ace,service_ace,Ober,"Fitts, Lauren",,,,,"Cox, Lana",0,1,6,3,"[Fitts, Lauren] Service ace (Cox, Lana).",ADRIAN,Ober
+3,10,9,Ober,attack,kill,Ober,"Fitts, Lauren","Radic, Natasha","Gwynne, Taylor",,,,0,0,7,3,"[Fitts, Lauren] Kill by Radic, Natasha (from Gwynne, Taylor).",ADRIAN,Ober
+3,11,10,ADRIAN,error,service_error,Ober,"Fitts, Lauren",,,,"Fitts, Lauren",,0,0,7,4,"[Fitts, Lauren] Service error.",ADRIAN,Ober
+3,12,11,Ober,error,attack_error,ADRIAN,"Peters, Maddy","Bell, Julia","Farrell, Hailey",,"Bell, Julia",,0,1,8,4,"[Peters, Maddy] Attack error by Bell, Julia (from Farrell, Hailey).",ADRIAN,Ober
+3,13,12,Ober,block,attack_error,Ober,"Sands, Lauren","Bell, Julia",,"Gwynne, Taylor; Sweet, Cami","Bell, Julia",,0,1,9,4,"[Sands, Lauren] Attack error by Bell, Julia (block by Gwynne, Taylor; Sweet, Cami).",ADRIAN,Ober
+3,14,13,ADRIAN,attack,kill,Ober,"Sands, Lauren","Bergman, Katelyn","Farrell, Hailey",,,,0,1,9,5,"[Sands, Lauren] Kill by Bergman, Katelyn (from Farrell, Hailey).",ADRIAN,Ober
+3,15,14,ADRIAN,ace,service_ace,ADRIAN,"Weiman, Blaire",,,,,"Sands, Lauren",0,1,9,6,"[Weiman, Blaire] Service ace (Sands, Lauren).",ADRIAN,Ober
+3,16,15,Ober,attack,kill,ADRIAN,"Weiman, Blaire","Jones, Andrea","Gwynne, Taylor",,,,0,0,10,6,"[Weiman, Blaire] Kill by Jones, Andrea (from Gwynne, Taylor).",ADRIAN,Ober
+3,17,16,ADRIAN,attack,kill,Ober,"Sweet, Cami","Bower, Erikah","Farrell, Hailey",,,,0,1,10,7,"[Sweet, Cami] Kill by Bower, Erikah (from Farrell, Hailey).",ADRIAN,Ober
+3,18,17,Ober,attack,kill,ADRIAN,"Christian, Lydia","Sands, Lauren","Gwynne, Taylor",,,,0,1,11,7,"[Christian, Lydia] Kill by Sands, Lauren (from Gwynne, Taylor).",ADRIAN,Ober
+3,19,18,ADRIAN,attack,kill,Ober,"Gwynne, Taylor","Bower, Erikah","Farrell, Hailey",,,,0,1,11,8,"[Gwynne, Taylor] Kill by Bower, Erikah (from Farrell, Hailey).",ADRIAN,Ober
+3,20,19,ADRIAN,error,attack_error,ADRIAN,"Farrell, Hailey","Dufour, Natalie","Gwynne, Taylor",,"Dufour, Natalie",,0,1,11,9,"[Farrell, Hailey] Attack error by Dufour, Natalie (from Gwynne, Taylor).",ADRIAN,Ober
+3,21,20,ADRIAN,ace,service_ace,ADRIAN,"Farrell, Hailey",,,,,"Jones, Andrea",0,0,11,10,"[Farrell, Hailey] Service ace (Jones, Andrea).",ADRIAN,Ober
+3,22,21,ADRIAN,attack,kill,ADRIAN,"Farrell, Hailey","Bower, Erikah","Farrell, Hailey",,,,0,0,11,11,"[Farrell, Hailey] Kill by Bower, Erikah (from Farrell, Hailey).",ADRIAN,Ober
+3,23,22,Ober,attack,kill,ADRIAN,"Farrell, Hailey","Lewis, Iyanna","Dufour, Natalie",,,,0,0,12,11,"[Farrell, Hailey] Kill by Lewis, Iyanna (from Dufour, Natalie).",ADRIAN,Ober
+3,24,23,ADRIAN,attack,kill,Ober,"Jones, Andrea","Dorow, Mallory","Farrell, Hailey",,,,0,0,12,12,"[Jones, Andrea] Kill by Dorow, Mallory (from Farrell, Hailey).",ADRIAN,Ober
+3,25,24,ADRIAN,error,attack_error,ADRIAN,"Cox, Lana","Dufour, Natalie","Gwynne, Taylor",,"Dufour, Natalie",,0,1,12,13,"[Cox, Lana] Attack error by Dufour, Natalie (from Gwynne, Taylor).",ADRIAN,Ober
+3,26,25,ADRIAN,attack,kill,ADRIAN,"Cox, Lana","Farrell, Hailey","Weiman, Blaire",,,,0,0,12,14,"[Cox, Lana] Kill by Farrell, Hailey (from Weiman, Blaire).",ADRIAN,Ober
+3,27,26,Ober,attack,kill,ADRIAN,"Cox, Lana","Lewis, Iyanna","Gwynne, Taylor",,,,0,0,13,14,"[Cox, Lana] Kill by Lewis, Iyanna (from Gwynne, Taylor).",ADRIAN,Ober
+3,28,27,Ober,attack,kill,Ober,"DeHaro, Moo","Radic, Natasha","Gwynne, Taylor",,,,0,1,14,14,"[DeHaro, Moo] Kill by Radic, Natasha (from Gwynne, Taylor).",ADRIAN,Ober
+3,29,28,Ober,attack,kill,Ober,"DeHaro, Moo","Sweet, Cami","Gwynne, Taylor",,,,0,0,15,14,"[DeHaro, Moo] Kill by Sweet, Cami (from Gwynne, Taylor).",ADRIAN,Ober
+3,30,29,ADRIAN,attack,kill,Ober,"DeHaro, Moo","Weiman, Blaire","Farrell, Hailey",,,,0,0,15,15,"[DeHaro, Moo] Kill by Weiman, Blaire (from Farrell, Hailey).",ADRIAN,Ober
+3,31,30,Ober,block,attack_error,ADRIAN,"Minjares, Mya","Dorow, Mallory",,"Sweet, Cami; Radic, Natasha","Dorow, Mallory",,0,1,16,15,"[Minjares, Mya] Attack error by Dorow, Mallory (block by Sweet, Cami; Radic, Natasha).",ADRIAN,Ober
+3,32,31,Ober,ace,service_ace,Ober,"Fitts, Lauren",,,,,"Weiman, Blaire",0,1,17,15,"[Fitts, Lauren] Service ace (Weiman, Blaire).",ADRIAN,Ober
+3,33,32,ADRIAN,attack,kill,Ober,"Fitts, Lauren","Weiman, Blaire","Farrell, Hailey",,,,0,0,17,16,"[Fitts, Lauren] Kill by Weiman, Blaire (from Farrell, Hailey).",ADRIAN,Ober
+3,34,33,Ober,attack,kill,ADRIAN,"Peters, Maddy","Sweet, Cami","Gwynne, Taylor",,,,0,1,18,16,"[Peters, Maddy] Kill by Sweet, Cami (from Gwynne, Taylor).",ADRIAN,Ober
+3,35,34,Ober,error,ball_handling_error,Ober,"Sands, Lauren",,,,"Farrell, Hailey",,0,1,19,16,"[Sands, Lauren] Bad set by Farrell, Hailey.",ADRIAN,Ober
+3,36,35,Ober,ace,service_ace,Ober,"Sands, Lauren",,,,,Team,0,1,20,16,"[Sands, Lauren] Service ace (Team).",ADRIAN,Ober
+3,37,36,Ober,error,attack_error,Ober,"Sands, Lauren","Weiman, Blaire","Farrell, Hailey",,"Weiman, Blaire",,0,0,21,16,"[Sands, Lauren] Attack error by Weiman, Blaire (from Farrell, Hailey).",ADRIAN,Ober
+3,38,37,Ober,error,attack_error,Ober,"Sands, Lauren","Ritchie, Maddy","Farrell, Hailey",,"Ritchie, Maddy",,0,0,22,16,"[Sands, Lauren] Attack error by Ritchie, Maddy (from Farrell, Hailey).",ADRIAN,Ober
+3,39,38,Ober,error,attack_error,Ober,"Sands, Lauren","Weiman, Blaire","Peters, Maddy",,"Weiman, Blaire",,0,1,23,16,"[Sands, Lauren] Attack error by Weiman, Blaire (from Peters, Maddy).",ADRIAN,Ober
+3,40,39,Ober,attack,kill,Ober,"Sands, Lauren","Sweet, Cami","Gwynne, Taylor",,,,0,0,24,16,"[Sands, Lauren] Kill by Sweet, Cami (from Gwynne, Taylor).",ADRIAN,Ober
+3,41,40,Ober,error,attack_error,Ober,"Sands, Lauren","Peters, Maddy","Anspaugh, Mallory",,"Peters, Maddy",,0,0,25,16,"[Sands, Lauren] Attack error by Peters, Maddy (from Anspaugh, Mallory).",ADRIAN,Ober
+4,1,0,Ober,attack,kill,Ober,"Gwynne, Taylor","Lewis, Iyanna","Gwynne, Taylor",,,,0,1,1,0,"[Gwynne, Taylor] Kill by Lewis, Iyanna (from Gwynne, Taylor).",ADRIAN,Ober
+4,2,1,ADRIAN,error,service_error,Ober,"Gwynne, Taylor",,,,"Gwynne, Taylor",,0,0,1,1,"[Gwynne, Taylor] Service error.",ADRIAN,Ober
+4,3,2,ADRIAN,attack,kill,ADRIAN,"Dorow, Mallory","Dorow, Mallory","Farrell, Hailey",,,,0,0,1,2,"[Dorow, Mallory] Kill by Dorow, Mallory (from Farrell, Hailey).",ADRIAN,Ober
+4,4,3,Ober,error,service_error,ADRIAN,"Dorow, Mallory",,,,"Dorow, Mallory",,0,0,2,2,"[Dorow, Mallory] Service error.",ADRIAN,Ober
+4,5,4,ADRIAN,attack,kill,Ober,"Hall, Julia","Johnson, Destiny","Farrell, Hailey",,,,0,1,2,3,"[Hall, Julia] Kill by Johnson, Destiny (from Farrell, Hailey).",ADRIAN,Ober
+4,6,5,Ober,attack,kill,ADRIAN,"Minjares, Mya","Radic, Natasha","Gwynne, Taylor",,,,0,1,3,3,"[Minjares, Mya] Kill by Radic, Natasha (from Gwynne, Taylor).",ADRIAN,Ober
+4,7,6,Ober,block,attack_error,Ober,"DeHaro, Moo","Bergman, Katelyn",,"Radic, Natasha; Sweet, Cami","Bergman, Katelyn",,0,1,4,3,"[DeHaro, Moo] Attack error by Bergman, Katelyn (block by Radic, Natasha; Sweet, Cami).",ADRIAN,Ober
+4,8,7,Ober,error,attack_error,Ober,"DeHaro, Moo","Ritchie, Maddy","Farrell, Hailey",,"Ritchie, Maddy",,0,0,5,3,"[DeHaro, Moo] Attack error by Ritchie, Maddy (from Farrell, Hailey).",ADRIAN,Ober
+4,9,8,ADRIAN,attack,kill,Ober,"DeHaro, Moo","Bower, Erikah","Farrell, Hailey",,,,0,0,5,4,"[DeHaro, Moo] Kill by Bower, Erikah (from Farrell, Hailey).",ADRIAN,Ober
+4,10,9,Ober,attack,kill,ADRIAN,"Christian, Lydia","Radic, Natasha","Gwynne, Taylor",,,,0,1,6,4,"[Christian, Lydia] Kill by Radic, Natasha (from Gwynne, Taylor).",ADRIAN,Ober
+4,11,10,ADRIAN,attack,kill,Ober,"Fitts, Lauren","Bower, Erikah","Farrell, Hailey",,,,0,1,6,5,"[Fitts, Lauren] Kill by Bower, Erikah (from Farrell, Hailey).",ADRIAN,Ober
+4,12,11,ADRIAN,attack,kill,ADRIAN,"Bower, Erikah","Bergman, Katelyn","Farrell, Hailey",,,,0,1,6,6,"[Bower, Erikah] Kill by Bergman, Katelyn (from Farrell, Hailey).",ADRIAN,Ober
+4,13,12,Ober,attack,kill,ADRIAN,"Bower, Erikah","Radic, Natasha","Gwynne, Taylor",,,,0,0,7,6,"[Bower, Erikah] Kill by Radic, Natasha (from Gwynne, Taylor).",ADRIAN,Ober
+4,14,13,Ober,ace,service_ace,Ober,"Sands, Lauren",,,,,"Christian, Lydia",0,1,8,6,"[Sands, Lauren] Service ace (Christian, Lydia).",ADRIAN,Ober
+4,15,14,ADRIAN,error,attack_error,Ober,"Sands, Lauren","Hall, Julia","Gwynne, Taylor",,"Hall, Julia",,0,0,8,7,"[Sands, Lauren] Attack error by Hall, Julia (from Gwynne, Taylor).",ADRIAN,Ober
+4,16,15,Ober,attack,kill,ADRIAN,"Bergman, Katelyn","Hall, Julia","Gwynne, Taylor",,,,0,1,9,7,"[Bergman, Katelyn] Kill by Hall, Julia (from Gwynne, Taylor).",ADRIAN,Ober
+4,17,16,ADRIAN,attack,kill,Ober,"Sweet, Cami","Dorow, Mallory","Farrell, Hailey",,,,0,1,9,8,"[Sweet, Cami] Kill by Dorow, Mallory (from Farrell, Hailey).",ADRIAN,Ober
+4,18,17,Ober,attack,kill,ADRIAN,"Farrell, Hailey","Hall, Julia","Gwynne, Taylor",,,,0,1,10,8,"[Farrell, Hailey] Kill by Hall, Julia (from Gwynne, Taylor).",ADRIAN,Ober
+4,19,18,ADRIAN,error,attack_error,Ober,"Gwynne, Taylor","Dufour, Natalie",,,"Dufour, Natalie",,0,1,10,9,"[Gwynne, Taylor] Attack error by Dufour, Natalie.",ADRIAN,Ober
+4,20,19,ADRIAN,attack,kill,ADRIAN,"Peters, Maddy","Johnson, Destiny","Farrell, Hailey",,,,0,1,10,10,"[Peters, Maddy] Kill by Johnson, Destiny (from Farrell, Hailey).",ADRIAN,Ober
+4,21,20,ADRIAN,error,attack_error,ADRIAN,"Peters, Maddy","Hall, Julia","Gwynne, Taylor",,"Hall, Julia",,0,0,10,11,"[Peters, Maddy] Attack error by Hall, Julia (from Gwynne, Taylor).",ADRIAN,Ober
+4,22,21,Ober,block,attack_error,ADRIAN,"Peters, Maddy","Ritchie, Maddy",,"Hall, Julia; Dufour, Natalie","Ritchie, Maddy",,0,0,11,11,"[Peters, Maddy] Attack error by Ritchie, Maddy (block by Hall, Julia; Dufour, Natalie).",ADRIAN,Ober
+4,23,22,ADRIAN,attack,kill,Ober,"Jones, Andrea","Johnson, Destiny","Farrell, Hailey",,,,0,1,11,12,"[Jones, Andrea] Kill by Johnson, Destiny (from Farrell, Hailey).",ADRIAN,Ober
+4,24,23,Ober,error,service_error,ADRIAN,"Minjares, Mya",,,,"Minjares, Mya",,0,1,12,12,"[Minjares, Mya] Service error.",ADRIAN,Ober
+4,25,24,Ober,error,attack_error,Ober,"DeHaro, Moo","Ritchie, Maddy","Farrell, Hailey",,"Ritchie, Maddy",,0,1,13,12,"[DeHaro, Moo] Attack error by Ritchie, Maddy (from Farrell, Hailey).",ADRIAN,Ober
+4,26,25,Ober,block,attack_error,Ober,"DeHaro, Moo","Bower, Erikah",,"Sweet, Cami; Lewis, Iyanna","Bower, Erikah",,0,0,14,12,"[DeHaro, Moo] Attack error by Bower, Erikah (block by Sweet, Cami; Lewis, Iyanna).",ADRIAN,Ober
+4,27,26,Ober,ace,service_ace,Ober,"DeHaro, Moo",,,,,"Peters, Maddy",0,0,15,12,"[DeHaro, Moo] Service ace (Peters, Maddy).",ADRIAN,Ober
+4,28,27,ADRIAN,block,attack_error,Ober,"DeHaro, Moo","Radic, Natasha",,"Bergman, Katelyn; Ritchie, Maddy","Radic, Natasha",,0,0,15,13,"[DeHaro, Moo] Attack error by Radic, Natasha (block by Bergman, Katelyn; Ritchie, Maddy).",ADRIAN,Ober
+4,29,28,Ober,attack,kill,ADRIAN,"Christian, Lydia","Lewis, Iyanna","Gwynne, Taylor",,,,0,1,16,13,"[Christian, Lydia] Kill by Lewis, Iyanna (from Gwynne, Taylor).",ADRIAN,Ober
+4,30,29,Ober,error,attack_error,Ober,"Fitts, Lauren","Bergman, Katelyn","Farrell, Hailey",,"Bergman, Katelyn",,0,1,17,13,"[Fitts, Lauren] Attack error by Bergman, Katelyn (from Farrell, Hailey).",ADRIAN,Ober
+4,31,30,ADRIAN,error,service_error,Ober,"Fitts, Lauren",,,,"Fitts, Lauren",,0,0,17,14,"[Fitts, Lauren] Service error.",ADRIAN,Ober
+4,32,31,Ober,error,service_error,ADRIAN,"Bower, Erikah",,,,"Bower, Erikah",,0,1,18,14,"[Bower, Erikah] Service error.",ADRIAN,Ober
+4,33,32,Ober,attack,kill,Ober,"Sands, Lauren","Gwynne, Taylor","Sands, Lauren",,,,0,1,19,14,"[Sands, Lauren] Kill by Gwynne, Taylor (from Sands, Lauren).",ADRIAN,Ober
+4,34,33,Ober,attack,kill,Ober,"Sands, Lauren","Sweet, Cami","Gwynne, Taylor",,,,0,1,20,14,"[Sands, Lauren] Kill by Sweet, Cami (from Gwynne, Taylor).",ADRIAN,Ober
+4,35,34,Ober,ace,service_ace,Ober,"Sands, Lauren",,,,,"Bower, Erikah",0,0,21,14,"[Sands, Lauren] Service ace (Bower, Erikah).",ADRIAN,Ober
+4,36,35,ADRIAN,attack,kill,Ober,"Sands, Lauren","Dorow, Mallory","Farrell, Hailey",,,,0,0,21,15,"[Sands, Lauren] Kill by Dorow, Mallory (from Farrell, Hailey).",ADRIAN,Ober
+4,37,36,ADRIAN,attack,kill,ADRIAN,"Croci, Grace","Johnson, Destiny","Farrell, Hailey",,,,0,1,21,16,"[Croci, Grace] Kill by Johnson, Destiny (from Farrell, Hailey).",ADRIAN,Ober
+4,38,37,ADRIAN,error,attack_error,ADRIAN,"Croci, Grace","Sweet, Cami","Gwynne, Taylor",,"Sweet, Cami",,0,0,21,17,"[Croci, Grace] Attack error by Sweet, Cami (from Gwynne, Taylor).",ADRIAN,Ober
+4,39,38,Ober,error,attack_error,ADRIAN,"Croci, Grace","Bower, Erikah","Croci, Grace",,"Bower, Erikah",,0,0,22,17,"[Croci, Grace] Attack error by Bower, Erikah (from Croci, Grace).",ADRIAN,Ober
+4,40,39,ADRIAN,attack,kill,Ober,"Sweet, Cami","Johnson, Destiny","Farrell, Hailey",,,,0,1,22,18,"[Sweet, Cami] Kill by Johnson, Destiny (from Farrell, Hailey).",ADRIAN,Ober
+4,41,40,ADRIAN,block,attack_error,ADRIAN,"Farrell, Hailey","Hall, Julia",,"Johnson, Destiny; Dorow, Mallory","Hall, Julia",,0,1,22,19,"[Farrell, Hailey] Attack error by Hall, Julia (block by Johnson, Destiny; Dorow, Mallory).",ADRIAN,Ober
+4,42,41,ADRIAN,attack,kill,ADRIAN,"Farrell, Hailey","Dorow, Mallory","Farrell, Hailey",,,,0,1,22,20,"[Farrell, Hailey] Kill by Dorow, Mallory (from Farrell, Hailey).",ADRIAN,Ober
+4,43,42,ADRIAN,attack,kill,ADRIAN,"Farrell, Hailey","Johnson, Destiny",,,,,0,0,22,21,"[Farrell, Hailey] Kill by Johnson, Destiny.",ADRIAN,Ober
+4,44,43,Ober,attack,kill,ADRIAN,"Farrell, Hailey","Jones, Andrea","Gwynne, Taylor",,,,0,0,23,21,"[Farrell, Hailey] Kill by Jones, Andrea (from Gwynne, Taylor).",ADRIAN,Ober
+4,45,44,ADRIAN,attack,kill,Ober,"Gwynne, Taylor","Johnson, Destiny","Farrell, Hailey",,,,0,1,23,22,"[Gwynne, Taylor] Kill by Johnson, Destiny (from Farrell, Hailey).",ADRIAN,Ober
+4,46,45,ADRIAN,attack,kill,ADRIAN,"Peters, Maddy","Bower, Erikah","Minjares, Mya",,,,0,1,23,23,"[Peters, Maddy] Kill by Bower, Erikah (from Minjares, Mya).",ADRIAN,Ober
+4,47,46,ADRIAN,attack,kill,ADRIAN,"Peters, Maddy","Bower, Erikah","Farrell, Hailey",,,,0,0,23,24,"[Peters, Maddy] Kill by Bower, Erikah (from Farrell, Hailey).",ADRIAN,Ober
+4,48,47,Ober,attack,kill,ADRIAN,"Peters, Maddy","Lewis, Iyanna","Gwynne, Taylor",,,,0,0,24,24,"[Peters, Maddy] Kill by Lewis, Iyanna (from Gwynne, Taylor).",ADRIAN,Ober
+4,49,48,Ober,ace,service_ace,Ober,"Jones, Andrea",,,,,"Peters, Maddy",0,1,25,24,"[Jones, Andrea] Service ace (Peters, Maddy).",ADRIAN,Ober
+4,50,49,Ober,ace,service_ace,Ober,"Jones, Andrea",,,,,"Minjares, Mya",0,0,26,24,"[Jones, Andrea] Service ace (Minjares, Mya).",ADRIAN,Ober

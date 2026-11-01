@@ -1,0 +1,133 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,EU,attack,kill,BC,Cyrena Bedoian,Cassie Srb,,,,,0,0,0,1,[Cyrena Bedoian] Kill by Cassie Srb.,EU,BC
+1,2,1,BC,attack,kill,EU,Cassie Srb,Carson VanCampen,Jordan Leitch,,,,0,0,1,1,[Cassie Srb] Kill by Carson VanCampen (from Jordan Leitch).,EU,BC
+1,3,2,EU,attack,kill,BC,Peyton Breissinger,Morgan McKnight,Cassie Srb,,,,0,0,1,2,[Peyton Breissinger] Kill by Morgan McKnight (from Cassie Srb).,EU,BC
+1,4,3,EU,error,attack_error,EU,Morgan McKnight,Emily Hancock,,,Emily Hancock,,0,1,1,3,[Morgan McKnight] Attack error by Emily Hancock.,EU,BC
+1,5,4,BC,attack,kill,EU,Morgan McKnight,Jordan Leitch,Laura Beier,,,,0,0,2,3,[Morgan McKnight] Kill by Jordan Leitch (from Laura Beier).,EU,BC
+1,6,5,BC,block,attack_error,BC,Laura Beier,Leah Saunders,,Sam Heard; Emily Hancock,Leah Saunders,,0,1,3,3,[Laura Beier] Attack error by Leah Saunders (block by Sam Heard; Emily Hancock).,EU,BC
+1,7,6,EU,block,attack_error,BC,Laura Beier,Sam Heard,,Charlese Blair,Sam Heard,,0,0,3,4,[Laura Beier] Attack error by Sam Heard (block by Charlese Blair).,EU,BC
+1,8,7,EU,attack,kill,EU,Elyse Thompson,Leah Saunders,Elyse Thompson,,,,0,0,3,5,[Elyse Thompson] Kill by Leah Saunders (from Elyse Thompson).,EU,BC
+1,9,8,EU,attack,kill,EU,Elyse Thompson,Leah Saunders,Cassie Srb,,,,0,0,3,6,[Elyse Thompson] Kill by Leah Saunders (from Cassie Srb).,EU,BC
+1,10,9,BC,error,service_error,EU,Elyse Thompson,,,,Elyse Thompson,,0,0,4,6,[Elyse Thompson] Service error.,EU,BC
+1,11,10,EU,error,service_error,BC,Jordan Leitch,,,,Jordan Leitch,,0,1,4,7,[Jordan Leitch] Service error.,EU,BC
+1,12,11,EU,attack,kill,EU,Leah Saunders,Tara Martin,Cassie Srb,,,,0,0,4,8,[Leah Saunders] Kill by Tara Martin (from Cassie Srb).,EU,BC
+1,13,12,EU,attack,kill,EU,Leah Saunders,Finn Wilkins,,,,,0,0,4,9,[Leah Saunders] Kill by Finn Wilkins.,EU,BC
+1,14,13,EU,attack,kill,EU,Leah Saunders,Finn Wilkins,Cassie Srb,,,,0,0,4,10,[Leah Saunders] Kill by Finn Wilkins (from Cassie Srb).,EU,BC
+1,15,14,EU,attack,kill,EU,Leah Saunders,Cassie Srb,Finn Wilkins,,,,1,0,4,11,[Leah Saunders] Kill by Cassie Srb (from Finn Wilkins).,EU,BC
+1,16,15,BC,error,service_error,EU,Leah Saunders,,,,Leah Saunders,,0,0,5,11,[Leah Saunders] Service error.,EU,BC
+1,17,16,EU,attack,kill,BC,Emily Hancock,Finn Wilkins,Cassie Srb,,,,0,0,5,12,[Emily Hancock] Kill by Finn Wilkins (from Cassie Srb).,EU,BC
+1,18,17,BC,error,attack_error,EU,Sara Carr,Finn Wilkins,,,Finn Wilkins,,0,1,6,12,[Sara Carr] Attack error by Finn Wilkins.,EU,BC
+1,19,18,BC,error,ball_handling_error,BC,Anna Rumore,,,,Cassie Srb,,0,1,7,12,[Anna Rumore] Bad set by Cassie Srb.,EU,BC
+1,20,19,EU,attack,kill,BC,Anna Rumore,Morgan McKnight,Cassie Srb,,,,0,0,7,13,[Anna Rumore] Kill by Morgan McKnight (from Cassie Srb).,EU,BC
+1,21,20,BC,error,attack_error,EU,Kelsey Meins,Morgan McKnight,,,Morgan McKnight,,0,1,8,13,[Kelsey Meins] Attack error by Morgan McKnight.,EU,BC
+1,22,21,EU,attack,kill,BC,Cyrena Bedoian,Morgan McKnight,Cassie Srb,,,,0,1,8,14,[Cyrena Bedoian] Kill by Morgan McKnight (from Cassie Srb).,EU,BC
+1,23,22,BC,error,ball_handling_error,EU,Cassie Srb,,,,Cassie Srb,,0,0,9,14,[Cassie Srb] Ball handling error by Cassie Srb.,EU,BC
+1,24,23,EU,attack,kill,BC,Peyton Breissinger,Charlese Blair,Cassie Srb,,,,0,0,9,15,[Peyton Breissinger] Kill by Charlese Blair (from Cassie Srb).,EU,BC
+1,25,24,EU,attack,kill,EU,Morgan McKnight,Leah Saunders,,,,,0,1,9,16,[Morgan McKnight] Kill by Leah Saunders.,EU,BC
+1,26,25,BC,error,service_error,EU,Morgan McKnight,,,,Morgan McKnight,,0,0,10,16,[Morgan McKnight] Service error.,EU,BC
+1,27,26,BC,attack,kill,BC,Laura Beier,Emily Hancock,Jordan Leitch,,,,0,1,11,16,[Laura Beier] Kill by Emily Hancock (from Jordan Leitch).,EU,BC
+1,28,27,EU,error,attack_error,BC,Laura Beier,Peyton Breissinger,,,Peyton Breissinger,,0,0,11,17,[Laura Beier] Attack error by Peyton Breissinger.,EU,BC
+1,29,28,BC,attack,kill,EU,Elyse Thompson,Emily Hancock,Jordan Leitch,,,,0,1,12,17,[Elyse Thompson] Kill by Emily Hancock (from Jordan Leitch).,EU,BC
+1,30,29,EU,attack,kill,BC,Jordan Leitch,Leah Saunders,Cassie Srb,,,,0,1,12,18,[Jordan Leitch] Kill by Leah Saunders (from Cassie Srb).,EU,BC
+1,31,30,BC,error,service_error,EU,Leah Saunders,,,,Leah Saunders,,0,0,13,18,[Leah Saunders] Service error.,EU,BC
+1,32,31,BC,error,ball_handling_error,BC,Emily Hancock,,,,Cassie Srb,,0,0,14,18,[Emily Hancock] Bad set by Cassie Srb.,EU,BC
+1,33,32,EU,attack,kill,BC,Emily Hancock,Tara Martin,Cassie Srb,,,,0,0,14,19,[Emily Hancock] Kill by Tara Martin (from Cassie Srb).,EU,BC
+1,34,33,BC,attack,kill,EU,Sara Carr,Molly Bergin,Jordan Leitch,,,,0,1,15,19,[Sara Carr] Kill by Molly Bergin (from Jordan Leitch).,EU,BC
+1,35,34,BC,block,attack_error,BC,Anna Rumore,Morgan McKnight,,Molly Bergin; Carson VanCampen,Morgan McKnight,,0,1,16,19,[Anna Rumore] Attack error by Morgan McKnight (block by Molly Bergin; Carson VanCampen).,EU,BC
+1,36,35,BC,error,attack_error,BC,Anna Rumore,Morgan McKnight,,,Morgan McKnight,,1,0,17,19,[Anna Rumore] Attack error by Morgan McKnight.,EU,BC
+1,37,36,BC,attack,kill,BC,Anna Rumore,Molly Bergin,Anna Rumore,,,,0,0,18,19,[Anna Rumore] Kill by Molly Bergin (from Anna Rumore).,EU,BC
+1,38,37,EU,attack,kill,BC,Anna Rumore,Maggie Rimmel,Cassie Srb,,,,0,1,18,20,[Anna Rumore] Kill by Maggie Rimmel (from Cassie Srb).,EU,BC
+1,39,38,BC,attack,kill,EU,Kelsey Meins,Carson VanCampen,Jordan Leitch,,,,0,1,19,20,[Kelsey Meins] Kill by Carson VanCampen (from Jordan Leitch).,EU,BC
+1,40,39,BC,attack,kill,BC,Cyrena Bedoian,Peyton Breissinger,,,,,0,1,20,20,[Cyrena Bedoian] Kill by Peyton Breissinger.,EU,BC
+1,41,40,EU,error,service_error,BC,Cyrena Bedoian,,,,Cyrena Bedoian,,0,0,20,21,[Cyrena Bedoian] Service error.,EU,BC
+1,42,41,EU,block,attack_error,EU,Cassie Srb,Carson VanCampen,,Morgan McKnight; Charlese Blair,Carson VanCampen,,0,0,20,22,[Cassie Srb] Attack error by Carson VanCampen (block by Morgan McKnight; Charlese Blair).,EU,BC
+1,43,42,BC,attack,kill,EU,Cassie Srb,Peyton Breissinger,Jordan Leitch,,,,1,0,21,22,[Cassie Srb] Kill by Peyton Breissinger (from Jordan Leitch).,EU,BC
+1,44,43,BC,block,attack_error,BC,Peyton Breissinger,Morgan McKnight,,Jordan Leitch; Carson VanCampen,Morgan McKnight,,0,0,22,22,[Peyton Breissinger] Attack error by Morgan McKnight (block by Jordan Leitch; Carson VanCampen).,EU,BC
+1,45,44,EU,error,service_error,BC,Peyton Breissinger,,,,Peyton Breissinger,,1,0,22,23,[Peyton Breissinger] Service error.,EU,BC
+1,46,45,EU,block,attack_error,EU,Morgan McKnight,Carson VanCampen,,Charlese Blair; Tara Martin,Carson VanCampen,,0,1,22,24,[Morgan McKnight] Attack error by Carson VanCampen (block by Charlese Blair; Tara Martin).,EU,BC
+1,47,46,BC,attack,kill,EU,Morgan McKnight,Emily Hancock,Jordan Leitch,,,,0,0,23,24,[Morgan McKnight] Kill by Emily Hancock (from Jordan Leitch).,EU,BC
+1,48,47,EU,attack,kill,BC,Laura Beier,Tara Martin,Cassie Srb,,,,0,0,23,25,[Laura Beier] Kill by Tara Martin (from Cassie Srb).,EU,BC
+2,1,0,EU,attack,kill,EU,Kelsey Meins,Sara Carr,Cassie Srb,,,,0,0,0,1,[Kelsey Meins] Kill by Sara Carr (from Cassie Srb).,EU,BC
+2,2,1,BC,attack,kill,EU,Kelsey Meins,Carson VanCampen,Jordan Leitch,,,,0,0,1,1,[Kelsey Meins] Kill by Carson VanCampen (from Jordan Leitch).,EU,BC
+2,3,2,EU,attack,kill,BC,Peyton Breissinger,Morgan McKnight,Cassie Srb,,,,0,0,1,2,[Peyton Breissinger] Kill by Morgan McKnight (from Cassie Srb).,EU,BC
+2,4,3,EU,attack,kill,EU,Cassie Srb,Charlese Blair,,,,,0,0,1,3,[Cassie Srb] Kill by Charlese Blair.,EU,BC
+2,5,4,EU,attack,kill,EU,Cassie Srb,Morgan McKnight,Cassie Srb,,,,0,0,1,4,[Cassie Srb] Kill by Morgan McKnight (from Cassie Srb).,EU,BC
+2,6,5,BC,attack,kill,EU,Cassie Srb,Emily Hancock,Jordan Leitch,,,,0,0,2,4,[Cassie Srb] Kill by Emily Hancock (from Jordan Leitch).,EU,BC
+2,7,6,EU,attack,kill,BC,Peyton Breissinger,Charlese Blair,Cassie Srb,,,,0,0,2,5,[Peyton Breissinger] Kill by Charlese Blair (from Cassie Srb).,EU,BC
+2,8,7,BC,error,attack_error,EU,Morgan McKnight,Tara Martin,,,Tara Martin,,0,1,3,5,[Morgan McKnight] Attack error by Tara Martin.,EU,BC
+2,9,8,EU,attack,kill,BC,Jordan Leitch,Leah Saunders,Cassie Srb,,,,0,1,3,6,[Jordan Leitch] Kill by Leah Saunders (from Cassie Srb).,EU,BC
+2,10,9,EU,error,attack_error,EU,Elyse Thompson,Emily Hancock,,,Emily Hancock,,0,1,3,7,[Elyse Thompson] Attack error by Emily Hancock.,EU,BC
+2,11,10,BC,attack,kill,EU,Elyse Thompson,Molly Bergin,Jordan Leitch,,,,0,0,4,7,[Elyse Thompson] Kill by Molly Bergin (from Jordan Leitch).,EU,BC
+2,12,11,EU,error,service_error,BC,Emily Hancock,,,,Emily Hancock,,0,0,4,8,[Emily Hancock] Service error.,EU,BC
+2,13,12,BC,attack,kill,EU,Leah Saunders,Sam Heard,Jordan Leitch,,,,0,0,5,8,[Leah Saunders] Kill by Sam Heard (from Jordan Leitch).,EU,BC
+2,14,13,EU,attack,kill,BC,Anna Rumore,Maggie Rimmel,Cassie Srb,,,,0,1,5,9,[Anna Rumore] Kill by Maggie Rimmel (from Cassie Srb).,EU,BC
+2,15,14,BC,attack,kill,EU,Sara Carr,Peyton Breissinger,Jordan Leitch,,,,0,1,6,9,[Sara Carr] Kill by Peyton Breissinger (from Jordan Leitch).,EU,BC
+2,16,15,EU,attack,kill,BC,Cyrena Bedoian,Morgan McKnight,Cassie Srb,,,,0,1,6,10,[Cyrena Bedoian] Kill by Morgan McKnight (from Cassie Srb).,EU,BC
+2,17,16,BC,attack,kill,EU,Kelsey Meins,Carson VanCampen,Jordan Leitch,,,,0,1,7,10,[Kelsey Meins] Kill by Carson VanCampen (from Jordan Leitch).,EU,BC
+2,18,17,BC,block,attack_error,BC,Peyton Breissinger,Charlese Blair,,Carson VanCampen; Jordan Leitch,Charlese Blair,,0,0,8,10,[Peyton Breissinger] Attack error by Charlese Blair (block by Carson VanCampen; Jordan Leitch).,EU,BC
+2,19,18,EU,attack,kill,BC,Peyton Breissinger,Morgan McKnight,Sara Carr,,,,0,0,8,11,[Peyton Breissinger] Kill by Morgan McKnight (from Sara Carr).,EU,BC
+2,20,19,EU,attack,kill,EU,Cassie Srb,Leah Saunders,Elyse Thompson,,,,0,0,8,12,[Cassie Srb] Kill by Leah Saunders (from Elyse Thompson).,EU,BC
+2,21,20,EU,attack,kill,EU,Cassie Srb,Leah Saunders,Elyse Thompson,,,,0,0,8,13,[Cassie Srb] Kill by Leah Saunders (from Elyse Thompson).,EU,BC
+2,22,21,BC,error,attack_error,EU,Cassie Srb,Morgan McKnight,,,Morgan McKnight,,1,0,9,13,[Cassie Srb] Attack error by Morgan McKnight.,EU,BC
+2,23,22,BC,attack,kill,BC,Laura Beier,Emily Hancock,Jordan Leitch,,,,0,0,10,13,[Laura Beier] Kill by Emily Hancock (from Jordan Leitch).,EU,BC
+2,24,23,EU,error,service_error,BC,Laura Beier,,,,Laura Beier,,0,0,10,14,[Laura Beier] Service error.,EU,BC
+2,25,24,BC,attack,kill,EU,Morgan McKnight,Emily Hancock,Jordan Leitch,,,,0,1,11,14,[Morgan McKnight] Kill by Emily Hancock (from Jordan Leitch).,EU,BC
+2,26,25,BC,block,attack_error,BC,Jordan Leitch,Leah Saunders,,Sam Heard; Emily Hancock,Leah Saunders,,0,1,12,14,[Jordan Leitch] Attack error by Leah Saunders (block by Sam Heard; Emily Hancock).,EU,BC
+2,27,26,EU,attack,kill,BC,Jordan Leitch,Tara Martin,,,,,0,0,12,15,[Jordan Leitch] Kill by Tara Martin.,EU,BC
+2,28,27,EU,block,attack_error,EU,Elyse Thompson,Emily Hancock,,Leah Saunders; Maggie Rimmel,Emily Hancock,,0,1,12,16,[Elyse Thompson] Attack error by Emily Hancock (block by Leah Saunders; Maggie Rimmel).,EU,BC
+2,29,28,EU,attack,kill,EU,Elyse Thompson,Leah Saunders,Maureen Schick,,,,0,0,12,17,[Elyse Thompson] Kill by Leah Saunders (from Maureen Schick).,EU,BC
+2,30,29,EU,error,attack_error,EU,Elyse Thompson,Emily Hancock,,,Emily Hancock,,0,0,12,18,[Elyse Thompson] Attack error by Emily Hancock.,EU,BC
+2,31,30,EU,attack,kill,EU,Elyse Thompson,Maggie Rimmel,Cassie Srb,,,,0,0,12,19,[Elyse Thompson] Kill by Maggie Rimmel (from Cassie Srb).,EU,BC
+2,32,31,BC,attack,kill,EU,Elyse Thompson,Molly Bergin,,,,,1,0,13,19,[Elyse Thompson] Kill by Molly Bergin.,EU,BC
+2,33,32,EU,attack,kill,BC,Emily Hancock,Tara Martin,Cassie Srb,,,,0,0,13,20,[Emily Hancock] Kill by Tara Martin (from Cassie Srb).,EU,BC
+2,34,33,EU,attack,kill,EU,Leah Saunders,Maggie Rimmel,,,,,0,0,13,21,[Leah Saunders] Kill by Maggie Rimmel.,EU,BC
+2,35,34,EU,ace,service_ace,EU,Leah Saunders,,,,,Laura Beier,0,0,13,22,[Leah Saunders] Service ace (Laura Beier).,EU,BC
+2,36,35,BC,error,service_error,EU,Leah Saunders,,,,Leah Saunders,,0,0,14,22,[Leah Saunders] Service error.,EU,BC
+2,37,36,BC,attack,kill,BC,Anna Rumore,Molly Bergin,Jordan Leitch,,Maggie Rimmel,,0,1,15,22,"[Anna Rumore] Kill by Molly Bergin (from Jordan Leitch), block error by Maggie Rimmel.",EU,BC
+2,38,37,EU,attack,kill,BC,Anna Rumore,Maggie Rimmel,Cassie Srb,,,,0,0,15,23,[Anna Rumore] Kill by Maggie Rimmel (from Cassie Srb).,EU,BC
+2,39,38,BC,attack,kill,EU,Sara Carr,Molly Bergin,Jordan Leitch,,,,0,1,16,23,[Sara Carr] Kill by Molly Bergin (from Jordan Leitch).,EU,BC
+2,40,39,EU,attack,kill,BC,Cyrena Bedoian,Morgan McKnight,Cassie Srb,,,,0,1,16,24,[Cyrena Bedoian] Kill by Morgan McKnight (from Cassie Srb).,EU,BC
+2,41,40,EU,attack,kill,EU,Kelsey Meins,Morgan McKnight,,,,,0,1,16,25,[Kelsey Meins] Kill by Morgan McKnight.,EU,BC
+3,1,0,BC,error,attack_error,BC,Cyrena Bedoian,Charlese Blair,,,Charlese Blair,,0,0,1,0,[Cyrena Bedoian] Attack error by Charlese Blair.,EU,BC
+3,2,1,BC,error,attack_error,BC,Cyrena Bedoian,Cassie Srb,,,Cassie Srb,,0,0,2,0,[Cyrena Bedoian] Attack error by Cassie Srb.,EU,BC
+3,3,2,EU,attack,kill,BC,Cyrena Bedoian,Charlese Blair,,,,,0,0,2,1,[Cyrena Bedoian] Kill by Charlese Blair.,EU,BC
+3,4,3,EU,attack,kill,EU,Cassie Srb,Leah Saunders,Cassie Srb,,,,0,0,2,2,[Cassie Srb] Kill by Leah Saunders (from Cassie Srb).,EU,BC
+3,5,4,EU,attack,kill,EU,Cassie Srb,Morgan McKnight,Elyse Thompson,,,,0,0,2,3,[Cassie Srb] Kill by Morgan McKnight (from Elyse Thompson).,EU,BC
+3,6,5,EU,attack,kill,EU,Cassie Srb,Charlese Blair,,,,,0,0,2,4,[Cassie Srb] Kill by Charlese Blair.,EU,BC
+3,7,6,BC,error,service_error,EU,Cassie Srb,,,,Cassie Srb,,0,0,3,4,[Cassie Srb] Service error.,EU,BC
+3,8,7,BC,attack,kill,BC,Peyton Breissinger,Emily Hancock,Jordan Leitch,,,,0,0,4,4,[Peyton Breissinger] Kill by Emily Hancock (from Jordan Leitch).,EU,BC
+3,9,8,EU,error,service_error,BC,Peyton Breissinger,,,,Peyton Breissinger,,0,0,4,5,[Peyton Breissinger] Service error.,EU,BC
+3,10,9,EU,error,attack_error,EU,Morgan McKnight,Emily Hancock,,,Emily Hancock,,0,1,4,6,[Morgan McKnight] Attack error by Emily Hancock.,EU,BC
+3,11,10,EU,attack,kill,EU,Morgan McKnight,Tara Martin,Cassie Srb,,,,0,0,4,7,[Morgan McKnight] Kill by Tara Martin (from Cassie Srb).,EU,BC
+3,12,11,EU,error,attack_error,EU,Morgan McKnight,Peyton Breissinger,,,Peyton Breissinger,,0,0,4,8,[Morgan McKnight] Attack error by Peyton Breissinger.,EU,BC
+3,13,12,BC,attack,kill,EU,Morgan McKnight,Carson VanCampen,Jordan Leitch,,,,0,0,5,8,[Morgan McKnight] Kill by Carson VanCampen (from Jordan Leitch).,EU,BC
+3,14,13,EU,error,service_error,BC,Laura Beier,,,,Laura Beier,,0,1,5,9,[Laura Beier] Service error.,EU,BC
+3,15,14,EU,block,attack_error,EU,Elyse Thompson,Emily Hancock,,Leah Saunders; Maggie Rimmel,Emily Hancock,,0,0,5,10,[Elyse Thompson] Attack error by Emily Hancock (block by Leah Saunders; Maggie Rimmel).,EU,BC
+3,16,15,BC,attack,kill,EU,Elyse Thompson,Jordan Leitch,Laura Beier,,,,1,0,6,10,[Elyse Thompson] Kill by Jordan Leitch (from Laura Beier).,EU,BC
+3,17,16,EU,attack,kill,BC,Jordan Leitch,Leah Saunders,Cassie Srb,,,,0,1,6,11,[Jordan Leitch] Kill by Leah Saunders (from Cassie Srb).,EU,BC
+3,18,17,EU,attack,kill,EU,Leah Saunders,Maggie Rimmel,Cassie Srb,,,,0,0,6,12,[Leah Saunders] Kill by Maggie Rimmel (from Cassie Srb).,EU,BC
+3,19,18,BC,attack,kill,EU,Leah Saunders,Emily Hancock,Jordan Leitch,,,,0,0,7,12,[Leah Saunders] Kill by Emily Hancock (from Jordan Leitch).,EU,BC
+3,20,19,EU,attack,kill,BC,Emily Hancock,Maggie Rimmel,Cassie Srb,,,,0,0,7,13,[Emily Hancock] Kill by Maggie Rimmel (from Cassie Srb).,EU,BC
+3,21,20,BC,attack,kill,EU,Sara Carr,Sam Heard,,,,,0,1,8,13,[Sara Carr] Kill by Sam Heard.,EU,BC
+3,22,21,BC,attack,kill,BC,Anna Rumore,Molly Bergin,Jordan Leitch,,,,0,1,9,13,[Anna Rumore] Kill by Molly Bergin (from Jordan Leitch).,EU,BC
+3,23,22,EU,error,service_error,BC,Anna Rumore,,,,Anna Rumore,,0,0,9,14,[Anna Rumore] Service error.,EU,BC
+3,24,23,BC,attack,kill,EU,Kelsey Meins,Molly Bergin,Jordan Leitch,,,,0,1,10,14,[Kelsey Meins] Kill by Molly Bergin (from Jordan Leitch).,EU,BC
+3,25,24,EU,attack,kill,BC,Cyrena Bedoian,Charlese Blair,Cassie Srb,,,,0,1,10,15,[Cyrena Bedoian] Kill by Charlese Blair (from Cassie Srb).,EU,BC
+3,26,25,BC,attack,kill,EU,Cassie Srb,Carson VanCampen,Jordan Leitch,,,,0,0,11,15,[Cassie Srb] Kill by Carson VanCampen (from Jordan Leitch).,EU,BC
+3,27,26,BC,error,attack_error,BC,Peyton Breissinger,Leah Saunders,,,Leah Saunders,,0,0,12,15,[Peyton Breissinger] Attack error by Leah Saunders.,EU,BC
+3,28,27,EU,attack,kill,BC,Peyton Breissinger,Morgan McKnight,Cassie Srb,,,,0,0,12,16,[Peyton Breissinger] Kill by Morgan McKnight (from Cassie Srb).,EU,BC
+3,29,28,EU,error,attack_error,EU,Morgan McKnight,Carson VanCampen,,,Carson VanCampen,,0,1,12,17,[Morgan McKnight] Attack error by Carson VanCampen.,EU,BC
+3,30,29,EU,attack,kill,EU,Morgan McKnight,Tara Martin,Cassie Srb,,,,0,0,12,18,[Morgan McKnight] Kill by Tara Martin (from Cassie Srb).,EU,BC
+3,31,30,BC,block,attack_error,EU,Morgan McKnight,Leah Saunders,,Emily Hancock; Carson VanCampen,Leah Saunders,,1,0,13,18,[Morgan McKnight] Attack error by Leah Saunders (block by Emily Hancock; Carson VanCampen).,EU,BC
+3,32,31,EU,error,attack_error,BC,Laura Beier,Emily Hancock,,,Emily Hancock,,0,1,13,19,[Laura Beier] Attack error by Emily Hancock.,EU,BC
+3,33,32,EU,attack,kill,EU,Elyse Thompson,Tara Martin,Cassie Srb,,,,0,1,13,20,[Elyse Thompson] Kill by Tara Martin (from Cassie Srb).,EU,BC
+3,34,33,BC,attack,kill,EU,Elyse Thompson,Sam Heard,Jordan Leitch,,,,0,0,14,20,[Elyse Thompson] Kill by Sam Heard (from Jordan Leitch).,EU,BC
+3,35,34,EU,attack,kill,BC,Jordan Leitch,Leah Saunders,Cassie Srb,,,,0,1,14,21,[Jordan Leitch] Kill by Leah Saunders (from Cassie Srb).,EU,BC
+3,36,35,BC,attack,kill,EU,Leah Saunders,Molly Bergin,Jordan Leitch,,,,0,0,15,21,[Leah Saunders] Kill by Molly Bergin (from Jordan Leitch).,EU,BC
+3,37,36,EU,attack,kill,BC,Emily Hancock,Tara Martin,Cassie Srb,,,,0,0,15,22,[Emily Hancock] Kill by Tara Martin (from Cassie Srb).,EU,BC
+3,38,37,BC,attack,kill,EU,Sara Carr,Molly Bergin,Jordan Leitch,,,,0,1,16,22,[Sara Carr] Kill by Molly Bergin (from Jordan Leitch).,EU,BC
+3,39,38,EU,attack,kill,BC,Anna Rumore,Maggie Rimmel,Cassie Srb,,,,0,1,16,23,[Anna Rumore] Kill by Maggie Rimmel (from Cassie Srb).,EU,BC
+3,40,39,EU,attack,kill,EU,Kelsey Meins,Morgan McKnight,Cassie Srb,,Molly Bergin,,0,1,16,24,"[Kelsey Meins] Kill by Morgan McKnight (from Cassie Srb), block error by Molly Bergin.",EU,BC
+3,41,40,BC,error,service_error,EU,Kelsey Meins,,,,Kelsey Meins,,0,0,17,24,[Kelsey Meins] Service error.,EU,BC
+3,42,41,BC,error,attack_error,BC,Cyrena Bedoian,Morgan McKnight,,,Morgan McKnight,,0,1,18,24,[Cyrena Bedoian] Attack error by Morgan McKnight.,EU,BC
+3,43,42,EU,attack,kill,BC,Cyrena Bedoian,Morgan McKnight,Cassie Srb,,,,0,0,18,25,[Cyrena Bedoian] Kill by Morgan McKnight (from Cassie Srb).,EU,BC

@@ -1,0 +1,173 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,WESLEYAN,error,attack_error,BOWDOIN,Cameron Shelly,Skye LaMendola,,,Skye LaMendola,,0,0,1,0,[Cameron Shelly] Attack error by Skye LaMendola.,BOWDOIN,WESLEYAN
+1,2,1,BOWDOIN,attack,kill,WESLEYAN,Adrienne Nguyen,Haley Campau,Cameron Shelly,,,,0,0,1,1,[Adrienne Nguyen] Kill by Haley Campau (from Cameron Shelly).,BOWDOIN,WESLEYAN
+1,3,2,WESLEYAN,attack,kill,BOWDOIN,Olivia Deane,Michelle Jorba,Ali Landa,,,,0,0,2,1,[Olivia Deane] Kill by Michelle Jorba (from Ali Landa).,BOWDOIN,WESLEYAN
+1,4,3,BOWDOIN,attack,kill,WESLEYAN,Paulina Marino-Bindi,Skye LaMendola,Cameron Shelly,,,,0,1,2,2,[Paulina Marino-Bindi] Kill by Skye LaMendola (from Cameron Shelly).,BOWDOIN,WESLEYAN
+1,5,4,WESLEYAN,error,attack_error,WESLEYAN,Lila Sayre,Alison Smith,,,Alison Smith,,0,0,3,2,[Lila Sayre] Attack error by Alison Smith.,BOWDOIN,WESLEYAN
+1,6,5,WESLEYAN,error,attack_error,WESLEYAN,Lila Sayre,Kate Carman,,,Kate Carman,,0,0,4,2,[Lila Sayre] Attack error by Kate Carman.,BOWDOIN,WESLEYAN
+1,7,6,BOWDOIN,attack,kill,BOWDOIN,Paige Butler,Skye LaMendola,,,,,0,0,4,3,[Paige Butler] Kill by Skye LaMendola.,BOWDOIN,WESLEYAN
+1,8,7,BOWDOIN,ace,service_ace,BOWDOIN,Paige Butler,,,,,Adrienne Nguyen,0,0,4,4,[Paige Butler] Service ace (Adrienne Nguyen).,BOWDOIN,WESLEYAN
+1,9,8,WESLEYAN,block,attack_error,BOWDOIN,Paige Butler,Ashley Jazbec,,India Clark,Ashley Jazbec,,0,0,5,4,[Paige Butler] Attack error by Ashley Jazbec (block by India Clark).,BOWDOIN,WESLEYAN
+1,10,9,WESLEYAN,ace,service_ace,WESLEYAN,Bianca Gonya,,,,,Team,0,0,6,4,[Bianca Gonya] Service ace (Team).,BOWDOIN,WESLEYAN
+1,11,10,BOWDOIN,attack,kill,WESLEYAN,Bianca Gonya,Mina Mittler,Cameron Shelly,,,,0,0,6,5,[Bianca Gonya] Kill by Mina Mittler (from Cameron Shelly).,BOWDOIN,WESLEYAN
+1,12,11,BOWDOIN,attack,kill,BOWDOIN,Skye LaMendola,Mina Mittler,Cameron Shelly,,,,0,0,6,6,[Skye LaMendola] Kill by Mina Mittler (from Cameron Shelly).,BOWDOIN,WESLEYAN
+1,13,12,BOWDOIN,attack,kill,BOWDOIN,Skye LaMendola,Mina Mittler,Paige Butler,,Kate Carman,,0,0,6,7,"[Skye LaMendola] Kill by Mina Mittler (from Paige Butler), block error by Kate Carman.",BOWDOIN,WESLEYAN
+1,14,13,BOWDOIN,error,attack_error,BOWDOIN,Skye LaMendola,Kate Carman,,,Kate Carman,,0,0,6,8,[Skye LaMendola] Attack error by Kate Carman.,BOWDOIN,WESLEYAN
+1,15,14,WESLEYAN,error,service_error,BOWDOIN,Skye LaMendola,,,,Skye LaMendola,,0,0,7,8,[Skye LaMendola] Service error.,BOWDOIN,WESLEYAN
+1,16,15,WESLEYAN,error,ball_handling_error,WESLEYAN,Ali Landa,,,,Paige Butler,,0,0,8,8,[Ali Landa] Bad set by Paige Butler.,BOWDOIN,WESLEYAN
+1,17,16,WESLEYAN,error,attack_error,WESLEYAN,Ali Landa,Mina Mittler,,,Mina Mittler,,0,0,9,8,[Ali Landa] Attack error by Mina Mittler.,BOWDOIN,WESLEYAN
+1,18,17,WESLEYAN,error,attack_error,WESLEYAN,Ali Landa,Olivia Deane,,,Olivia Deane,,0,0,10,8,[Ali Landa] Attack error by Olivia Deane.,BOWDOIN,WESLEYAN
+1,19,18,WESLEYAN,attack,kill,WESLEYAN,Ali Landa,Kate Carman,,,,,0,0,11,8,[Ali Landa] Kill by Kate Carman.,BOWDOIN,WESLEYAN
+1,20,19,WESLEYAN,attack,kill,WESLEYAN,Ali Landa,Kate Carman,Ali Landa,,,,0,0,12,8,[Ali Landa] Kill by Kate Carman (from Ali Landa).,BOWDOIN,WESLEYAN
+1,21,20,WESLEYAN,error,attack_error,WESLEYAN,Ali Landa,Anna Yeh,,,Anna Yeh,,1,0,13,8,[Ali Landa] Attack error by Anna Yeh.,BOWDOIN,WESLEYAN
+1,22,21,WESLEYAN,block,attack_error,WESLEYAN,Ali Landa,Olivia Deane,,Katelyn Olin,Olivia Deane,,0,0,14,8,[Ali Landa] Attack error by Olivia Deane (block by Katelyn Olin).,BOWDOIN,WESLEYAN
+1,23,22,BOWDOIN,error,attack_error,WESLEYAN,Ali Landa,Kate Carman,,,Kate Carman,,0,0,14,9,[Ali Landa] Attack error by Kate Carman.,BOWDOIN,WESLEYAN
+1,24,23,WESLEYAN,error,service_error,BOWDOIN,Anna Yeh,,,,Anna Yeh,,0,0,15,9,[Anna Yeh] Service error.,BOWDOIN,WESLEYAN
+1,25,24,BOWDOIN,attack,kill,WESLEYAN,Elliana Moreno,Mina Mittler,Paige Butler,,,,0,1,15,10,[Elliana Moreno] Kill by Mina Mittler (from Paige Butler).,BOWDOIN,WESLEYAN
+1,26,25,WESLEYAN,attack,kill,BOWDOIN,Cameron Shelly,Lila Sayre,Ali Landa,,,,0,1,16,10,[Cameron Shelly] Kill by Lila Sayre (from Ali Landa).,BOWDOIN,WESLEYAN
+1,27,26,WESLEYAN,attack,kill,BOWDOIN,Cameron Shelly,Michelle Jorba,Ali Landa,,,,0,0,17,10,[Cameron Shelly] Kill by Michelle Jorba (from Ali Landa).,BOWDOIN,WESLEYAN
+1,28,27,WESLEYAN,error,attack_error,WESLEYAN,Adrienne Nguyen,Alison Smith,,,Alison Smith,,0,0,18,10,[Adrienne Nguyen] Attack error by Alison Smith.,BOWDOIN,WESLEYAN
+1,29,28,WESLEYAN,error,attack_error,WESLEYAN,Adrienne Nguyen,Olivia Deane,,,Olivia Deane,,0,0,19,10,[Adrienne Nguyen] Attack error by Olivia Deane.,BOWDOIN,WESLEYAN
+1,30,29,BOWDOIN,error,attack_error,WESLEYAN,Adrienne Nguyen,Olivia Deane,,,Olivia Deane,,1,0,19,11,[Adrienne Nguyen] Attack error by Olivia Deane.,BOWDOIN,WESLEYAN
+1,31,30,BOWDOIN,attack,kill,WESLEYAN,Adrienne Nguyen,Skye LaMendola,Alison Smith,,,,0,0,19,12,[Adrienne Nguyen] Kill by Skye LaMendola (from Alison Smith).,BOWDOIN,WESLEYAN
+1,32,31,BOWDOIN,attack,kill,BOWDOIN,Olivia Deane,Haley Campau,Cameron Shelly,,,,0,0,19,13,[Olivia Deane] Kill by Haley Campau (from Cameron Shelly).,BOWDOIN,WESLEYAN
+1,33,32,WESLEYAN,attack,kill,BOWDOIN,Olivia Deane,Bianca Gonya,Ella Blair,,,,0,1,20,13,[Olivia Deane] Kill by Bianca Gonya (from Ella Blair).,BOWDOIN,WESLEYAN
+1,34,33,BOWDOIN,error,service_error,WESLEYAN,Paulina Marino-Bindi,,,,Paulina Marino-Bindi,,0,1,20,14,[Paulina Marino-Bindi] Service error.,BOWDOIN,WESLEYAN
+1,35,34,BOWDOIN,attack,kill,BOWDOIN,Haley Campau,Alison Smith,Cameron Shelly,,,,0,0,20,15,[Haley Campau] Kill by Alison Smith (from Cameron Shelly).,BOWDOIN,WESLEYAN
+1,36,35,BOWDOIN,error,ball_handling_error,BOWDOIN,Haley Campau,,,,Paulina Marino-Bindi,,0,0,20,16,[Haley Campau] Bad set by Paulina Marino-Bindi.,BOWDOIN,WESLEYAN
+1,37,36,WESLEYAN,block,attack_error,BOWDOIN,Haley Campau,Skye LaMendola,,Lila Sayre,Skye LaMendola,,1,0,21,16,[Haley Campau] Attack error by Skye LaMendola (block by Lila Sayre).,BOWDOIN,WESLEYAN
+1,38,37,WESLEYAN,error,ball_handling_error,WESLEYAN,Lila Sayre,,,,Alison Smith,,0,1,22,16,[Lila Sayre] Bad set by Alison Smith.,BOWDOIN,WESLEYAN
+1,39,38,WESLEYAN,block,attack_error,WESLEYAN,Lila Sayre,Alison Smith,,Kate Carman,Alison Smith,,0,0,23,16,[Lila Sayre] Attack error by Alison Smith (block by Kate Carman).,BOWDOIN,WESLEYAN
+2,1,0,,,other,--,,,,,,,0,0,0,0,On court for BOWDOIN: Paige Butler; Skye LaMendola; Mina Mittler; Kelsey Kim; Haley Campau; Hannah Woolley.,BOWDOIN,WESLEYAN
+2,2,1,,,other,--,,,,,,,0,0,0,0,On court for WESLEYAN: Elliana Moreno; Ali Landa; Katelyn Olin; Adrienne Nguyen; Michelle Jorba; Lila Sayre.,BOWDOIN,WESLEYAN
+2,3,2,BOWDOIN,attack,kill,WESLEYAN,Elliana Moreno,Mina Mittler,Paige Butler,,,,0,0,0,1,[Elliana Moreno] Kill by Mina Mittler (from Paige Butler).,BOWDOIN,WESLEYAN
+2,4,3,WESLEYAN,error,ball_handling_error,WESLEYAN,Adrienne Nguyen,,,,Paige Butler,,0,0,1,1,[Adrienne Nguyen] Bad set by Paige Butler.,BOWDOIN,WESLEYAN
+2,5,4,WESLEYAN,attack,kill,WESLEYAN,Adrienne Nguyen,Hannah Woolley,Paige Butler,,,,0,0,2,1,[Adrienne Nguyen] Kill by Hannah Woolley (from Paige Butler).,BOWDOIN,WESLEYAN
+2,6,5,WESLEYAN,attack,kill,BOWDOIN,Anna Yeh,Lila Sayre,Ali Landa,,,,0,1,3,1,[Anna Yeh] Kill by Lila Sayre (from Ali Landa).,BOWDOIN,WESLEYAN
+2,7,6,BOWDOIN,attack,kill,WESLEYAN,Paulina Marino-Bindi,Kelsey Kim,Paige Butler,,,,0,1,3,2,[Paulina Marino-Bindi] Kill by Kelsey Kim (from Paige Butler).,BOWDOIN,WESLEYAN
+2,8,7,WESLEYAN,attack,kill,BOWDOIN,Cameron Shelly,India Clark,Paulina Marino-Bindi,,,,0,1,4,2,[Cameron Shelly] Kill by India Clark (from Paulina Marino-Bindi).,BOWDOIN,WESLEYAN
+2,9,8,WESLEYAN,error,service_error,WESLEYAN,Lila Sayre,,,,Lila Sayre,,0,1,5,2,[Lila Sayre] Service error.,BOWDOIN,WESLEYAN
+2,10,9,BOWDOIN,ace,service_ace,BOWDOIN,Kelsey Kim,,,,,Kate Carman,0,0,5,3,[Kelsey Kim] Service ace (Kate Carman).,BOWDOIN,WESLEYAN
+2,11,10,WESLEYAN,attack,kill,BOWDOIN,Kelsey Kim,India Clark,Paulina Marino-Bindi,,,,0,0,6,3,[Kelsey Kim] Kill by India Clark (from Paulina Marino-Bindi).,BOWDOIN,WESLEYAN
+2,12,11,WESLEYAN,attack,kill,WESLEYAN,Bianca Gonya,India Clark,Paulina Marino-Bindi,,,,0,0,7,3,[Bianca Gonya] Kill by India Clark (from Paulina Marino-Bindi).,BOWDOIN,WESLEYAN
+2,13,12,WESLEYAN,attack,kill,WESLEYAN,Bianca Gonya,Kate Carman,Bianca Gonya,,,,0,0,8,3,[Bianca Gonya] Kill by Kate Carman (from Bianca Gonya).,BOWDOIN,WESLEYAN
+2,14,13,BOWDOIN,ace,service_ace,BOWDOIN,Haley Campau,,,,,Kate Carman,0,0,8,4,[Haley Campau] Service ace (Kate Carman).,BOWDOIN,WESLEYAN
+2,15,14,WESLEYAN,attack,kill,BOWDOIN,Haley Campau,India Clark,Paulina Marino-Bindi,,,,0,0,9,4,[Haley Campau] Kill by India Clark (from Paulina Marino-Bindi).,BOWDOIN,WESLEYAN
+2,16,15,WESLEYAN,ace,service_ace,WESLEYAN,Ali Landa,,,,,Skye LaMendola,0,1,10,4,[Ali Landa] Service ace (Skye LaMendola).,BOWDOIN,WESLEYAN
+2,17,16,BOWDOIN,attack,kill,WESLEYAN,Ali Landa,Skye LaMendola,Cameron Shelly,,,,0,0,10,5,[Ali Landa] Kill by Skye LaMendola (from Cameron Shelly).,BOWDOIN,WESLEYAN
+2,18,17,WESLEYAN,attack,kill,BOWDOIN,Paige Butler,Michelle Jorba,Ali Landa,,,,0,1,11,5,[Paige Butler] Kill by Michelle Jorba (from Ali Landa).,BOWDOIN,WESLEYAN
+2,19,18,BOWDOIN,attack,kill,WESLEYAN,Elliana Moreno,Mina Mittler,Paige Butler,,,,0,0,11,6,[Elliana Moreno] Kill by Mina Mittler (from Paige Butler).,BOWDOIN,WESLEYAN
+2,20,19,WESLEYAN,block,attack_error,BOWDOIN,Skye LaMendola,Kelsey Kim,,Katelyn Olin; Michelle Jorba,Kelsey Kim,,0,0,12,6,[Skye LaMendola] Attack error by Kelsey Kim (block by Katelyn Olin; Michelle Jorba).,BOWDOIN,WESLEYAN
+2,21,20,WESLEYAN,error,attack_error,WESLEYAN,Adrienne Nguyen,Kelsey Kim,,,Kelsey Kim,,0,0,13,6,[Adrienne Nguyen] Attack error by Kelsey Kim.,BOWDOIN,WESLEYAN
+2,22,21,BOWDOIN,attack,kill,WESLEYAN,Adrienne Nguyen,Hannah Woolley,Paige Butler,,,,0,0,13,7,[Adrienne Nguyen] Kill by Hannah Woolley (from Paige Butler).,BOWDOIN,WESLEYAN
+2,23,22,WESLEYAN,attack,kill,BOWDOIN,Anna Yeh,Lila Sayre,Ali Landa,,,,0,0,14,7,[Anna Yeh] Kill by Lila Sayre (from Ali Landa).,BOWDOIN,WESLEYAN
+2,24,23,BOWDOIN,attack,kill,WESLEYAN,Paulina Marino-Bindi,Haley Campau,Paige Butler,,,,1,1,14,8,[Paulina Marino-Bindi] Kill by Haley Campau (from Paige Butler).,BOWDOIN,WESLEYAN
+2,25,24,WESLEYAN,attack,kill,BOWDOIN,Cameron Shelly,Bianca Gonya,Paulina Marino-Bindi,,,,0,1,15,8,[Cameron Shelly] Kill by Bianca Gonya (from Paulina Marino-Bindi).,BOWDOIN,WESLEYAN
+2,26,25,BOWDOIN,attack,kill,WESLEYAN,Lila Sayre,Haley Campau,Cameron Shelly,,,,0,1,15,9,[Lila Sayre] Kill by Haley Campau (from Cameron Shelly).,BOWDOIN,WESLEYAN
+2,27,26,WESLEYAN,attack,kill,BOWDOIN,Kelsey Kim,Kate Carman,Paulina Marino-Bindi,,,,0,0,16,9,[Kelsey Kim] Kill by Kate Carman (from Paulina Marino-Bindi).,BOWDOIN,WESLEYAN
+2,28,27,WESLEYAN,ace,service_ace,WESLEYAN,Bianca Gonya,,,,,Kelsey Kim,0,0,17,9,[Bianca Gonya] Service ace (Kelsey Kim).,BOWDOIN,WESLEYAN
+2,29,28,BOWDOIN,attack,kill,WESLEYAN,Bianca Gonya,Skye LaMendola,Cameron Shelly,,,,0,0,17,10,[Bianca Gonya] Kill by Skye LaMendola (from Cameron Shelly).,BOWDOIN,WESLEYAN
+2,30,29,BOWDOIN,ace,service_ace,BOWDOIN,Haley Campau,,,,,Kate Carman,0,0,17,11,[Haley Campau] Service ace (Kate Carman).,BOWDOIN,WESLEYAN
+2,31,30,WESLEYAN,error,service_error,BOWDOIN,Haley Campau,,,,Haley Campau,,0,0,18,11,[Haley Campau] Service error.,BOWDOIN,WESLEYAN
+2,32,31,WESLEYAN,block,attack_error,WESLEYAN,Ali Landa,Skye LaMendola,,Kate Carman,Skye LaMendola,,0,1,19,11,[Ali Landa] Attack error by Skye LaMendola (block by Kate Carman).,BOWDOIN,WESLEYAN
+2,33,32,BOWDOIN,attack,kill,WESLEYAN,Ali Landa,Corinne Lamond,Anna Yeh,,,,0,0,19,12,[Ali Landa] Kill by Corinne Lamond (from Anna Yeh).,BOWDOIN,WESLEYAN
+2,34,33,WESLEYAN,attack,kill,BOWDOIN,Paige Butler,Kate Carman,Ali Landa,,,,0,0,20,12,[Paige Butler] Kill by Kate Carman (from Ali Landa).,BOWDOIN,WESLEYAN
+2,35,34,WESLEYAN,error,attack_error,WESLEYAN,Elliana Moreno,Mina Mittler,,,Mina Mittler,,0,1,21,12,[Elliana Moreno] Attack error by Mina Mittler.,BOWDOIN,WESLEYAN
+2,36,35,BOWDOIN,attack,kill,WESLEYAN,Elliana Moreno,Hannah Woolley,Paige Butler,,,,0,0,21,13,[Elliana Moreno] Kill by Hannah Woolley (from Paige Butler).,BOWDOIN,WESLEYAN
+2,37,36,BOWDOIN,ace,service_ace,BOWDOIN,Skye LaMendola,,,,,Team,0,0,21,14,[Skye LaMendola] Service ace (Team).,BOWDOIN,WESLEYAN
+2,38,37,BOWDOIN,attack,kill,BOWDOIN,Skye LaMendola,Mina Mittler,Paige Butler,,,,0,0,21,15,[Skye LaMendola] Kill by Mina Mittler (from Paige Butler).,BOWDOIN,WESLEYAN
+2,39,38,BOWDOIN,attack,kill,BOWDOIN,Skye LaMendola,Mina Mittler,Paige Butler,,,,1,0,21,16,[Skye LaMendola] Kill by Mina Mittler (from Paige Butler).,BOWDOIN,WESLEYAN
+2,40,39,WESLEYAN,attack,kill,BOWDOIN,Skye LaMendola,Michelle Jorba,Ali Landa,,Kelsey Kim,,0,0,22,16,"[Skye LaMendola] Kill by Michelle Jorba (from Ali Landa), block error by Kelsey Kim.",BOWDOIN,WESLEYAN
+2,41,40,BOWDOIN,attack,kill,WESLEYAN,Adrienne Nguyen,Skye LaMendola,Paige Butler,,,,0,0,22,17,[Adrienne Nguyen] Kill by Skye LaMendola (from Paige Butler).,BOWDOIN,WESLEYAN
+2,42,41,WESLEYAN,attack,kill,BOWDOIN,Anna Yeh,Lila Sayre,Ali Landa,,,,0,0,23,17,[Anna Yeh] Kill by Lila Sayre (from Ali Landa).,BOWDOIN,WESLEYAN
+2,43,42,WESLEYAN,attack,kill,WESLEYAN,Paulina Marino-Bindi,Lila Sayre,Adrienne Nguyen,,,,1,1,24,17,[Paulina Marino-Bindi] Kill by Lila Sayre (from Adrienne Nguyen).,BOWDOIN,WESLEYAN
+2,44,43,BOWDOIN,attack,kill,WESLEYAN,Paulina Marino-Bindi,Mina Mittler,Paige Butler,,,,0,0,24,18,[Paulina Marino-Bindi] Kill by Mina Mittler (from Paige Butler).,BOWDOIN,WESLEYAN
+2,45,44,WESLEYAN,attack,kill,BOWDOIN,Cameron Shelly,Lila Sayre,Paulina Marino-Bindi,,Kelsey Kim,,0,1,25,18,"[Cameron Shelly] Kill by Lila Sayre (from Paulina Marino-Bindi), block error by Kelsey Kim.",BOWDOIN,WESLEYAN
+3,1,0,,,other,--,,,,,,,0,0,0,0,On court for WESLEYAN: Elliana Moreno; Ali Landa; Katelyn Olin; Bianca Gonya; Michelle Jorba; Lila Sayre.,BOWDOIN,WESLEYAN
+3,2,1,,,other,--,,,,,,,0,0,0,0,On court for BOWDOIN: Skye LaMendola; Alison Smith; Cameron Shelly; Haley Campau; Hannah Woolley; Olivia Deane.,BOWDOIN,WESLEYAN
+3,3,2,WESLEYAN,attack,kill,BOWDOIN,Cameron Shelly,Michelle Jorba,Ali Landa,,,,0,0,1,0,[Cameron Shelly] Kill by Michelle Jorba (from Ali Landa).,BOWDOIN,WESLEYAN
+3,4,3,WESLEYAN,attack,kill,WESLEYAN,Adrienne Nguyen,Bianca Gonya,Ali Landa,,,,0,1,2,0,[Adrienne Nguyen] Kill by Bianca Gonya (from Ali Landa).,BOWDOIN,WESLEYAN
+3,5,4,BOWDOIN,attack,kill,WESLEYAN,Adrienne Nguyen,Haley Campau,Cameron Shelly,,,,0,0,2,1,[Adrienne Nguyen] Kill by Haley Campau (from Cameron Shelly).,BOWDOIN,WESLEYAN
+3,6,5,WESLEYAN,attack,kill,BOWDOIN,Olivia Deane,Lila Sayre,Elliana Moreno,,,,0,0,3,1,[Olivia Deane] Kill by Lila Sayre (from Elliana Moreno).,BOWDOIN,WESLEYAN
+3,7,6,BOWDOIN,attack,kill,WESLEYAN,Paulina Marino-Bindi,Skye LaMendola,Cameron Shelly,,,,0,1,3,2,[Paulina Marino-Bindi] Kill by Skye LaMendola (from Cameron Shelly).,BOWDOIN,WESLEYAN
+3,8,7,WESLEYAN,attack,kill,BOWDOIN,Haley Campau,Bianca Gonya,Paulina Marino-Bindi,,,,0,1,4,2,[Haley Campau] Kill by Bianca Gonya (from Paulina Marino-Bindi).,BOWDOIN,WESLEYAN
+3,9,8,WESLEYAN,error,service_error,BOWDOIN,Paige Butler,,,,Paige Butler,,0,1,5,2,[Paige Butler] Service error.,BOWDOIN,WESLEYAN
+3,10,9,BOWDOIN,attack,kill,WESLEYAN,Bianca Gonya,Skye LaMendola,Paige Butler,,Kate Carman,,0,0,5,3,"[Bianca Gonya] Kill by Skye LaMendola (from Paige Butler), block error by Kate Carman.",BOWDOIN,WESLEYAN
+3,11,10,BOWDOIN,error,ball_handling_error,BOWDOIN,Skye LaMendola,,,,Paulina Marino-Bindi,,0,0,5,4,[Skye LaMendola] Bad set by Paulina Marino-Bindi.,BOWDOIN,WESLEYAN
+3,12,11,BOWDOIN,error,attack_error,BOWDOIN,Skye LaMendola,Katelyn Olin,,,Katelyn Olin,,0,0,5,5,[Skye LaMendola] Attack error by Katelyn Olin.,BOWDOIN,WESLEYAN
+3,13,12,WESLEYAN,attack,kill,BOWDOIN,Skye LaMendola,India Clark,Paulina Marino-Bindi,,,,0,0,6,5,[Skye LaMendola] Kill by India Clark (from Paulina Marino-Bindi).,BOWDOIN,WESLEYAN
+3,14,13,BOWDOIN,error,service_error,WESLEYAN,Ali Landa,,,,Ali Landa,,0,1,6,6,[Ali Landa] Service error.,BOWDOIN,WESLEYAN
+3,15,14,WESLEYAN,attack,kill,BOWDOIN,Anna Yeh,Kate Carman,Ali Landa,,,,0,0,7,6,[Anna Yeh] Kill by Kate Carman (from Ali Landa).,BOWDOIN,WESLEYAN
+3,16,15,WESLEYAN,attack,kill,WESLEYAN,Elliana Moreno,Lila Sayre,Ali Landa,,,,0,1,8,6,[Elliana Moreno] Kill by Lila Sayre (from Ali Landa).,BOWDOIN,WESLEYAN
+3,17,16,WESLEYAN,error,attack_error,WESLEYAN,Elliana Moreno,Mina Mittler,,,Mina Mittler,,0,0,9,6,[Elliana Moreno] Attack error by Mina Mittler.,BOWDOIN,WESLEYAN
+3,18,17,BOWDOIN,attack,kill,WESLEYAN,Elliana Moreno,Haley Campau,Paige Butler,,,,0,0,9,7,[Elliana Moreno] Kill by Haley Campau (from Paige Butler).,BOWDOIN,WESLEYAN
+3,19,18,BOWDOIN,error,attack_error,BOWDOIN,Cameron Shelly,Lila Sayre,,,Lila Sayre,,0,1,9,8,[Cameron Shelly] Attack error by Lila Sayre.,BOWDOIN,WESLEYAN
+3,20,19,BOWDOIN,error,attack_error,BOWDOIN,Cameron Shelly,Michelle Jorba,,,Michelle Jorba,,0,0,9,9,[Cameron Shelly] Attack error by Michelle Jorba.,BOWDOIN,WESLEYAN
+3,21,20,WESLEYAN,error,service_error,BOWDOIN,Cameron Shelly,,,,Cameron Shelly,,0,0,10,9,[Cameron Shelly] Service error.,BOWDOIN,WESLEYAN
+3,22,21,WESLEYAN,error,attack_error,WESLEYAN,Adrienne Nguyen,Olivia Deane,,,Olivia Deane,,0,1,11,9,[Adrienne Nguyen] Attack error by Olivia Deane.,BOWDOIN,WESLEYAN
+3,23,22,WESLEYAN,ace,service_ace,WESLEYAN,Adrienne Nguyen,,,,,Team,0,0,12,9,[Adrienne Nguyen] Service ace (Team).,BOWDOIN,WESLEYAN
+3,24,23,BOWDOIN,attack,kill,WESLEYAN,Adrienne Nguyen,Alison Smith,Cameron Shelly,,,,0,0,12,10,[Adrienne Nguyen] Kill by Alison Smith (from Cameron Shelly).,BOWDOIN,WESLEYAN
+3,25,24,BOWDOIN,attack,kill,BOWDOIN,Olivia Deane,Haley Campau,Cameron Shelly,,Lila Sayre,,0,0,12,11,"[Olivia Deane] Kill by Haley Campau (from Cameron Shelly), block error by Lila Sayre.",BOWDOIN,WESLEYAN
+3,26,25,WESLEYAN,attack,kill,BOWDOIN,Olivia Deane,Lila Sayre,Adrienne Nguyen,,,,0,0,13,11,[Olivia Deane] Kill by Lila Sayre (from Adrienne Nguyen).,BOWDOIN,WESLEYAN
+3,27,26,BOWDOIN,attack,kill,WESLEYAN,Paulina Marino-Bindi,Skye LaMendola,Cameron Shelly,,India Clark,,0,1,13,12,"[Paulina Marino-Bindi] Kill by Skye LaMendola (from Cameron Shelly), block error by India Clark.",BOWDOIN,WESLEYAN
+3,28,27,BOWDOIN,ace,service_ace,BOWDOIN,Haley Campau,,,,,Adrienne Nguyen,0,0,13,13,[Haley Campau] Service ace (Adrienne Nguyen).,BOWDOIN,WESLEYAN
+3,29,28,BOWDOIN,error,attack_error,BOWDOIN,Haley Campau,India Clark,,,India Clark,,0,0,13,14,[Haley Campau] Attack error by India Clark.,BOWDOIN,WESLEYAN
+3,30,29,WESLEYAN,attack,kill,BOWDOIN,Haley Campau,Lila Sayre,Paulina Marino-Bindi,,,,0,0,14,14,[Haley Campau] Kill by Lila Sayre (from Paulina Marino-Bindi).,BOWDOIN,WESLEYAN
+3,31,30,BOWDOIN,attack,kill,WESLEYAN,Lila Sayre,Alison Smith,Cameron Shelly,,,,0,1,14,15,[Lila Sayre] Kill by Alison Smith (from Cameron Shelly).,BOWDOIN,WESLEYAN
+3,32,31,BOWDOIN,attack,kill,BOWDOIN,Paige Butler,Skye LaMendola,Anna Yeh,,,,0,1,14,16,[Paige Butler] Kill by Skye LaMendola (from Anna Yeh).,BOWDOIN,WESLEYAN
+3,33,32,WESLEYAN,error,service_error,BOWDOIN,Paige Butler,,,,Paige Butler,,0,0,15,16,[Paige Butler] Service error.,BOWDOIN,WESLEYAN
+3,34,33,BOWDOIN,attack,kill,WESLEYAN,Bianca Gonya,Hannah Woolley,Paige Butler,,,,0,0,15,17,[Bianca Gonya] Kill by Hannah Woolley (from Paige Butler).,BOWDOIN,WESLEYAN
+3,35,34,BOWDOIN,attack,kill,BOWDOIN,Skye LaMendola,Mina Mittler,,,,,0,0,15,18,[Skye LaMendola] Kill by Mina Mittler.,BOWDOIN,WESLEYAN
+3,36,35,BOWDOIN,attack,kill,BOWDOIN,Skye LaMendola,Mina Mittler,Paige Butler,,,,1,0,15,19,[Skye LaMendola] Kill by Mina Mittler (from Paige Butler).,BOWDOIN,WESLEYAN
+3,37,36,BOWDOIN,error,attack_error,BOWDOIN,Skye LaMendola,India Clark,,,India Clark,,0,0,15,20,[Skye LaMendola] Attack error by India Clark.,BOWDOIN,WESLEYAN
+3,38,37,WESLEYAN,attack,kill,WESLEYAN,Ali Landa,Michelle Jorba,Ali Landa,,,,0,1,16,20,[Ali Landa] Kill by Michelle Jorba (from Ali Landa).,BOWDOIN,WESLEYAN
+3,39,38,WESLEYAN,attack,kill,WESLEYAN,Ali Landa,Michelle Jorba,Ali Landa,,,,0,0,17,20,[Ali Landa] Kill by Michelle Jorba (from Ali Landa).,BOWDOIN,WESLEYAN
+3,40,39,BOWDOIN,attack,kill,WESLEYAN,Ali Landa,Mina Mittler,Paige Butler,,,,1,0,17,21,[Ali Landa] Kill by Mina Mittler (from Paige Butler).,BOWDOIN,WESLEYAN
+3,41,40,BOWDOIN,attack,kill,BOWDOIN,Anna Yeh,Haley Campau,Paige Butler,,,,0,0,17,22,[Anna Yeh] Kill by Haley Campau (from Paige Butler).,BOWDOIN,WESLEYAN
+3,42,41,WESLEYAN,attack,kill,BOWDOIN,Anna Yeh,Michelle Jorba,Ali Landa,,,,0,0,18,22,[Anna Yeh] Kill by Michelle Jorba (from Ali Landa).,BOWDOIN,WESLEYAN
+3,43,42,BOWDOIN,attack,kill,WESLEYAN,Elliana Moreno,Haley Campau,,,,,0,1,18,23,[Elliana Moreno] Kill by Haley Campau.,BOWDOIN,WESLEYAN
+3,44,43,WESLEYAN,attack,kill,BOWDOIN,Cameron Shelly,Lila Sayre,Elliana Moreno,,,,0,0,19,23,[Cameron Shelly] Kill by Lila Sayre (from Elliana Moreno).,BOWDOIN,WESLEYAN
+3,45,44,BOWDOIN,attack,kill,WESLEYAN,Adrienne Nguyen,Cameron Shelly,,,,,0,0,19,24,[Adrienne Nguyen] Kill by Cameron Shelly.,BOWDOIN,WESLEYAN
+4,1,0,,,other,--,,,,,,,0,0,0,0,On court for WESLEYAN: Elliana Moreno; Ali Landa; Katelyn Olin; Bianca Gonya; Michelle Jorba; Lila Sayre.,BOWDOIN,WESLEYAN
+4,2,1,,,other,--,,,,,,,0,0,0,0,On court for BOWDOIN: Skye LaMendola; Alison Smith; Cameron Shelly; Haley Campau; Hannah Woolley; Olivia Deane.,BOWDOIN,WESLEYAN
+4,3,2,WESLEYAN,block,attack_error,WESLEYAN,Elliana Moreno,Alison Smith,,Lila Sayre,Alison Smith,,0,0,1,0,[Elliana Moreno] Attack error by Alison Smith (block by Lila Sayre).,BOWDOIN,WESLEYAN
+4,4,3,WESLEYAN,error,attack_error,WESLEYAN,Elliana Moreno,Olivia Deane,,,Olivia Deane,,0,0,2,0,[Elliana Moreno] Attack error by Olivia Deane.,BOWDOIN,WESLEYAN
+4,5,4,WESLEYAN,attack,kill,WESLEYAN,Elliana Moreno,Lila Sayre,Elliana Moreno,,,,0,0,3,0,[Elliana Moreno] Kill by Lila Sayre (from Elliana Moreno).,BOWDOIN,WESLEYAN
+4,6,5,BOWDOIN,attack,kill,WESLEYAN,Elliana Moreno,Alison Smith,Anna Yeh,,,,0,0,3,1,[Elliana Moreno] Kill by Alison Smith (from Anna Yeh).,BOWDOIN,WESLEYAN
+4,7,6,WESLEYAN,attack,kill,BOWDOIN,Olivia Deane,Katelyn Olin,Ali Landa,,,,0,0,4,1,[Olivia Deane] Kill by Katelyn Olin (from Ali Landa).,BOWDOIN,WESLEYAN
+4,8,7,BOWDOIN,attack,kill,WESLEYAN,Adrienne Nguyen,Skye LaMendola,Cameron Shelly,,,,0,0,4,2,[Adrienne Nguyen] Kill by Skye LaMendola (from Cameron Shelly).,BOWDOIN,WESLEYAN
+4,9,8,WESLEYAN,attack,kill,BOWDOIN,Haley Campau,Lila Sayre,Adrienne Nguyen,,,,0,0,5,2,[Haley Campau] Kill by Lila Sayre (from Adrienne Nguyen).,BOWDOIN,WESLEYAN
+4,10,9,WESLEYAN,block,attack_error,WESLEYAN,Ella Blair,Alison Smith,,Lila Sayre,Alison Smith,,0,1,6,2,[Ella Blair] Attack error by Alison Smith (block by Lila Sayre).,BOWDOIN,WESLEYAN
+4,11,10,WESLEYAN,attack,kill,WESLEYAN,Ella Blair,India Clark,Adrienne Nguyen,,,,0,0,7,2,[Ella Blair] Kill by India Clark (from Adrienne Nguyen).,BOWDOIN,WESLEYAN
+4,12,11,WESLEYAN,attack,kill,WESLEYAN,Ella Blair,India Clark,Ella Blair,,,,1,0,8,2,[Ella Blair] Kill by India Clark (from Ella Blair).,BOWDOIN,WESLEYAN
+4,13,12,BOWDOIN,attack,kill,WESLEYAN,Ella Blair,Skye LaMendola,Cameron Shelly,,,,0,0,8,3,[Ella Blair] Kill by Skye LaMendola (from Cameron Shelly).,BOWDOIN,WESLEYAN
+4,14,13,BOWDOIN,ace,service_ace,BOWDOIN,Paige Butler,,,,,Adrienne Nguyen,0,1,8,4,[Paige Butler] Service ace (Adrienne Nguyen).,BOWDOIN,WESLEYAN
+4,15,14,WESLEYAN,attack,kill,BOWDOIN,Paige Butler,Bianca Gonya,Ella Blair,,,,0,0,9,4,[Paige Butler] Kill by Bianca Gonya (from Ella Blair).,BOWDOIN,WESLEYAN
+4,16,15,BOWDOIN,attack,kill,WESLEYAN,Lila Sayre,Hannah Woolley,,,,,0,1,9,5,[Lila Sayre] Kill by Hannah Woolley.,BOWDOIN,WESLEYAN
+4,17,16,WESLEYAN,attack,kill,BOWDOIN,Skye LaMendola,India Clark,Ella Blair,,,,0,0,10,5,[Skye LaMendola] Kill by India Clark (from Ella Blair).,BOWDOIN,WESLEYAN
+4,18,17,WESLEYAN,ace,service_ace,WESLEYAN,Bianca Gonya,,,,,Skye LaMendola,0,0,11,5,[Bianca Gonya] Service ace (Skye LaMendola).,BOWDOIN,WESLEYAN
+4,19,18,BOWDOIN,attack,kill,WESLEYAN,Bianca Gonya,Hannah Woolley,Paige Butler,,,,0,0,11,6,[Bianca Gonya] Kill by Hannah Woolley (from Paige Butler).,BOWDOIN,WESLEYAN
+4,20,19,WESLEYAN,attack,kill,BOWDOIN,Anna Yeh,Kate Carman,Ella Blair,,,,0,1,12,6,[Anna Yeh] Kill by Kate Carman (from Ella Blair).,BOWDOIN,WESLEYAN
+4,21,20,BOWDOIN,attack,kill,WESLEYAN,Ali Landa,Haley Campau,Paige Butler,,,,0,1,12,7,[Ali Landa] Kill by Haley Campau (from Paige Butler).,BOWDOIN,WESLEYAN
+4,22,21,BOWDOIN,ace,service_ace,BOWDOIN,Cameron Shelly,,,,,Kate Carman,0,1,12,8,[Cameron Shelly] Service ace (Kate Carman).,BOWDOIN,WESLEYAN
+4,23,22,WESLEYAN,attack,kill,BOWDOIN,Cameron Shelly,Michelle Jorba,Lila Sayre,,,,0,0,13,8,[Cameron Shelly] Kill by Michelle Jorba (from Lila Sayre).,BOWDOIN,WESLEYAN
+4,24,23,BOWDOIN,attack,kill,WESLEYAN,Elliana Moreno,Olivia Deane,Cameron Shelly,,,,0,1,13,9,[Elliana Moreno] Kill by Olivia Deane (from Cameron Shelly).,BOWDOIN,WESLEYAN
+4,25,24,WESLEYAN,attack,kill,BOWDOIN,Olivia Deane,Michelle Jorba,Ali Landa,,,,0,0,14,9,[Olivia Deane] Kill by Michelle Jorba (from Ali Landa).,BOWDOIN,WESLEYAN
+4,26,25,WESLEYAN,attack,kill,WESLEYAN,Adrienne Nguyen,Lila Sayre,,,,,0,1,15,9,[Adrienne Nguyen] Kill by Lila Sayre.,BOWDOIN,WESLEYAN
+4,27,26,BOWDOIN,block,attack_error,WESLEYAN,Adrienne Nguyen,Bianca Gonya,,Alison Smith,Bianca Gonya,,0,0,15,10,[Adrienne Nguyen] Attack error by Bianca Gonya (block by Alison Smith).,BOWDOIN,WESLEYAN
+4,28,27,WESLEYAN,attack,kill,BOWDOIN,Haley Campau,Lila Sayre,Ali Landa,,,,0,0,16,10,[Haley Campau] Kill by Lila Sayre (from Ali Landa).,BOWDOIN,WESLEYAN
+4,29,28,BOWDOIN,attack,kill,WESLEYAN,Ella Blair,Skye LaMendola,Anna Yeh,,,,0,1,16,11,[Ella Blair] Kill by Skye LaMendola (from Anna Yeh).,BOWDOIN,WESLEYAN
+4,30,29,BOWDOIN,block,attack_error,BOWDOIN,Paige Butler,Lila Sayre,,Skye LaMendola,Lila Sayre,,0,1,16,12,[Paige Butler] Attack error by Lila Sayre (block by Skye LaMendola).,BOWDOIN,WESLEYAN
+4,31,30,WESLEYAN,attack,kill,BOWDOIN,Paige Butler,Bianca Gonya,Ella Blair,,,,0,0,17,12,[Paige Butler] Kill by Bianca Gonya (from Ella Blair).,BOWDOIN,WESLEYAN
+4,32,31,WESLEYAN,attack,kill,WESLEYAN,Lila Sayre,India Clark,Bianca Gonya,,,,0,1,18,12,[Lila Sayre] Kill by India Clark (from Bianca Gonya).,BOWDOIN,WESLEYAN
+4,33,32,WESLEYAN,block,attack_error,WESLEYAN,Lila Sayre,Skye LaMendola,,Bianca Gonya,Skye LaMendola,,0,0,19,12,[Lila Sayre] Attack error by Skye LaMendola (block by Bianca Gonya).,BOWDOIN,WESLEYAN
+4,34,33,BOWDOIN,attack,kill,WESLEYAN,Lila Sayre,Mina Mittler,Anna Yeh,,,,0,0,19,13,[Lila Sayre] Kill by Mina Mittler (from Anna Yeh).,BOWDOIN,WESLEYAN
+4,35,34,WESLEYAN,error,attack_error,BOWDOIN,Skye LaMendola,Hannah Woolley,,,Hannah Woolley,,0,1,20,13,[Skye LaMendola] Attack error by Hannah Woolley.,BOWDOIN,WESLEYAN
+4,36,35,BOWDOIN,attack,kill,WESLEYAN,Bianca Gonya,Hannah Woolley,Paige Butler,,India Clark,,0,0,20,14,"[Bianca Gonya] Kill by Hannah Woolley (from Paige Butler), block error by India Clark.",BOWDOIN,WESLEYAN
+4,37,36,WESLEYAN,attack,kill,BOWDOIN,Anna Yeh,India Clark,Ella Blair,,,,0,0,21,14,[Anna Yeh] Kill by India Clark (from Ella Blair).,BOWDOIN,WESLEYAN
+4,38,37,WESLEYAN,block,attack_error,WESLEYAN,Ali Landa,Haley Campau,,Katelyn Olin,Haley Campau,,0,1,22,14,[Ali Landa] Attack error by Haley Campau (block by Katelyn Olin).,BOWDOIN,WESLEYAN
+4,39,38,BOWDOIN,attack,kill,WESLEYAN,Ali Landa,Mina Mittler,Paige Butler,,,,0,0,22,15,[Ali Landa] Kill by Mina Mittler (from Paige Butler).,BOWDOIN,WESLEYAN
+4,40,39,BOWDOIN,block,attack_error,BOWDOIN,Cameron Shelly,Michelle Jorba,,Alison Smith,Michelle Jorba,,0,1,22,16,[Cameron Shelly] Attack error by Michelle Jorba (block by Alison Smith).,BOWDOIN,WESLEYAN
+4,41,40,WESLEYAN,error,attack_error,WESLEYAN,Elliana Moreno,Haley Campau,,,Haley Campau,,0,0,23,16,[Elliana Moreno] Attack error by Haley Campau.,BOWDOIN,WESLEYAN
+4,42,41,WESLEYAN,attack,kill,WESLEYAN,Elliana Moreno,Ashley Jazbec,Cameron Shelly,,,,0,0,24,16,[Elliana Moreno] Kill by Ashley Jazbec (from Cameron Shelly).,BOWDOIN,WESLEYAN
+4,43,42,WESLEYAN,attack,kill,BOWDOIN,Ashley Jazbec,Michelle Jorba,Ali Landa,,,,0,0,25,16,[Ashley Jazbec] Kill by Michelle Jorba (from Ali Landa).,BOWDOIN,WESLEYAN

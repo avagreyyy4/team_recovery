@@ -1,0 +1,175 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,WLU,error,ball_handling_error,WLU,"Johnson, Addi",,,,"Veselinovic, Maya",,0,0,1,0,"[Johnson, Addi] Bad set by Veselinovic, Maya.",BC,WLU
+1,2,1,WLU,attack,kill,WLU,"Johnson, Addi","Debiec, Riley","Nichoson, Sienna",,,,0,0,2,0,"[Johnson, Addi] Kill by Debiec, Riley (from Nichoson, Sienna).",BC,WLU
+1,3,2,BC,attack,kill,WLU,"Johnson, Addi","Atwell, Gabby","Veselinovic, Maya",,,,0,0,2,1,"[Johnson, Addi] Kill by Atwell, Gabby (from Veselinovic, Maya).",BC,WLU
+1,4,3,BC,attack,kill,BC,"Currie, Alexis","Stoop, Reagan","Veselinovic, Maya",,,,0,1,2,2,"[Currie, Alexis] Kill by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+1,5,4,WLU,attack,kill,BC,"Currie, Alexis","Hamil, Cara","Nichoson, Sienna",,,,0,0,3,2,"[Currie, Alexis] Kill by Hamil, Cara (from Nichoson, Sienna).",BC,WLU
+1,6,5,BC,attack,kill,WLU,"Nichoson, Sienna","Stoop, Reagan","Veselinovic, Maya",,,,0,0,3,3,"[Nichoson, Sienna] Kill by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+1,7,6,BC,attack,kill,BC,"Atwell, Gabby","DePew, Faith","Veselinovic, Maya",,,,0,1,3,4,"[Atwell, Gabby] Kill by DePew, Faith (from Veselinovic, Maya).",BC,WLU
+1,8,7,WLU,attack,kill,BC,"Atwell, Gabby","Debiec, Riley","Nichoson, Sienna",,,,0,0,4,4,"[Atwell, Gabby] Kill by Debiec, Riley (from Nichoson, Sienna).",BC,WLU
+1,9,8,BC,attack,kill,WLU,"Hamil, Cara","Alford, Agnes","Veselinovic, Maya",,,,0,0,4,5,"[Hamil, Cara] Kill by Alford, Agnes (from Veselinovic, Maya).",BC,WLU
+1,10,9,BC,block,attack_error,BC,"Kelley, Lindsay","Debiec, Riley",,"Stoop, Reagan; Alford, Agnes","Debiec, Riley",,0,1,4,6,"[Kelley, Lindsay] Attack error by Debiec, Riley (block by Stoop, Reagan; Alford, Agnes).",BC,WLU
+1,11,10,WLU,attack,kill,BC,"Kelley, Lindsay","Mitchener, Grace","Nichoson, Sienna",,,,0,0,5,6,"[Kelley, Lindsay] Kill by Mitchener, Grace (from Nichoson, Sienna).",BC,WLU
+1,12,11,WLU,attack,kill,WLU,"Debiec, Riley","Mitchener, Grace","Quiles, Penelope",,,,0,0,6,6,"[Debiec, Riley] Kill by Mitchener, Grace (from Quiles, Penelope).",BC,WLU
+1,13,12,BC,attack,kill,WLU,"Debiec, Riley","Stoop, Reagan","Kelley, Lindsay",,,,0,0,6,7,"[Debiec, Riley] Kill by Stoop, Reagan (from Kelley, Lindsay).",BC,WLU
+1,14,13,WLU,attack,kill,BC,"Stoop, Reagan","Mitchener, Grace","Vasquez, Vivi",,,,0,0,7,7,"[Stoop, Reagan] Kill by Mitchener, Grace (from Vasquez, Vivi).",BC,WLU
+1,15,14,BC,error,ball_handling_error,WLU,"Schellenberg, Emily",,,,"Mitchener, Grace",,0,0,7,8,"[Schellenberg, Emily] Ball handling error by Mitchener, Grace.",BC,WLU
+1,16,15,WLU,error,attack_error,BC,"Black, Anna","DePew, Faith","Kelley, Lindsay",,"DePew, Faith",,0,0,8,8,"[Black, Anna] Attack error by DePew, Faith (from Kelley, Lindsay).",BC,WLU
+1,17,16,WLU,error,attack_error,WLU,"Mitchener, Grace","DePew, Faith","Kelley, Lindsay",,"DePew, Faith",,0,0,9,8,"[Mitchener, Grace] Attack error by DePew, Faith (from Kelley, Lindsay).",BC,WLU
+1,18,17,WLU,attack,kill,WLU,"Mitchener, Grace","Goerig, Emery","Nichoson, Sienna",,,,0,0,10,8,"[Mitchener, Grace] Kill by Goerig, Emery (from Nichoson, Sienna).",BC,WLU
+1,19,18,WLU,attack,kill,WLU,"Mitchener, Grace","Goerig, Emery","Vasquez, Vivi",,,,0,0,11,8,"[Mitchener, Grace] Kill by Goerig, Emery (from Vasquez, Vivi).",BC,WLU
+1,20,19,BC,attack,kill,WLU,"Mitchener, Grace","Atwell, Gabby","Kelley, Lindsay",,,,0,0,11,9,"[Mitchener, Grace] Kill by Atwell, Gabby (from Kelley, Lindsay).",BC,WLU
+1,21,20,WLU,error,service_error,BC,"DePew, Faith",,,,"DePew, Faith",,0,0,12,9,"[DePew, Faith] Service error.",BC,WLU
+1,22,21,BC,attack,kill,WLU,"Johnson, Addi","Atwell, Gabby","Veselinovic, Maya",,,,0,0,12,10,"[Johnson, Addi] Kill by Atwell, Gabby (from Veselinovic, Maya).",BC,WLU
+1,23,22,BC,attack,kill,BC,"Currie, Alexis","Stoop, Reagan","Veselinovic, Maya",,,,0,0,12,11,"[Currie, Alexis] Kill by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+1,24,23,WLU,error,attack_error,BC,"Currie, Alexis","DePew, Faith","Veselinovic, Maya",,"DePew, Faith",,0,0,13,11,"[Currie, Alexis] Attack error by DePew, Faith (from Veselinovic, Maya).",BC,WLU
+1,25,24,BC,attack,kill,WLU,"Nichoson, Sienna","Stoop, Reagan","Veselinovic, Maya",,"Debiec, Riley",,0,0,13,12,"[Nichoson, Sienna] Kill by Stoop, Reagan (from Veselinovic, Maya), block error by Debiec, Riley.",BC,WLU
+1,26,25,WLU,attack,kill,BC,"Atwell, Gabby","Mitchener, Grace","Nichoson, Sienna",,,,0,0,14,12,"[Atwell, Gabby] Kill by Mitchener, Grace (from Nichoson, Sienna).",BC,WLU
+1,27,26,BC,attack,kill,WLU,"Hamil, Cara","Alford, Agnes","Veselinovic, Maya",,,,0,0,14,13,"[Hamil, Cara] Kill by Alford, Agnes (from Veselinovic, Maya).",BC,WLU
+1,28,27,WLU,attack,kill,BC,"Kelley, Lindsay","Debiec, Riley","Nichoson, Sienna",,,,0,0,15,13,"[Kelley, Lindsay] Kill by Debiec, Riley (from Nichoson, Sienna).",BC,WLU
+1,29,28,WLU,attack,kill,WLU,"Debiec, Riley","Mitchener, Grace","Nichoson, Sienna",,"Alford, Agnes",,0,0,16,13,"[Debiec, Riley] Kill by Mitchener, Grace (from Nichoson, Sienna), block error by Alford, Agnes.",BC,WLU
+1,30,29,BC,attack,kill,WLU,"Debiec, Riley","DePew, Faith","Currie, Alexis",,,,0,0,16,14,"[Debiec, Riley] Kill by DePew, Faith (from Currie, Alexis).",BC,WLU
+1,31,30,BC,error,attack_error,BC,"Stoop, Reagan","Gaines, Ava","Nichoson, Sienna",,"Gaines, Ava",,0,0,16,15,"[Stoop, Reagan] Attack error by Gaines, Ava (from Nichoson, Sienna).",BC,WLU
+1,32,31,WLU,attack,kill,BC,"Stoop, Reagan","Mitchener, Grace","Nichoson, Sienna",,,,0,0,17,15,"[Stoop, Reagan] Kill by Mitchener, Grace (from Nichoson, Sienna).",BC,WLU
+1,33,32,BC,attack,kill,WLU,"Schellenberg, Emily","Alford, Agnes","Quiles, Penelope",,,,0,0,17,16,"[Schellenberg, Emily] Kill by Alford, Agnes (from Quiles, Penelope).",BC,WLU
+1,34,33,WLU,error,service_error,BC,"Black, Anna",,,,"Black, Anna",,0,0,18,16,"[Black, Anna] Service error.",BC,WLU
+1,35,34,WLU,attack,kill,WLU,"Mitchener, Grace","Hamil, Cara","Schellenberg, Emily",,,,0,0,19,16,"[Mitchener, Grace] Kill by Hamil, Cara (from Schellenberg, Emily).",BC,WLU
+1,36,35,BC,attack,kill,WLU,"Mitchener, Grace","DePew, Faith","Kelley, Lindsay",,,,0,0,19,17,"[Mitchener, Grace] Kill by DePew, Faith (from Kelley, Lindsay).",BC,WLU
+1,37,36,WLU,attack,kill,BC,"DePew, Faith","Nichoson, Sienna","Schellenberg, Emily",,,,0,0,20,17,"[DePew, Faith] Kill by Nichoson, Sienna (from Schellenberg, Emily).",BC,WLU
+1,38,37,BC,attack,kill,WLU,"Johnson, Addi","Atwell, Gabby","Veselinovic, Maya",,,,0,0,20,18,"[Johnson, Addi] Kill by Atwell, Gabby (from Veselinovic, Maya).",BC,WLU
+1,39,38,BC,attack,kill,BC,"Currie, Alexis","Black, Anna",,,,,0,0,20,19,"[Currie, Alexis] Kill by Black, Anna.",BC,WLU
+1,40,39,WLU,attack,kill,BC,"Currie, Alexis","Hamil, Cara","Schellenberg, Emily",,,,0,0,21,19,"[Currie, Alexis] Kill by Hamil, Cara (from Schellenberg, Emily).",BC,WLU
+1,41,40,WLU,error,attack_error,WLU,"Nichoson, Sienna","Stoop, Reagan","Veselinovic, Maya",,"Stoop, Reagan",,0,0,22,19,"[Nichoson, Sienna] Attack error by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+1,42,41,BC,block,attack_error,WLU,"Nichoson, Sienna","Debiec, Riley",,"Atwell, Gabby; Stoop, Reagan","Debiec, Riley",,0,0,22,20,"[Nichoson, Sienna] Attack error by Debiec, Riley (block by Atwell, Gabby; Stoop, Reagan).",BC,WLU
+1,43,42,WLU,attack,kill,BC,"Atwell, Gabby","Debiec, Riley","Nichoson, Sienna",,,,0,0,23,20,"[Atwell, Gabby] Kill by Debiec, Riley (from Nichoson, Sienna).",BC,WLU
+1,44,43,WLU,attack,kill,WLU,"Hamil, Cara","Debiec, Riley","Nichoson, Sienna",,,,0,0,24,20,"[Hamil, Cara] Kill by Debiec, Riley (from Nichoson, Sienna).",BC,WLU
+1,45,44,BC,error,service_error,WLU,"Hamil, Cara",,,,"Hamil, Cara",,0,0,24,21,"[Hamil, Cara] Service error.",BC,WLU
+1,46,45,BC,attack,kill,BC,"Kelley, Lindsay","Alford, Agnes","Kelley, Lindsay",,,,0,0,24,22,"[Kelley, Lindsay] Kill by Alford, Agnes (from Kelley, Lindsay).",BC,WLU
+1,47,46,WLU,error,service_error,BC,"Kelley, Lindsay",,,,"Kelley, Lindsay",,0,0,25,22,"[Kelley, Lindsay] Service error.",BC,WLU
+2,1,0,BC,attack,kill,BC,"Currie, Alexis","Stoop, Reagan","Veselinovic, Maya",,,,0,1,0,1,"[Currie, Alexis] Kill by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+2,2,1,WLU,attack,kill,BC,"Currie, Alexis","Debiec, Riley","Nichoson, Sienna",,,,0,0,1,1,"[Currie, Alexis] Kill by Debiec, Riley (from Nichoson, Sienna).",BC,WLU
+2,3,2,BC,attack,kill,WLU,"Nichoson, Sienna","Stoop, Reagan","Veselinovic, Maya",,,,0,1,1,2,"[Nichoson, Sienna] Kill by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+2,4,3,BC,error,attack_error,BC,"Atwell, Gabby","Hamil, Cara","Nichoson, Sienna",,"Hamil, Cara",,0,0,1,3,"[Atwell, Gabby] Attack error by Hamil, Cara (from Nichoson, Sienna).",BC,WLU
+2,5,4,WLU,attack,kill,BC,"Atwell, Gabby","Debiec, Riley","Nichoson, Sienna",,,,0,0,2,3,"[Atwell, Gabby] Kill by Debiec, Riley (from Nichoson, Sienna).",BC,WLU
+2,6,5,WLU,attack,kill,WLU,"Hamil, Cara","Mitchener, Grace","Nichoson, Sienna",,,,0,0,3,3,"[Hamil, Cara] Kill by Mitchener, Grace (from Nichoson, Sienna).",BC,WLU
+2,7,6,BC,attack,kill,WLU,"Hamil, Cara","Stoop, Reagan","Veselinovic, Maya",,,,0,0,3,4,"[Hamil, Cara] Kill by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+2,8,7,WLU,attack,kill,BC,"Kelley, Lindsay","Mitchener, Grace","Nichoson, Sienna",,,,0,1,4,4,"[Kelley, Lindsay] Kill by Mitchener, Grace (from Nichoson, Sienna).",BC,WLU
+2,9,8,BC,attack,kill,WLU,"Debiec, Riley","Stoop, Reagan","Black, Anna",,,,0,0,4,5,"[Debiec, Riley] Kill by Stoop, Reagan (from Black, Anna).",BC,WLU
+2,10,9,BC,attack,kill,BC,"Stoop, Reagan","DePew, Faith","Kelley, Lindsay",,,,0,1,4,6,"[Stoop, Reagan] Kill by DePew, Faith (from Kelley, Lindsay).",BC,WLU
+2,11,10,BC,block,attack_error,BC,"Stoop, Reagan","Mitchener, Grace",,"Alford, Agnes; DePew, Faith","Mitchener, Grace",,0,0,4,7,"[Stoop, Reagan] Attack error by Mitchener, Grace (block by Alford, Agnes; DePew, Faith).",BC,WLU
+2,12,11,BC,error,attack_error,BC,"Stoop, Reagan","Mitchener, Grace","Vasquez, Vivi",,"Mitchener, Grace",,0,0,4,8,"[Stoop, Reagan] Attack error by Mitchener, Grace (from Vasquez, Vivi).",BC,WLU
+2,13,12,BC,error,attack_error,BC,"Stoop, Reagan","Mitchener, Grace","Quiles, Penelope",,"Mitchener, Grace",,0,0,4,9,"[Stoop, Reagan] Attack error by Mitchener, Grace (from Quiles, Penelope).",BC,WLU
+2,14,13,BC,attack,kill,BC,"Stoop, Reagan","Alford, Agnes","Kelley, Lindsay",,,,0,0,4,10,"[Stoop, Reagan] Kill by Alford, Agnes (from Kelley, Lindsay).",BC,WLU
+2,15,14,BC,attack,kill,BC,"Stoop, Reagan","DePew, Faith","Black, Anna",,,,0,0,4,11,"[Stoop, Reagan] Kill by DePew, Faith (from Black, Anna).",BC,WLU
+2,16,15,BC,ace,service_ace,BC,"Stoop, Reagan",,,,,"Mitchener, Grace",0,0,4,12,"[Stoop, Reagan] Service ace (Mitchener, Grace).",BC,WLU
+2,17,16,BC,block,attack_error,BC,"Stoop, Reagan","Gaines, Ava",,"Griffith, Claire; Alford, Agnes","Gaines, Ava",,0,0,4,13,"[Stoop, Reagan] Attack error by Gaines, Ava (block by Griffith, Claire; Alford, Agnes).",BC,WLU
+2,18,17,WLU,attack,kill,BC,"Stoop, Reagan","Goerig, Emery","Nichoson, Sienna",,,,0,0,5,13,"[Stoop, Reagan] Kill by Goerig, Emery (from Nichoson, Sienna).",BC,WLU
+2,19,18,BC,attack,kill,WLU,"Schellenberg, Emily","DePew, Faith","Kelley, Lindsay",,,,0,0,5,14,"[Schellenberg, Emily] Kill by DePew, Faith (from Kelley, Lindsay).",BC,WLU
+2,20,19,WLU,block,attack_error,BC,"Black, Anna","DePew, Faith",,"Goerig, Emery; Mitchener, Grace","DePew, Faith",,0,0,6,14,"[Black, Anna] Attack error by DePew, Faith (block by Goerig, Emery; Mitchener, Grace).",BC,WLU
+2,21,20,WLU,error,attack_error,WLU,"Mitchener, Grace","DePew, Faith","Kelley, Lindsay",,"DePew, Faith",,0,0,7,14,"[Mitchener, Grace] Attack error by DePew, Faith (from Kelley, Lindsay).",BC,WLU
+2,22,21,WLU,error,attack_error,WLU,"Mitchener, Grace","Griffith, Claire","Kelley, Lindsay",,"Griffith, Claire",,0,0,8,14,"[Mitchener, Grace] Attack error by Griffith, Claire (from Kelley, Lindsay).",BC,WLU
+2,23,22,WLU,ace,service_ace,WLU,"Mitchener, Grace",,,,,"Stoop, Reagan",0,0,9,14,"[Mitchener, Grace] Service ace (Stoop, Reagan).",BC,WLU
+2,24,23,BC,attack,kill,WLU,"Mitchener, Grace","DePew, Faith","Kelley, Lindsay",,,,0,0,9,15,"[Mitchener, Grace] Kill by DePew, Faith (from Kelley, Lindsay).",BC,WLU
+2,25,24,BC,ace,service_ace,BC,"DePew, Faith",,,,,"Schellenberg, Emily",0,0,9,16,"[DePew, Faith] Service ace (Schellenberg, Emily).",BC,WLU
+2,26,25,BC,attack,kill,BC,"DePew, Faith","DePew, Faith","Veselinovic, Maya",,,,0,0,9,17,"[DePew, Faith] Kill by DePew, Faith (from Veselinovic, Maya).",BC,WLU
+2,27,26,WLU,attack,kill,BC,"DePew, Faith","Goerig, Emery","Nichoson, Sienna",,,,0,0,10,17,"[DePew, Faith] Kill by Goerig, Emery (from Nichoson, Sienna).",BC,WLU
+2,28,27,WLU,attack,kill,WLU,"Johnson, Addi","Hamil, Cara","Johnson, Addi",,,,0,0,11,17,"[Johnson, Addi] Kill by Hamil, Cara (from Johnson, Addi).",BC,WLU
+2,29,28,BC,error,attack_error,WLU,"Johnson, Addi","Hamil, Cara","Nichoson, Sienna",,"Hamil, Cara",,0,0,11,18,"[Johnson, Addi] Attack error by Hamil, Cara (from Nichoson, Sienna).",BC,WLU
+2,30,29,WLU,attack,kill,BC,"Currie, Alexis","Nichoson, Sienna","Mitchener, Grace",,,,0,0,12,18,"[Currie, Alexis] Kill by Nichoson, Sienna (from Mitchener, Grace).",BC,WLU
+2,31,30,WLU,attack,kill,WLU,"Nichoson, Sienna","Debiec, Riley","Nichoson, Sienna",,,,0,0,13,18,"[Nichoson, Sienna] Kill by Debiec, Riley (from Nichoson, Sienna).",BC,WLU
+2,32,31,BC,attack,kill,WLU,"Nichoson, Sienna","Atwell, Gabby","Veselinovic, Maya",,,,0,0,13,19,"[Nichoson, Sienna] Kill by Atwell, Gabby (from Veselinovic, Maya).",BC,WLU
+2,33,32,BC,error,attack_error,BC,"Atwell, Gabby","Debiec, Riley",,,"Debiec, Riley",,0,0,13,20,"[Atwell, Gabby] Attack error by Debiec, Riley.",BC,WLU
+2,34,33,WLU,attack,kill,BC,"Atwell, Gabby","Debiec, Riley","Nichoson, Sienna",,,,0,0,14,20,"[Atwell, Gabby] Kill by Debiec, Riley (from Nichoson, Sienna).",BC,WLU
+2,35,34,BC,attack,kill,WLU,"Hamil, Cara","Stoop, Reagan","Veselinovic, Maya",,,,0,0,14,21,"[Hamil, Cara] Kill by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+2,36,35,WLU,error,service_error,BC,"Kelley, Lindsay",,,,"Kelley, Lindsay",,0,0,15,21,"[Kelley, Lindsay] Service error.",BC,WLU
+2,37,36,WLU,error,ball_handling_error,WLU,"Debiec, Riley",,,,"Kelley, Lindsay",,0,0,16,21,"[Debiec, Riley] Bad set by Kelley, Lindsay.",BC,WLU
+2,38,37,WLU,attack,kill,WLU,"Debiec, Riley","Mitchener, Grace","Nichoson, Sienna",,,,0,0,17,21,"[Debiec, Riley] Kill by Mitchener, Grace (from Nichoson, Sienna).",BC,WLU
+2,39,38,WLU,error,ball_handling_error,WLU,"Debiec, Riley",,,,"Kelley, Lindsay",,0,0,18,21,"[Debiec, Riley] Bad set by Kelley, Lindsay.",BC,WLU
+2,40,39,BC,attack,kill,WLU,"Debiec, Riley","Stoop, Reagan","Kelley, Lindsay",,,,0,0,18,22,"[Debiec, Riley] Kill by Stoop, Reagan (from Kelley, Lindsay).",BC,WLU
+2,41,40,BC,attack,kill,BC,"Stoop, Reagan","DePew, Faith","Kelley, Lindsay",,,,0,0,18,23,"[Stoop, Reagan] Kill by DePew, Faith (from Kelley, Lindsay).",BC,WLU
+2,42,41,BC,attack,kill,BC,"Stoop, Reagan","Alford, Agnes",,,,,0,0,18,24,"[Stoop, Reagan] Kill by Alford, Agnes.",BC,WLU
+2,43,42,WLU,attack,kill,BC,"Stoop, Reagan","Goerig, Emery","Nichoson, Sienna",,,,0,0,19,24,"[Stoop, Reagan] Kill by Goerig, Emery (from Nichoson, Sienna).",BC,WLU
+2,44,43,BC,attack,kill,WLU,"Schellenberg, Emily","DePew, Faith","Kelley, Lindsay",,,,0,0,19,25,"[Schellenberg, Emily] Kill by DePew, Faith (from Kelley, Lindsay).",BC,WLU
+3,1,0,WLU,attack,kill,WLU,"Johnson, Addi","Debiec, Riley","Nichoson, Sienna",,,,0,1,1,0,"[Johnson, Addi] Kill by Debiec, Riley (from Nichoson, Sienna).",BC,WLU
+3,2,1,BC,error,attack_error,WLU,"Johnson, Addi","Hamil, Cara","Debiec, Riley",,"Hamil, Cara",,0,0,1,1,"[Johnson, Addi] Attack error by Hamil, Cara (from Debiec, Riley).",BC,WLU
+3,3,2,WLU,attack,kill,BC,"Currie, Alexis","Hamil, Cara","Nichoson, Sienna",,,,0,1,2,1,"[Currie, Alexis] Kill by Hamil, Cara (from Nichoson, Sienna).",BC,WLU
+3,4,3,BC,attack,kill,WLU,"Nichoson, Sienna","Stoop, Reagan","Veselinovic, Maya",,,,0,1,2,2,"[Nichoson, Sienna] Kill by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+3,5,4,BC,attack,kill,BC,"Atwell, Gabby","Stoop, Reagan","Veselinovic, Maya",,,,0,0,2,3,"[Atwell, Gabby] Kill by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+3,6,5,WLU,attack,kill,BC,"Atwell, Gabby","Hamil, Cara","Nichoson, Sienna",,,,0,0,3,3,"[Atwell, Gabby] Kill by Hamil, Cara (from Nichoson, Sienna).",BC,WLU
+3,7,6,WLU,block,attack_error,WLU,"Hamil, Cara","Stoop, Reagan",,"Debiec, Riley","Stoop, Reagan",,0,0,4,3,"[Hamil, Cara] Attack error by Stoop, Reagan (block by Debiec, Riley).",BC,WLU
+3,8,7,BC,attack,kill,WLU,"Hamil, Cara","Alford, Agnes","Veselinovic, Maya",,,,0,0,4,4,"[Hamil, Cara] Kill by Alford, Agnes (from Veselinovic, Maya).",BC,WLU
+3,9,8,WLU,error,service_error,BC,"Kelley, Lindsay",,,,"Kelley, Lindsay",,0,1,5,4,"[Kelley, Lindsay] Service error.",BC,WLU
+3,10,9,BC,attack,kill,WLU,"Debiec, Riley","Stoop, Reagan","Kelley, Lindsay",,,,0,0,5,5,"[Debiec, Riley] Kill by Stoop, Reagan (from Kelley, Lindsay).",BC,WLU
+3,11,10,BC,attack,kill,BC,"Stoop, Reagan","Alford, Agnes","Kelley, Lindsay",,,,0,0,5,6,"[Stoop, Reagan] Kill by Alford, Agnes (from Kelley, Lindsay).",BC,WLU
+3,12,11,WLU,attack,kill,BC,"Stoop, Reagan","Mitchener, Grace","Vasquez, Vivi",,,,0,0,6,6,"[Stoop, Reagan] Kill by Mitchener, Grace (from Vasquez, Vivi).",BC,WLU
+3,13,12,WLU,error,attack_error,WLU,"Schellenberg, Emily","Griffith, Claire","Kelley, Lindsay",,"Griffith, Claire",,0,0,7,6,"[Schellenberg, Emily] Attack error by Griffith, Claire (from Kelley, Lindsay).",BC,WLU
+3,14,13,WLU,attack,kill,WLU,"Schellenberg, Emily","Mitchener, Grace","Nichoson, Sienna",,,,0,0,8,6,"[Schellenberg, Emily] Kill by Mitchener, Grace (from Nichoson, Sienna).",BC,WLU
+3,15,14,WLU,block,attack_error,WLU,"Schellenberg, Emily","DePew, Faith",,"Mitchener, Grace","DePew, Faith",,0,1,9,6,"[Schellenberg, Emily] Attack error by DePew, Faith (block by Mitchener, Grace).",BC,WLU
+3,16,15,BC,attack,kill,WLU,"Schellenberg, Emily","DePew, Faith","Kelley, Lindsay",,,,0,0,9,7,"[Schellenberg, Emily] Kill by DePew, Faith (from Kelley, Lindsay).",BC,WLU
+3,17,16,WLU,attack,kill,BC,"Black, Anna","Nichoson, Sienna","Goerig, Emery",,,,0,0,10,7,"[Black, Anna] Kill by Nichoson, Sienna (from Goerig, Emery).",BC,WLU
+3,18,17,BC,attack,kill,WLU,"Mitchener, Grace","DePew, Faith","Kelley, Lindsay",,,,0,0,10,8,"[Mitchener, Grace] Kill by DePew, Faith (from Kelley, Lindsay).",BC,WLU
+3,19,18,WLU,attack,kill,BC,"DePew, Faith","Goerig, Emery","Nichoson, Sienna",,,,0,0,11,8,"[DePew, Faith] Kill by Goerig, Emery (from Nichoson, Sienna).",BC,WLU
+3,20,19,BC,attack,kill,WLU,"Johnson, Addi","Griffith, Claire","Veselinovic, Maya",,,,0,0,11,9,"[Johnson, Addi] Kill by Griffith, Claire (from Veselinovic, Maya).",BC,WLU
+3,21,20,WLU,attack,kill,BC,"Currie, Alexis","Hamil, Cara","Schellenberg, Emily",,,,0,0,12,9,"[Currie, Alexis] Kill by Hamil, Cara (from Schellenberg, Emily).",BC,WLU
+3,22,21,BC,attack,kill,WLU,"Nichoson, Sienna","Stoop, Reagan","Veselinovic, Maya",,,,0,0,12,10,"[Nichoson, Sienna] Kill by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+3,23,22,BC,attack,kill,BC,"Atwell, Gabby","Alford, Agnes","Veselinovic, Maya",,,,0,0,12,11,"[Atwell, Gabby] Kill by Alford, Agnes (from Veselinovic, Maya).",BC,WLU
+3,24,23,WLU,attack,kill,BC,"Atwell, Gabby","Debiec, Riley","Nichoson, Sienna",,,,0,0,13,11,"[Atwell, Gabby] Kill by Debiec, Riley (from Nichoson, Sienna).",BC,WLU
+3,25,24,BC,attack,kill,WLU,"Hamil, Cara","Stoop, Reagan","Veselinovic, Maya",,,,0,0,13,12,"[Hamil, Cara] Kill by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+3,26,25,WLU,error,service_error,BC,"Kelley, Lindsay",,,,"Kelley, Lindsay",,0,0,14,12,"[Kelley, Lindsay] Service error.",BC,WLU
+3,27,26,WLU,attack,kill,WLU,"Debiec, Riley","Mitchener, Grace","Nichoson, Sienna",,,,0,0,15,12,"[Debiec, Riley] Kill by Mitchener, Grace (from Nichoson, Sienna).",BC,WLU
+3,28,27,WLU,attack,kill,WLU,"Debiec, Riley","Mitchener, Grace","Nichoson, Sienna",,,,0,0,16,12,"[Debiec, Riley] Kill by Mitchener, Grace (from Nichoson, Sienna).",BC,WLU
+3,29,28,WLU,attack,kill,WLU,"Debiec, Riley","Gaines, Ava","Quiles, Penelope",,,,0,0,17,12,"[Debiec, Riley] Kill by Gaines, Ava (from Quiles, Penelope).",BC,WLU
+3,30,29,BC,error,service_error,WLU,"Debiec, Riley",,,,"Debiec, Riley",,0,0,17,13,"[Debiec, Riley] Service error.",BC,WLU
+3,31,30,WLU,block,attack_error,BC,"Stoop, Reagan","DePew, Faith",,"Mitchener, Grace; Goerig, Emery","DePew, Faith",,0,0,18,13,"[Stoop, Reagan] Attack error by DePew, Faith (block by Mitchener, Grace; Goerig, Emery).",BC,WLU
+3,32,31,WLU,attack,kill,WLU,"Schellenberg, Emily","Mitchener, Grace","Nichoson, Sienna",,,,0,0,19,13,"[Schellenberg, Emily] Kill by Mitchener, Grace (from Nichoson, Sienna).",BC,WLU
+3,33,32,BC,attack,kill,WLU,"Schellenberg, Emily","Griffith, Claire","Kelley, Lindsay",,,,0,0,19,14,"[Schellenberg, Emily] Kill by Griffith, Claire (from Kelley, Lindsay).",BC,WLU
+3,34,33,BC,block,attack_error,BC,"Black, Anna","Mitchener, Grace",,"Griffith, Claire","Mitchener, Grace",,0,0,19,15,"[Black, Anna] Attack error by Mitchener, Grace (block by Griffith, Claire).",BC,WLU
+3,35,34,WLU,attack,kill,BC,"Black, Anna","Goerig, Emery","Nichoson, Sienna",,,,0,0,20,15,"[Black, Anna] Kill by Goerig, Emery (from Nichoson, Sienna).",BC,WLU
+3,36,35,WLU,attack,kill,WLU,"Mitchener, Grace","Mitchener, Grace","Nichoson, Sienna",,,,0,0,21,15,"[Mitchener, Grace] Kill by Mitchener, Grace (from Nichoson, Sienna).",BC,WLU
+3,37,36,BC,attack,kill,WLU,"Mitchener, Grace","DePew, Faith","Kelley, Lindsay",,,,0,0,21,16,"[Mitchener, Grace] Kill by DePew, Faith (from Kelley, Lindsay).",BC,WLU
+3,38,37,WLU,attack,kill,BC,"DePew, Faith","Hamil, Cara","Schellenberg, Emily",,,,0,0,22,16,"[DePew, Faith] Kill by Hamil, Cara (from Schellenberg, Emily).",BC,WLU
+3,39,38,WLU,attack,kill,WLU,"Johnson, Addi","Hamil, Cara","Nichoson, Sienna",,,,0,0,23,16,"[Johnson, Addi] Kill by Hamil, Cara (from Nichoson, Sienna).",BC,WLU
+3,40,39,WLU,attack,kill,WLU,"Johnson, Addi","Hamil, Cara","Nichoson, Sienna",,,,0,0,24,16,"[Johnson, Addi] Kill by Hamil, Cara (from Nichoson, Sienna).",BC,WLU
+3,41,40,WLU,error,attack_error,WLU,"Johnson, Addi","Griffith, Claire","Veselinovic, Maya",,"Griffith, Claire",,0,0,25,16,"[Johnson, Addi] Attack error by Griffith, Claire (from Veselinovic, Maya).",BC,WLU
+4,1,0,WLU,error,attack_error,BC,"Currie, Alexis","Veselinovic, Maya",,,"Veselinovic, Maya",,0,1,1,0,"[Currie, Alexis] Attack error by Veselinovic, Maya.",BC,WLU
+4,2,1,BC,error,attack_error,WLU,"Nichoson, Sienna","Hamil, Cara","Debiec, Riley",,"Hamil, Cara",,0,1,1,1,"[Nichoson, Sienna] Attack error by Hamil, Cara (from Debiec, Riley).",BC,WLU
+4,3,2,WLU,attack,kill,BC,"Atwell, Gabby","Hamil, Cara","Nichoson, Sienna",,,,0,0,2,1,"[Atwell, Gabby] Kill by Hamil, Cara (from Nichoson, Sienna).",BC,WLU
+4,4,3,WLU,block,attack_error,WLU,"Hamil, Cara","Alford, Agnes",,"Debiec, Riley","Alford, Agnes",,0,0,3,1,"[Hamil, Cara] Attack error by Alford, Agnes (block by Debiec, Riley).",BC,WLU
+4,5,4,WLU,error,attack_error,WLU,"Hamil, Cara","Stoop, Reagan","Veselinovic, Maya",,"Stoop, Reagan",,0,0,4,1,"[Hamil, Cara] Attack error by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+4,6,5,WLU,error,attack_error,WLU,"Hamil, Cara","Stoop, Reagan","Veselinovic, Maya",,"Stoop, Reagan",,0,0,5,1,"[Hamil, Cara] Attack error by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+4,7,6,WLU,error,attack_error,WLU,"Hamil, Cara","Alford, Agnes","Veselinovic, Maya",,"Alford, Agnes",,0,0,6,1,"[Hamil, Cara] Attack error by Alford, Agnes (from Veselinovic, Maya).",BC,WLU
+4,8,7,BC,attack,kill,WLU,"Hamil, Cara","Stoop, Reagan","Veselinovic, Maya",,,,0,0,6,2,"[Hamil, Cara] Kill by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+4,9,8,BC,ace,service_ace,BC,"Kelley, Lindsay",,,,,"Vasquez, Vivi",0,1,6,3,"[Kelley, Lindsay] Service ace (Vasquez, Vivi).",BC,WLU
+4,10,9,WLU,attack,kill,BC,"Kelley, Lindsay","Debiec, Riley","Nichoson, Sienna",,,,0,0,7,3,"[Kelley, Lindsay] Kill by Debiec, Riley (from Nichoson, Sienna).",BC,WLU
+4,11,10,WLU,attack,kill,WLU,"Debiec, Riley","Gaines, Ava","Quiles, Penelope",,,,0,0,8,3,"[Debiec, Riley] Kill by Gaines, Ava (from Quiles, Penelope).",BC,WLU
+4,12,11,WLU,ace,service_ace,WLU,"Debiec, Riley",,,,,"Currie, Alexis",0,0,9,3,"[Debiec, Riley] Service ace (Currie, Alexis).",BC,WLU
+4,13,12,WLU,error,attack_error,WLU,"Debiec, Riley","Stoop, Reagan","Kelley, Lindsay",,"Stoop, Reagan",,0,0,10,3,"[Debiec, Riley] Attack error by Stoop, Reagan (from Kelley, Lindsay).",BC,WLU
+4,14,13,BC,attack,kill,WLU,"Debiec, Riley","DePew, Faith","Kelley, Lindsay",,,,0,0,10,4,"[Debiec, Riley] Kill by DePew, Faith (from Kelley, Lindsay).",BC,WLU
+4,15,14,BC,attack,kill,BC,"Stoop, Reagan","Alford, Agnes","Kelley, Lindsay",,,,0,1,10,5,"[Stoop, Reagan] Kill by Alford, Agnes (from Kelley, Lindsay).",BC,WLU
+4,16,15,WLU,attack,kill,BC,"Stoop, Reagan","Goerig, Emery","Nichoson, Sienna",,,,0,0,11,5,"[Stoop, Reagan] Kill by Goerig, Emery (from Nichoson, Sienna).",BC,WLU
+4,17,16,WLU,attack,kill,WLU,"Schellenberg, Emily","Goerig, Emery",,,,,0,0,12,5,"[Schellenberg, Emily] Kill by Goerig, Emery.",BC,WLU
+4,18,17,BC,block,attack_error,WLU,"Schellenberg, Emily","Mitchener, Grace",,"Alford, Agnes; DePew, Faith","Mitchener, Grace",,0,0,12,6,"[Schellenberg, Emily] Attack error by Mitchener, Grace (block by Alford, Agnes; DePew, Faith).",BC,WLU
+4,19,18,WLU,attack,kill,BC,"Black, Anna","Mitchener, Grace","Nichoson, Sienna",,,,0,0,13,6,"[Black, Anna] Kill by Mitchener, Grace (from Nichoson, Sienna).",BC,WLU
+4,20,19,WLU,attack,kill,WLU,"Mitchener, Grace","Goerig, Emery","Nichoson, Sienna",,,,0,0,14,6,"[Mitchener, Grace] Kill by Goerig, Emery (from Nichoson, Sienna).",BC,WLU
+4,21,20,WLU,error,attack_error,WLU,"Mitchener, Grace","DePew, Faith","Kelley, Lindsay",,"DePew, Faith",,0,0,15,6,"[Mitchener, Grace] Attack error by DePew, Faith (from Kelley, Lindsay).",BC,WLU
+4,22,21,WLU,attack,kill,WLU,"Mitchener, Grace","Schellenberg, Emily",,,,,0,0,16,6,"[Mitchener, Grace] Kill by Schellenberg, Emily.",BC,WLU
+4,23,22,BC,attack,kill,WLU,"Mitchener, Grace","DePew, Faith","Kelley, Lindsay",,,,0,0,16,7,"[Mitchener, Grace] Kill by DePew, Faith (from Kelley, Lindsay).",BC,WLU
+4,24,23,WLU,error,attack_error,BC,"DePew, Faith","Stoop, Reagan","Veselinovic, Maya",,"Stoop, Reagan",,0,0,17,7,"[DePew, Faith] Attack error by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+4,25,24,WLU,ace,service_ace,WLU,"Johnson, Addi",,,,,"Black, Anna",0,0,18,7,"[Johnson, Addi] Service ace (Black, Anna).",BC,WLU
+4,26,25,BC,attack,kill,WLU,"Johnson, Addi","Veselinovic, Maya","Atwell, Gabby",,,,0,0,18,8,"[Johnson, Addi] Kill by Veselinovic, Maya (from Atwell, Gabby).",BC,WLU
+4,27,26,BC,error,attack_error,BC,"Currie, Alexis","Hamil, Cara","Nichoson, Sienna",,"Hamil, Cara",,0,0,18,9,"[Currie, Alexis] Attack error by Hamil, Cara (from Nichoson, Sienna).",BC,WLU
+4,28,27,BC,attack,kill,BC,"Currie, Alexis","Veselinovic, Maya","Stoop, Reagan",,,,0,0,18,10,"[Currie, Alexis] Kill by Veselinovic, Maya (from Stoop, Reagan).",BC,WLU
+4,29,28,BC,error,attack_error,BC,"Currie, Alexis","Hamil, Cara","Vasquez, Vivi",,"Hamil, Cara",,0,0,18,11,"[Currie, Alexis] Attack error by Hamil, Cara (from Vasquez, Vivi).",BC,WLU
+4,30,29,BC,error,attack_error,BC,"Currie, Alexis","Debiec, Riley","Nichoson, Sienna",,"Debiec, Riley",,0,0,18,12,"[Currie, Alexis] Attack error by Debiec, Riley (from Nichoson, Sienna).",BC,WLU
+4,31,30,WLU,error,attack_error,BC,"Currie, Alexis","DePew, Faith","Veselinovic, Maya",,"DePew, Faith",,0,0,19,12,"[Currie, Alexis] Attack error by DePew, Faith (from Veselinovic, Maya).",BC,WLU
+4,32,31,WLU,error,attack_error,WLU,"Nichoson, Sienna","Veselinovic, Maya",,,"Veselinovic, Maya",,0,0,20,12,"[Nichoson, Sienna] Attack error by Veselinovic, Maya.",BC,WLU
+4,33,32,BC,attack,kill,WLU,"Nichoson, Sienna","Stoop, Reagan","Veselinovic, Maya",,,,0,0,20,13,"[Nichoson, Sienna] Kill by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+4,34,33,WLU,error,attack_error,BC,"Atwell, Gabby","Stoop, Reagan","Veselinovic, Maya",,"Stoop, Reagan",,0,0,21,13,"[Atwell, Gabby] Attack error by Stoop, Reagan (from Veselinovic, Maya).",BC,WLU
+4,35,34,BC,error,service_error,WLU,"Hamil, Cara",,,,"Hamil, Cara",,0,0,21,14,"[Hamil, Cara] Service error.",BC,WLU
+4,36,35,WLU,error,service_error,BC,"Kelley, Lindsay",,,,"Kelley, Lindsay",,0,0,22,14,"[Kelley, Lindsay] Service error.",BC,WLU
+4,37,36,BC,attack,kill,WLU,"Debiec, Riley","Alford, Agnes","Kelley, Lindsay",,,,0,0,22,15,"[Debiec, Riley] Kill by Alford, Agnes (from Kelley, Lindsay).",BC,WLU
+4,38,37,BC,attack,kill,BC,"Stoop, Reagan","DePew, Faith","Kelley, Lindsay",,,,0,0,22,16,"[Stoop, Reagan] Kill by DePew, Faith (from Kelley, Lindsay).",BC,WLU
+4,39,38,WLU,block,attack_error,BC,"Stoop, Reagan","DePew, Faith",,"Schellenberg, Emily; Mitchener, Grace","DePew, Faith",,0,0,23,16,"[Stoop, Reagan] Attack error by DePew, Faith (block by Schellenberg, Emily; Mitchener, Grace).",BC,WLU
+4,40,39,WLU,attack,kill,WLU,"Schellenberg, Emily","Mitchener, Grace","Nichoson, Sienna",,,,0,0,24,16,"[Schellenberg, Emily] Kill by Mitchener, Grace (from Nichoson, Sienna).",BC,WLU
+4,41,40,BC,attack,kill,WLU,"Schellenberg, Emily","Alford, Agnes","Kelley, Lindsay",,,,0,0,24,17,"[Schellenberg, Emily] Kill by Alford, Agnes (from Kelley, Lindsay).",BC,WLU
+4,42,41,WLU,attack,kill,BC,"Black, Anna","Goerig, Emery","Nichoson, Sienna",,,,0,0,25,17,"[Black, Anna] Kill by Goerig, Emery (from Nichoson, Sienna).",BC,WLU

@@ -1,0 +1,185 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,Wittenberg,attack,kill,,Ward Grace,"Robertson, Kendall",,,,,0,0,0,1,"[Ward Grace] Kill by Robertson, Kendall",Wittenberg,Transylvania
+1,2,1,Wittenberg,attack,kill,,Robertson Kendall,"Linkhart, Tyler",,,,,0,0,0,2,"[Robertson Kendall] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+1,3,2,Transylvania,error,ball_handling_error,,"Robertson, Kendall",,,,"Yoder, Laney",,0,0,1,2,"[Robertson, Kendall] Bad set by Yoder, Laney",Wittenberg,Transylvania
+1,4,3,Wittenberg,attack,kill,,Harrison Maggie,"Hiestand, Katie",,,,,0,0,1,3,"[Harrison Maggie] Kill by Hiestand, Katie",Wittenberg,Transylvania
+1,5,4,Transylvania,attack,kill,,Ricketts Mack,"Jackson, Karrington",,,,,0,0,2,3,"[Ricketts Mack] Kill by Jackson, Karrington",Wittenberg,Transylvania
+1,6,5,Wittenberg,attack,kill,,Miller Sylvie,"Linkhart, Tyler",,,,,0,0,2,4,"[Miller Sylvie] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+1,7,6,Transylvania,error,attack_error,,"Hiestand, Katie","Yoder, Laney","Ricketts, Mack",,"Yoder, Laney",,0,0,3,4,"[Hiestand, Katie] Attack error by Yoder, Laney (from Ricketts, Mack)",Wittenberg,Transylvania
+1,8,7,Transylvania,ace,service_ace,,"Sweeney, Madison",,,,,"Hampton, Ava",0,0,4,4,"[Sweeney, Madison] Service ace (Hampton, Ava)",Wittenberg,Transylvania
+1,9,8,Wittenberg,error,ball_handling_error,,"Sweeney, Madison",,,,"Linkhart, Tyler",,0,0,4,5,"[Sweeney, Madison] Bad set by Linkhart, Tyler",Wittenberg,Transylvania
+1,10,9,Transylvania,attack,kill,,Hampton Ava,"Myers, Isabella",,,,,0,0,5,5,"[Hampton Ava] Kill by Myers, Isabella",Wittenberg,Transylvania
+1,11,10,Transylvania,attack,kill,,Beltsos Ava,"Holcomb, Kayden",,,,,0,0,6,5,"[Beltsos Ava] Kill by Holcomb, Kayden",Wittenberg,Transylvania
+1,12,11,Transylvania,ace,service_ace,,"Beltsos, Ava",,,,,TEAM,0,0,7,5,"[Beltsos, Ava] Service ace (TEAM)",Wittenberg,Transylvania
+1,13,12,Wittenberg,attack,kill,,Beltsos Ava,"Linkhart, Tyler",,,,,0,0,7,6,"[Beltsos Ava] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+1,14,13,Transylvania,attack,kill,,Linkhart Tyler,"Holcomb, Kayden",,,,,0,0,8,6,"[Linkhart Tyler] Kill by Holcomb, Kayden",Wittenberg,Transylvania
+1,15,14,Wittenberg,error,service_error,,"Holcomb, Kayden",,,,"Holcomb, Kayden",,0,0,8,7,"[Holcomb, Kayden] Service error",Wittenberg,Transylvania
+1,16,15,Transylvania,attack,kill,,White Ally,"Ward, Grace",,,,,0,0,9,7,"[White Ally] Kill by Ward, Grace",Wittenberg,Transylvania
+1,17,16,Transylvania,error,attack_error,,"Ward, Grace","Hiestand, Katie","Ricketts, Mack",,"Hiestand, Katie",,0,0,10,7,"[Ward, Grace] Attack error by Hiestand, Katie (from Ricketts, Mack)",Wittenberg,Transylvania
+1,18,17,Wittenberg,error,attack_error,,"Ward, Grace","Beltsos, Ava","Miller, Sylvie",,"Beltsos, Ava",,0,0,10,8,"[Ward, Grace] Attack error by Beltsos, Ava (from Miller, Sylvie)",Wittenberg,Transylvania
+1,19,18,Wittenberg,error,attack_error,,"Kane, Reagan","Jackson, Karrington","Ward, Grace",,"Jackson, Karrington",,0,0,10,9,"[Kane, Reagan] Attack error by Jackson, Karrington (from Ward, Grace)",Wittenberg,Transylvania
+1,20,19,Transylvania,attack,kill,,Kane Reagan,"Jackson, Karrington",,,,,0,0,11,9,"[Kane Reagan] Kill by Jackson, Karrington",Wittenberg,Transylvania
+1,21,20,Wittenberg,error,attack_error,,"Harrison, Maggie","Sweeney, Madison","Miller, Sylvie",,"Sweeney, Madison",,0,0,11,10,"[Harrison, Maggie] Attack error by Sweeney, Madison (from Miller, Sylvie)",Wittenberg,Transylvania
+1,22,21,Transylvania,attack,kill,,Ricketts Mack,"Jackson, Karrington",,,,,0,0,12,10,"[Ricketts Mack] Kill by Jackson, Karrington",Wittenberg,Transylvania
+1,23,22,Wittenberg,attack,kill,,Miller Sylvie,"Hiestand, Katie",,,,,0,0,12,11,"[Miller Sylvie] Kill by Hiestand, Katie",Wittenberg,Transylvania
+1,24,23,Wittenberg,attack,kill,,Hiestand Katie,"Linkhart, Tyler",,,,,0,0,12,12,"[Hiestand Katie] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+1,25,24,Transylvania,attack,kill,,Hiestand Katie,"Holcomb, Kayden",,,,,0,0,13,12,"[Hiestand Katie] Kill by Holcomb, Kayden",Wittenberg,Transylvania
+1,26,25,Wittenberg,attack,kill,,O'Connor Alex,"Linkhart, Tyler",,,,,0,0,13,13,"[O'Connor Alex] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+1,27,26,Transylvania,attack,kill,,Hampton Ava,"Ward, Grace",,,,,0,0,14,13,"[Hampton Ava] Kill by Ward, Grace",Wittenberg,Transylvania
+1,28,27,Wittenberg,attack,kill,,Beltsos Ava,"Robertson, Kendall",,,,,0,0,14,14,"[Beltsos Ava] Kill by Robertson, Kendall",Wittenberg,Transylvania
+1,29,28,Wittenberg,error,ball_handling_error,,"Linkhart, Tyler",,,,"Beltsos, Ava",,0,0,14,15,"[Linkhart, Tyler] Bad set by Beltsos, Ava",Wittenberg,Transylvania
+1,30,29,Transylvania,attack,kill,,Linkhart Tyler,"Holcomb, Kayden",,,,,0,0,15,15,"[Linkhart Tyler] Kill by Holcomb, Kayden",Wittenberg,Transylvania
+1,31,30,Wittenberg,attack,kill,,Holcomb Kayden,"Robertson, Kendall",,,,,1,0,15,16,"[Holcomb Kayden] Kill by Robertson, Kendall",Wittenberg,Transylvania
+1,32,31,Transylvania,block,attack_error,,"White, Ally","Hiestand, Katie",,"Jackson, Karrington","Hiestand, Katie",,0,0,16,16,"[White, Ally] Attack error by Hiestand, Katie (block by Jackson, Karrington)",Wittenberg,Transylvania
+1,33,32,Transylvania,block,attack_error,,"Ward, Grace","Hiestand, Katie",,"Scheper, Cate; Jackson, Karrington","Hiestand, Katie",,0,0,17,16,"[Ward, Grace] Attack error by Hiestand, Katie (block by Scheper, Cate; Jackson, Karrington)",Wittenberg,Transylvania
+1,34,33,Wittenberg,attack,kill,,Ward Grace,"Hiestand, Katie",,,,,0,0,17,17,"[Ward Grace] Kill by Hiestand, Katie",Wittenberg,Transylvania
+1,35,34,Transylvania,attack,kill,,Kane Reagan,"Jackson, Karrington",,,,,0,0,18,17,"[Kane Reagan] Kill by Jackson, Karrington",Wittenberg,Transylvania
+1,36,35,Transylvania,attack,kill,,Scheper Cate,"Jackson, Karrington",,,,,0,0,19,17,"[Scheper Cate] Kill by Jackson, Karrington",Wittenberg,Transylvania
+1,37,36,Transylvania,attack,kill,,Scheper Cate,"Myers, Isabella",,,,,0,0,20,17,"[Scheper Cate] Kill by Myers, Isabella",Wittenberg,Transylvania
+1,38,37,Wittenberg,error,service_error,,"Scheper, Cate",,,,"Scheper, Cate",,1,0,20,18,"[Scheper, Cate] Service error",Wittenberg,Transylvania
+1,39,38,Wittenberg,ace,service_ace,,"Ricketts, Mack",,,,,TEAM,0,0,20,19,"[Ricketts, Mack] Service ace (TEAM)",Wittenberg,Transylvania
+1,40,39,Wittenberg,error,ball_handling_error,,"Ricketts, Mack",,,,"Miller, Sylvie",,0,0,20,20,"[Ricketts, Mack] Bad set by Miller, Sylvie",Wittenberg,Transylvania
+1,41,40,Wittenberg,attack,kill,,Ricketts Mack,"Hiestand, Katie",,,,,1,0,20,21,"[Ricketts Mack] Kill by Hiestand, Katie",Wittenberg,Transylvania
+1,42,41,Wittenberg,ace,service_ace,,"Ricketts, Mack",,,,,"Myers, Isabella",0,0,20,22,"[Ricketts, Mack] Service ace (Myers, Isabella)",Wittenberg,Transylvania
+1,43,42,Wittenberg,ace,service_ace,,"Ricketts, Mack",,,,,TEAM,1,0,20,23,"[Ricketts, Mack] Service ace (TEAM)",Wittenberg,Transylvania
+1,44,43,Wittenberg,ace,service_ace,,"Ricketts, Mack",,,,,"Miller, Sylvie",0,0,20,24,"[Ricketts, Mack] Service ace (Miller, Sylvie)",Wittenberg,Transylvania
+1,45,44,Wittenberg,ace,service_ace,,"Ricketts, Mack",,,,,TEAM,0,0,20,25,"[Ricketts, Mack] Service ace (TEAM)",Wittenberg,Transylvania
+2,1,0,Wittenberg,attack,kill,,Ricketts Mack,"Linkhart, Tyler",,,,,0,0,0,1,"[Ricketts Mack] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+2,2,1,Wittenberg,attack,kill,,Ricketts Mack,"Hiestand, Katie",,,,,0,0,0,2,"[Ricketts Mack] Kill by Hiestand, Katie",Wittenberg,Transylvania
+2,3,2,Transylvania,error,ball_handling_error,,"Ricketts, Mack",,,,"Ricketts, Mack",,0,0,1,2,"[Ricketts, Mack] Bad set by Ricketts, Mack",Wittenberg,Transylvania
+2,4,3,Wittenberg,error,service_error,,"Holcomb, Kayden",,,,"Holcomb, Kayden",,0,0,1,3,"[Holcomb, Kayden] Service error",Wittenberg,Transylvania
+2,5,4,Wittenberg,block,attack_error,,"Hiestand, Katie","Scheper, Cate",,"Linkhart, Tyler","Scheper, Cate",,0,0,1,4,"[Hiestand, Katie] Attack error by Scheper, Cate (block by Linkhart, Tyler)",Wittenberg,Transylvania
+2,6,5,Wittenberg,block,attack_error,,"Hiestand, Katie","Miller, Sylvie",,"Hettich, Sarah; Linkhart, Tyler","Miller, Sylvie",,0,0,1,5,"[Hiestand, Katie] Attack error by Miller, Sylvie (block by Hettich, Sarah; Linkhart, Tyler)",Wittenberg,Transylvania
+2,7,6,Transylvania,attack,kill,,Hiestand Katie,"Scheper, Cate",,,,,0,0,2,5,"[Hiestand Katie] Kill by Scheper, Cate",Wittenberg,Transylvania
+2,8,7,Wittenberg,attack,kill,,Ward Grace,"Linkhart, Tyler",,,,,1,0,2,6,"[Ward Grace] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+2,9,8,Transylvania,attack,kill,,Hampton Ava,"Jackson, Karrington",,,,,0,0,3,6,"[Hampton Ava] Kill by Jackson, Karrington",Wittenberg,Transylvania
+2,10,9,Wittenberg,attack,kill,,Harrison Maggie,"Linkhart, Tyler",,,,,0,0,3,7,"[Harrison Maggie] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+2,11,10,Transylvania,attack,kill,,Linkhart Tyler,"Jackson, Karrington",,,,,0,0,4,7,"[Linkhart Tyler] Kill by Jackson, Karrington",Wittenberg,Transylvania
+2,12,11,Wittenberg,attack,kill,,Miller Sylvie,"Worcester, Kaili",,,,,0,0,4,8,"[Miller Sylvie] Kill by Worcester, Kaili",Wittenberg,Transylvania
+2,13,12,Transylvania,attack,kill,,White Ally,"Myers, Isabella",,,,,0,0,5,8,"[White Ally] Kill by Myers, Isabella",Wittenberg,Transylvania
+2,14,13,Transylvania,attack,kill,,O'Connor Alex,"Holcomb, Kayden",,,,,0,0,6,8,"[O'Connor Alex] Kill by Holcomb, Kayden",Wittenberg,Transylvania
+2,15,14,Wittenberg,block,attack_error,,"O'Connor, Alex","Myers, Isabella",,"Robertson, Kendall; Ricketts, Mack","Myers, Isabella",,0,0,6,9,"[O'Connor, Alex] Attack error by Myers, Isabella (block by Robertson, Kendall; Ricketts, Mack)",Wittenberg,Transylvania
+2,16,15,Wittenberg,attack,kill,,Kane Reagan,"Hiestand, Katie",,,,,0,0,6,10,"[Kane Reagan] Kill by Hiestand, Katie",Wittenberg,Transylvania
+2,17,16,Transylvania,attack,kill,,Kane Reagan,"Myers, Isabella",,,,,0,0,7,10,"[Kane Reagan] Kill by Myers, Isabella",Wittenberg,Transylvania
+2,18,17,Wittenberg,attack,kill,,Beltsos Ava,"Hettich, Sarah",,,,,0,0,7,11,"[Beltsos Ava] Kill by Hettich, Sarah",Wittenberg,Transylvania
+2,19,18,Transylvania,error,service_error,,"Ricketts, Mack",,,,"Ricketts, Mack",,0,0,8,11,"[Ricketts, Mack] Service error",Wittenberg,Transylvania
+2,20,19,Wittenberg,attack,kill,,Holcomb Kayden,"Hettich, Sarah",,,,,0,0,8,12,"[Holcomb Kayden] Kill by Hettich, Sarah",Wittenberg,Transylvania
+2,21,20,Wittenberg,attack,kill,,Hiestand Katie,"Linkhart, Tyler",,,,,0,0,8,13,"[Hiestand Katie] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+2,22,21,Transylvania,attack,kill,,Hiestand Katie,"Scheper, Cate",,,,,1,0,9,13,"[Hiestand Katie] Kill by Scheper, Cate",Wittenberg,Transylvania
+2,23,22,Transylvania,attack,kill,,Ward Grace,"Scheper, Cate",,,,,0,0,10,13,"[Ward Grace] Kill by Scheper, Cate",Wittenberg,Transylvania
+2,24,23,Wittenberg,attack,kill,,Ward Grace,"Worcester, Kaili",,,,,0,0,10,14,"[Ward Grace] Kill by Worcester, Kaili",Wittenberg,Transylvania
+2,25,24,Transylvania,attack,kill,,Hampton Ava,"Jackson, Karrington",,,,,0,0,11,14,"[Hampton Ava] Kill by Jackson, Karrington",Wittenberg,Transylvania
+2,26,25,Wittenberg,error,ball_handling_error,,"Harrison, Maggie",,,,"Jackson, Karrington",,0,0,11,15,"[Harrison, Maggie] Ball Handling Error by Jackson, Karrington",Wittenberg,Transylvania
+2,27,26,Transylvania,attack,kill,,Linkhart Tyler,"Klosterman, Suzanne",,,,,0,0,12,15,"[Linkhart Tyler] Kill by Klosterman, Suzanne",Wittenberg,Transylvania
+2,28,27,Transylvania,attack,kill,,Miller Sylvie,"Holcomb, Kayden",,,,,0,0,13,15,"[Miller Sylvie] Kill by Holcomb, Kayden",Wittenberg,Transylvania
+2,29,28,Transylvania,error,attack_error,,"Miller, Sylvie","Robertson, Kendall","Ricketts, Mack",,"Robertson, Kendall",,0,0,14,15,"[Miller, Sylvie] Attack error by Robertson, Kendall (from Ricketts, Mack)",Wittenberg,Transylvania
+2,30,29,Wittenberg,block,attack_error,,"Miller, Sylvie","Holcomb, Kayden",,"Ricketts, Mack; Robertson, Kendall","Holcomb, Kayden",,0,0,14,16,"[Miller, Sylvie] Attack error by Holcomb, Kayden (block by Ricketts, Mack; Robertson, Kendall)",Wittenberg,Transylvania
+2,31,30,Transylvania,attack,kill,,White Ally,"Ward, Grace",,,,,0,0,15,16,"[White Ally] Kill by Ward, Grace",Wittenberg,Transylvania
+2,32,31,Wittenberg,error,service_error,,"O'Connor, Alex",,,,"O'Connor, Alex",,0,0,15,17,"[O'Connor, Alex] Service error",Wittenberg,Transylvania
+2,33,32,Transylvania,attack,kill,,Kane Reagan,"Myers, Isabella",,,,,0,0,16,17,"[Kane Reagan] Kill by Myers, Isabella",Wittenberg,Transylvania
+2,34,33,Wittenberg,attack,kill,,Beltsos Ava,"Hiestand, Katie",,,,,0,0,16,18,"[Beltsos Ava] Kill by Hiestand, Katie",Wittenberg,Transylvania
+2,35,34,Transylvania,attack,kill,,Ricketts Mack,"Holcomb, Kayden",,,,,0,0,17,18,"[Ricketts Mack] Kill by Holcomb, Kayden",Wittenberg,Transylvania
+2,36,35,Wittenberg,attack,kill,,Holcomb Kayden,"Hiestand, Katie",,,,,0,0,17,19,"[Holcomb Kayden] Kill by Hiestand, Katie",Wittenberg,Transylvania
+2,37,36,Wittenberg,ace,service_ace,,"Hiestand, Katie",,,,,"O'Connor, Alex",0,0,17,20,"[Hiestand, Katie] Service ace (O'Connor, Alex)",Wittenberg,Transylvania
+2,38,37,Transylvania,attack,kill,,Hiestand Katie,"Scheper, Cate",,,,,0,0,18,20,"[Hiestand Katie] Kill by Scheper, Cate",Wittenberg,Transylvania
+2,39,38,Transylvania,error,attack_error,,"Ward, Grace","Linkhart, Tyler","Hiestand, Katie",,"Linkhart, Tyler",,0,0,19,20,"[Ward, Grace] Attack error by Linkhart, Tyler (from Hiestand, Katie)",Wittenberg,Transylvania
+2,40,39,Transylvania,error,attack_error,,"Ward, Grace","Worcester, Kaili","Ricketts, Mack",,"Worcester, Kaili",,0,0,20,20,"[Ward, Grace] Attack error by Worcester, Kaili (from Ricketts, Mack)",Wittenberg,Transylvania
+2,41,40,Wittenberg,attack,kill,,Ward Grace,"Linkhart, Tyler",,,,,1,0,20,21,"[Ward Grace] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+2,42,41,Transylvania,block,attack_error,,"Hampton, Ava","Robertson, Kendall",,"Jackson, Karrington","Robertson, Kendall",,0,0,21,21,"[Hampton, Ava] Attack error by Robertson, Kendall (block by Jackson, Karrington)",Wittenberg,Transylvania
+2,43,42,Transylvania,attack,kill,,Scheper Cate,"Jackson, Karrington",,,,,0,0,22,21,"[Scheper Cate] Kill by Jackson, Karrington",Wittenberg,Transylvania
+2,44,43,Wittenberg,attack,kill,,Scheper Cate,"Linkhart, Tyler",,,,,0,0,22,22,"[Scheper Cate] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+2,45,44,Transylvania,attack,kill,,Linkhart Tyler,"Jackson, Karrington",,,,,0,0,23,22,"[Linkhart Tyler] Kill by Jackson, Karrington",Wittenberg,Transylvania
+2,46,45,Wittenberg,attack,kill,,Miller Sylvie,"Worcester, Kaili",,,,,0,0,23,23,"[Miller Sylvie] Kill by Worcester, Kaili",Wittenberg,Transylvania
+2,47,46,Transylvania,attack,kill,,White Ally,"Holcomb, Kayden",,,,,0,0,24,23,"[White Ally] Kill by Holcomb, Kayden",Wittenberg,Transylvania
+2,48,47,Transylvania,error,attack_error,,"O'Connor, Alex","Hiestand, Katie","Ricketts, Mack",,"Hiestand, Katie",,0,0,25,23,"[O'Connor, Alex] Attack error by Hiestand, Katie (from Ricketts, Mack)",Wittenberg,Transylvania
+3,1,0,Transylvania,error,attack_error,,"Beltsos, Ava","Hettich, Sarah","Ricketts, Mack",,"Hettich, Sarah",,0,0,1,0,"[Beltsos, Ava] Attack error by Hettich, Sarah (from Ricketts, Mack)",Wittenberg,Transylvania
+3,2,1,Wittenberg,error,service_error,,"Beltsos, Ava",,,,"Beltsos, Ava",,0,0,1,1,"[Beltsos, Ava] Service error",Wittenberg,Transylvania
+3,3,2,Wittenberg,attack,kill,,Ricketts Mack,"Linkhart, Tyler",,,,,0,0,1,2,"[Ricketts Mack] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+3,4,3,Wittenberg,attack,kill,,Ricketts Mack,"Hiestand, Katie",,,,,0,0,1,3,"[Ricketts Mack] Kill by Hiestand, Katie",Wittenberg,Transylvania
+3,5,4,Transylvania,attack,kill,,Ricketts Mack,"Scheper, Cate",,,,,0,0,2,3,"[Ricketts Mack] Kill by Scheper, Cate",Wittenberg,Transylvania
+3,6,5,Transylvania,ace,service_ace,,"Holcomb, Kayden",,,,,"Hampton, Ava",0,0,3,3,"[Holcomb, Kayden] Service ace (Hampton, Ava)",Wittenberg,Transylvania
+3,7,6,Wittenberg,attack,kill,,Holcomb Kayden,"Hiestand, Katie",,,,,0,0,3,4,"[Holcomb Kayden] Kill by Hiestand, Katie",Wittenberg,Transylvania
+3,8,7,Transylvania,attack,kill,,Hiestand Katie,"Holcomb, Kayden",,,,,0,0,4,4,"[Hiestand Katie] Kill by Holcomb, Kayden",Wittenberg,Transylvania
+3,9,8,Transylvania,attack,kill,,Ward Grace,"Jackson, Karrington",,,,,0,0,5,4,"[Ward Grace] Kill by Jackson, Karrington",Wittenberg,Transylvania
+3,10,9,Wittenberg,error,service_error,,"Ward, Grace",,,,"Ward, Grace",,0,0,5,5,"[Ward, Grace] Service error",Wittenberg,Transylvania
+3,11,10,Transylvania,attack,kill,,Hampton Ava,"Jackson, Karrington",,,,,0,0,6,5,"[Hampton Ava] Kill by Jackson, Karrington",Wittenberg,Transylvania
+3,12,11,Wittenberg,attack,kill,,Harrison Maggie,"Worcester, Kaili",,,,,0,0,6,6,"[Harrison Maggie] Kill by Worcester, Kaili",Wittenberg,Transylvania
+3,13,12,Wittenberg,error,attack_error,,"Linkhart, Tyler","Klosterman, Suzanne","Ward, Grace",,"Klosterman, Suzanne",,0,0,6,7,"[Linkhart, Tyler] Attack error by Klosterman, Suzanne (from Ward, Grace)",Wittenberg,Transylvania
+3,14,13,Transylvania,attack,kill,,Linkhart Tyler,"Myers, Isabella",,,,,0,0,7,7,"[Linkhart Tyler] Kill by Myers, Isabella",Wittenberg,Transylvania
+3,15,14,Wittenberg,attack,kill,,Miller Sylvie,"Robertson, Kendall",,,,,0,0,7,8,"[Miller Sylvie] Kill by Robertson, Kendall",Wittenberg,Transylvania
+3,16,15,Transylvania,error,service_error,,"White, Ally",,,,"White, Ally",,0,0,8,8,"[White, Ally] Service error",Wittenberg,Transylvania
+3,17,16,Wittenberg,attack,kill,,O'Connor Alex,"Hiestand, Katie",,,,,0,0,8,9,"[O'Connor Alex] Kill by Hiestand, Katie",Wittenberg,Transylvania
+3,18,17,Transylvania,attack,kill,,Kane Reagan,"Sweeney, Madison",,,,,0,0,9,9,"[Kane Reagan] Kill by Sweeney, Madison",Wittenberg,Transylvania
+3,19,18,Transylvania,error,attack_error,,"Beltsos, Ava","Hiestand, Katie","Ricketts, Mack",,"Hiestand, Katie",,0,0,10,9,"[Beltsos, Ava] Attack error by Hiestand, Katie (from Ricketts, Mack)",Wittenberg,Transylvania
+3,20,19,Transylvania,ace,service_ace,,"Beltsos, Ava",,,,,"Hiestand, Katie",0,0,11,9,"[Beltsos, Ava] Service ace (Hiestand, Katie)",Wittenberg,Transylvania
+3,21,20,Transylvania,error,attack_error,,"Beltsos, Ava","Colahan, Camryn","White, Ally",,"Colahan, Camryn",,1,0,12,9,"[Beltsos, Ava] Attack error by Colahan, Camryn (from White, Ally)",Wittenberg,Transylvania
+3,22,21,Transylvania,attack,kill,,Beltsos Ava,"Holcomb, Kayden",,,,,0,0,13,9,"[Beltsos Ava] Kill by Holcomb, Kayden",Wittenberg,Transylvania
+3,23,22,Wittenberg,block,attack_error,,"Beltsos, Ava","Scheper, Cate",,"Ricketts, Mack; Hettich, Sarah","Scheper, Cate",,0,0,13,10,"[Beltsos, Ava] Attack error by Scheper, Cate (block by Ricketts, Mack; Hettich, Sarah)",Wittenberg,Transylvania
+3,24,23,Transylvania,attack,kill,,Ricketts Mack,"Holcomb, Kayden",,,,,0,0,14,10,"[Ricketts Mack] Kill by Holcomb, Kayden",Wittenberg,Transylvania
+3,25,24,Wittenberg,attack,kill,,Holcomb Kayden,"Linkhart, Tyler",,,,,0,0,14,11,"[Holcomb Kayden] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+3,26,25,Transylvania,attack,kill,,Hiestand Katie,"Jackson, Karrington",,,,,0,0,15,11,"[Hiestand Katie] Kill by Jackson, Karrington",Wittenberg,Transylvania
+3,27,26,Transylvania,error,attack_error,,"Gass, Audrey","Linkhart, Tyler","Ricketts, Mack",,"Linkhart, Tyler",,0,0,16,11,"[Gass, Audrey] Attack error by Linkhart, Tyler (from Ricketts, Mack)",Wittenberg,Transylvania
+3,28,27,Transylvania,attack,kill,,Ward Grace,"Scheper, Cate",,,,,0,0,17,11,"[Ward Grace] Kill by Scheper, Cate",Wittenberg,Transylvania
+3,29,28,Transylvania,attack,kill,,Ward Grace,"Jackson, Karrington",,,,,0,0,18,11,"[Ward Grace] Kill by Jackson, Karrington",Wittenberg,Transylvania
+3,30,29,Wittenberg,attack,kill,,Ward Grace,"Hettich, Sarah",,,,,0,0,18,12,"[Ward Grace] Kill by Hettich, Sarah",Wittenberg,Transylvania
+3,31,30,Wittenberg,error,ball_handling_error,,"Hampton, Ava",,,,"Beltsos, Ava",,0,0,18,13,"[Hampton, Ava] Bad set by Beltsos, Ava",Wittenberg,Transylvania
+3,32,31,Transylvania,error,attack_error,,"Hampton, Ava","Linkhart, Tyler","Ricketts, Mack",,"Linkhart, Tyler",,0,0,19,13,"[Hampton, Ava] Attack error by Linkhart, Tyler (from Ricketts, Mack)",Wittenberg,Transylvania
+3,33,32,Wittenberg,attack,kill,,Harrison Maggie,"Robertson, Kendall",,,,,1,0,19,14,"[Harrison Maggie] Kill by Robertson, Kendall",Wittenberg,Transylvania
+3,34,33,Wittenberg,error,attack_error,,"Linkhart, Tyler","Klosterman, Suzanne","Ward, Grace",,"Klosterman, Suzanne",,0,0,19,15,"[Linkhart, Tyler] Attack error by Klosterman, Suzanne (from Ward, Grace)",Wittenberg,Transylvania
+3,35,34,Transylvania,attack,kill,,Linkhart Tyler,"Myers, Isabella",,,,,0,0,20,15,"[Linkhart Tyler] Kill by Myers, Isabella",Wittenberg,Transylvania
+3,36,35,Wittenberg,attack,kill,,Miller Sylvie,"Worcester, Kaili",,,,,0,0,20,16,"[Miller Sylvie] Kill by Worcester, Kaili",Wittenberg,Transylvania
+3,37,36,Wittenberg,attack,kill,,White Ally,"Hiestand, Katie",,,,,0,0,20,17,"[White Ally] Kill by Hiestand, Katie",Wittenberg,Transylvania
+3,38,37,Wittenberg,error,attack_error,,"White, Ally","Holcomb, Kayden","Ward, Grace",,"Holcomb, Kayden",,1,0,20,18,"[White, Ally] Attack error by Holcomb, Kayden (from Ward, Grace)",Wittenberg,Transylvania
+3,39,38,Wittenberg,block,attack_error,,"White, Ally","Klosterman, Suzanne",,"Hiestand, Katie","Klosterman, Suzanne",,0,0,20,19,"[White, Ally] Attack error by Klosterman, Suzanne (block by Hiestand, Katie)",Wittenberg,Transylvania
+3,40,39,Wittenberg,block,attack_error,,"White, Ally","Klosterman, Suzanne",,"Hiestand, Katie","Klosterman, Suzanne",,0,0,20,20,"[White, Ally] Attack error by Klosterman, Suzanne (block by Hiestand, Katie)",Wittenberg,Transylvania
+3,41,40,Wittenberg,attack,kill,,White Ally,"Hiestand, Katie",,,,,1,0,20,21,"[White Ally] Kill by Hiestand, Katie",Wittenberg,Transylvania
+3,42,41,Wittenberg,block,attack_error,,"White, Ally","Holcomb, Kayden",,"Robertson, Kendall; Hiestand, Katie","Holcomb, Kayden",,0,0,20,22,"[White, Ally] Attack error by Holcomb, Kayden (block by Robertson, Kendall; Hiestand, Katie)",Wittenberg,Transylvania
+3,43,42,Wittenberg,block,attack_error,,"White, Ally","Ward, Grace",,"Robertson, Kendall; Hiestand, Katie","Ward, Grace",,0,0,20,23,"[White, Ally] Attack error by Ward, Grace (block by Robertson, Kendall; Hiestand, Katie)",Wittenberg,Transylvania
+3,44,43,Wittenberg,attack,kill,,White Ally,"Robertson, Kendall",,,,,0,0,20,24,"[White Ally] Kill by Robertson, Kendall",Wittenberg,Transylvania
+3,45,44,Wittenberg,attack,kill,,White Ally,"Linkhart, Tyler",,,,,0,0,20,25,"[White Ally] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+4,1,0,Transylvania,attack,kill,,White Ally,"Scheper, Cate",,,,,0,0,1,0,"[White Ally] Kill by Scheper, Cate",Wittenberg,Transylvania
+4,2,1,Transylvania,attack,kill,,Holcomb Kayden,"Scheper, Cate",,,,,0,0,2,0,"[Holcomb Kayden] Kill by Scheper, Cate",Wittenberg,Transylvania
+4,3,2,Transylvania,ace,service_ace,,"Holcomb, Kayden",,,,,TEAM,0,0,3,0,"[Holcomb, Kayden] Service ace (TEAM)",Wittenberg,Transylvania
+4,4,3,Transylvania,attack,kill,,Holcomb Kayden,"Jackson, Karrington",,,,,0,0,4,0,"[Holcomb Kayden] Kill by Jackson, Karrington",Wittenberg,Transylvania
+4,5,4,Wittenberg,attack,kill,,Holcomb Kayden,"Robertson, Kendall",,,,,0,0,4,1,"[Holcomb Kayden] Kill by Robertson, Kendall",Wittenberg,Transylvania
+4,6,5,Wittenberg,attack,kill,,Kane Reagan,"Ricketts, Mack",,,,,0,0,4,2,"[Kane Reagan] Kill by Ricketts, Mack",Wittenberg,Transylvania
+4,7,6,Wittenberg,block,attack_error,,"Kane, Reagan","Beltsos, Ava",,"Linkhart, Tyler","Beltsos, Ava",,0,0,4,3,"[Kane, Reagan] Attack error by Beltsos, Ava (block by Linkhart, Tyler)",Wittenberg,Transylvania
+4,8,7,Transylvania,attack,kill,,Kane Reagan,"Scheper, Cate",,,,,0,0,5,3,"[Kane Reagan] Kill by Scheper, Cate",Wittenberg,Transylvania
+4,9,8,Wittenberg,attack,kill,,Ward Grace,"Hiestand, Katie",,,,,0,0,5,4,"[Ward Grace] Kill by Hiestand, Katie",Wittenberg,Transylvania
+4,10,9,Wittenberg,attack,kill,,Ricketts Mack,"Linkhart, Tyler",,,,,0,0,5,5,"[Ricketts Mack] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+4,11,10,Transylvania,attack,kill,,Ricketts Mack,"Scheper, Cate",,,,,0,0,6,5,"[Ricketts Mack] Kill by Scheper, Cate",Wittenberg,Transylvania
+4,12,11,Transylvania,error,attack_error,,"Harrison, Maggie","Linkhart, Tyler","Hiestand, Katie",,"Linkhart, Tyler",,0,0,7,5,"[Harrison, Maggie] Attack error by Linkhart, Tyler (from Hiestand, Katie)",Wittenberg,Transylvania
+4,13,12,Wittenberg,error,service_error,,"Harrison, Maggie",,,,"Harrison, Maggie",,0,0,7,6,"[Harrison, Maggie] Service error",Wittenberg,Transylvania
+4,14,13,Transylvania,block,attack_error,,"Hiestand, Katie","Hettich, Sarah",,"Jackson, Karrington","Hettich, Sarah",,0,0,8,6,"[Hiestand, Katie] Attack error by Hettich, Sarah (block by Jackson, Karrington)",Wittenberg,Transylvania
+4,15,14,Wittenberg,attack,kill,,Miller Sylvie,"Worcester, Kaili",,,,,0,0,8,7,"[Miller Sylvie] Kill by Worcester, Kaili",Wittenberg,Transylvania
+4,16,15,Wittenberg,ace,service_ace,,"Hampton, Ava",,,,,TEAM,0,0,8,8,"[Hampton, Ava] Service ace (TEAM)",Wittenberg,Transylvania
+4,17,16,Transylvania,attack,kill,,Hampton Ava,"Myers, Isabella",,,,,0,0,9,8,"[Hampton Ava] Kill by Myers, Isabella",Wittenberg,Transylvania
+4,18,17,Wittenberg,attack,kill,,O'Connor Alex,"Trisel, Sarah",,,,,0,0,9,9,"[O'Connor Alex] Kill by Trisel, Sarah",Wittenberg,Transylvania
+4,19,18,Wittenberg,error,ball_handling_error,,"Linkhart, Tyler",,,,"Myers, Isabella",,0,0,9,10,"[Linkhart, Tyler] Ball Handling Error by Myers, Isabella",Wittenberg,Transylvania
+4,20,19,Wittenberg,block,attack_error,,"Linkhart, Tyler","Myers, Isabella",,"Ricketts, Mack; Robertson, Kendall","Myers, Isabella",,0,0,9,11,"[Linkhart, Tyler] Attack error by Myers, Isabella (block by Ricketts, Mack; Robertson, Kendall)",Wittenberg,Transylvania
+4,21,20,Transylvania,attack,kill,,Linkhart Tyler,"Myers, Isabella",,,,,0,0,10,11,"[Linkhart Tyler] Kill by Myers, Isabella",Wittenberg,Transylvania
+4,22,21,Wittenberg,attack,kill,,Beltsos Ava,"Worcester, Kaili",,,,,0,0,10,12,"[Beltsos Ava] Kill by Worcester, Kaili",Wittenberg,Transylvania
+4,23,22,Transylvania,attack,kill,,White Ally,"Scheper, Cate",,,,,0,0,11,12,"[White Ally] Kill by Scheper, Cate",Wittenberg,Transylvania
+4,24,23,Wittenberg,attack,kill,,Holcomb Kayden,"Hiestand, Katie",,,,,0,0,11,13,"[Holcomb Kayden] Kill by Hiestand, Katie",Wittenberg,Transylvania
+4,25,24,Transylvania,attack,kill,,Kane Reagan,"Jackson, Karrington",,,,,0,0,12,13,"[Kane Reagan] Kill by Jackson, Karrington",Wittenberg,Transylvania
+4,26,25,Transylvania,attack,kill,,Ward Grace,"Jackson, Karrington",,,,,0,0,13,13,"[Ward Grace] Kill by Jackson, Karrington",Wittenberg,Transylvania
+4,27,26,Wittenberg,error,service_error,,"Ward, Grace",,,,"Ward, Grace",,0,0,13,14,"[Ward, Grace] Service error",Wittenberg,Transylvania
+4,28,27,Transylvania,attack,kill,,Ricketts Mack,"Scheper, Cate",,,,,0,0,14,14,"[Ricketts Mack] Kill by Scheper, Cate",Wittenberg,Transylvania
+4,29,28,Wittenberg,error,service_error,,"Harrison, Maggie",,,,"Harrison, Maggie",,0,0,14,15,"[Harrison, Maggie] Service error",Wittenberg,Transylvania
+4,30,29,Transylvania,attack,kill,,Hiestand Katie,"Sweeney, Madison",,,,,0,0,15,15,"[Hiestand Katie] Kill by Sweeney, Madison",Wittenberg,Transylvania
+4,31,30,Wittenberg,error,attack_error,,"Miller, Sylvie","Harrison, Maggie","Holcomb, Kayden",,"Harrison, Maggie",,1,0,15,16,"[Miller, Sylvie] Attack error by Harrison, Maggie (from Holcomb, Kayden)",Wittenberg,Transylvania
+4,32,31,Wittenberg,attack,kill,,Hampton Ava,"Linkhart, Tyler",,,,,0,0,15,17,"[Hampton Ava] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+4,33,32,Wittenberg,error,attack_error,,"Hampton, Ava","Holcomb, Kayden","Ward, Grace",,"Holcomb, Kayden",,0,0,15,18,"[Hampton, Ava] Attack error by Holcomb, Kayden (from Ward, Grace)",Wittenberg,Transylvania
+4,34,33,Transylvania,attack,kill,,Hampton Ava,"Myers, Isabella",,,,,1,0,16,18,"[Hampton Ava] Kill by Myers, Isabella",Wittenberg,Transylvania
+4,35,34,Transylvania,error,attack_error,,"O'Connor, Alex","Linkhart, Tyler","Ricketts, Mack",,"Linkhart, Tyler",,0,0,17,18,"[O'Connor, Alex] Attack error by Linkhart, Tyler (from Ricketts, Mack)",Wittenberg,Transylvania
+4,36,35,Transylvania,error,ball_handling_error,,"O'Connor, Alex",,,,"Robertson, Kendall",,0,0,18,18,"[O'Connor, Alex] Ball Handling Error by Robertson, Kendall",Wittenberg,Transylvania
+4,37,36,Wittenberg,attack,kill,,O'Connor Alex,"Linkhart, Tyler",,,,,0,0,18,19,"[O'Connor Alex] Kill by Linkhart, Tyler",Wittenberg,Transylvania
+4,38,37,Wittenberg,block,attack_error,,"Linkhart, Tyler","Sweeney, Madison",,"Worcester, Kaili; Robertson, Kendall","Sweeney, Madison",,0,0,18,20,"[Linkhart, Tyler] Attack error by Sweeney, Madison (block by Worcester, Kaili; Robertson, Kendall)",Wittenberg,Transylvania
+4,39,38,Transylvania,error,service_error,,"Linkhart, Tyler",,,,"Linkhart, Tyler",,0,0,19,20,"[Linkhart, Tyler] Service error",Wittenberg,Transylvania
+4,40,39,Wittenberg,attack,kill,,Beltsos Ava,"Robertson, Kendall",,,,,0,0,19,21,"[Beltsos Ava] Kill by Robertson, Kendall",Wittenberg,Transylvania
+4,41,40,Transylvania,attack,kill,,White Ally,"Scheper, Cate",,,,,0,0,20,21,"[White Ally] Kill by Scheper, Cate",Wittenberg,Transylvania
+4,42,41,Wittenberg,error,service_error,,"Holcomb, Kayden",,,,"Holcomb, Kayden",,0,0,20,22,"[Holcomb, Kayden] Service error",Wittenberg,Transylvania
+4,43,42,Transylvania,attack,kill,,Kane Reagan,"Scheper, Cate",,,,,0,0,21,22,"[Kane Reagan] Kill by Scheper, Cate",Wittenberg,Transylvania
+4,44,43,Wittenberg,attack,kill,,Ward Grace,"Hettich, Sarah",,,,,0,0,21,23,"[Ward Grace] Kill by Hettich, Sarah",Wittenberg,Transylvania
+4,45,44,Wittenberg,ace,service_ace,,"Ricketts, Mack",,,,,"Miller, Sylvie",0,0,21,24,"[Ricketts, Mack] Service ace (Miller, Sylvie)",Wittenberg,Transylvania
+4,46,45,Wittenberg,attack,kill,,Ricketts Mack,"Hiestand, Katie",,,,,0,0,21,25,"[Ricketts Mack] Kill by Hiestand, Katie",Wittenberg,Transylvania

@@ -1,0 +1,203 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,CLU,attack,kill,CLU,"Jones, Jenna","Heller, Lauren","Jones, Jenna",,"Schultz, Maddy",,0,0,1,0,"[Jones, Jenna] Kill by Heller, Lauren (from Jones, Jenna), block error by Schultz, Maddy.",TLU,CLU
+1,2,1,CLU,attack,kill,CLU,"Jones, Jenna","Given, Morgan","Wade, Isabella",,,,0,0,2,0,"[Jones, Jenna] Kill by Given, Morgan (from Wade, Isabella).",TLU,CLU
+1,3,2,CLU,block,attack_error,CLU,"Jones, Jenna","Day, Paige",,"Haddad, Maci","Day, Paige",,0,0,3,0,"[Jones, Jenna] Attack error by Day, Paige (block by Haddad, Maci).",TLU,CLU
+1,4,3,TLU,attack,kill,CLU,"Jones, Jenna","Schultz, Maddy","Morris, Lexi",,,,0,0,3,1,"[Jones, Jenna] Kill by Schultz, Maddy (from Morris, Lexi).",TLU,CLU
+1,5,4,TLU,attack,kill,TLU,"Kallus, Keriann","Schultz, Maddy","Respondek, Shavonne",,,,0,0,3,2,"[Kallus, Keriann] Kill by Schultz, Maddy (from Respondek, Shavonne).",TLU,CLU
+1,6,5,CLU,error,attack_error,TLU,"Kallus, Keriann","Moehrig-Woodard, Tan",,,"Moehrig-Woodard, Tan",,0,0,4,2,"[Kallus, Keriann] Attack error by Moehrig-Woodard, Tan.",TLU,CLU
+1,7,6,CLU,attack,kill,CLU,"Heller, Lauren","Haddad, Maci",,,,,0,0,5,2,"[Heller, Lauren] Kill by Haddad, Maci.",TLU,CLU
+1,8,7,TLU,attack,kill,CLU,"Heller, Lauren","Weisinger, Madison","Respondek, Shavonne",,,,0,0,5,3,"[Heller, Lauren] Kill by Weisinger, Madison (from Respondek, Shavonne).",TLU,CLU
+1,9,8,CLU,attack,kill,TLU,"Galaviz, Adrienne","Haddad, Maci","Jones, Jenna",,,,0,1,6,3,"[Galaviz, Adrienne] Kill by Haddad, Maci (from Jones, Jenna).",TLU,CLU
+1,10,9,CLU,ace,service_ace,CLU,"Wade, Isabella",,,,,"Moehrig-Woodard, Tan",0,0,7,3,"[Wade, Isabella] Service ace (Moehrig-Woodard, Tan).",TLU,CLU
+1,11,10,CLU,error,ball_handling_error,CLU,"Wade, Isabella",,,,"Galaviz, Adrienne",,0,0,8,3,"[Wade, Isabella] Ball handling error by Galaviz, Adrienne.",TLU,CLU
+1,12,11,TLU,attack,kill,CLU,"Wade, Isabella","Moehrig-Woodard, Tan","Galaviz, Adrienne",,,,0,0,8,4,"[Wade, Isabella] Kill by Moehrig-Woodard, Tan (from Galaviz, Adrienne).",TLU,CLU
+1,13,12,CLU,attack,kill,TLU,"Contreras, Celie","Williams, Christina","Jones, Jenna",,,,0,1,9,4,"[Contreras, Celie] Kill by Williams, Christina (from Jones, Jenna).",TLU,CLU
+1,14,13,CLU,error,attack_error,CLU,"Holbert, Tess","Weisinger, Madison",,,"Weisinger, Madison",,0,1,10,4,"[Holbert, Tess] Attack error by Weisinger, Madison.",TLU,CLU
+1,15,14,TLU,attack,kill,CLU,"Holbert, Tess","Weisinger, Madison","Galaviz, Adrienne",,,,0,0,10,5,"[Holbert, Tess] Kill by Weisinger, Madison (from Galaviz, Adrienne).",TLU,CLU
+1,16,15,TLU,error,attack_error,TLU,"Morris, Lexi","Heller, Lauren",,,"Heller, Lauren",,0,0,10,6,"[Morris, Lexi] Attack error by Heller, Lauren.",TLU,CLU
+1,17,16,CLU,attack,kill,TLU,"Morris, Lexi","Crane, Kennedy","Holbert, Tess",,,,0,0,11,6,"[Morris, Lexi] Kill by Crane, Kennedy (from Holbert, Tess).",TLU,CLU
+1,18,17,TLU,error,attack_error,CLU,"Crane, Kennedy","Heller, Lauren",,,"Heller, Lauren",,0,0,11,7,"[Crane, Kennedy] Attack error by Heller, Lauren.",TLU,CLU
+1,19,18,CLU,attack,kill,TLU,"Respondek, Shavonne","Holbert, Tess",,,,,0,0,12,7,"[Respondek, Shavonne] Kill by Holbert, Tess.",TLU,CLU
+1,20,19,CLU,attack,kill,CLU,"Williams, Christina","Haddad, Maci","Holbert, Tess",,,,0,0,13,7,"[Williams, Christina] Kill by Haddad, Maci (from Holbert, Tess).",TLU,CLU
+1,21,20,TLU,error,service_error,CLU,"Williams, Christina",,,,"Williams, Christina",,0,0,13,8,"[Williams, Christina] Service error.",TLU,CLU
+1,22,21,TLU,ace,service_ace,TLU,"Day, Paige",,,,,"Heller, Lauren",0,0,13,9,"[Day, Paige] Service ace (Heller, Lauren).",TLU,CLU
+1,23,22,TLU,attack,kill,TLU,"Day, Paige","Kallus, Keriann","Respondek, Shavonne",,,,0,0,13,10,"[Day, Paige] Kill by Kallus, Keriann (from Respondek, Shavonne).",TLU,CLU
+1,24,23,TLU,error,attack_error,TLU,"Day, Paige","Heller, Lauren",,,"Heller, Lauren",,0,0,13,11,"[Day, Paige] Attack error by Heller, Lauren.",TLU,CLU
+1,25,24,TLU,block,attack_error,TLU,"Day, Paige","Haddad, Maci",,"Schultz, Maddy; Kallus, Keriann","Haddad, Maci",,0,1,13,12,"[Day, Paige] Attack error by Haddad, Maci (block by Schultz, Maddy; Kallus, Keriann).",TLU,CLU
+1,26,25,CLU,attack,kill,TLU,"Day, Paige","Haddad, Maci","Holbert, Tess",,,,0,0,14,12,"[Day, Paige] Kill by Haddad, Maci (from Holbert, Tess).",TLU,CLU
+1,27,26,CLU,block,attack_error,CLU,"Jones, Jenna","Kallus, Keriann",,"Haddad, Maci; Given, Morgan","Kallus, Keriann",,0,0,15,12,"[Jones, Jenna] Attack error by Kallus, Keriann (block by Haddad, Maci; Given, Morgan).",TLU,CLU
+1,28,27,CLU,attack,kill,CLU,"Jones, Jenna","Haddad, Maci","Jones, Jenna",,,,0,0,16,12,"[Jones, Jenna] Kill by Haddad, Maci (from Jones, Jenna).",TLU,CLU
+1,29,28,CLU,block,attack_error,CLU,"Jones, Jenna","Moehrig-Woodard, Tan",,"Haddad, Maci; Given, Morgan","Moehrig-Woodard, Tan",,1,0,17,12,"[Jones, Jenna] Attack error by Moehrig-Woodard, Tan (block by Haddad, Maci; Given, Morgan).",TLU,CLU
+1,30,29,TLU,attack,kill,CLU,"Jones, Jenna","Moehrig-Woodard, Tan","Morris, Lexi",,,,0,0,17,13,"[Jones, Jenna] Kill by Moehrig-Woodard, Tan (from Morris, Lexi).",TLU,CLU
+1,31,30,CLU,attack,kill,TLU,"Kallus, Keriann","Given, Morgan","Jones, Jenna",,,,0,0,18,13,"[Kallus, Keriann] Kill by Given, Morgan (from Jones, Jenna).",TLU,CLU
+1,32,31,CLU,attack,kill,CLU,"Peete, Sadie","Given, Morgan","Jones, Jenna",,"Schultz, Maddy",,0,0,19,13,"[Peete, Sadie] Kill by Given, Morgan (from Jones, Jenna), block error by Schultz, Maddy.",TLU,CLU
+1,33,32,TLU,attack,kill,CLU,"Peete, Sadie","Schultz, Maddy","Respondek, Shavonne",,,,0,0,19,14,"[Peete, Sadie] Kill by Schultz, Maddy (from Respondek, Shavonne).",TLU,CLU
+1,34,33,TLU,attack,kill,TLU,"Galaviz, Adrienne","Moehrig-Woodard, Tan","Galaviz, Adrienne",,,,0,0,19,15,"[Galaviz, Adrienne] Kill by Moehrig-Woodard, Tan (from Galaviz, Adrienne).",TLU,CLU
+1,35,34,TLU,attack,kill,TLU,"Galaviz, Adrienne","Weisinger, Madison","Galaviz, Adrienne",,,,0,0,19,16,"[Galaviz, Adrienne] Kill by Weisinger, Madison (from Galaviz, Adrienne).",TLU,CLU
+1,36,35,TLU,error,attack_error,TLU,"Galaviz, Adrienne","Crane, Kennedy",,,"Crane, Kennedy",,0,0,19,17,"[Galaviz, Adrienne] Attack error by Crane, Kennedy.",TLU,CLU
+1,37,36,CLU,attack,kill,TLU,"Galaviz, Adrienne","Haddad, Maci","Jones, Jenna",,,,0,0,20,17,"[Galaviz, Adrienne] Kill by Haddad, Maci (from Jones, Jenna).",TLU,CLU
+1,38,37,TLU,attack,kill,CLU,"Wade, Isabella","Jones, Brenna","Galaviz, Adrienne",,,,0,0,20,18,"[Wade, Isabella] Kill by Jones, Brenna (from Galaviz, Adrienne).",TLU,CLU
+1,39,38,CLU,block,attack_error,TLU,"Contreras, Celie","Jones, Brenna",,"Williams, Christina; Crane, Kennedy","Jones, Brenna",,0,0,21,18,"[Contreras, Celie] Attack error by Jones, Brenna (block by Williams, Christina; Crane, Kennedy).",TLU,CLU
+1,40,39,TLU,attack,kill,CLU,"Holbert, Tess","Weisinger, Madison","Galaviz, Adrienne",,"Chan, Miranda",,0,0,21,19,"[Holbert, Tess] Kill by Weisinger, Madison (from Galaviz, Adrienne), block error by Chan, Miranda.",TLU,CLU
+1,41,40,TLU,block,attack_error,TLU,"Morris, Lexi","Chan, Miranda",,"Jones, Brenna; Kallus, Keriann","Chan, Miranda",,0,0,21,20,"[Morris, Lexi] Attack error by Chan, Miranda (block by Jones, Brenna; Kallus, Keriann).",TLU,CLU
+1,42,41,CLU,block,attack_error,TLU,"Morris, Lexi","Day, Paige",,"Williams, Christina; Crane, Kennedy","Day, Paige",,0,0,22,20,"[Morris, Lexi] Attack error by Day, Paige (block by Williams, Christina; Crane, Kennedy).",TLU,CLU
+1,43,42,CLU,error,attack_error,CLU,"Crane, Kennedy","Day, Paige",,,"Day, Paige",,0,0,23,20,"[Crane, Kennedy] Attack error by Day, Paige.",TLU,CLU
+1,44,43,TLU,attack,kill,CLU,"Crane, Kennedy","Kallus, Keriann","Galaviz, Adrienne",,,,1,0,23,21,"[Crane, Kennedy] Kill by Kallus, Keriann (from Galaviz, Adrienne).",TLU,CLU
+1,45,44,TLU,ace,service_ace,TLU,"Respondek, Shavonne",,,,,"Peete, Sadie",0,0,23,22,"[Respondek, Shavonne] Service ace (Peete, Sadie).",TLU,CLU
+2,1,0,TLU,error,attack_error,TLU,"Day, Paige","Peete, Sadie",,,"Peete, Sadie",,0,0,0,1,"[Day, Paige] Attack error by Peete, Sadie.",TLU,CLU
+2,2,1,TLU,error,attack_error,TLU,"Day, Paige","Crane, Kennedy",,,"Crane, Kennedy",,0,0,0,2,"[Day, Paige] Attack error by Crane, Kennedy.",TLU,CLU
+2,3,2,TLU,attack,kill,TLU,"Day, Paige","Schultz, Maddy","Respondek, Shavonne",,,,0,0,0,3,"[Day, Paige] Kill by Schultz, Maddy (from Respondek, Shavonne).",TLU,CLU
+2,4,3,CLU,attack,kill,TLU,"Day, Paige","Haddad, Maci","Jones, Jenna",,,,0,0,1,3,"[Day, Paige] Kill by Haddad, Maci (from Jones, Jenna).",TLU,CLU
+2,5,4,TLU,attack,kill,CLU,"Trento, Julia","Schultz, Maddy","Morris, Lexi",,,,0,1,1,4,"[Trento, Julia] Kill by Schultz, Maddy (from Morris, Lexi).",TLU,CLU
+2,6,5,TLU,error,attack_error,TLU,"Kallus, Keriann","Haddad, Maci",,,"Haddad, Maci",,0,0,1,5,"[Kallus, Keriann] Attack error by Haddad, Maci.",TLU,CLU
+2,7,6,TLU,block,attack_error,TLU,"Kallus, Keriann","Crane, Kennedy",,"Schultz, Maddy; Weisinger, Madison","Crane, Kennedy",,0,0,1,6,"[Kallus, Keriann] Attack error by Crane, Kennedy (block by Schultz, Maddy; Weisinger, Madison).",TLU,CLU
+2,8,7,CLU,attack,kill,TLU,"Kallus, Keriann","Given, Morgan","Jones, Jenna",,,,1,0,2,6,"[Kallus, Keriann] Kill by Given, Morgan (from Jones, Jenna).",TLU,CLU
+2,9,8,TLU,attack,kill,CLU,"Haddad, Maci","Moehrig-Woodard, Tan","Respondek, Shavonne",,,,0,0,2,7,"[Haddad, Maci] Kill by Moehrig-Woodard, Tan (from Respondek, Shavonne).",TLU,CLU
+2,10,9,TLU,ace,service_ace,TLU,"Galaviz, Adrienne",,,,,"Trento, Julia",0,1,2,8,"[Galaviz, Adrienne] Service ace (Trento, Julia).",TLU,CLU
+2,11,10,CLU,attack,kill,TLU,"Galaviz, Adrienne","Given, Morgan","Jones, Jenna",,,,0,0,3,8,"[Galaviz, Adrienne] Kill by Given, Morgan (from Jones, Jenna).",TLU,CLU
+2,12,11,TLU,attack,kill,CLU,"Holbert, Tess","Moehrig-Woodard, Tan","Galaviz, Adrienne",,,,0,1,3,9,"[Holbert, Tess] Kill by Moehrig-Woodard, Tan (from Galaviz, Adrienne).",TLU,CLU
+2,13,12,TLU,error,attack_error,TLU,"Contreras, Celie","Crane, Kennedy",,,"Crane, Kennedy",,0,1,3,10,"[Contreras, Celie] Attack error by Crane, Kennedy.",TLU,CLU
+2,14,13,TLU,attack,kill,TLU,"Contreras, Celie","Weisinger, Madison","Galaviz, Adrienne",,"Mortenson, Kira",,0,0,3,11,"[Contreras, Celie] Kill by Weisinger, Madison (from Galaviz, Adrienne), block error by Mortenson, Kira.",TLU,CLU
+2,15,14,TLU,attack,kill,TLU,"Contreras, Celie","Day, Paige","Galaviz, Adrienne",,,,0,0,3,12,"[Contreras, Celie] Kill by Day, Paige (from Galaviz, Adrienne).",TLU,CLU
+2,16,15,CLU,attack,kill,TLU,"Contreras, Celie","Crane, Kennedy","Wade, Isabella",,,,1,0,4,12,"[Contreras, Celie] Kill by Crane, Kennedy (from Wade, Isabella).",TLU,CLU
+2,17,16,CLU,ace,service_ace,CLU,"Crane, Kennedy",,,,,TEAM,0,1,5,12,"[Crane, Kennedy] Service ace (TEAM).",TLU,CLU
+2,18,17,TLU,error,ball_handling_error,CLU,"Crane, Kennedy",,,,"Crane, Kennedy",,0,0,5,13,"[Crane, Kennedy] Ball handling error by Crane, Kennedy.",TLU,CLU
+2,19,18,CLU,attack,kill,TLU,"Morris, Lexi","Chan, Miranda","Holbert, Tess",,,,0,0,6,13,"[Morris, Lexi] Kill by Chan, Miranda (from Holbert, Tess).",TLU,CLU
+2,20,19,CLU,error,attack_error,CLU,"Wade, Isabella","Jones, Brenna",,,"Jones, Brenna",,0,0,7,13,"[Wade, Isabella] Attack error by Jones, Brenna.",TLU,CLU
+2,21,20,TLU,attack,kill,CLU,"Wade, Isabella","Day, Paige","Galaviz, Adrienne",,,,0,0,7,14,"[Wade, Isabella] Kill by Day, Paige (from Galaviz, Adrienne).",TLU,CLU
+2,22,21,CLU,error,service_error,TLU,"Respondek, Shavonne",,,,"Respondek, Shavonne",,0,0,8,14,"[Respondek, Shavonne] Service error.",TLU,CLU
+2,23,22,TLU,attack,kill,CLU,"Jones, Jenna","Schultz, Maddy","Respondek, Shavonne",,,,0,0,8,15,"[Jones, Jenna] Kill by Schultz, Maddy (from Respondek, Shavonne).",TLU,CLU
+2,24,23,CLU,error,service_error,TLU,"Day, Paige",,,,"Day, Paige",,0,0,9,15,"[Day, Paige] Service error.",TLU,CLU
+2,25,24,CLU,error,attack_error,CLU,"Trento, Julia","Schultz, Maddy",,,"Schultz, Maddy",,0,0,10,15,"[Trento, Julia] Attack error by Schultz, Maddy.",TLU,CLU
+2,26,25,CLU,attack,kill,CLU,"Trento, Julia","Crane, Kennedy","Jones, Jenna",,,,0,0,11,15,"[Trento, Julia] Kill by Crane, Kennedy (from Jones, Jenna).",TLU,CLU
+2,27,26,CLU,attack,kill,CLU,"Trento, Julia","Crane, Kennedy","Jones, Jenna",,"Schultz, Maddy",,1,0,12,15,"[Trento, Julia] Kill by Crane, Kennedy (from Jones, Jenna), block error by Schultz, Maddy.",TLU,CLU
+2,28,27,CLU,ace,service_ace,CLU,"Trento, Julia",,,,,"Moehrig-Woodard, Tan",0,0,13,15,"[Trento, Julia] Service ace (Moehrig-Woodard, Tan).",TLU,CLU
+2,29,28,CLU,ace,service_ace,CLU,"Trento, Julia",,,,,"Moehrig-Woodard, Tan",0,0,14,15,"[Trento, Julia] Service ace (Moehrig-Woodard, Tan).",TLU,CLU
+2,30,29,CLU,block,attack_error,CLU,"Trento, Julia","Schultz, Maddy",,"Haddad, Maci; Crane, Kennedy","Schultz, Maddy",,0,0,15,15,"[Trento, Julia] Attack error by Schultz, Maddy (block by Haddad, Maci; Crane, Kennedy).",TLU,CLU
+2,31,30,CLU,attack,kill,CLU,"Trento, Julia","Haddad, Maci","Jones, Jenna",,,,0,0,16,15,"[Trento, Julia] Kill by Haddad, Maci (from Jones, Jenna).",TLU,CLU
+2,32,31,CLU,error,attack_error,CLU,"Trento, Julia","Kallus, Keriann",,,"Kallus, Keriann",,0,0,17,15,"[Trento, Julia] Attack error by Kallus, Keriann.",TLU,CLU
+2,33,32,TLU,error,service_error,CLU,"Trento, Julia",,,,"Trento, Julia",,0,0,17,16,"[Trento, Julia] Service error.",TLU,CLU
+2,34,33,TLU,attack,kill,TLU,"Kallus, Keriann","Schultz, Maddy","Kallus, Keriann",,,,0,0,17,17,"[Kallus, Keriann] Kill by Schultz, Maddy (from Kallus, Keriann).",TLU,CLU
+2,35,34,CLU,attack,kill,TLU,"Kallus, Keriann","Given, Morgan","Jones, Jenna",,,,0,0,18,17,"[Kallus, Keriann] Kill by Given, Morgan (from Jones, Jenna).",TLU,CLU
+2,36,35,CLU,error,ball_handling_error,CLU,"Haddad, Maci",,,,"Respondek, Shavonne",,0,0,19,17,"[Haddad, Maci] Ball handling error by Respondek, Shavonne.",TLU,CLU
+2,37,36,CLU,attack,kill,CLU,"Haddad, Maci","Crane, Kennedy","Jones, Jenna",,,,0,0,20,17,"[Haddad, Maci] Kill by Crane, Kennedy (from Jones, Jenna).",TLU,CLU
+2,38,37,TLU,error,attack_error,CLU,"Haddad, Maci","Crane, Kennedy",,,"Crane, Kennedy",,1,0,20,18,"[Haddad, Maci] Attack error by Crane, Kennedy.",TLU,CLU
+2,39,38,CLU,attack,kill,TLU,"Galaviz, Adrienne","Given, Morgan","Jones, Jenna",,,,0,0,21,18,"[Galaviz, Adrienne] Kill by Given, Morgan (from Jones, Jenna).",TLU,CLU
+2,40,39,TLU,attack,kill,CLU,"Holbert, Tess","Jones, Brenna","Morris, Lexi",,,,0,0,21,19,"[Holbert, Tess] Kill by Jones, Brenna (from Morris, Lexi).",TLU,CLU
+2,41,40,CLU,error,service_error,TLU,"Contreras, Celie",,,,"Contreras, Celie",,0,0,22,19,"[Contreras, Celie] Service error.",TLU,CLU
+2,42,41,TLU,attack,kill,CLU,"Crane, Kennedy","Weisinger, Madison","Galaviz, Adrienne",,,,0,0,22,20,"[Crane, Kennedy] Kill by Weisinger, Madison (from Galaviz, Adrienne).",TLU,CLU
+2,43,42,CLU,error,attack_error,TLU,"Morris, Lexi","Jones, Brenna",,,"Jones, Brenna",,0,0,23,20,"[Morris, Lexi] Attack error by Jones, Brenna.",TLU,CLU
+2,44,43,CLU,attack,kill,CLU,"Wade, Isabella","Chan, Miranda","Holbert, Tess",,"Kallus, Keriann",,0,0,24,20,"[Wade, Isabella] Kill by Chan, Miranda (from Holbert, Tess), block error by Kallus, Keriann.",TLU,CLU
+2,45,44,CLU,error,attack_error,CLU,"Wade, Isabella","Jones, Brenna",,,"Jones, Brenna",,0,0,25,20,"[Wade, Isabella] Attack error by Jones, Brenna.",TLU,CLU
+3,1,0,CLU,attack,kill,CLU,"Trento, Julia","Crane, Kennedy","Wade, Isabella",,,,0,1,1,0,"[Trento, Julia] Kill by Crane, Kennedy (from Wade, Isabella).",TLU,CLU
+3,2,1,CLU,attack,kill,CLU,"Trento, Julia","Crane, Kennedy","Jones, Jenna",,,,0,0,2,0,"[Trento, Julia] Kill by Crane, Kennedy (from Jones, Jenna).",TLU,CLU
+3,3,2,CLU,attack,kill,CLU,"Trento, Julia","Given, Morgan","Wade, Isabella",,"Respondek, Shavonne",,0,0,3,0,"[Trento, Julia] Kill by Given, Morgan (from Wade, Isabella), block error by Respondek, Shavonne.",TLU,CLU
+3,4,3,CLU,error,attack_error,CLU,"Trento, Julia","Respondek, Shavonne",,,"Respondek, Shavonne",,0,0,4,0,"[Trento, Julia] Attack error by Respondek, Shavonne.",TLU,CLU
+3,5,4,CLU,error,attack_error,CLU,"Trento, Julia","Schultz, Maddy",,,"Schultz, Maddy",,0,0,5,0,"[Trento, Julia] Attack error by Schultz, Maddy.",TLU,CLU
+3,6,5,TLU,attack,kill,CLU,"Trento, Julia","Schultz, Maddy","Chew, Julia",,,,0,0,5,1,"[Trento, Julia] Kill by Schultz, Maddy (from Chew, Julia).",TLU,CLU
+3,7,6,CLU,attack,kill,TLU,"Kallus, Keriann","Given, Morgan","Jones, Jenna",,,,0,0,6,1,"[Kallus, Keriann] Kill by Given, Morgan (from Jones, Jenna).",TLU,CLU
+3,8,7,TLU,attack,kill,CLU,"Haddad, Maci","Respondek, Shavonne","Chew, Julia",,,,0,0,6,2,"[Haddad, Maci] Kill by Respondek, Shavonne (from Chew, Julia).",TLU,CLU
+3,9,8,CLU,attack,kill,TLU,"Galaviz, Adrienne","Given, Morgan","Jones, Jenna",,,,0,1,7,2,"[Galaviz, Adrienne] Kill by Given, Morgan (from Jones, Jenna).",TLU,CLU
+3,10,9,TLU,attack,kill,CLU,"Holbert, Tess","Respondek, Shavonne","Galaviz, Adrienne",,,,0,1,7,3,"[Holbert, Tess] Kill by Respondek, Shavonne (from Galaviz, Adrienne).",TLU,CLU
+3,11,10,TLU,error,attack_error,TLU,"Respondek, Shavonne","Crane, Kennedy",,,"Crane, Kennedy",,0,0,7,4,"[Respondek, Shavonne] Attack error by Crane, Kennedy.",TLU,CLU
+3,12,11,CLU,attack,kill,TLU,"Respondek, Shavonne","Mortenson, Kira","Holbert, Tess",,,,0,0,8,4,"[Respondek, Shavonne] Kill by Mortenson, Kira (from Holbert, Tess).",TLU,CLU
+3,13,12,CLU,attack,kill,CLU,"Crane, Kennedy","Williams, Christina","Holbert, Tess",,"Moehrig-Woodard, Tan",,0,1,9,4,"[Crane, Kennedy] Kill by Williams, Christina (from Holbert, Tess), block error by Moehrig-Woodard, Tan.",TLU,CLU
+3,14,13,CLU,block,attack_error,CLU,"Crane, Kennedy","Moehrig-Woodard, Tan",,"Williams, Christina; Chan, Miranda","Moehrig-Woodard, Tan",,0,0,10,4,"[Crane, Kennedy] Attack error by Moehrig-Woodard, Tan (block by Williams, Christina; Chan, Miranda).",TLU,CLU
+3,15,14,TLU,error,attack_error,CLU,"Crane, Kennedy","Mortenson, Kira",,,"Mortenson, Kira",,1,0,10,5,"[Crane, Kennedy] Attack error by Mortenson, Kira.",TLU,CLU
+3,16,15,CLU,attack,kill,TLU,"Morris, Lexi","Mortenson, Kira","Holbert, Tess",,"Day, Paige",,0,0,11,5,"[Morris, Lexi] Kill by Mortenson, Kira (from Holbert, Tess), block error by Day, Paige.",TLU,CLU
+3,17,16,CLU,ace,service_ace,CLU,"Wade, Isabella",,,,,"Day, Paige",0,0,12,5,"[Wade, Isabella] Service ace (Day, Paige).",TLU,CLU
+3,18,17,CLU,attack,kill,CLU,"Wade, Isabella","Haddad, Maci","Holbert, Tess",,,,0,0,13,5,"[Wade, Isabella] Kill by Haddad, Maci (from Holbert, Tess).",TLU,CLU
+3,19,18,CLU,error,attack_error,CLU,"Wade, Isabella","Day, Paige",,,"Day, Paige",,0,0,14,5,"[Wade, Isabella] Attack error by Day, Paige.",TLU,CLU
+3,20,19,CLU,attack,kill,CLU,"Wade, Isabella","Haddad, Maci","Holbert, Tess",,,,0,0,15,5,"[Wade, Isabella] Kill by Haddad, Maci (from Holbert, Tess).",TLU,CLU
+3,21,20,CLU,ace,service_ace,CLU,"Wade, Isabella",,,,,"Goodwine, Rachel",0,1,16,5,"[Wade, Isabella] Service ace (Goodwine, Rachel).",TLU,CLU
+3,22,21,TLU,block,attack_error,CLU,"Wade, Isabella","Haddad, Maci",,"Moehrig-Woodard, Tan","Haddad, Maci",,1,0,16,6,"[Wade, Isabella] Attack error by Haddad, Maci (block by Moehrig-Woodard, Tan).",TLU,CLU
+3,23,22,CLU,attack,kill,TLU,"Chew, Julia","Chan, Miranda","Holbert, Tess",,,,0,0,17,6,"[Chew, Julia] Kill by Chan, Miranda (from Holbert, Tess).",TLU,CLU
+3,24,23,TLU,error,service_error,CLU,"Jones, Jenna",,,,"Jones, Jenna",,0,0,17,7,"[Jones, Jenna] Service error.",TLU,CLU
+3,25,24,TLU,error,attack_error,TLU,"Day, Paige","Chan, Miranda",,,"Chan, Miranda",,0,0,17,8,"[Day, Paige] Attack error by Chan, Miranda.",TLU,CLU
+3,26,25,TLU,attack,kill,TLU,"Day, Paige","Schultz, Maddy","Chew, Julia",,,,0,0,17,9,"[Day, Paige] Kill by Schultz, Maddy (from Chew, Julia).",TLU,CLU
+3,27,26,TLU,error,attack_error,TLU,"Day, Paige","Given, Morgan",,,"Given, Morgan",,0,0,17,10,"[Day, Paige] Attack error by Given, Morgan.",TLU,CLU
+3,28,27,TLU,ace,service_ace,TLU,"Day, Paige",,,,,"Crane, Kennedy",0,0,17,11,"[Day, Paige] Service ace (Crane, Kennedy).",TLU,CLU
+3,29,28,TLU,attack,kill,TLU,"Day, Paige","Respondek, Shavonne","Chew, Julia",,,,0,0,17,12,"[Day, Paige] Kill by Respondek, Shavonne (from Chew, Julia).",TLU,CLU
+3,30,29,CLU,attack,kill,TLU,"Day, Paige","Given, Morgan","Jones, Jenna",,,,1,0,18,12,"[Day, Paige] Kill by Given, Morgan (from Jones, Jenna).",TLU,CLU
+3,31,30,TLU,attack,kill,CLU,"Trento, Julia","Respondek, Shavonne","Chew, Julia",,,,0,0,18,13,"[Trento, Julia] Kill by Respondek, Shavonne (from Chew, Julia).",TLU,CLU
+3,32,31,CLU,attack,kill,TLU,"Kallus, Keriann","Given, Morgan","Jones, Jenna",,,,0,0,19,13,"[Kallus, Keriann] Kill by Given, Morgan (from Jones, Jenna).",TLU,CLU
+3,33,32,CLU,attack,kill,CLU,"Haddad, Maci","Crane, Kennedy","Jones, Jenna",,,,0,0,20,13,"[Haddad, Maci] Kill by Crane, Kennedy (from Jones, Jenna).",TLU,CLU
+3,34,33,CLU,error,attack_error,CLU,"Haddad, Maci","Schultz, Maddy",,,"Schultz, Maddy",,0,0,21,13,"[Haddad, Maci] Attack error by Schultz, Maddy.",TLU,CLU
+3,35,34,TLU,attack,kill,CLU,"Haddad, Maci","Respondek, Shavonne","Chew, Julia",,,,0,0,21,14,"[Haddad, Maci] Kill by Respondek, Shavonne (from Chew, Julia).",TLU,CLU
+3,36,35,CLU,error,attack_error,TLU,"Galaviz, Adrienne","Respondek, Shavonne",,,"Respondek, Shavonne",,0,0,22,14,"[Galaviz, Adrienne] Attack error by Respondek, Shavonne.",TLU,CLU
+3,37,36,TLU,error,attack_error,CLU,"Holbert, Tess","Williams, Christina",,,"Williams, Christina",,0,0,22,15,"[Holbert, Tess] Attack error by Williams, Christina.",TLU,CLU
+3,38,37,TLU,error,attack_error,TLU,"Respondek, Shavonne","Williams, Christina",,,"Williams, Christina",,0,0,22,16,"[Respondek, Shavonne] Attack error by Williams, Christina.",TLU,CLU
+3,39,38,CLU,attack,kill,TLU,"Respondek, Shavonne","Williams, Christina","Holbert, Tess",,,,0,0,23,16,"[Respondek, Shavonne] Kill by Williams, Christina (from Holbert, Tess).",TLU,CLU
+3,40,39,TLU,error,service_error,CLU,"Crane, Kennedy",,,,"Crane, Kennedy",,0,0,23,17,"[Crane, Kennedy] Service error.",TLU,CLU
+3,41,40,TLU,error,attack_error,TLU,"Morris, Lexi","Chan, Miranda",,,"Chan, Miranda",,0,0,23,18,"[Morris, Lexi] Attack error by Chan, Miranda.",TLU,CLU
+3,42,41,TLU,attack,kill,TLU,"Morris, Lexi","Moehrig-Woodard, Tan","Morris, Lexi",,,,0,0,23,19,"[Morris, Lexi] Kill by Moehrig-Woodard, Tan (from Morris, Lexi).",TLU,CLU
+3,43,42,TLU,error,attack_error,TLU,"Morris, Lexi","Heller, Lauren",,,"Heller, Lauren",,0,1,23,20,"[Morris, Lexi] Attack error by Heller, Lauren.",TLU,CLU
+3,44,43,TLU,attack,kill,TLU,"Morris, Lexi","Day, Paige","Galaviz, Adrienne",,,,0,0,23,21,"[Morris, Lexi] Kill by Day, Paige (from Galaviz, Adrienne).",TLU,CLU
+3,45,44,TLU,attack,kill,TLU,"Morris, Lexi","Moehrig-Woodard, Tan","Galaviz, Adrienne",,,,1,0,23,22,"[Morris, Lexi] Kill by Moehrig-Woodard, Tan (from Galaviz, Adrienne).",TLU,CLU
+3,46,45,CLU,attack,kill,TLU,"Morris, Lexi","Chan, Miranda","Holbert, Tess",,,,0,0,24,22,"[Morris, Lexi] Kill by Chan, Miranda (from Holbert, Tess).",TLU,CLU
+3,47,46,TLU,block,attack_error,CLU,"Wade, Isabella","Heller, Lauren",,"Kallus, Keriann","Heller, Lauren",,0,0,24,23,"[Wade, Isabella] Attack error by Heller, Lauren (block by Kallus, Keriann).",TLU,CLU
+3,48,47,CLU,error,service_error,TLU,"Chew, Julia",,,,"Chew, Julia",,0,0,25,23,"[Chew, Julia] Service error.",TLU,CLU
+4,1,0,TLU,attack,kill,TLU,"Day, Paige","Respondek, Shavonne","Chew, Julia",,,,0,0,0,1,"[Day, Paige] Kill by Respondek, Shavonne (from Chew, Julia).",TLU,CLU
+4,2,1,CLU,attack,kill,TLU,"Day, Paige","Crane, Kennedy","Jones, Jenna",,,,0,0,1,1,"[Day, Paige] Kill by Crane, Kennedy (from Jones, Jenna).",TLU,CLU
+4,3,2,CLU,ace,service_ace,CLU,"Haddad, Maci",,,,,"Morris, Lexi",0,0,2,1,"[Haddad, Maci] Service ace (Morris, Lexi).",TLU,CLU
+4,4,3,TLU,error,service_error,CLU,"Haddad, Maci",,,,"Haddad, Maci",,0,0,2,2,"[Haddad, Maci] Service error.",TLU,CLU
+4,5,4,TLU,block,attack_error,TLU,"Kallus, Keriann","Given, Morgan",,"Respondek, Shavonne; Weisinger, Madison","Given, Morgan",,0,0,2,3,"[Kallus, Keriann] Attack error by Given, Morgan (block by Respondek, Shavonne; Weisinger, Madison).",TLU,CLU
+4,6,5,TLU,ace,service_ace,TLU,"Kallus, Keriann",,,,,TEAM,0,0,2,4,"[Kallus, Keriann] Service ace (TEAM).",TLU,CLU
+4,7,6,TLU,attack,kill,TLU,"Kallus, Keriann","Schultz, Maddy","Chew, Julia",,,,0,0,2,5,"[Kallus, Keriann] Kill by Schultz, Maddy (from Chew, Julia).",TLU,CLU
+4,8,7,TLU,attack,kill,TLU,"Kallus, Keriann","Schultz, Maddy","Chew, Julia",,,,0,0,2,6,"[Kallus, Keriann] Kill by Schultz, Maddy (from Chew, Julia).",TLU,CLU
+4,9,8,CLU,attack,kill,TLU,"Kallus, Keriann","Given, Morgan","Jones, Jenna",,,,0,0,3,6,"[Kallus, Keriann] Kill by Given, Morgan (from Jones, Jenna).",TLU,CLU
+4,10,9,CLU,ace,service_ace,CLU,"Holbert, Tess",,,,,TEAM,0,1,4,6,"[Holbert, Tess] Service ace (TEAM).",TLU,CLU
+4,11,10,TLU,error,service_error,CLU,"Holbert, Tess",,,,"Holbert, Tess",,0,0,4,7,"[Holbert, Tess] Service error.",TLU,CLU
+4,12,11,TLU,block,attack_error,TLU,"Galaviz, Adrienne","Crane, Kennedy",,"Moehrig-Woodard, Tan; Weisinger, Madison","Crane, Kennedy",,0,1,4,8,"[Galaviz, Adrienne] Attack error by Crane, Kennedy (block by Moehrig-Woodard, Tan; Weisinger, Madison).",TLU,CLU
+4,13,12,CLU,attack,kill,TLU,"Galaviz, Adrienne","Crane, Kennedy","Holbert, Tess",,,,1,0,5,8,"[Galaviz, Adrienne] Kill by Crane, Kennedy (from Holbert, Tess).",TLU,CLU
+4,14,13,TLU,attack,kill,CLU,"Crane, Kennedy","Respondek, Shavonne","Galaviz, Adrienne",,"Williams, Christina",,0,1,5,9,"[Crane, Kennedy] Kill by Respondek, Shavonne (from Galaviz, Adrienne), block error by Williams, Christina.",TLU,CLU
+4,15,14,TLU,attack,kill,TLU,"Respondek, Shavonne","Respondek, Shavonne","Galaviz, Adrienne",,,,0,0,5,10,"[Respondek, Shavonne] Kill by Respondek, Shavonne (from Galaviz, Adrienne).",TLU,CLU
+4,16,15,CLU,attack,kill,TLU,"Respondek, Shavonne","Chan, Miranda","Holbert, Tess",,,,0,0,6,10,"[Respondek, Shavonne] Kill by Chan, Miranda (from Holbert, Tess).",TLU,CLU
+4,17,16,TLU,attack,kill,CLU,"Wade, Isabella","Weisinger, Madison","Galaviz, Adrienne",,,,0,0,6,11,"[Wade, Isabella] Kill by Weisinger, Madison (from Galaviz, Adrienne).",TLU,CLU
+4,18,17,CLU,attack,kill,TLU,"Morris, Lexi","Crane, Kennedy","Holbert, Tess",,,,0,0,7,11,"[Morris, Lexi] Kill by Crane, Kennedy (from Holbert, Tess).",TLU,CLU
+4,19,18,TLU,error,ball_handling_error,CLU,"Jones, Jenna",,,,"Jones, Jenna",,0,0,7,12,"[Jones, Jenna] Ball handling error by Jones, Jenna.",TLU,CLU
+4,20,19,CLU,attack,kill,TLU,"Chew, Julia","Haddad, Maci","Jones, Jenna",,,,0,0,8,12,"[Chew, Julia] Kill by Haddad, Maci (from Jones, Jenna).",TLU,CLU
+4,21,20,TLU,attack,kill,CLU,"Trento, Julia","Kallus, Keriann","Chew, Julia",,,,0,0,8,13,"[Trento, Julia] Kill by Kallus, Keriann (from Chew, Julia).",TLU,CLU
+4,22,21,CLU,error,ball_handling_error,TLU,"Day, Paige",,,,"Chew, Julia",,0,0,9,13,"[Day, Paige] Ball handling error by Chew, Julia.",TLU,CLU
+4,23,22,TLU,attack,kill,CLU,"Haddad, Maci","Respondek, Shavonne","Chew, Julia",,,,0,0,9,14,"[Haddad, Maci] Kill by Respondek, Shavonne (from Chew, Julia).",TLU,CLU
+4,24,23,CLU,attack,kill,TLU,"Kallus, Keriann","Given, Morgan",,,,,0,0,10,14,"[Kallus, Keriann] Kill by Given, Morgan.",TLU,CLU
+4,25,24,TLU,attack,kill,CLU,"Holbert, Tess","Schultz, Maddy","Chew, Julia",,,,0,0,10,15,"[Holbert, Tess] Kill by Schultz, Maddy (from Chew, Julia).",TLU,CLU
+4,26,25,TLU,attack,kill,TLU,"Galaviz, Adrienne","Morris, Lexi","Galaviz, Adrienne",,,,0,1,10,16,"[Galaviz, Adrienne] Kill by Morris, Lexi (from Galaviz, Adrienne).",TLU,CLU
+4,27,26,CLU,attack,kill,TLU,"Galaviz, Adrienne","Mortenson, Kira","Holbert, Tess",,,,0,0,11,16,"[Galaviz, Adrienne] Kill by Mortenson, Kira (from Holbert, Tess).",TLU,CLU
+4,28,27,CLU,attack,kill,CLU,"Crane, Kennedy","Chan, Miranda","Holbert, Tess",,,,0,0,12,16,"[Crane, Kennedy] Kill by Chan, Miranda (from Holbert, Tess).",TLU,CLU
+4,29,28,TLU,attack,kill,CLU,"Crane, Kennedy","Moehrig-Woodard, Tan","Respondek, Shavonne",,,,0,0,12,17,"[Crane, Kennedy] Kill by Moehrig-Woodard, Tan (from Respondek, Shavonne).",TLU,CLU
+4,30,29,CLU,attack,kill,TLU,"Respondek, Shavonne","Chan, Miranda","Holbert, Tess",,,,0,0,13,17,"[Respondek, Shavonne] Kill by Chan, Miranda (from Holbert, Tess).",TLU,CLU
+4,31,30,TLU,attack,kill,CLU,"Wade, Isabella","Weisinger, Madison","Galaviz, Adrienne",,,,0,0,13,18,"[Wade, Isabella] Kill by Weisinger, Madison (from Galaviz, Adrienne).",TLU,CLU
+4,32,31,CLU,error,attack_error,TLU,"Morris, Lexi","Day, Paige",,,"Day, Paige",,0,1,14,18,"[Morris, Lexi] Attack error by Day, Paige.",TLU,CLU
+4,33,32,CLU,ace,service_ace,CLU,"Jones, Jenna",,,,,"Day, Paige",0,0,15,18,"[Jones, Jenna] Service ace (Day, Paige).",TLU,CLU
+4,34,33,TLU,error,service_error,CLU,"Jones, Jenna",,,,"Jones, Jenna",,0,0,15,19,"[Jones, Jenna] Service error.",TLU,CLU
+4,35,34,CLU,attack,kill,TLU,"Chew, Julia","Haddad, Maci","Jones, Jenna",,,,0,0,16,19,"[Chew, Julia] Kill by Haddad, Maci (from Jones, Jenna).",TLU,CLU
+4,36,35,TLU,attack,kill,CLU,"Trento, Julia","Schultz, Maddy","Chew, Julia",,,,0,0,16,20,"[Trento, Julia] Kill by Schultz, Maddy (from Chew, Julia).",TLU,CLU
+4,37,36,CLU,attack,kill,TLU,"Day, Paige","Haddad, Maci","Jones, Jenna",,,,0,0,17,20,"[Day, Paige] Kill by Haddad, Maci (from Jones, Jenna).",TLU,CLU
+4,38,37,TLU,attack,kill,CLU,"Haddad, Maci","Schultz, Maddy","Chew, Julia",,,,0,0,17,21,"[Haddad, Maci] Kill by Schultz, Maddy (from Chew, Julia).",TLU,CLU
+4,39,38,CLU,attack,kill,TLU,"Kallus, Keriann","Given, Morgan","Jones, Jenna",,,,0,0,18,21,"[Kallus, Keriann] Kill by Given, Morgan (from Jones, Jenna).",TLU,CLU
+4,40,39,TLU,attack,kill,CLU,"Given, Morgan","Weisinger, Madison","Chew, Julia",,,,0,0,18,22,"[Given, Morgan] Kill by Weisinger, Madison (from Chew, Julia).",TLU,CLU
+4,41,40,TLU,ace,service_ace,TLU,"Galaviz, Adrienne",,,,,"Heller, Lauren",0,0,18,23,"[Galaviz, Adrienne] Service ace (Heller, Lauren).",TLU,CLU
+5,1,0,CLU,block,attack_error,CLU,"Trento, Julia","Respondek, Shavonne",,"Given, Morgan; Olson, Julia","Respondek, Shavonne",,0,0,1,0,"[Trento, Julia] Attack error by Respondek, Shavonne (block by Given, Morgan; Olson, Julia).",TLU,CLU
+5,2,1,TLU,attack,kill,CLU,"Trento, Julia","Respondek, Shavonne","Chew, Julia",,,,0,0,1,1,"[Trento, Julia] Kill by Respondek, Shavonne (from Chew, Julia).",TLU,CLU
+5,3,2,TLU,ace,service_ace,TLU,"Kallus, Keriann",,,,,"Wade, Isabella",0,0,1,2,"[Kallus, Keriann] Service ace (Wade, Isabella).",TLU,CLU
+5,4,3,CLU,attack,kill,TLU,"Kallus, Keriann","Given, Morgan","Jones, Jenna",,,,0,0,2,2,"[Kallus, Keriann] Kill by Given, Morgan (from Jones, Jenna).",TLU,CLU
+5,5,4,TLU,attack,kill,CLU,"Wade, Isabella","Weisinger, Madison","Chew, Julia",,,,0,0,2,3,"[Wade, Isabella] Kill by Weisinger, Madison (from Chew, Julia).",TLU,CLU
+5,6,5,TLU,error,ball_handling_error,TLU,"Galaviz, Adrienne",,,,"Jones, Jenna",,0,1,2,4,"[Galaviz, Adrienne] Ball handling error by Jones, Jenna.",TLU,CLU
+5,7,6,TLU,block,attack_error,TLU,"Galaviz, Adrienne","Given, Morgan",,"Respondek, Shavonne; Weisinger, Madison","Given, Morgan",,0,0,2,5,"[Galaviz, Adrienne] Attack error by Given, Morgan (block by Respondek, Shavonne; Weisinger, Madison).",TLU,CLU
+5,8,7,CLU,error,service_error,TLU,"Galaviz, Adrienne",,,,"Galaviz, Adrienne",,0,0,3,5,"[Galaviz, Adrienne] Service error.",TLU,CLU
+5,9,8,CLU,block,attack_error,CLU,"Holbert, Tess","Moehrig-Woodard, Tan",,"Haddad, Maci; Mortenson, Kira","Moehrig-Woodard, Tan",,0,1,4,5,"[Holbert, Tess] Attack error by Moehrig-Woodard, Tan (block by Haddad, Maci; Mortenson, Kira).",TLU,CLU
+5,10,9,CLU,attack,kill,CLU,"Holbert, Tess","Haddad, Maci","Haddad, Maci",,,,0,0,5,5,"[Holbert, Tess] Kill by Haddad, Maci (from Haddad, Maci).",TLU,CLU
+5,11,10,TLU,attack,kill,CLU,"Holbert, Tess","Respondek, Shavonne","Galaviz, Adrienne",,,,1,0,5,6,"[Holbert, Tess] Kill by Respondek, Shavonne (from Galaviz, Adrienne).",TLU,CLU
+5,12,11,CLU,attack,kill,TLU,"Respondek, Shavonne","Haddad, Maci","Holbert, Tess",,,,0,0,6,6,"[Respondek, Shavonne] Kill by Haddad, Maci (from Holbert, Tess).",TLU,CLU
+5,13,12,CLU,attack,kill,CLU,"Crane, Kennedy","Haddad, Maci",,,,,0,1,7,6,"[Crane, Kennedy] Kill by Haddad, Maci.",TLU,CLU
+5,14,13,CLU,ace,service_ace,CLU,"Crane, Kennedy",,,,,"Morris, Lexi",0,0,8,6,"[Crane, Kennedy] Service ace (Morris, Lexi).",TLU,CLU
+5,15,14,TLU,error,attack_error,CLU,"Crane, Kennedy","Holbert, Tess",,,"Holbert, Tess",,0,0,8,7,"[Crane, Kennedy] Attack error by Holbert, Tess.",TLU,CLU
+5,16,15,CLU,attack,kill,TLU,"Morris, Lexi","Holbert, Tess","Wade, Isabella",,,,0,0,9,7,"[Morris, Lexi] Kill by Holbert, Tess (from Wade, Isabella).",TLU,CLU
+5,17,16,CLU,attack,kill,CLU,"Haddad, Maci","Mortenson, Kira","Olson, Julia",,,,0,0,10,7,"[Haddad, Maci] Kill by Mortenson, Kira (from Olson, Julia).",TLU,CLU
+5,18,17,TLU,error,attack_error,CLU,"Haddad, Maci","Crane, Kennedy",,,"Crane, Kennedy",,1,0,10,8,"[Haddad, Maci] Attack error by Crane, Kennedy.",TLU,CLU
+5,19,18,CLU,attack,kill,TLU,"Chew, Julia","Chan, Miranda","Holbert, Tess",,,,0,0,11,8,"[Chew, Julia] Kill by Chan, Miranda (from Holbert, Tess).",TLU,CLU
+5,20,19,CLU,error,attack_error,CLU,"Jones, Jenna","Schultz, Maddy",,,"Schultz, Maddy",,0,0,12,8,"[Jones, Jenna] Attack error by Schultz, Maddy.",TLU,CLU
+5,21,20,TLU,error,attack_error,CLU,"Jones, Jenna","Chan, Miranda",,,"Chan, Miranda",,0,0,12,9,"[Jones, Jenna] Attack error by Chan, Miranda.",TLU,CLU
+5,22,21,CLU,attack,kill,TLU,"Day, Paige","Chan, Miranda","Wade, Isabella",,,,0,0,13,9,"[Day, Paige] Kill by Chan, Miranda (from Wade, Isabella).",TLU,CLU
+5,23,22,CLU,attack,kill,CLU,"Trento, Julia","Given, Morgan","Jones, Jenna",,,,0,0,14,9,"[Trento, Julia] Kill by Given, Morgan (from Jones, Jenna).",TLU,CLU

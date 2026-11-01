@@ -1,0 +1,183 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,NYU,attack,kill,SWAT,"Sun, Emily","Nelson, Grace","Launsbach, Ava",,,,0,1,0,1,"[Sun, Emily] Kill by Nelson, Grace (from Launsbach, Ava).",NYU,SWAT
+1,2,1,SWAT,error,service_error,NYU,"Nelson, Grace",,,,"Nelson, Grace",,0,0,1,1,"[Nelson, Grace] Service error.",NYU,SWAT
+1,3,2,NYU,attack,kill,SWAT,"Kim, Nicole","Spierenburg, Jessica","Launsbach, Ava",,,,0,1,1,2,"[Kim, Nicole] Kill by Spierenburg, Jessica (from Launsbach, Ava).",NYU,SWAT
+1,4,3,NYU,attack,kill,NYU,"Spierenburg, Jessica","Barton, Coco","Launsbach, Ava",,,,0,0,1,3,"[Spierenburg, Jessica] Kill by Barton, Coco (from Launsbach, Ava).",NYU,SWAT
+1,5,4,NYU,attack,kill,NYU,"Spierenburg, Jessica","Cho, Casey","Launsbach, Ava",,,,0,0,1,4,"[Spierenburg, Jessica] Kill by Cho, Casey (from Launsbach, Ava).",NYU,SWAT
+1,6,5,SWAT,attack,kill,NYU,"Spierenburg, Jessica","Adam, Isabel","Sun, Emily",,,,0,0,2,4,"[Spierenburg, Jessica] Kill by Adam, Isabel (from Sun, Emily).",NYU,SWAT
+1,7,6,SWAT,error,attack_error,SWAT,"Eyer, Melissa","Cho, Casey","Launsbach, Ava",,"Cho, Casey",,0,0,3,4,"[Eyer, Melissa] Attack error by Cho, Casey (from Launsbach, Ava).",NYU,SWAT
+1,8,7,NYU,attack,kill,SWAT,"Streeper, Ellie","Barton, Coco","Launsbach, Ava",,,,0,1,3,5,"[Streeper, Ellie] Kill by Barton, Coco (from Launsbach, Ava).",NYU,SWAT
+1,9,8,NYU,block,attack_error,NYU,"Ding, Jessica","Adam, Isabel",,"Barton, Coco; Dillon, Stella","Adam, Isabel",,0,1,3,6,"[Ding, Jessica] Attack error by Adam, Isabel (block by Barton, Coco; Dillon, Stella).",NYU,SWAT
+1,10,9,SWAT,error,service_error,NYU,"Ding, Jessica",,,,"Ding, Jessica",,0,0,4,6,"[Ding, Jessica] Service error.",NYU,SWAT
+1,11,10,SWAT,attack,kill,SWAT,"Sheridan, Maya","Bardauskaite, Aiste","Sheridan, Maya",,,,0,1,5,6,"[Sheridan, Maya] Kill by Bardauskaite, Aiste (from Sheridan, Maya).",NYU,SWAT
+1,12,11,SWAT,error,attack_error,SWAT,"Sheridan, Maya","Cho, Casey","Ding, Jessica",,"Cho, Casey",,0,0,6,6,"[Sheridan, Maya] Attack error by Cho, Casey (from Ding, Jessica).",NYU,SWAT
+1,13,12,NYU,attack,kill,SWAT,"Sheridan, Maya","Barton, Coco","Ding, Jessica",,,,0,0,6,7,"[Sheridan, Maya] Kill by Barton, Coco (from Ding, Jessica).",NYU,SWAT
+1,14,13,SWAT,attack,kill,NYU,"Cho, Casey","Adam, Isabel","Sheridan, Maya",,,,0,0,7,7,"[Cho, Casey] Kill by Adam, Isabel (from Sheridan, Maya).",NYU,SWAT
+1,15,14,NYU,attack,kill,SWAT,"Adam, Isabel","Dillon, Stella","Ding, Jessica",,,,0,0,7,8,"[Adam, Isabel] Kill by Dillon, Stella (from Ding, Jessica).",NYU,SWAT
+1,16,15,SWAT,attack,kill,NYU,"Sato, Kaitlyn","Bardauskaite, Aiste","Sheridan, Maya",,,,0,0,8,8,"[Sato, Kaitlyn] Kill by Bardauskaite, Aiste (from Sheridan, Maya).",NYU,SWAT
+1,17,16,SWAT,attack,kill,SWAT,"Heminway, Angelina","Enache, Alexia",,,,,0,0,9,8,"[Heminway, Angelina] Kill by Enache, Alexia.",NYU,SWAT
+1,18,17,SWAT,attack,kill,SWAT,"Heminway, Angelina","Enache, Alexia","Sheridan, Maya",,,,0,0,10,8,"[Heminway, Angelina] Kill by Enache, Alexia (from Sheridan, Maya).",NYU,SWAT
+1,19,18,NYU,attack,kill,SWAT,"Heminway, Angelina","Nelson, Grace","Ding, Jessica",,,,0,0,10,9,"[Heminway, Angelina] Kill by Nelson, Grace (from Ding, Jessica).",NYU,SWAT
+1,20,19,SWAT,block,attack_error,NYU,"Launsbach, Ava","Spierenburg, Jessica",,"Montgomery, Zindzhi","Spierenburg, Jessica",,0,0,11,9,"[Launsbach, Ava] Attack error by Spierenburg, Jessica (block by Montgomery, Zindzhi).",NYU,SWAT
+1,21,20,NYU,attack,kill,SWAT,"Sun, Emily","Spierenburg, Jessica","Launsbach, Ava",,,,0,0,11,10,"[Sun, Emily] Kill by Spierenburg, Jessica (from Launsbach, Ava).",NYU,SWAT
+1,22,21,NYU,block,attack_error,NYU,"Nelson, Grace","Enache, Alexia",,"Cho, Casey","Enache, Alexia",,0,0,11,11,"[Nelson, Grace] Attack error by Enache, Alexia (block by Cho, Casey).",NYU,SWAT
+1,23,22,SWAT,error,service_error,NYU,"Nelson, Grace",,,,"Nelson, Grace",,0,0,12,11,"[Nelson, Grace] Service error.",NYU,SWAT
+1,24,23,SWAT,attack,kill,SWAT,"Kim, Nicole","Miles, Keira",,,,,0,0,13,11,"[Kim, Nicole] Kill by Miles, Keira.",NYU,SWAT
+1,25,24,NYU,attack,kill,SWAT,"Kim, Nicole","Cho, Casey","Launsbach, Ava",,,,0,0,13,12,"[Kim, Nicole] Kill by Cho, Casey (from Launsbach, Ava).",NYU,SWAT
+1,26,25,NYU,error,attack_error,NYU,"Spierenburg, Jessica","Adam, Isabel","Sun, Emily",,"Adam, Isabel",,0,0,13,13,"[Spierenburg, Jessica] Attack error by Adam, Isabel (from Sun, Emily).",NYU,SWAT
+1,27,26,SWAT,attack,kill,NYU,"Spierenburg, Jessica","Adam, Isabel","Sun, Emily",,,,0,0,14,13,"[Spierenburg, Jessica] Kill by Adam, Isabel (from Sun, Emily).",NYU,SWAT
+1,28,27,SWAT,error,attack_error,SWAT,"Eyer, Melissa","Cho, Casey","Barton, Coco",,"Cho, Casey",,0,0,15,13,"[Eyer, Melissa] Attack error by Cho, Casey (from Barton, Coco).",NYU,SWAT
+1,29,28,NYU,attack,kill,SWAT,"Eyer, Melissa","Lattan, Sarah","Launsbach, Ava",,,,0,0,15,14,"[Eyer, Melissa] Kill by Lattan, Sarah (from Launsbach, Ava).",NYU,SWAT
+1,30,29,SWAT,attack,kill,NYU,"Ding, Jessica","Miles, Keira","Sun, Emily",,,,0,0,16,14,"[Ding, Jessica] Kill by Miles, Keira (from Sun, Emily).",NYU,SWAT
+1,31,30,SWAT,ace,service_ace,SWAT,"Sheridan, Maya",,,,,"Topcu, Duru",0,0,17,14,"[Sheridan, Maya] Service ace (Topcu, Duru).",NYU,SWAT
+1,32,31,SWAT,error,attack_error,SWAT,"Sheridan, Maya","Nelson, Grace","Ding, Jessica",,"Nelson, Grace",,0,0,18,14,"[Sheridan, Maya] Attack error by Nelson, Grace (from Ding, Jessica).",NYU,SWAT
+1,33,32,SWAT,attack,kill,SWAT,"Sheridan, Maya","Bardauskaite, Aiste","Adam, Isabel",,,,0,0,19,14,"[Sheridan, Maya] Kill by Bardauskaite, Aiste (from Adam, Isabel).",NYU,SWAT
+1,34,33,NYU,attack,kill,SWAT,"Sheridan, Maya","Dillon, Stella","Ding, Jessica",,,,0,0,19,15,"[Sheridan, Maya] Kill by Dillon, Stella (from Ding, Jessica).",NYU,SWAT
+1,35,34,SWAT,error,service_error,NYU,"Cho, Casey",,,,"Cho, Casey",,0,0,20,15,"[Cho, Casey] Service error.",NYU,SWAT
+1,36,35,SWAT,block,attack_error,SWAT,"Adam, Isabel","Dillon, Stella",,"Enache, Alexia","Dillon, Stella",,0,0,21,15,"[Adam, Isabel] Attack error by Dillon, Stella (block by Enache, Alexia).",NYU,SWAT
+1,37,36,NYU,attack,kill,SWAT,"Adam, Isabel","Nelson, Grace","Ding, Jessica",,,,0,0,21,16,"[Adam, Isabel] Kill by Nelson, Grace (from Ding, Jessica).",NYU,SWAT
+1,38,37,NYU,attack,kill,NYU,"Sato, Kaitlyn","Nelson, Grace","Ding, Jessica",,,,0,1,21,17,"[Sato, Kaitlyn] Kill by Nelson, Grace (from Ding, Jessica).",NYU,SWAT
+1,39,38,NYU,attack,kill,NYU,"Sato, Kaitlyn","Nelson, Grace","Ding, Jessica",,,,0,0,21,18,"[Sato, Kaitlyn] Kill by Nelson, Grace (from Ding, Jessica).",NYU,SWAT
+1,40,39,NYU,attack,kill,NYU,"Sato, Kaitlyn","Morales, Sienna","Ding, Jessica",,,,0,0,21,19,"[Sato, Kaitlyn] Kill by Morales, Sienna (from Ding, Jessica).",NYU,SWAT
+1,41,40,SWAT,error,service_error,NYU,"Sato, Kaitlyn",,,,"Sato, Kaitlyn",,0,0,22,19,"[Sato, Kaitlyn] Service error.",NYU,SWAT
+1,42,41,NYU,attack,kill,SWAT,"Heminway, Angelina","Dillon, Stella","Ding, Jessica",,,,0,0,22,20,"[Heminway, Angelina] Kill by Dillon, Stella (from Ding, Jessica).",NYU,SWAT
+1,43,42,NYU,block,attack_error,NYU,"Launsbach, Ava","Enache, Alexia",,"Morales, Sienna; Lattan, Sarah","Enache, Alexia",,0,0,22,21,"[Launsbach, Ava] Attack error by Enache, Alexia (block by Morales, Sienna; Lattan, Sarah).",NYU,SWAT
+1,44,43,NYU,attack,kill,NYU,"Launsbach, Ava","Lattan, Sarah","Launsbach, Ava",,,,0,0,22,22,"[Launsbach, Ava] Kill by Lattan, Sarah (from Launsbach, Ava).",NYU,SWAT
+1,45,44,SWAT,attack,kill,NYU,"Launsbach, Ava","Montgomery, Zindzhi","Sheridan, Maya",,,,0,0,23,22,"[Launsbach, Ava] Kill by Montgomery, Zindzhi (from Sheridan, Maya).",NYU,SWAT
+1,46,45,NYU,attack,kill,SWAT,"Sun, Emily","Nelson, Grace","Launsbach, Ava",,,,0,0,23,23,"[Sun, Emily] Kill by Nelson, Grace (from Launsbach, Ava).",NYU,SWAT
+1,47,46,NYU,error,attack_error,NYU,"Nelson, Grace","Adam, Isabel","Miles, Keira",,"Adam, Isabel",,0,0,23,24,"[Nelson, Grace] Attack error by Adam, Isabel (from Miles, Keira).",NYU,SWAT
+1,48,47,NYU,attack,kill,NYU,"Nelson, Grace","Lattan, Sarah","Sato, Kaitlyn",,,,0,0,23,25,"[Nelson, Grace] Kill by Lattan, Sarah (from Sato, Kaitlyn).",NYU,SWAT
+2,1,0,NYU,attack,kill,NYU,"Launsbach, Ava","Nelson, Grace",,,,,0,1,0,1,"[Launsbach, Ava] Kill by Nelson, Grace.",NYU,SWAT
+2,2,1,NYU,attack,kill,NYU,"Launsbach, Ava","Lattan, Sarah","Launsbach, Ava",,,,0,0,0,2,"[Launsbach, Ava] Kill by Lattan, Sarah (from Launsbach, Ava).",NYU,SWAT
+2,3,2,SWAT,error,service_error,NYU,"Launsbach, Ava",,,,"Launsbach, Ava",,0,0,1,2,"[Launsbach, Ava] Service error.",NYU,SWAT
+2,4,3,NYU,attack,kill,SWAT,"Kim, Nicole","Nelson, Grace","Launsbach, Ava",,,,0,1,1,3,"[Kim, Nicole] Kill by Nelson, Grace (from Launsbach, Ava).",NYU,SWAT
+2,5,4,NYU,ace,service_ace,NYU,"Nelson, Grace",,,,,Team,0,0,1,4,"[Nelson, Grace] Service ace (Team).",NYU,SWAT
+2,6,5,NYU,attack,kill,NYU,"Nelson, Grace","Cho, Casey","Launsbach, Ava",,,,0,0,1,5,"[Nelson, Grace] Kill by Cho, Casey (from Launsbach, Ava).",NYU,SWAT
+2,7,6,SWAT,attack,kill,NYU,"Nelson, Grace","Adam, Isabel","Mountcastle, Madeline",,,,0,0,2,5,"[Nelson, Grace] Kill by Adam, Isabel (from Mountcastle, Madeline).",NYU,SWAT
+2,8,7,SWAT,error,attack_error,SWAT,"Eyer, Melissa","Nelson, Grace","Launsbach, Ava",,"Nelson, Grace",,0,0,3,5,"[Eyer, Melissa] Attack error by Nelson, Grace (from Launsbach, Ava).",NYU,SWAT
+2,9,8,NYU,attack,kill,SWAT,"Eyer, Melissa","Cho, Casey","Launsbach, Ava",,,,0,0,3,6,"[Eyer, Melissa] Kill by Cho, Casey (from Launsbach, Ava).",NYU,SWAT
+2,10,9,NYU,ace,service_ace,NYU,"Morales, Sienna",,,,,"Adam, Isabel",0,0,3,7,"[Morales, Sienna] Service ace (Adam, Isabel).",NYU,SWAT
+2,11,10,SWAT,attack,kill,NYU,"Morales, Sienna","Adam, Isabel","Heminway, Angelina",,,,0,0,4,7,"[Morales, Sienna] Kill by Adam, Isabel (from Heminway, Angelina).",NYU,SWAT
+2,12,11,SWAT,attack,kill,SWAT,"Sheridan, Maya","Adam, Isabel","Eyer, Melissa",,,,0,1,5,7,"[Sheridan, Maya] Kill by Adam, Isabel (from Eyer, Melissa).",NYU,SWAT
+2,13,12,NYU,attack,kill,SWAT,"Sheridan, Maya","Cho, Casey","Launsbach, Ava",,,,0,0,5,8,"[Sheridan, Maya] Kill by Cho, Casey (from Launsbach, Ava).",NYU,SWAT
+2,14,13,SWAT,attack,kill,NYU,"Ding, Jessica","Heminway, Angelina","Sheridan, Maya",,,,0,1,6,8,"[Ding, Jessica] Kill by Heminway, Angelina (from Sheridan, Maya).",NYU,SWAT
+2,15,14,SWAT,attack,kill,SWAT,"Adam, Isabel","Enache, Alexia","Sheridan, Maya",,,,0,0,7,8,"[Adam, Isabel] Kill by Enache, Alexia (from Sheridan, Maya).",NYU,SWAT
+2,16,15,NYU,attack,kill,SWAT,"Adam, Isabel","Cho, Casey","Ding, Jessica",,,,0,0,7,9,"[Adam, Isabel] Kill by Cho, Casey (from Ding, Jessica).",NYU,SWAT
+2,17,16,NYU,attack,kill,NYU,"Cho, Casey","Nelson, Grace","Sato, Kaitlyn",,,,0,0,7,10,"[Cho, Casey] Kill by Nelson, Grace (from Sato, Kaitlyn).",NYU,SWAT
+2,18,17,SWAT,attack,kill,NYU,"Cho, Casey","Bardauskaite, Aiste","Sheridan, Maya",,,,0,0,8,10,"[Cho, Casey] Kill by Bardauskaite, Aiste (from Sheridan, Maya).",NYU,SWAT
+2,19,18,SWAT,error,attack_error,SWAT,"Heminway, Angelina","Nelson, Grace","Ding, Jessica",,"Nelson, Grace",,0,0,9,10,"[Heminway, Angelina] Attack error by Nelson, Grace (from Ding, Jessica).",NYU,SWAT
+2,20,19,SWAT,error,attack_error,SWAT,"Heminway, Angelina","Dillon, Stella","Ding, Jessica",,"Dillon, Stella",,0,0,10,10,"[Heminway, Angelina] Attack error by Dillon, Stella (from Ding, Jessica).",NYU,SWAT
+2,21,20,SWAT,attack,kill,SWAT,"Heminway, Angelina","Bardauskaite, Aiste","Heminway, Angelina",,,,0,0,11,10,"[Heminway, Angelina] Kill by Bardauskaite, Aiste (from Heminway, Angelina).",NYU,SWAT
+2,22,21,SWAT,attack,kill,SWAT,"Heminway, Angelina","Enache, Alexia","Heminway, Angelina",,,,0,0,12,10,"[Heminway, Angelina] Kill by Enache, Alexia (from Heminway, Angelina).",NYU,SWAT
+2,23,22,SWAT,ace,service_ace,SWAT,"Heminway, Angelina",,,,,"Cho, Casey",0,0,13,10,"[Heminway, Angelina] Service ace (Cho, Casey).",NYU,SWAT
+2,24,23,SWAT,block,attack_error,SWAT,"Heminway, Angelina","Dillon, Stella",,"Montgomery, Zindzhi; Enache, Alexia","Dillon, Stella",,0,0,14,10,"[Heminway, Angelina] Attack error by Dillon, Stella (block by Montgomery, Zindzhi; Enache, Alexia).",NYU,SWAT
+2,25,24,NYU,attack,kill,SWAT,"Heminway, Angelina","Nelson, Grace","Ding, Jessica",,,,0,0,14,11,"[Heminway, Angelina] Kill by Nelson, Grace (from Ding, Jessica).",NYU,SWAT
+2,26,25,SWAT,error,service_error,NYU,"Sato, Kaitlyn",,,,"Sato, Kaitlyn",,0,0,15,11,"[Sato, Kaitlyn] Service error.",NYU,SWAT
+2,27,26,NYU,attack,kill,SWAT,"Mountcastle, Madeline","Dillon, Stella","Ding, Jessica",,,,0,0,15,12,"[Mountcastle, Madeline] Kill by Dillon, Stella (from Ding, Jessica).",NYU,SWAT
+2,28,27,SWAT,attack,kill,NYU,"Launsbach, Ava","Enache, Alexia","Eyer, Melissa",,,,0,0,16,12,"[Launsbach, Ava] Kill by Enache, Alexia (from Eyer, Melissa).",NYU,SWAT
+2,29,28,SWAT,attack,kill,SWAT,"Kim, Nicole","Miles, Keira","Mountcastle, Madeline",,,,0,0,17,12,"[Kim, Nicole] Kill by Miles, Keira (from Mountcastle, Madeline).",NYU,SWAT
+2,30,29,SWAT,attack,kill,SWAT,"Kim, Nicole","Mountcastle, Madeline",,,,,0,0,18,12,"[Kim, Nicole] Kill by Mountcastle, Madeline.",NYU,SWAT
+2,31,30,NYU,attack,kill,SWAT,"Kim, Nicole","Nelson, Grace","Launsbach, Ava",,,,0,0,18,13,"[Kim, Nicole] Kill by Nelson, Grace (from Launsbach, Ava).",NYU,SWAT
+2,32,31,SWAT,attack,kill,NYU,"Nelson, Grace","Adam, Isabel","Mountcastle, Madeline",,,,0,0,19,13,"[Nelson, Grace] Kill by Adam, Isabel (from Mountcastle, Madeline).",NYU,SWAT
+2,33,32,SWAT,error,attack_error,SWAT,"Eyer, Melissa","Nelson, Grace","Launsbach, Ava",,"Nelson, Grace",,0,0,20,13,"[Eyer, Melissa] Attack error by Nelson, Grace (from Launsbach, Ava).",NYU,SWAT
+2,34,33,NYU,attack,kill,SWAT,"Eyer, Melissa","Lattan, Sarah","Launsbach, Ava",,,,0,1,20,14,"[Eyer, Melissa] Kill by Lattan, Sarah (from Launsbach, Ava).",NYU,SWAT
+2,35,34,NYU,attack,kill,NYU,"Morales, Sienna","Barton, Coco","Launsbach, Ava",,,,0,0,20,15,"[Morales, Sienna] Kill by Barton, Coco (from Launsbach, Ava).",NYU,SWAT
+2,36,35,SWAT,attack,kill,NYU,"Morales, Sienna","Miles, Keira","Adam, Isabel",,,,0,0,21,15,"[Morales, Sienna] Kill by Miles, Keira (from Adam, Isabel).",NYU,SWAT
+2,37,36,SWAT,attack,kill,SWAT,"Sheridan, Maya","Bardauskaite, Aiste","Sheridan, Maya",,,,0,0,22,15,"[Sheridan, Maya] Kill by Bardauskaite, Aiste (from Sheridan, Maya).",NYU,SWAT
+2,38,37,SWAT,error,attack_error,SWAT,"Sheridan, Maya","Nelson, Grace","Launsbach, Ava",,"Nelson, Grace",,0,0,23,15,"[Sheridan, Maya] Attack error by Nelson, Grace (from Launsbach, Ava).",NYU,SWAT
+2,39,38,NYU,attack,kill,SWAT,"Sheridan, Maya","Lemons, Chloe","Launsbach, Ava",,,,0,0,23,16,"[Sheridan, Maya] Kill by Lemons, Chloe (from Launsbach, Ava).",NYU,SWAT
+2,40,39,NYU,attack,kill,NYU,"Ding, Jessica","Dillon, Stella","Ding, Jessica",,,,0,0,23,17,"[Ding, Jessica] Kill by Dillon, Stella (from Ding, Jessica).",NYU,SWAT
+2,41,40,SWAT,attack,kill,NYU,"Ding, Jessica","Adam, Isabel","Sheridan, Maya",,,,0,0,24,17,"[Ding, Jessica] Kill by Adam, Isabel (from Sheridan, Maya).",NYU,SWAT
+2,42,41,NYU,attack,kill,SWAT,"Adam, Isabel","Lemons, Chloe","Ding, Jessica",,,,0,0,24,18,"[Adam, Isabel] Kill by Lemons, Chloe (from Ding, Jessica).",NYU,SWAT
+2,43,42,NYU,error,attack_error,NYU,"Laing, Daniela","Enache, Alexia","Adam, Isabel",,"Enache, Alexia",,0,1,24,19,"[Laing, Daniela] Attack error by Enache, Alexia (from Adam, Isabel).",NYU,SWAT
+2,44,43,SWAT,attack,kill,NYU,"Laing, Daniela","Enache, Alexia","Sheridan, Maya",,,,0,0,25,19,"[Laing, Daniela] Kill by Enache, Alexia (from Sheridan, Maya).",NYU,SWAT
+3,1,0,NYU,attack,kill,SWAT,"Mountcastle, Madeline","Lattan, Sarah","Launsbach, Ava",,,,0,1,0,1,"[Mountcastle, Madeline] Kill by Lattan, Sarah (from Launsbach, Ava).",NYU,SWAT
+3,2,1,NYU,attack,kill,NYU,"Nelson, Grace","Nelson, Grace","Sato, Kaitlyn",,,,0,0,0,2,"[Nelson, Grace] Kill by Nelson, Grace (from Sato, Kaitlyn).",NYU,SWAT
+3,3,2,NYU,ace,service_ace,NYU,"Nelson, Grace",,,,,Team,0,0,0,3,"[Nelson, Grace] Service ace (Team).",NYU,SWAT
+3,4,3,NYU,ace,service_ace,NYU,"Nelson, Grace",,,,,Team,0,0,0,4,"[Nelson, Grace] Service ace (Team).",NYU,SWAT
+3,5,4,NYU,ace,service_ace,NYU,"Nelson, Grace",,,,,"Enache, Alexia",0,0,0,5,"[Nelson, Grace] Service ace (Enache, Alexia).",NYU,SWAT
+3,6,5,SWAT,attack,kill,NYU,"Nelson, Grace","Miles, Keira","Adam, Isabel",,,,0,0,1,5,"[Nelson, Grace] Kill by Miles, Keira (from Adam, Isabel).",NYU,SWAT
+3,7,6,SWAT,error,attack_error,SWAT,"Kim, Nicole","Lemons, Chloe","Launsbach, Ava",,"Lemons, Chloe",,0,1,2,5,"[Kim, Nicole] Attack error by Lemons, Chloe (from Launsbach, Ava).",NYU,SWAT
+3,8,7,SWAT,attack,kill,SWAT,"Kim, Nicole","Miles, Keira","Eyer, Melissa",,,,0,0,3,5,"[Kim, Nicole] Kill by Miles, Keira (from Eyer, Melissa).",NYU,SWAT
+3,9,8,SWAT,block,attack_error,SWAT,"Kim, Nicole","Lattan, Sarah",,"Adam, Isabel","Lattan, Sarah",,0,0,4,5,"[Kim, Nicole] Attack error by Lattan, Sarah (block by Adam, Isabel).",NYU,SWAT
+3,10,9,NYU,attack,kill,SWAT,"Kim, Nicole","Lemons, Chloe","Launsbach, Ava",,,,0,0,4,6,"[Kim, Nicole] Kill by Lemons, Chloe (from Launsbach, Ava).",NYU,SWAT
+3,11,10,NYU,error,attack_error,NYU,"Morales, Sienna","Miles, Keira","Mountcastle, Madeline",,"Miles, Keira",,0,0,4,7,"[Morales, Sienna] Attack error by Miles, Keira (from Mountcastle, Madeline).",NYU,SWAT
+3,12,11,NYU,attack,kill,NYU,"Morales, Sienna","Lemons, Chloe","Launsbach, Ava",,,,0,0,4,8,"[Morales, Sienna] Kill by Lemons, Chloe (from Launsbach, Ava).",NYU,SWAT
+3,13,12,SWAT,attack,kill,NYU,"Morales, Sienna","Adam, Isabel","Mountcastle, Madeline",,,,0,0,5,8,"[Morales, Sienna] Kill by Adam, Isabel (from Mountcastle, Madeline).",NYU,SWAT
+3,14,13,NYU,error,ball_handling_error,SWAT,"Eyer, Melissa",,,,"Mountcastle, Madeline",,0,0,5,9,"[Eyer, Melissa] Bad set by Mountcastle, Madeline.",NYU,SWAT
+3,15,14,SWAT,attack,kill,NYU,"Ding, Jessica","Adam, Isabel","Sato, Kaitlyn",,,,0,1,6,9,"[Ding, Jessica] Kill by Adam, Isabel (from Sato, Kaitlyn).",NYU,SWAT
+3,16,15,SWAT,error,attack_error,SWAT,"Sheridan, Maya","Barton, Coco","Ding, Jessica",,"Barton, Coco",,0,1,7,9,"[Sheridan, Maya] Attack error by Barton, Coco (from Ding, Jessica).",NYU,SWAT
+3,17,16,SWAT,attack,kill,SWAT,"Sheridan, Maya","Eyer, Melissa","Sheridan, Maya",,,,0,0,8,9,"[Sheridan, Maya] Kill by Eyer, Melissa (from Sheridan, Maya).",NYU,SWAT
+3,18,17,SWAT,error,attack_error,SWAT,"Sheridan, Maya","Nelson, Grace","Ding, Jessica",,"Nelson, Grace",,0,1,9,9,"[Sheridan, Maya] Attack error by Nelson, Grace (from Ding, Jessica).",NYU,SWAT
+3,19,18,NYU,attack,kill,SWAT,"Sheridan, Maya","Lemons, Chloe","Ding, Jessica",,,,0,0,9,10,"[Sheridan, Maya] Kill by Lemons, Chloe (from Ding, Jessica).",NYU,SWAT
+3,20,19,SWAT,attack,kill,NYU,"Laing, Daniela","Heminway, Angelina","Sheridan, Maya",,,,0,1,10,10,"[Laing, Daniela] Kill by Heminway, Angelina (from Sheridan, Maya).",NYU,SWAT
+3,21,20,NYU,error,service_error,SWAT,"Adam, Isabel",,,,"Adam, Isabel",,0,1,10,11,"[Adam, Isabel] Service error.",NYU,SWAT
+3,22,21,NYU,attack,kill,NYU,"Sato, Kaitlyn","Dillon, Stella","Laing, Daniela",,,,0,0,10,12,"[Sato, Kaitlyn] Kill by Dillon, Stella (from Laing, Daniela).",NYU,SWAT
+3,23,22,NYU,error,attack_error,NYU,"Sato, Kaitlyn","Heminway, Angelina","Sheridan, Maya",,"Heminway, Angelina",,0,0,10,13,"[Sato, Kaitlyn] Attack error by Heminway, Angelina (from Sheridan, Maya).",NYU,SWAT
+3,24,23,NYU,block,attack_error,NYU,"Sato, Kaitlyn","Enache, Alexia",,"Morales, Sienna; Dillon, Stella","Enache, Alexia",,0,0,10,14,"[Sato, Kaitlyn] Attack error by Enache, Alexia (block by Morales, Sienna; Dillon, Stella).",NYU,SWAT
+3,25,24,SWAT,error,service_error,NYU,"Sato, Kaitlyn",,,,"Sato, Kaitlyn",,0,0,11,14,"[Sato, Kaitlyn] Service error.",NYU,SWAT
+3,26,25,SWAT,ace,service_ace,SWAT,"Heminway, Angelina",,,,,"Topcu, Duru",0,0,12,14,"[Heminway, Angelina] Service ace (Topcu, Duru).",NYU,SWAT
+3,27,26,SWAT,error,attack_error,SWAT,"Heminway, Angelina","Dillon, Stella","Nelson, Grace",,"Dillon, Stella",,0,0,13,14,"[Heminway, Angelina] Attack error by Dillon, Stella (from Nelson, Grace).",NYU,SWAT
+3,28,27,NYU,attack,kill,SWAT,"Heminway, Angelina","Morales, Sienna","Ding, Jessica",,,,0,0,13,15,"[Heminway, Angelina] Kill by Morales, Sienna (from Ding, Jessica).",NYU,SWAT
+3,29,28,SWAT,attack,kill,NYU,"Launsbach, Ava","Bardauskaite, Aiste","Sheridan, Maya",,,,0,0,14,15,"[Launsbach, Ava] Kill by Bardauskaite, Aiste (from Sheridan, Maya).",NYU,SWAT
+3,30,29,NYU,attack,kill,SWAT,"Mountcastle, Madeline","Morales, Sienna","Launsbach, Ava",,,,0,0,14,16,"[Mountcastle, Madeline] Kill by Morales, Sienna (from Launsbach, Ava).",NYU,SWAT
+3,31,30,SWAT,attack,kill,NYU,"Nelson, Grace","Miles, Keira","Mountcastle, Madeline",,,,0,0,15,16,"[Nelson, Grace] Kill by Miles, Keira (from Mountcastle, Madeline).",NYU,SWAT
+3,32,31,NYU,attack,kill,SWAT,"Kim, Nicole","Morales, Sienna","Launsbach, Ava",,,,0,0,15,17,"[Kim, Nicole] Kill by Morales, Sienna (from Launsbach, Ava).",NYU,SWAT
+3,33,32,SWAT,error,service_error,NYU,"Morales, Sienna",,,,"Morales, Sienna",,0,0,16,17,"[Morales, Sienna] Service error.",NYU,SWAT
+3,34,33,SWAT,ace,service_ace,SWAT,"Eyer, Melissa",,,,,"Nelson, Grace",0,0,17,17,"[Eyer, Melissa] Service ace (Nelson, Grace).",NYU,SWAT
+3,35,34,NYU,attack,kill,SWAT,"Eyer, Melissa","Lattan, Sarah","Launsbach, Ava",,,,0,0,17,18,"[Eyer, Melissa] Kill by Lattan, Sarah (from Launsbach, Ava).",NYU,SWAT
+3,36,35,NYU,attack,kill,NYU,"Ding, Jessica","Lemons, Chloe","Ding, Jessica",,,,0,0,17,19,"[Ding, Jessica] Kill by Lemons, Chloe (from Ding, Jessica).",NYU,SWAT
+3,37,36,SWAT,attack,kill,NYU,"Ding, Jessica","Adam, Isabel","Mountcastle, Madeline",,,,0,0,18,19,"[Ding, Jessica] Kill by Adam, Isabel (from Mountcastle, Madeline).",NYU,SWAT
+3,38,37,SWAT,error,attack_error,SWAT,"Sheridan, Maya","Dillon, Stella","Ding, Jessica",,"Dillon, Stella",,0,0,19,19,"[Sheridan, Maya] Attack error by Dillon, Stella (from Ding, Jessica).",NYU,SWAT
+3,39,38,SWAT,attack,kill,SWAT,"Sheridan, Maya","Bardauskaite, Aiste","Eyer, Melissa",,,,0,0,20,19,"[Sheridan, Maya] Kill by Bardauskaite, Aiste (from Eyer, Melissa).",NYU,SWAT
+3,40,39,NYU,attack,kill,SWAT,"Sheridan, Maya","Dillon, Stella","Ding, Jessica",,,,0,0,20,20,"[Sheridan, Maya] Kill by Dillon, Stella (from Ding, Jessica).",NYU,SWAT
+3,41,40,NYU,block,attack_error,NYU,"Laing, Daniela","Adam, Isabel",,"Kuchibhotla, Amiya; Dillon, Stella","Adam, Isabel",,0,0,20,21,"[Laing, Daniela] Attack error by Adam, Isabel (block by Kuchibhotla, Amiya; Dillon, Stella).",NYU,SWAT
+3,42,41,NYU,attack,kill,NYU,"Laing, Daniela","Nelson, Grace","Ding, Jessica",,,,0,0,20,22,"[Laing, Daniela] Kill by Nelson, Grace (from Ding, Jessica).",NYU,SWAT
+3,43,42,SWAT,error,service_error,NYU,"Laing, Daniela",,,,"Laing, Daniela",,0,0,21,22,"[Laing, Daniela] Service error.",NYU,SWAT
+3,44,43,NYU,attack,kill,SWAT,"Adam, Isabel","Dillon, Stella","Ding, Jessica",,,,0,0,21,23,"[Adam, Isabel] Kill by Dillon, Stella (from Ding, Jessica).",NYU,SWAT
+3,45,44,SWAT,attack,kill,NYU,"Sato, Kaitlyn","Heminway, Angelina","Sheridan, Maya",,,,0,0,22,23,"[Sato, Kaitlyn] Kill by Heminway, Angelina (from Sheridan, Maya).",NYU,SWAT
+3,46,45,NYU,attack,kill,SWAT,"Heminway, Angelina","Nelson, Grace","Topcu, Duru",,,,0,0,22,24,"[Heminway, Angelina] Kill by Nelson, Grace (from Topcu, Duru).",NYU,SWAT
+3,47,46,NYU,block,attack_error,NYU,"Launsbach, Ava","Bardauskaite, Aiste",,"Nelson, Grace; Morales, Sienna","Bardauskaite, Aiste",,0,0,22,25,"[Launsbach, Ava] Attack error by Bardauskaite, Aiste (block by Nelson, Grace; Morales, Sienna).",NYU,SWAT
+4,1,0,SWAT,attack,kill,NYU,"Launsbach, Ava","Enache, Alexia","Mountcastle, Madeline",,,,0,1,1,0,"[Launsbach, Ava] Kill by Enache, Alexia (from Mountcastle, Madeline).",NYU,SWAT
+4,2,1,NYU,attack,kill,SWAT,"Kim, Nicole","Nelson, Grace","Launsbach, Ava",,,,0,1,1,1,"[Kim, Nicole] Kill by Nelson, Grace (from Launsbach, Ava).",NYU,SWAT
+4,3,2,SWAT,error,attack_error,NYU,"Nelson, Grace","Lemons, Chloe","Launsbach, Ava",,"Lemons, Chloe",,0,0,2,1,"[Nelson, Grace] Attack error by Lemons, Chloe (from Launsbach, Ava).",NYU,SWAT
+4,4,3,SWAT,error,attack_error,SWAT,"Eyer, Melissa","Morales, Sienna","Launsbach, Ava",,"Morales, Sienna",,0,0,3,1,"[Eyer, Melissa] Attack error by Morales, Sienna (from Launsbach, Ava).",NYU,SWAT
+4,5,4,NYU,error,attack_error,SWAT,"Eyer, Melissa","Adam, Isabel","Kim, Nicole",,"Adam, Isabel",,0,0,3,2,"[Eyer, Melissa] Attack error by Adam, Isabel (from Kim, Nicole).",NYU,SWAT
+4,6,5,NYU,block,attack_error,NYU,"Morales, Sienna","Miles, Keira",,"Lemons, Chloe","Miles, Keira",,0,0,3,3,"[Morales, Sienna] Attack error by Miles, Keira (block by Lemons, Chloe).",NYU,SWAT
+4,7,6,SWAT,attack,kill,NYU,"Morales, Sienna","Adam, Isabel","Mountcastle, Madeline",,,,0,1,4,3,"[Morales, Sienna] Kill by Adam, Isabel (from Mountcastle, Madeline).",NYU,SWAT
+4,8,7,NYU,block,attack_error,SWAT,"Sheridan, Maya","Bardauskaite, Aiste",,"Lemons, Chloe; Kuchibhotla, Amiya","Bardauskaite, Aiste",,0,1,4,4,"[Sheridan, Maya] Attack error by Bardauskaite, Aiste (block by Lemons, Chloe; Kuchibhotla, Amiya).",NYU,SWAT
+4,9,8,NYU,ace,service_ace,NYU,"Ding, Jessica",,,,,"Bardauskaite, Aiste",0,1,4,5,"[Ding, Jessica] Service ace (Bardauskaite, Aiste).",NYU,SWAT
+4,10,9,SWAT,attack,kill,NYU,"Ding, Jessica","Heminway, Angelina",,,,,0,0,5,5,"[Ding, Jessica] Kill by Heminway, Angelina.",NYU,SWAT
+4,11,10,SWAT,error,ball_handling_error,SWAT,"Adam, Isabel",,,,"Nelson, Grace",,0,0,6,5,"[Adam, Isabel] Bad set by Nelson, Grace.",NYU,SWAT
+4,12,11,SWAT,ace,service_ace,SWAT,"Adam, Isabel",,,,,"Nelson, Grace",0,0,7,5,"[Adam, Isabel] Service ace (Nelson, Grace).",NYU,SWAT
+4,13,12,NYU,attack,kill,SWAT,"Adam, Isabel","Kuchibhotla, Amiya","Ding, Jessica",,,,0,0,7,6,"[Adam, Isabel] Kill by Kuchibhotla, Amiya (from Ding, Jessica).",NYU,SWAT
+4,14,13,NYU,attack,kill,NYU,"Laing, Daniela","Dillon, Stella","Ding, Jessica",,,,0,1,7,7,"[Laing, Daniela] Kill by Dillon, Stella (from Ding, Jessica).",NYU,SWAT
+4,15,14,SWAT,attack,kill,NYU,"Laing, Daniela","Adam, Isabel","Sheridan, Maya",,,,0,0,8,7,"[Laing, Daniela] Kill by Adam, Isabel (from Sheridan, Maya).",NYU,SWAT
+4,16,15,SWAT,error,attack_error,SWAT,"Heminway, Angelina","Nelson, Grace","Ding, Jessica",,"Nelson, Grace",,0,0,9,7,"[Heminway, Angelina] Attack error by Nelson, Grace (from Ding, Jessica).",NYU,SWAT
+4,17,16,NYU,attack,kill,SWAT,"Heminway, Angelina","Nelson, Grace","Topcu, Duru",,,,0,0,9,8,"[Heminway, Angelina] Kill by Nelson, Grace (from Topcu, Duru).",NYU,SWAT
+4,18,17,NYU,ace,service_ace,NYU,"Sato, Kaitlyn",,,,,"Adam, Isabel",0,0,9,9,"[Sato, Kaitlyn] Service ace (Adam, Isabel).",NYU,SWAT
+4,19,18,SWAT,error,service_error,NYU,"Sato, Kaitlyn",,,,"Sato, Kaitlyn",,0,0,10,9,"[Sato, Kaitlyn] Service error.",NYU,SWAT
+4,20,19,NYU,error,service_error,SWAT,"Mountcastle, Madeline",,,,"Mountcastle, Madeline",,0,0,10,10,"[Mountcastle, Madeline] Service error.",NYU,SWAT
+4,21,20,NYU,attack,kill,NYU,"Launsbach, Ava","Nelson, Grace","Launsbach, Ava",,,,0,0,10,11,"[Launsbach, Ava] Kill by Nelson, Grace (from Launsbach, Ava).",NYU,SWAT
+4,22,21,NYU,attack,kill,NYU,"Launsbach, Ava","Lattan, Sarah","Launsbach, Ava",,,,0,0,10,12,"[Launsbach, Ava] Kill by Lattan, Sarah (from Launsbach, Ava).",NYU,SWAT
+4,23,22,SWAT,attack,kill,NYU,"Launsbach, Ava","Montgomery, Zindzhi","Mountcastle, Madeline",,,,0,0,11,12,"[Launsbach, Ava] Kill by Montgomery, Zindzhi (from Mountcastle, Madeline).",NYU,SWAT
+4,24,23,NYU,attack,kill,SWAT,"Kim, Nicole","Nelson, Grace","Launsbach, Ava",,,,0,0,11,13,"[Kim, Nicole] Kill by Nelson, Grace (from Launsbach, Ava).",NYU,SWAT
+4,25,24,SWAT,attack,kill,NYU,"Nelson, Grace","Miles, Keira","Mountcastle, Madeline",,,,0,0,12,13,"[Nelson, Grace] Kill by Miles, Keira (from Mountcastle, Madeline).",NYU,SWAT
+4,26,25,NYU,attack,kill,SWAT,"Eyer, Melissa","Lemons, Chloe","Launsbach, Ava",,,,0,0,12,14,"[Eyer, Melissa] Kill by Lemons, Chloe (from Launsbach, Ava).",NYU,SWAT
+4,27,26,SWAT,error,service_error,NYU,"Morales, Sienna",,,,"Morales, Sienna",,0,0,13,14,"[Morales, Sienna] Service error.",NYU,SWAT
+4,28,27,NYU,error,service_error,SWAT,"Sheridan, Maya",,,,"Sheridan, Maya",,0,0,13,15,"[Sheridan, Maya] Service error.",NYU,SWAT
+4,29,28,SWAT,attack,kill,NYU,"Ding, Jessica","Adam, Isabel","Eyer, Melissa",,,,0,0,14,15,"[Ding, Jessica] Kill by Adam, Isabel (from Eyer, Melissa).",NYU,SWAT
+4,30,29,NYU,attack,kill,SWAT,"Adam, Isabel","Kuchibhotla, Amiya","Ding, Jessica",,,,0,0,14,16,"[Adam, Isabel] Kill by Kuchibhotla, Amiya (from Ding, Jessica).",NYU,SWAT
+4,31,30,SWAT,attack,kill,NYU,"Laing, Daniela","Adam, Isabel","Sheridan, Maya",,,,0,0,15,16,"[Laing, Daniela] Kill by Adam, Isabel (from Sheridan, Maya).",NYU,SWAT
+4,32,31,SWAT,attack,kill,SWAT,"Heminway, Angelina","Adam, Isabel","Sheridan, Maya",,,,0,0,16,16,"[Heminway, Angelina] Kill by Adam, Isabel (from Sheridan, Maya).",NYU,SWAT
+4,33,32,NYU,attack,kill,SWAT,"Heminway, Angelina","Dillon, Stella","Ding, Jessica",,,,0,0,16,17,"[Heminway, Angelina] Kill by Dillon, Stella (from Ding, Jessica).",NYU,SWAT
+4,34,33,SWAT,attack,kill,NYU,"Sato, Kaitlyn","Adam, Isabel","Sheridan, Maya",,,,0,0,17,17,"[Sato, Kaitlyn] Kill by Adam, Isabel (from Sheridan, Maya).",NYU,SWAT
+4,35,34,NYU,attack,kill,SWAT,"Mountcastle, Madeline","Morales, Sienna","Ding, Jessica",,,,0,0,17,18,"[Mountcastle, Madeline] Kill by Morales, Sienna (from Ding, Jessica).",NYU,SWAT
+4,36,35,NYU,error,attack_error,NYU,"Launsbach, Ava","Adam, Isabel","Mountcastle, Madeline",,"Adam, Isabel",,0,0,17,19,"[Launsbach, Ava] Attack error by Adam, Isabel (from Mountcastle, Madeline).",NYU,SWAT
+4,37,36,SWAT,block,attack_error,NYU,"Launsbach, Ava","Lattan, Sarah",,"Enache, Alexia","Lattan, Sarah",,0,0,18,19,"[Launsbach, Ava] Attack error by Lattan, Sarah (block by Enache, Alexia).",NYU,SWAT
+4,38,37,NYU,error,service_error,SWAT,"Kim, Nicole",,,,"Kim, Nicole",,0,0,18,20,"[Kim, Nicole] Service error.",NYU,SWAT
+4,39,38,NYU,block,attack_error,NYU,"Nelson, Grace","Miles, Keira",,"Lemons, Chloe; Morales, Sienna","Miles, Keira",,0,0,18,21,"[Nelson, Grace] Attack error by Miles, Keira (block by Lemons, Chloe; Morales, Sienna).",NYU,SWAT
+4,40,39,NYU,attack,kill,NYU,"Nelson, Grace","Lemons, Chloe","Launsbach, Ava",,,,0,0,18,22,"[Nelson, Grace] Kill by Lemons, Chloe (from Launsbach, Ava).",NYU,SWAT
+4,41,40,NYU,error,attack_error,NYU,"Nelson, Grace","Adam, Isabel","Mountcastle, Madeline",,"Adam, Isabel",,0,0,18,23,"[Nelson, Grace] Attack error by Adam, Isabel (from Mountcastle, Madeline).",NYU,SWAT
+4,42,41,NYU,attack,kill,NYU,"Nelson, Grace","Lattan, Sarah","Lemons, Chloe",,,,0,0,18,24,"[Nelson, Grace] Kill by Lattan, Sarah (from Lemons, Chloe).",NYU,SWAT
+4,43,42,NYU,error,attack_error,NYU,"Nelson, Grace","Adam, Isabel","Eyer, Melissa",,"Adam, Isabel",,0,0,18,25,"[Nelson, Grace] Attack error by Adam, Isabel (from Eyer, Melissa).",NYU,SWAT

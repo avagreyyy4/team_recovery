@@ -1,0 +1,170 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,Austin,ace,service_ace,Austin,"Talley, Brooklyn",,,,,"Menn, Kelsi",0,0,1,0,"[Talley, Brooklyn] Service ace (Menn, Kelsi).",TLU,Austin
+1,2,1,Austin,attack,kill,Austin,"Talley, Brooklyn","Royalty, Christine","Talley, Brooklyn",,,,0,0,2,0,"[Talley, Brooklyn] Kill by Royalty, Christine (from Talley, Brooklyn).",TLU,Austin
+1,3,2,TLU,attack,kill,Austin,"Talley, Brooklyn","Menn, Kelsi","Chambers, Jaci",,,,0,0,2,1,"[Talley, Brooklyn] Kill by Menn, Kelsi (from Chambers, Jaci).",TLU,Austin
+1,4,3,TLU,error,attack_error,TLU,"Day, Paige","Arbaugh, Hannah","Talley, Brooklyn",,"Arbaugh, Hannah",,0,0,2,2,"[Day, Paige] Attack error by Arbaugh, Hannah (from Talley, Brooklyn).",TLU,Austin
+1,5,4,TLU,attack,kill,TLU,"Day, Paige","Mitchan, Bryten","Chambers, Jaci",,,,0,0,2,3,"[Day, Paige] Kill by Mitchan, Bryten (from Chambers, Jaci).",TLU,Austin
+1,6,5,Austin,attack,kill,TLU,"Day, Paige","Royalty, Christine","Arbaugh, Hannah",,,,0,0,3,3,"[Day, Paige] Kill by Royalty, Christine (from Arbaugh, Hannah).",TLU,Austin
+1,7,6,TLU,attack,kill,Austin,"Arbaugh, Hannah","Mitchan, Bryten","Morris, Lexi",,,,0,0,3,4,"[Arbaugh, Hannah] Kill by Mitchan, Bryten (from Morris, Lexi).",TLU,Austin
+1,8,7,Austin,attack,kill,TLU,"Morris, Lexi","Royalty, Christine","Talley, Brooklyn",,,,0,0,4,4,"[Morris, Lexi] Kill by Royalty, Christine (from Talley, Brooklyn).",TLU,Austin
+1,9,8,Austin,attack,kill,Austin,"Royalty, Christine","Browne, Kynleigh",,,,,0,0,5,4,"[Royalty, Christine] Kill by Browne, Kynleigh.",TLU,Austin
+1,10,9,TLU,error,service_error,Austin,"Royalty, Christine",,,,"Royalty, Christine",,0,0,5,5,"[Royalty, Christine] Service error.",TLU,Austin
+1,11,10,Austin,attack,kill,TLU,"Jurden, Kelly","Browne, Kynleigh","Talley, Brooklyn",,,,0,1,6,5,"[Jurden, Kelly] Kill by Browne, Kynleigh (from Talley, Brooklyn).",TLU,Austin
+1,12,11,TLU,error,service_error,Austin,"Dykes, Karson",,,,"Dykes, Karson",,0,0,6,6,"[Dykes, Karson] Service error.",TLU,Austin
+1,13,12,Austin,attack,kill,TLU,"Contreras, Celie","Browne, Kynleigh","Talley, Brooklyn",,,,0,1,7,6,"[Contreras, Celie] Kill by Browne, Kynleigh (from Talley, Brooklyn).",TLU,Austin
+1,14,13,Austin,error,attack_error,Austin,"Cook, Shelbi","Day, Paige","Jurden, Kelly",,"Day, Paige",,0,0,8,6,"[Cook, Shelbi] Attack error by Day, Paige (from Jurden, Kelly).",TLU,Austin
+1,15,14,TLU,attack,kill,Austin,"Cook, Shelbi","Kitchens, Savhannah","Jurden, Kelly",,,,0,0,8,7,"[Cook, Shelbi] Kill by Kitchens, Savhannah (from Jurden, Kelly).",TLU,Austin
+1,16,15,TLU,block,attack_error,TLU,"Sulak, Peyton","Arbaugh, Hannah",,"Menn, Kelsi","Arbaugh, Hannah",,0,1,8,8,"[Sulak, Peyton] Attack error by Arbaugh, Hannah (block by Menn, Kelsi).",TLU,Austin
+1,17,16,TLU,block,attack_error,TLU,"Sulak, Peyton","Arbaugh, Hannah",,"Kitchens, Savhannah; Menn, Kelsi","Arbaugh, Hannah",,0,0,8,9,"[Sulak, Peyton] Attack error by Arbaugh, Hannah (block by Kitchens, Savhannah; Menn, Kelsi).",TLU,Austin
+1,18,17,TLU,block,attack_error,TLU,"Sulak, Peyton","Arbaugh, Hannah",,"Kitchens, Savhannah","Arbaugh, Hannah",,0,0,8,10,"[Sulak, Peyton] Attack error by Arbaugh, Hannah (block by Kitchens, Savhannah).",TLU,Austin
+1,19,18,TLU,error,attack_error,TLU,"Sulak, Peyton","Dykes, Karson","Talley, Brooklyn",,"Dykes, Karson",,0,0,8,11,"[Sulak, Peyton] Attack error by Dykes, Karson (from Talley, Brooklyn).",TLU,Austin
+1,20,19,TLU,ace,service_ace,TLU,"Sulak, Peyton",,,,,Team,0,0,8,12,"[Sulak, Peyton] Service ace (Team).",TLU,Austin
+1,21,20,TLU,block,attack_error,TLU,"Sulak, Peyton","Arbaugh, Hannah",,"Kitchens, Savhannah","Arbaugh, Hannah",,0,0,8,13,"[Sulak, Peyton] Attack error by Arbaugh, Hannah (block by Kitchens, Savhannah).",TLU,Austin
+1,22,21,TLU,error,attack_error,TLU,"Sulak, Peyton","Arbaugh, Hannah","Talley, Brooklyn",,"Arbaugh, Hannah",,0,0,8,14,"[Sulak, Peyton] Attack error by Arbaugh, Hannah (from Talley, Brooklyn).",TLU,Austin
+1,23,22,TLU,attack,kill,TLU,"Sulak, Peyton","Kitchens, Savhannah","Sulak, Peyton",,,,0,0,8,15,"[Sulak, Peyton] Kill by Kitchens, Savhannah (from Sulak, Peyton).",TLU,Austin
+1,24,23,TLU,attack,kill,TLU,"Sulak, Peyton","Day, Paige","Jurden, Kelly",,,,0,0,8,16,"[Sulak, Peyton] Kill by Day, Paige (from Jurden, Kelly).",TLU,Austin
+1,25,24,TLU,ace,service_ace,TLU,"Sulak, Peyton",,,,,"Arbaugh, Hannah",0,0,8,17,"[Sulak, Peyton] Service ace (Arbaugh, Hannah).",TLU,Austin
+1,26,25,TLU,error,attack_error,TLU,"Sulak, Peyton","Browne, Kynleigh","Talley, Brooklyn",,"Browne, Kynleigh",,0,0,8,18,"[Sulak, Peyton] Attack error by Browne, Kynleigh (from Talley, Brooklyn).",TLU,Austin
+1,27,26,TLU,attack,kill,TLU,"Sulak, Peyton","Menn, Kelsi",,,,,0,0,8,19,"[Sulak, Peyton] Kill by Menn, Kelsi.",TLU,Austin
+1,28,27,TLU,attack,kill,TLU,"Sulak, Peyton","Kitchens, Savhannah","Jurden, Kelly",,,,0,0,8,20,"[Sulak, Peyton] Kill by Kitchens, Savhannah (from Jurden, Kelly).",TLU,Austin
+1,29,28,TLU,attack,kill,TLU,"Sulak, Peyton","Menn, Kelsi","Jurden, Kelly",,,,0,0,8,21,"[Sulak, Peyton] Kill by Menn, Kelsi (from Jurden, Kelly).",TLU,Austin
+1,30,29,Austin,error,attack_error,TLU,"Sulak, Peyton","Kitchens, Savhannah","Jurden, Kelly",,"Kitchens, Savhannah",,0,0,9,21,"[Sulak, Peyton] Attack error by Kitchens, Savhannah (from Jurden, Kelly).",TLU,Austin
+1,31,30,TLU,attack,kill,Austin,"Prazak, Mari","Kitchens, Savhannah","Jurden, Kelly",,,,0,0,9,22,"[Prazak, Mari] Kill by Kitchens, Savhannah (from Jurden, Kelly).",TLU,Austin
+1,32,31,TLU,ace,service_ace,TLU,"Chambers, Jaci",,,,,"Dykes, Karson",0,0,9,23,"[Chambers, Jaci] Service ace (Dykes, Karson).",TLU,Austin
+1,33,32,TLU,error,attack_error,TLU,"Chambers, Jaci","Royalty, Christine","Talley, Brooklyn",,"Royalty, Christine",,0,1,9,24,"[Chambers, Jaci] Attack error by Royalty, Christine (from Talley, Brooklyn).",TLU,Austin
+1,34,33,Austin,error,attack_error,TLU,"Chambers, Jaci","Mitchan, Bryten","Menn, Kelsi",,"Mitchan, Bryten",,0,0,10,24,"[Chambers, Jaci] Attack error by Mitchan, Bryten (from Menn, Kelsi).",TLU,Austin
+1,35,34,TLU,error,attack_error,Austin,"Talley, Brooklyn","Prazak, Mari","Royalty, Christine",,"Prazak, Mari",,0,1,10,25,"[Talley, Brooklyn] Attack error by Prazak, Mari (from Royalty, Christine).",TLU,Austin
+2,1,0,Austin,attack,kill,TLU,"Chambers, Jaci","Royalty, Christine","Talley, Brooklyn",,,,0,1,1,0,"[Chambers, Jaci] Kill by Royalty, Christine (from Talley, Brooklyn).",TLU,Austin
+2,2,1,Austin,error,attack_error,Austin,"Talley, Brooklyn","Menn, Kelsi","Chambers, Jaci",,"Menn, Kelsi",,0,1,2,0,"[Talley, Brooklyn] Attack error by Menn, Kelsi (from Chambers, Jaci).",TLU,Austin
+2,3,2,TLU,attack,kill,Austin,"Talley, Brooklyn","Chambers, Jaci","Young, Cailey",,,,0,0,2,1,"[Talley, Brooklyn] Kill by Chambers, Jaci (from Young, Cailey).",TLU,Austin
+2,4,3,Austin,attack,kill,TLU,"Day, Paige","Royalty, Christine","Talley, Brooklyn",,,,0,0,3,1,"[Day, Paige] Kill by Royalty, Christine (from Talley, Brooklyn).",TLU,Austin
+2,5,4,Austin,error,attack_error,Austin,"Arbaugh, Hannah","Mitchan, Bryten","Chambers, Jaci",,"Mitchan, Bryten",,0,1,4,1,"[Arbaugh, Hannah] Attack error by Mitchan, Bryten (from Chambers, Jaci).",TLU,Austin
+2,6,5,Austin,attack,kill,Austin,"Arbaugh, Hannah","Mahoney, Caitlin","Talley, Brooklyn",,,,0,0,5,1,"[Arbaugh, Hannah] Kill by Mahoney, Caitlin (from Talley, Brooklyn).",TLU,Austin
+2,7,6,TLU,error,ball_handling_error,Austin,"Arbaugh, Hannah",,,,"Mahoney, Caitlin",,0,0,5,2,"[Arbaugh, Hannah] Bad set by Mahoney, Caitlin.",TLU,Austin
+2,8,7,TLU,attack,kill,TLU,"Morris, Lexi","Young, Cailey","Chambers, Jaci",,,,0,0,5,3,"[Morris, Lexi] Kill by Young, Cailey (from Chambers, Jaci).",TLU,Austin
+2,9,8,Austin,block,attack_error,TLU,"Morris, Lexi","Sulak, Peyton",,"Cook, Shelbi; Royalty, Christine","Sulak, Peyton",,0,0,6,3,"[Morris, Lexi] Attack error by Sulak, Peyton (block by Cook, Shelbi; Royalty, Christine).",TLU,Austin
+2,10,9,Austin,ace,service_ace,Austin,"Prazak, Mari",,,,,Team,0,0,7,3,"[Prazak, Mari] Service ace (Team).",TLU,Austin
+2,11,10,Austin,error,ball_handling_error,Austin,"Prazak, Mari",,,,"Chambers, Jaci",,0,0,8,3,"[Prazak, Mari] Bad set by Chambers, Jaci.",TLU,Austin
+2,12,11,TLU,attack,kill,Austin,"Prazak, Mari","Young, Cailey","Chambers, Jaci",,,,0,0,8,4,"[Prazak, Mari] Kill by Young, Cailey (from Chambers, Jaci).",TLU,Austin
+2,13,12,TLU,attack,kill,TLU,"Jurden, Kelly","Kitchens, Savhannah","Jurden, Kelly",,,,0,1,8,5,"[Jurden, Kelly] Kill by Kitchens, Savhannah (from Jurden, Kelly).",TLU,Austin
+2,14,13,TLU,error,ball_handling_error,TLU,"Jurden, Kelly",,,,"Talley, Brooklyn",,0,0,8,6,"[Jurden, Kelly] Bad set by Talley, Brooklyn.",TLU,Austin
+2,15,14,Austin,attack,kill,TLU,"Jurden, Kelly","Mahoney, Caitlin","Talley, Brooklyn",,,,0,0,9,6,"[Jurden, Kelly] Kill by Mahoney, Caitlin (from Talley, Brooklyn).",TLU,Austin
+2,16,15,Austin,error,attack_error,Austin,"Kobza, Taylor","Young, Cailey","Jurden, Kelly",,"Young, Cailey",,0,0,10,6,"[Kobza, Taylor] Attack error by Young, Cailey (from Jurden, Kelly).",TLU,Austin
+2,17,16,TLU,error,service_error,Austin,"Kobza, Taylor",,,,"Kobza, Taylor",,0,0,10,7,"[Kobza, Taylor] Service error.",TLU,Austin
+2,18,17,Austin,attack,kill,TLU,"Contreras, Celie","Cook, Shelbi","Arbaugh, Hannah",,,,0,1,11,7,"[Contreras, Celie] Kill by Cook, Shelbi (from Arbaugh, Hannah).",TLU,Austin
+2,19,18,TLU,error,service_error,Austin,"Cook, Shelbi",,,,"Cook, Shelbi",,0,0,11,8,"[Cook, Shelbi] Service error.",TLU,Austin
+2,20,19,TLU,attack,kill,TLU,"Sulak, Peyton","Day, Paige","Jurden, Kelly",,,,0,0,11,9,"[Sulak, Peyton] Kill by Day, Paige (from Jurden, Kelly).",TLU,Austin
+2,21,20,Austin,attack,kill,TLU,"Sulak, Peyton","Browne, Kynleigh","Talley, Brooklyn",,,,0,0,12,9,"[Sulak, Peyton] Kill by Browne, Kynleigh (from Talley, Brooklyn).",TLU,Austin
+2,22,21,TLU,attack,kill,Austin,"Browne, Kynleigh","Kitchens, Savhannah","Contreras, Celie",,,,0,0,12,10,"[Browne, Kynleigh] Kill by Kitchens, Savhannah (from Contreras, Celie).",TLU,Austin
+2,23,22,TLU,error,ball_handling_error,TLU,"Chambers, Jaci",,,,"Talley, Brooklyn",,0,0,12,11,"[Chambers, Jaci] Bad set by Talley, Brooklyn.",TLU,Austin
+2,24,23,Austin,attack,kill,TLU,"Chambers, Jaci","Arbaugh, Hannah","Prazak, Mari",,,,0,0,13,11,"[Chambers, Jaci] Kill by Arbaugh, Hannah (from Prazak, Mari).",TLU,Austin
+2,25,24,Austin,block,attack_error,Austin,"Talley, Brooklyn","Menn, Kelsi",,"Royalty, Christine","Menn, Kelsi",,0,1,14,11,"[Talley, Brooklyn] Attack error by Menn, Kelsi (block by Royalty, Christine).",TLU,Austin
+2,26,25,TLU,attack,kill,Austin,"Talley, Brooklyn","Mitchan, Bryten","Chambers, Jaci",,,,0,0,14,12,"[Talley, Brooklyn] Kill by Mitchan, Bryten (from Chambers, Jaci).",TLU,Austin
+2,27,26,Austin,attack,kill,TLU,"Day, Paige","Dykes, Karson","Watson, Cassidy",,,,0,0,15,12,"[Day, Paige] Kill by Dykes, Karson (from Watson, Cassidy).",TLU,Austin
+2,28,27,Austin,ace,service_ace,Austin,"Arbaugh, Hannah",,,,,Team,0,0,16,12,"[Arbaugh, Hannah] Service ace (Team).",TLU,Austin
+2,29,28,TLU,attack,kill,Austin,"Arbaugh, Hannah","Mitchan, Bryten","Chambers, Jaci",,,,0,0,16,13,"[Arbaugh, Hannah] Kill by Mitchan, Bryten (from Chambers, Jaci).",TLU,Austin
+2,30,29,Austin,attack,kill,TLU,"Morris, Lexi","Royalty, Christine","Talley, Brooklyn",,,,0,0,17,13,"[Morris, Lexi] Kill by Royalty, Christine (from Talley, Brooklyn).",TLU,Austin
+2,31,30,TLU,attack,kill,Austin,"Prazak, Mari","Mitchan, Bryten","Chambers, Jaci",,,,0,0,17,14,"[Prazak, Mari] Kill by Mitchan, Bryten (from Chambers, Jaci).",TLU,Austin
+2,32,31,Austin,attack,kill,TLU,"Jurden, Kelly","Dykes, Karson","Talley, Brooklyn",,,,0,0,18,14,"[Jurden, Kelly] Kill by Dykes, Karson (from Talley, Brooklyn).",TLU,Austin
+2,33,32,TLU,attack,kill,Austin,"Dykes, Karson","Kitchens, Savhannah","Jurden, Kelly",,,,0,0,18,15,"[Dykes, Karson] Kill by Kitchens, Savhannah (from Jurden, Kelly).",TLU,Austin
+2,34,33,TLU,error,attack_error,TLU,"Contreras, Celie","Browne, Kynleigh","Talley, Brooklyn",,"Browne, Kynleigh",,0,0,18,16,"[Contreras, Celie] Attack error by Browne, Kynleigh (from Talley, Brooklyn).",TLU,Austin
+2,35,34,Austin,attack,kill,TLU,"Contreras, Celie","Cook, Shelbi","Talley, Brooklyn",,,,0,0,19,16,"[Contreras, Celie] Kill by Cook, Shelbi (from Talley, Brooklyn).",TLU,Austin
+2,36,35,Austin,error,attack_error,Austin,"Cook, Shelbi","Day, Paige","Jurden, Kelly",,"Day, Paige",,0,0,20,16,"[Cook, Shelbi] Attack error by Day, Paige (from Jurden, Kelly).",TLU,Austin
+2,37,36,TLU,attack,kill,Austin,"Cook, Shelbi","Day, Paige","Jurden, Kelly",,,,0,0,20,17,"[Cook, Shelbi] Kill by Day, Paige (from Jurden, Kelly).",TLU,Austin
+2,38,37,TLU,ace,service_ace,TLU,"Sulak, Peyton",,,,,"Watson, Cassidy",0,0,20,18,"[Sulak, Peyton] Service ace (Watson, Cassidy).",TLU,Austin
+2,39,38,TLU,block,attack_error,TLU,"Sulak, Peyton","Arbaugh, Hannah",,"Kitchens, Savhannah; Menn, Kelsi","Arbaugh, Hannah",,0,0,20,19,"[Sulak, Peyton] Attack error by Arbaugh, Hannah (block by Kitchens, Savhannah; Menn, Kelsi).",TLU,Austin
+2,40,39,Austin,attack,kill,TLU,"Sulak, Peyton","Browne, Kynleigh","Prazak, Mari",,,,0,0,21,19,"[Sulak, Peyton] Kill by Browne, Kynleigh (from Prazak, Mari).",TLU,Austin
+2,41,40,TLU,error,attack_error,Austin,"Browne, Kynleigh","Royalty, Christine","Talley, Brooklyn",,"Royalty, Christine",,0,0,21,20,"[Browne, Kynleigh] Attack error by Royalty, Christine (from Talley, Brooklyn).",TLU,Austin
+2,42,41,Austin,error,attack_error,TLU,"Chambers, Jaci","Day, Paige","Morris, Lexi",,"Day, Paige",,0,0,22,20,"[Chambers, Jaci] Attack error by Day, Paige (from Morris, Lexi).",TLU,Austin
+2,43,42,TLU,attack,kill,Austin,"Talley, Brooklyn","Menn, Kelsi","Chambers, Jaci",,,,0,0,22,21,"[Talley, Brooklyn] Kill by Menn, Kelsi (from Chambers, Jaci).",TLU,Austin
+2,44,43,Austin,attack,kill,TLU,"Day, Paige","Royalty, Christine","Talley, Brooklyn",,,,0,0,23,21,"[Day, Paige] Kill by Royalty, Christine (from Talley, Brooklyn).",TLU,Austin
+2,45,44,TLU,attack,kill,Austin,"Arbaugh, Hannah","Mitchan, Bryten","Chambers, Jaci",,,,0,0,23,22,"[Arbaugh, Hannah] Kill by Mitchan, Bryten (from Chambers, Jaci).",TLU,Austin
+2,46,45,TLU,block,attack_error,TLU,"Morris, Lexi","Mahoney, Caitlin",,"Sulak, Peyton; Young, Cailey","Mahoney, Caitlin",,0,0,23,23,"[Morris, Lexi] Attack error by Mahoney, Caitlin (block by Sulak, Peyton; Young, Cailey).",TLU,Austin
+2,47,46,Austin,attack,kill,TLU,"Morris, Lexi","Royalty, Christine","Talley, Brooklyn",,,,0,0,24,23,"[Morris, Lexi] Kill by Royalty, Christine (from Talley, Brooklyn).",TLU,Austin
+2,48,47,Austin,attack,kill,Austin,"Prazak, Mari","Cook, Shelbi","Prazak, Mari",,,,0,0,25,23,"[Prazak, Mari] Kill by Cook, Shelbi (from Prazak, Mari).",TLU,Austin
+3,1,0,TLU,attack,kill,Austin,"Browne, Kynleigh","Hall, Kacie","Chambers, Jaci",,,,0,1,0,1,"[Browne, Kynleigh] Kill by Hall, Kacie (from Chambers, Jaci).",TLU,Austin
+3,2,1,TLU,attack,kill,TLU,"Day, Paige","Hall, Kacie","Chambers, Jaci",,,,0,0,0,2,"[Day, Paige] Kill by Hall, Kacie (from Chambers, Jaci).",TLU,Austin
+3,3,2,TLU,error,attack_error,TLU,"Day, Paige","Arbaugh, Hannah","Prazak, Mari",,"Arbaugh, Hannah",,0,0,0,3,"[Day, Paige] Attack error by Arbaugh, Hannah (from Prazak, Mari).",TLU,Austin
+3,4,3,Austin,block,attack_error,TLU,"Day, Paige","Young, Cailey",,"Royalty, Christine","Young, Cailey",,0,0,1,3,"[Day, Paige] Attack error by Young, Cailey (block by Royalty, Christine).",TLU,Austin
+3,5,4,TLU,error,ball_handling_error,Austin,"Talley, Brooklyn",,,,"Talley, Brooklyn",,0,1,1,4,"[Talley, Brooklyn] Bad set by Talley, Brooklyn.",TLU,Austin
+3,6,5,TLU,attack,kill,TLU,"Morris, Lexi","Hall, Kacie","Chambers, Jaci",,,,0,0,1,5,"[Morris, Lexi] Kill by Hall, Kacie (from Chambers, Jaci).",TLU,Austin
+3,7,6,Austin,error,attack_error,TLU,"Morris, Lexi","Sulak, Peyton","Chambers, Jaci",,"Sulak, Peyton",,0,0,2,5,"[Morris, Lexi] Attack error by Sulak, Peyton (from Chambers, Jaci).",TLU,Austin
+3,8,7,Austin,attack,kill,Austin,"Arbaugh, Hannah","Cook, Shelbi","Cook, Shelbi",,,,0,1,3,5,"[Arbaugh, Hannah] Kill by Cook, Shelbi (from Cook, Shelbi).",TLU,Austin
+3,9,8,TLU,attack,kill,Austin,"Arbaugh, Hannah","Sulak, Peyton","Chambers, Jaci",,,,0,0,3,6,"[Arbaugh, Hannah] Kill by Sulak, Peyton (from Chambers, Jaci).",TLU,Austin
+3,10,9,Austin,attack,kill,TLU,"Jurden, Kelly","Royalty, Christine","Talley, Brooklyn",,,,0,1,4,6,"[Jurden, Kelly] Kill by Royalty, Christine (from Talley, Brooklyn).",TLU,Austin
+3,11,10,Austin,block,attack_error,Austin,"Prazak, Mari","Kitchens, Savhannah",,"Browne, Kynleigh","Kitchens, Savhannah",,0,0,5,6,"[Prazak, Mari] Attack error by Kitchens, Savhannah (block by Browne, Kynleigh).",TLU,Austin
+3,12,11,TLU,attack,kill,Austin,"Prazak, Mari","Young, Cailey","Jurden, Kelly",,,,0,0,5,7,"[Prazak, Mari] Kill by Young, Cailey (from Jurden, Kelly).",TLU,Austin
+3,13,12,Austin,attack,kill,TLU,"Contreras, Celie","Mahoney, Caitlin","Talley, Brooklyn",,,,0,1,6,7,"[Contreras, Celie] Kill by Mahoney, Caitlin (from Talley, Brooklyn).",TLU,Austin
+3,14,13,Austin,block,attack_error,Austin,"Kobza, Taylor","Day, Paige",,"Browne, Kynleigh; Talley, Brooklyn","Day, Paige",,0,0,7,7,"[Kobza, Taylor] Attack error by Day, Paige (block by Browne, Kynleigh; Talley, Brooklyn).",TLU,Austin
+3,15,14,TLU,attack,kill,Austin,"Kobza, Taylor","Sulak, Peyton","Jurden, Kelly",,,,0,0,7,8,"[Kobza, Taylor] Kill by Sulak, Peyton (from Jurden, Kelly).",TLU,Austin
+3,16,15,Austin,attack,kill,TLU,"Sulak, Peyton","Browne, Kynleigh","Talley, Brooklyn",,,,0,0,8,8,"[Sulak, Peyton] Kill by Browne, Kynleigh (from Talley, Brooklyn).",TLU,Austin
+3,17,16,TLU,error,service_error,Austin,"Cook, Shelbi",,,,"Cook, Shelbi",,0,0,8,9,"[Cook, Shelbi] Service error.",TLU,Austin
+3,18,17,TLU,attack,kill,TLU,"Chambers, Jaci","Hall, Kacie","Chambers, Jaci",,,,0,0,8,10,"[Chambers, Jaci] Kill by Hall, Kacie (from Chambers, Jaci).",TLU,Austin
+3,19,18,TLU,block,attack_error,TLU,"Chambers, Jaci","Arbaugh, Hannah",,"Menn, Kelsi","Arbaugh, Hannah",,0,0,8,11,"[Chambers, Jaci] Attack error by Arbaugh, Hannah (block by Menn, Kelsi).",TLU,Austin
+3,20,19,Austin,block,attack_error,TLU,"Chambers, Jaci","Hall, Kacie",,"Arbaugh, Hannah","Hall, Kacie",,0,0,9,11,"[Chambers, Jaci] Attack error by Hall, Kacie (block by Arbaugh, Hannah).",TLU,Austin
+3,21,20,Austin,attack,kill,Austin,"Browne, Kynleigh","Royalty, Christine","Talley, Brooklyn",,,,0,0,10,11,"[Browne, Kynleigh] Kill by Royalty, Christine (from Talley, Brooklyn).",TLU,Austin
+3,22,21,Austin,error,attack_error,Austin,"Browne, Kynleigh","Hall, Kacie","Chambers, Jaci",,"Hall, Kacie",,0,0,11,11,"[Browne, Kynleigh] Attack error by Hall, Kacie (from Chambers, Jaci).",TLU,Austin
+3,23,22,Austin,error,attack_error,Austin,"Browne, Kynleigh","Hall, Kacie","Chambers, Jaci",,"Hall, Kacie",,0,0,12,11,"[Browne, Kynleigh] Attack error by Hall, Kacie (from Chambers, Jaci).",TLU,Austin
+3,24,23,TLU,attack,kill,Austin,"Browne, Kynleigh","Day, Paige","Chambers, Jaci",,,,0,0,12,12,"[Browne, Kynleigh] Kill by Day, Paige (from Chambers, Jaci).",TLU,Austin
+3,25,24,Austin,error,service_error,TLU,"Day, Paige",,,,"Day, Paige",,0,0,13,12,"[Day, Paige] Service error.",TLU,Austin
+3,26,25,Austin,error,attack_error,Austin,"Talley, Brooklyn","Menn, Kelsi","Chambers, Jaci",,"Menn, Kelsi",,0,1,14,12,"[Talley, Brooklyn] Attack error by Menn, Kelsi (from Chambers, Jaci).",TLU,Austin
+3,27,26,Austin,ace,service_ace,Austin,"Talley, Brooklyn",,,,,Team,0,0,15,12,"[Talley, Brooklyn] Service ace (Team).",TLU,Austin
+3,28,27,Austin,attack,kill,Austin,"Talley, Brooklyn","Dykes, Karson","Prazak, Mari",,,,0,0,16,12,"[Talley, Brooklyn] Kill by Dykes, Karson (from Prazak, Mari).",TLU,Austin
+3,29,28,TLU,block,attack_error,Austin,"Talley, Brooklyn","Arbaugh, Hannah",,"Hall, Kacie","Arbaugh, Hannah",,0,0,16,13,"[Talley, Brooklyn] Attack error by Arbaugh, Hannah (block by Hall, Kacie).",TLU,Austin
+3,30,29,TLU,error,ball_handling_error,TLU,"Morris, Lexi",,,,"Talley, Brooklyn",,0,0,16,14,"[Morris, Lexi] Bad set by Talley, Brooklyn.",TLU,Austin
+3,31,30,Austin,attack,kill,TLU,"Morris, Lexi","Royalty, Christine","Talley, Brooklyn",,,,0,0,17,14,"[Morris, Lexi] Kill by Royalty, Christine (from Talley, Brooklyn).",TLU,Austin
+3,32,31,TLU,error,service_error,Austin,"Arbaugh, Hannah",,,,"Arbaugh, Hannah",,0,0,17,15,"[Arbaugh, Hannah] Service error.",TLU,Austin
+3,33,32,Austin,error,service_error,TLU,"Jurden, Kelly",,,,"Jurden, Kelly",,0,0,18,15,"[Jurden, Kelly] Service error.",TLU,Austin
+3,34,33,Austin,error,attack_error,Austin,"Prazak, Mari","Sulak, Peyton","Jurden, Kelly",,"Sulak, Peyton",,0,0,19,15,"[Prazak, Mari] Attack error by Sulak, Peyton (from Jurden, Kelly).",TLU,Austin
+3,35,34,Austin,attack,kill,Austin,"Prazak, Mari","Dykes, Karson","Talley, Brooklyn",,,,0,0,20,15,"[Prazak, Mari] Kill by Dykes, Karson (from Talley, Brooklyn).",TLU,Austin
+3,36,35,Austin,error,ball_handling_error,Austin,"Prazak, Mari",,,,"Jurden, Kelly",,0,0,21,15,"[Prazak, Mari] Bad set by Jurden, Kelly.",TLU,Austin
+3,37,36,Austin,attack,kill,Austin,"Prazak, Mari","Dykes, Karson","Talley, Brooklyn",,,,0,0,22,15,"[Prazak, Mari] Kill by Dykes, Karson (from Talley, Brooklyn).",TLU,Austin
+3,38,37,Austin,ace,service_ace,Austin,"Prazak, Mari",,,,,"Sulak, Peyton",0,1,23,15,"[Prazak, Mari] Service ace (Sulak, Peyton).",TLU,Austin
+3,39,38,Austin,attack,kill,Austin,"Prazak, Mari","Dykes, Karson","Talley, Brooklyn",,,,0,0,24,15,"[Prazak, Mari] Kill by Dykes, Karson (from Talley, Brooklyn).",TLU,Austin
+3,40,39,Austin,error,attack_error,Austin,"Prazak, Mari","Sulak, Peyton","Jurden, Kelly",,"Sulak, Peyton",,0,0,25,15,"[Prazak, Mari] Attack error by Sulak, Peyton (from Jurden, Kelly).",TLU,Austin
+4,1,0,Austin,attack,kill,TLU,"Chambers, Jaci","Arbaugh, Hannah","Talley, Brooklyn",,,,0,1,1,0,"[Chambers, Jaci] Kill by Arbaugh, Hannah (from Talley, Brooklyn).",TLU,Austin
+4,2,1,TLU,attack,kill,Austin,"Talley, Brooklyn","Day, Paige","Chambers, Jaci",,,,0,1,1,1,"[Talley, Brooklyn] Kill by Day, Paige (from Chambers, Jaci).",TLU,Austin
+4,3,2,Austin,attack,kill,TLU,"Day, Paige","Mahoney, Caitlin","Talley, Brooklyn",,,,0,0,2,1,"[Day, Paige] Kill by Mahoney, Caitlin (from Talley, Brooklyn).",TLU,Austin
+4,4,3,TLU,attack,kill,Austin,"Arbaugh, Hannah","Young, Cailey","Chambers, Jaci",,,,0,1,2,2,"[Arbaugh, Hannah] Kill by Young, Cailey (from Chambers, Jaci).",TLU,Austin
+4,5,4,Austin,attack,kill,TLU,"Morris, Lexi","Royalty, Christine","Talley, Brooklyn",,,,0,0,3,2,"[Morris, Lexi] Kill by Royalty, Christine (from Talley, Brooklyn).",TLU,Austin
+4,6,5,Austin,block,attack_error,Austin,"Prazak, Mari","Mitchan, Bryten",,"Cook, Shelbi; Browne, Kynleigh","Mitchan, Bryten",,0,0,4,2,"[Prazak, Mari] Attack error by Mitchan, Bryten (block by Cook, Shelbi; Browne, Kynleigh).",TLU,Austin
+4,7,6,TLU,error,service_error,Austin,"Prazak, Mari",,,,"Prazak, Mari",,0,0,4,3,"[Prazak, Mari] Service error.",TLU,Austin
+4,8,7,Austin,attack,kill,TLU,"Jurden, Kelly","Browne, Kynleigh","Talley, Brooklyn",,,,0,1,5,3,"[Jurden, Kelly] Kill by Browne, Kynleigh (from Talley, Brooklyn).",TLU,Austin
+4,9,8,Austin,attack,kill,Austin,"Kobza, Taylor","Cook, Shelbi","Browne, Kynleigh",,,,0,0,6,3,"[Kobza, Taylor] Kill by Cook, Shelbi (from Browne, Kynleigh).",TLU,Austin
+4,10,9,Austin,error,ball_handling_error,Austin,"Kobza, Taylor",,,,"Jurden, Kelly",,0,0,7,3,"[Kobza, Taylor] Bad set by Jurden, Kelly.",TLU,Austin
+4,11,10,Austin,ace,service_ace,Austin,"Kobza, Taylor",,,,,"Day, Paige",0,0,8,3,"[Kobza, Taylor] Service ace (Day, Paige).",TLU,Austin
+4,12,11,TLU,error,service_error,Austin,"Kobza, Taylor",,,,"Kobza, Taylor",,0,0,8,4,"[Kobza, Taylor] Service error.",TLU,Austin
+4,13,12,TLU,error,attack_error,TLU,"Contreras, Celie","Browne, Kynleigh","Cook, Shelbi",,"Browne, Kynleigh",,0,1,8,5,"[Contreras, Celie] Attack error by Browne, Kynleigh (from Cook, Shelbi).",TLU,Austin
+4,14,13,Austin,attack,kill,TLU,"Contreras, Celie","Cook, Shelbi","Talley, Brooklyn",,,,0,0,9,5,"[Contreras, Celie] Kill by Cook, Shelbi (from Talley, Brooklyn).",TLU,Austin
+4,15,14,TLU,error,attack_error,Austin,"Cook, Shelbi","Talley, Brooklyn","Prazak, Mari",,"Talley, Brooklyn",,0,0,9,6,"[Cook, Shelbi] Attack error by Talley, Brooklyn (from Prazak, Mari).",TLU,Austin
+4,16,15,Austin,attack,kill,TLU,"Sulak, Peyton","Browne, Kynleigh","Jurden, Kelly",,,,0,0,10,6,"[Sulak, Peyton] Kill by Browne, Kynleigh (from Jurden, Kelly).",TLU,Austin
+4,17,16,TLU,attack,kill,Austin,"Browne, Kynleigh","Kitchens, Savhannah","Jurden, Kelly",,,,0,0,10,7,"[Browne, Kynleigh] Kill by Kitchens, Savhannah (from Jurden, Kelly).",TLU,Austin
+4,18,17,Austin,attack,kill,TLU,"Chambers, Jaci","Royalty, Christine","Talley, Brooklyn",,,,0,0,11,7,"[Chambers, Jaci] Kill by Royalty, Christine (from Talley, Brooklyn).",TLU,Austin
+4,19,18,Austin,attack,kill,Austin,"Talley, Brooklyn","Arbaugh, Hannah","Talley, Brooklyn",,"Mitchan, Bryten",,0,1,12,7,"[Talley, Brooklyn] Kill by Arbaugh, Hannah (from Talley, Brooklyn), block error by Mitchan, Bryten.",TLU,Austin
+4,20,19,TLU,attack,kill,Austin,"Talley, Brooklyn","Day, Paige","Morris, Lexi",,,,0,0,12,8,"[Talley, Brooklyn] Kill by Day, Paige (from Morris, Lexi).",TLU,Austin
+4,21,20,TLU,ace,service_ace,TLU,"Day, Paige",,,,,Team,0,0,12,9,"[Day, Paige] Service ace (Team).",TLU,Austin
+4,22,21,Austin,error,attack_error,TLU,"Day, Paige","Day, Paige","Mitchan, Bryten",,"Day, Paige",,0,0,13,9,"[Day, Paige] Attack error by Day, Paige (from Mitchan, Bryten).",TLU,Austin
+4,23,22,Austin,block,attack_error,Austin,"Arbaugh, Hannah","Menn, Kelsi",,"Royalty, Christine; Dykes, Karson","Menn, Kelsi",,0,0,14,9,"[Arbaugh, Hannah] Attack error by Menn, Kelsi (block by Royalty, Christine; Dykes, Karson).",TLU,Austin
+4,24,23,Austin,ace,service_ace,Austin,"Arbaugh, Hannah",,,,,Team,0,0,15,9,"[Arbaugh, Hannah] Service ace (Team).",TLU,Austin
+4,25,24,Austin,error,attack_error,Austin,"Arbaugh, Hannah","Mitchan, Bryten","Menn, Kelsi",,"Mitchan, Bryten",,0,0,16,9,"[Arbaugh, Hannah] Attack error by Mitchan, Bryten (from Menn, Kelsi).",TLU,Austin
+4,26,25,Austin,error,attack_error,Austin,"Arbaugh, Hannah","Young, Cailey","Chambers, Jaci",,"Young, Cailey",,0,0,17,9,"[Arbaugh, Hannah] Attack error by Young, Cailey (from Chambers, Jaci).",TLU,Austin
+4,27,26,Austin,error,attack_error,Austin,"Arbaugh, Hannah","Sexton, Katelyn","Morris, Lexi",,"Sexton, Katelyn",,0,1,18,9,"[Arbaugh, Hannah] Attack error by Sexton, Katelyn (from Morris, Lexi).",TLU,Austin
+4,28,27,Austin,attack,kill,Austin,"Arbaugh, Hannah","Cook, Shelbi","Arbaugh, Hannah",,,,0,0,19,9,"[Arbaugh, Hannah] Kill by Cook, Shelbi (from Arbaugh, Hannah).",TLU,Austin
+4,29,28,TLU,attack,kill,Austin,"Arbaugh, Hannah","Mitchan, Bryten","Chambers, Jaci",,,,0,0,19,10,"[Arbaugh, Hannah] Kill by Mitchan, Bryten (from Chambers, Jaci).",TLU,Austin
+4,30,29,TLU,block,attack_error,TLU,"Morris, Lexi","Royalty, Christine",,"Sulak, Peyton","Royalty, Christine",,0,0,19,11,"[Morris, Lexi] Attack error by Royalty, Christine (block by Sulak, Peyton).",TLU,Austin
+4,31,30,Austin,attack,kill,TLU,"Morris, Lexi","Dykes, Karson","Prazak, Mari",,,,0,0,20,11,"[Morris, Lexi] Kill by Dykes, Karson (from Prazak, Mari).",TLU,Austin
+4,32,31,Austin,ace,service_ace,Austin,"Prazak, Mari",,,,,"Day, Paige",0,0,21,11,"[Prazak, Mari] Service ace (Day, Paige).",TLU,Austin
+4,33,32,Austin,error,ball_handling_error,Austin,"Prazak, Mari",,,,"Chambers, Jaci",,0,0,22,11,"[Prazak, Mari] Bad set by Chambers, Jaci.",TLU,Austin
+4,34,33,TLU,attack,kill,Austin,"Prazak, Mari","Sexton, Katelyn","Chambers, Jaci",,,,0,0,22,12,"[Prazak, Mari] Kill by Sexton, Katelyn (from Chambers, Jaci).",TLU,Austin
+4,35,34,Austin,attack,kill,TLU,"Jurden, Kelly","Browne, Kynleigh","Talley, Brooklyn",,,,0,0,23,12,"[Jurden, Kelly] Kill by Browne, Kynleigh (from Talley, Brooklyn).",TLU,Austin
+4,36,35,TLU,attack,kill,Austin,"Dykes, Karson","Sulak, Peyton","Jurden, Kelly",,,,0,0,23,13,"[Dykes, Karson] Kill by Sulak, Peyton (from Jurden, Kelly).",TLU,Austin
+4,37,36,TLU,attack,kill,TLU,"Contreras, Celie","Day, Paige","Kobza, Taylor",,,,0,0,23,14,"[Contreras, Celie] Kill by Day, Paige (from Kobza, Taylor).",TLU,Austin
+4,38,37,TLU,error,attack_error,TLU,"Contreras, Celie","Browne, Kynleigh","Talley, Brooklyn",,"Browne, Kynleigh",,0,0,23,15,"[Contreras, Celie] Attack error by Browne, Kynleigh (from Talley, Brooklyn).",TLU,Austin
+4,39,38,TLU,attack,kill,TLU,"Contreras, Celie","Day, Paige","Talley, Brooklyn",,,,0,0,23,16,"[Contreras, Celie] Kill by Day, Paige (from Talley, Brooklyn).",TLU,Austin
+4,40,39,TLU,error,attack_error,TLU,"Contreras, Celie","Cook, Shelbi","Talley, Brooklyn",,"Cook, Shelbi",,0,0,23,17,"[Contreras, Celie] Attack error by Cook, Shelbi (from Talley, Brooklyn).",TLU,Austin
+4,41,40,TLU,attack,kill,TLU,"Contreras, Celie","Kitchens, Savhannah","Morris, Lexi",,,,0,0,23,18,"[Contreras, Celie] Kill by Kitchens, Savhannah (from Morris, Lexi).",TLU,Austin
+4,42,41,Austin,error,ball_handling_error,TLU,"Contreras, Celie",,,,"Sulak, Peyton",,0,0,24,18,"[Contreras, Celie] Bad set by Sulak, Peyton.",TLU,Austin
+4,43,42,TLU,error,service_error,Austin,"Cook, Shelbi",,,,"Cook, Shelbi",,0,0,24,19,"[Cook, Shelbi] Service error.",TLU,Austin
+4,44,43,TLU,attack,kill,TLU,"Sulak, Peyton","Menn, Kelsi",,,,,0,0,24,20,"[Sulak, Peyton] Kill by Menn, Kelsi.",TLU,Austin
+4,45,44,TLU,block,attack_error,TLU,"Sulak, Peyton","Browne, Kynleigh",,"Day, Paige","Browne, Kynleigh",,0,0,24,21,"[Sulak, Peyton] Attack error by Browne, Kynleigh (block by Day, Paige).",TLU,Austin
+4,46,45,Austin,attack,kill,TLU,"Sulak, Peyton","Browne, Kynleigh","Talley, Brooklyn",,,,0,0,25,21,"[Sulak, Peyton] Kill by Browne, Kynleigh (from Talley, Brooklyn).",TLU,Austin

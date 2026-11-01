@@ -1,0 +1,11 @@
+# Only needed to re-run the video tracking step (analysis/modeling/sam3_automation.py).
+# Not needed to reproduce the paper's results from the saved data.
+# Needs a CUDA GPU (we ran on Northwestern's Quest cluster) and access to the SAM 3
+# model weights on Hugging Face. Install PyTorch for your CUDA version first, and
+# install the `sam3` package following its own instructions. Not tested here.
+-r requirements.txt
+torch
+opencv-python
+pillow
+scikit-image
+huggingface_hub

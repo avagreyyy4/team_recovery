@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+/videos/
+/output/
+.env
+.venv/
+*cookies*.txt
+analysis/statistical_analysis/.cache/
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+.venv/

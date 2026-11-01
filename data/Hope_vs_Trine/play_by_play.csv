@@ -1,0 +1,122 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,Hope,ace,service_ace,Hope,"Grunewald, Ana",,,,,"Victor, Cassidy",0,0,0,1,"[Grunewald, Ana] Service ace (Victor, Cassidy).",Hope,Trine
+1,2,1,Hope,attack,kill,Hope,"Grunewald, Ana","Thompson, Rose","Westra, Tracy",,,,0,0,0,2,"[Grunewald, Ana] Kill by Thompson, Rose (from Westra, Tracy).",Hope,Trine
+1,3,2,Trine,error,service_error,Hope,"Grunewald, Ana",,,,"Grunewald, Ana",,0,0,1,2,"[Grunewald, Ana] Service error.",Hope,Trine
+1,4,3,Hope,attack,kill,Trine,"Baughman, Jacqueline","Otto, McKenna","Westra, Tracy",,,,0,0,1,3,"[Baughman, Jacqueline] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Trine
+1,5,4,Trine,error,ball_handling_error,Hope,"Pettinger, Grace",,,,"Westra, Tracy",,0,1,2,3,"[Pettinger, Grace] Ball handling error by Westra, Tracy.",Hope,Trine
+1,6,5,Trine,attack,kill,Trine,"Jolliffe, Olivia","Victor, Cassidy","Baughman, Jacqueline",,,,0,1,3,3,"[Jolliffe, Olivia] Kill by Victor, Cassidy (from Baughman, Jacqueline).",Hope,Trine
+1,7,6,Hope,attack,kill,Trine,"Jolliffe, Olivia","Westra, Tracy","Grunewald, Ana",,,,0,0,3,4,"[Jolliffe, Olivia] Kill by Westra, Tracy (from Grunewald, Ana).",Hope,Trine
+1,8,7,Hope,error,attack_error,Hope,"Seib, Samantha","Behm, Chloe",,,"Behm, Chloe",,0,1,3,5,"[Seib, Samantha] Attack error by Behm, Chloe.",Hope,Trine
+1,9,8,Hope,ace,service_ace,Hope,"Seib, Samantha",,,,,"Carlin, Samantha",0,0,3,6,"[Seib, Samantha] Service ace (Carlin, Samantha).",Hope,Trine
+1,10,9,Hope,error,attack_error,Hope,"Seib, Samantha","Baughman, Jacqueline",,,"Baughman, Jacqueline",,0,0,3,7,"[Seib, Samantha] Attack error by Baughman, Jacqueline.",Hope,Trine
+1,11,10,Hope,attack,kill,Hope,"Seib, Samantha","Otto, McKenna","Westra, Tracy",,,,0,0,3,8,"[Seib, Samantha] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Trine
+1,12,11,Hope,ace,service_ace,Hope,"Seib, Samantha",,,,,"Carlin, Samantha",0,0,3,9,"[Seib, Samantha] Service ace (Carlin, Samantha).",Hope,Trine
+1,13,12,Hope,error,attack_error,Hope,"Seib, Samantha","Queary, Francesca",,,"Queary, Francesca",,1,0,3,10,"[Seib, Samantha] Attack error by Queary, Francesca.",Hope,Trine
+1,14,13,Hope,attack,kill,Hope,"Seib, Samantha","Otto, McKenna","Westra, Tracy",,,,0,0,3,11,"[Seib, Samantha] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Trine
+1,15,14,Trine,error,service_error,Hope,"Seib, Samantha",,,,"Seib, Samantha",,0,0,4,11,"[Seib, Samantha] Service error.",Hope,Trine
+1,16,15,Hope,error,attack_error,Trine,"Carlin, Samantha","Victor, Cassidy",,,"Victor, Cassidy",,0,0,4,12,"[Carlin, Samantha] Attack error by Victor, Cassidy.",Hope,Trine
+1,17,16,Trine,block,attack_error,Hope,"Otto, McKenna","Ligon, Molly",,"Victor, Cassidy; Nicholls, Jocelynn","Ligon, Molly",,0,0,5,12,"[Otto, McKenna] Attack error by Ligon, Molly (block by Victor, Cassidy; Nicholls, Jocelynn).",Hope,Trine
+1,18,17,Hope,attack,kill,Trine,"Cornell, Kailee","Grunewald, Ana","Westra, Tracy",,,,0,1,5,13,"[Cornell, Kailee] Kill by Grunewald, Ana (from Westra, Tracy).",Hope,Trine
+1,19,18,Hope,attack,kill,Hope,"Westra, Tracy","Ligon, Molly","Westra, Tracy",,,,0,0,5,14,"[Westra, Tracy] Kill by Ligon, Molly (from Westra, Tracy).",Hope,Trine
+1,20,19,Trine,error,attack_error,Hope,"Westra, Tracy","Otto, McKenna",,,"Otto, McKenna",,0,0,6,14,"[Westra, Tracy] Attack error by Otto, McKenna.",Hope,Trine
+1,21,20,Trine,error,ball_handling_error,Trine,"Campbell, Rachel",,,,"Westra, Tracy",,0,0,7,14,"[Campbell, Rachel] Ball handling error by Westra, Tracy.",Hope,Trine
+1,22,21,Hope,attack,kill,Trine,"Campbell, Rachel","Brecht, Charlotte","Westra, Tracy",,,,0,0,7,15,"[Campbell, Rachel] Kill by Brecht, Charlotte (from Westra, Tracy).",Hope,Trine
+1,23,22,Hope,attack,kill,Hope,"Wehrmeyer, Maggie","Grunewald, Ana","Otto, McKenna",,,,0,0,7,16,"[Wehrmeyer, Maggie] Kill by Grunewald, Ana (from Otto, McKenna).",Hope,Trine
+1,24,23,Trine,block,attack_error,Hope,"Wehrmeyer, Maggie","Grunewald, Ana",,"Nicholls, Jocelynn; Sands, Hannah","Grunewald, Ana",,0,0,8,16,"[Wehrmeyer, Maggie] Attack error by Grunewald, Ana (block by Nicholls, Jocelynn; Sands, Hannah).",Hope,Trine
+1,25,24,Hope,attack,kill,Trine,"Nicholls, Jocelynn","Brecht, Charlotte","Westra, Tracy",,,,0,0,8,17,"[Nicholls, Jocelynn] Kill by Brecht, Charlotte (from Westra, Tracy).",Hope,Trine
+1,26,25,Hope,attack,kill,Hope,"Grunewald, Ana","Grunewald, Ana","Westra, Tracy",,,,0,0,8,18,"[Grunewald, Ana] Kill by Grunewald, Ana (from Westra, Tracy).",Hope,Trine
+1,27,26,Hope,attack,kill,Hope,"Grunewald, Ana","Thompson, Rose","Westra, Tracy",,,,0,0,8,19,"[Grunewald, Ana] Kill by Thompson, Rose (from Westra, Tracy).",Hope,Trine
+1,28,27,Hope,attack,kill,Hope,"Grunewald, Ana","Otto, McKenna","Grunewald, Ana",,,,0,0,8,20,"[Grunewald, Ana] Kill by Otto, McKenna (from Grunewald, Ana).",Hope,Trine
+1,29,28,Trine,error,attack_error,Hope,"Grunewald, Ana","Brecht, Charlotte",,,"Brecht, Charlotte",,1,0,9,20,"[Grunewald, Ana] Attack error by Brecht, Charlotte.",Hope,Trine
+1,30,29,Trine,block,attack_error,Trine,"Baughman, Jacqueline","Otto, McKenna",,"Jolliffe, Olivia; Behm, Chloe","Otto, McKenna",,0,0,10,20,"[Baughman, Jacqueline] Attack error by Otto, McKenna (block by Jolliffe, Olivia; Behm, Chloe).",Hope,Trine
+1,31,30,Hope,attack,kill,Trine,"Baughman, Jacqueline","Otto, McKenna","Westra, Tracy",,,,0,0,10,21,"[Baughman, Jacqueline] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Trine
+1,32,31,Trine,attack,kill,Hope,"Pettinger, Grace","Jolliffe, Olivia","Baughman, Jacqueline",,,,0,0,11,21,"[Pettinger, Grace] Kill by Jolliffe, Olivia (from Baughman, Jacqueline).",Hope,Trine
+1,33,32,Trine,ace,service_ace,Trine,"Jolliffe, Olivia",,,,,"Grunewald, Ana",0,0,12,21,"[Jolliffe, Olivia] Service ace (Grunewald, Ana).",Hope,Trine
+1,34,33,Hope,attack,kill,Trine,"Jolliffe, Olivia","Westra, Tracy","Pettinger, Grace",,,,0,0,12,22,"[Jolliffe, Olivia] Kill by Westra, Tracy (from Pettinger, Grace).",Hope,Trine
+1,35,34,Hope,attack,kill,Hope,"Poland, Sasha","Ligon, Molly","Westra, Tracy",,,,0,1,12,23,"[Poland, Sasha] Kill by Ligon, Molly (from Westra, Tracy).",Hope,Trine
+1,36,35,Trine,error,service_error,Hope,"Poland, Sasha",,,,"Poland, Sasha",,0,0,13,23,"[Poland, Sasha] Service error.",Hope,Trine
+1,37,36,Hope,attack,kill,Trine,"Carlin, Samantha","Otto, McKenna","Westra, Tracy",,,,0,0,13,24,"[Carlin, Samantha] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Trine
+1,38,37,Trine,attack,kill,Hope,"Otto, McKenna","Victor, Cassidy","Baughman, Jacqueline",,,,0,0,14,24,"[Otto, McKenna] Kill by Victor, Cassidy (from Baughman, Jacqueline).",Hope,Trine
+1,39,38,Hope,attack,kill,Trine,"Cornell, Kailee","Ligon, Molly","Westra, Tracy",,,,0,0,14,25,"[Cornell, Kailee] Kill by Ligon, Molly (from Westra, Tracy).",Hope,Trine
+2,1,0,Trine,attack,kill,Trine,"Baughman, Jacqueline","Victor, Cassidy","Baughman, Jacqueline",,,,0,1,1,0,"[Baughman, Jacqueline] Kill by Victor, Cassidy (from Baughman, Jacqueline).",Hope,Trine
+2,2,1,Hope,attack,kill,Trine,"Baughman, Jacqueline","Grunewald, Ana","Westra, Tracy",,,,0,0,1,1,"[Baughman, Jacqueline] Kill by Grunewald, Ana (from Westra, Tracy).",Hope,Trine
+2,3,2,Hope,attack,kill,Hope,"Grunewald, Ana","Thompson, Rose","Westra, Tracy",,"Jolliffe, Olivia",,0,0,1,2,"[Grunewald, Ana] Kill by Thompson, Rose (from Westra, Tracy), block error by Jolliffe, Olivia.",Hope,Trine
+2,4,3,Trine,error,attack_error,Hope,"Grunewald, Ana","Otto, McKenna",,,"Otto, McKenna",,0,0,2,2,"[Grunewald, Ana] Attack error by Otto, McKenna.",Hope,Trine
+2,5,4,Trine,error,attack_error,Trine,"Jolliffe, Olivia","Brecht, Charlotte",,,"Brecht, Charlotte",,0,1,3,2,"[Jolliffe, Olivia] Attack error by Brecht, Charlotte.",Hope,Trine
+2,6,5,Trine,ace,service_ace,Trine,"Jolliffe, Olivia",,,,,"Grunewald, Ana",0,0,4,2,"[Jolliffe, Olivia] Service ace (Grunewald, Ana).",Hope,Trine
+2,7,6,Trine,block,attack_error,Trine,"Jolliffe, Olivia","Otto, McKenna",,"Victor, Cassidy; Behm, Chloe","Otto, McKenna",,0,0,5,2,"[Jolliffe, Olivia] Attack error by Otto, McKenna (block by Victor, Cassidy; Behm, Chloe).",Hope,Trine
+2,8,7,Trine,error,attack_error,Trine,"Jolliffe, Olivia","Thompson, Rose",,,"Thompson, Rose",,0,0,6,2,"[Jolliffe, Olivia] Attack error by Thompson, Rose.",Hope,Trine
+2,9,8,Hope,error,service_error,Trine,"Jolliffe, Olivia",,,,"Jolliffe, Olivia",,0,0,6,3,"[Jolliffe, Olivia] Service error.",Hope,Trine
+2,10,9,Hope,attack,kill,Hope,"Pettinger, Grace","Thompson, Rose","Westra, Tracy",,,,0,1,6,4,"[Pettinger, Grace] Kill by Thompson, Rose (from Westra, Tracy).",Hope,Trine
+2,11,10,Trine,attack,kill,Hope,"Pettinger, Grace","Queary, Francesca","Baughman, Jacqueline",,,,0,1,7,4,"[Pettinger, Grace] Kill by Queary, Francesca (from Baughman, Jacqueline).",Hope,Trine
+2,12,11,Hope,attack,kill,Trine,"Carlin, Samantha","Otto, McKenna","Westra, Tracy",,,,0,0,7,5,"[Carlin, Samantha] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Trine
+2,13,12,Trine,attack,kill,Hope,"Seib, Samantha","Queary, Francesca","Carlin, Samantha",,,,0,1,8,5,"[Seib, Samantha] Kill by Queary, Francesca (from Carlin, Samantha).",Hope,Trine
+2,14,13,Hope,error,service_error,Trine,"Cornell, Kailee",,,,"Cornell, Kailee",,0,1,8,6,"[Cornell, Kailee] Service error.",Hope,Trine
+2,15,14,Hope,attack,kill,Hope,"Otto, McKenna","Grunewald, Ana","Westra, Tracy",,,,0,0,8,7,"[Otto, McKenna] Kill by Grunewald, Ana (from Westra, Tracy).",Hope,Trine
+2,16,15,Trine,attack,kill,Hope,"Otto, McKenna","Queary, Francesca","Cornell, Kailee",,,,0,0,9,7,"[Otto, McKenna] Kill by Queary, Francesca (from Cornell, Kailee).",Hope,Trine
+2,17,16,Trine,error,attack_error,Trine,"Outwater, Paris","Grunewald, Ana",,,"Grunewald, Ana",,0,0,10,7,"[Outwater, Paris] Attack error by Grunewald, Ana.",Hope,Trine
+2,18,17,Hope,error,service_error,Trine,"Outwater, Paris",,,,"Outwater, Paris",,0,0,10,8,"[Outwater, Paris] Service error.",Hope,Trine
+2,19,18,Hope,error,attack_error,Hope,"Westra, Tracy","Carlin, Samantha",,,"Carlin, Samantha",,0,0,10,9,"[Westra, Tracy] Attack error by Carlin, Samantha.",Hope,Trine
+2,20,19,Trine,error,attack_error,Hope,"Westra, Tracy","Ligon, Molly",,,"Ligon, Molly",,0,0,11,9,"[Westra, Tracy] Attack error by Ligon, Molly.",Hope,Trine
+2,21,20,Hope,error,service_error,Trine,"Nicholls, Jocelynn",,,,"Nicholls, Jocelynn",,0,0,11,10,"[Nicholls, Jocelynn] Service error.",Hope,Trine
+2,22,21,Hope,attack,kill,Hope,"Wehrmeyer, Maggie","Otto, McKenna","Westra, Tracy",,,,0,0,11,11,"[Wehrmeyer, Maggie] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Trine
+2,23,22,Hope,attack,kill,Hope,"Wehrmeyer, Maggie","Thompson, Rose","Westra, Tracy",,,,0,0,11,12,"[Wehrmeyer, Maggie] Kill by Thompson, Rose (from Westra, Tracy).",Hope,Trine
+2,24,23,Hope,block,attack_error,Hope,"Wehrmeyer, Maggie","Sands, Hannah",,"Grunewald, Ana; Brecht, Charlotte","Sands, Hannah",,0,0,11,13,"[Wehrmeyer, Maggie] Attack error by Sands, Hannah (block by Grunewald, Ana; Brecht, Charlotte).",Hope,Trine
+2,25,24,Hope,attack,kill,Hope,"Wehrmeyer, Maggie","Thompson, Rose","Westra, Tracy",,,,0,0,11,14,"[Wehrmeyer, Maggie] Kill by Thompson, Rose (from Westra, Tracy).",Hope,Trine
+2,26,25,Trine,attack,kill,Hope,"Wehrmeyer, Maggie","Carlin, Samantha","Cornell, Kailee",,,,1,0,12,14,"[Wehrmeyer, Maggie] Kill by Carlin, Samantha (from Cornell, Kailee).",Hope,Trine
+2,27,26,Hope,attack,kill,Trine,"Baughman, Jacqueline","Brecht, Charlotte","Westra, Tracy",,,,0,0,12,15,"[Baughman, Jacqueline] Kill by Brecht, Charlotte (from Westra, Tracy).",Hope,Trine
+2,28,27,Trine,attack,kill,Hope,"Grunewald, Ana","Jolliffe, Olivia","Carlin, Samantha",,,,0,0,13,15,"[Grunewald, Ana] Kill by Jolliffe, Olivia (from Carlin, Samantha).",Hope,Trine
+2,29,28,Hope,attack,kill,Trine,"Jolliffe, Olivia","Thompson, Rose","Westra, Tracy",,,,0,0,13,16,"[Jolliffe, Olivia] Kill by Thompson, Rose (from Westra, Tracy).",Hope,Trine
+2,30,29,Trine,attack,kill,Hope,"Pettinger, Grace","Victor, Cassidy","Baughman, Jacqueline",,"Thompson, Rose",,0,0,14,16,"[Pettinger, Grace] Kill by Victor, Cassidy (from Baughman, Jacqueline), block error by Thompson, Rose.",Hope,Trine
+2,31,30,Trine,error,ball_handling_error,Trine,"Carlin, Samantha",,,,"Westra, Tracy",,0,0,15,16,"[Carlin, Samantha] Ball handling error by Westra, Tracy.",Hope,Trine
+2,32,31,Trine,ace,service_ace,Trine,"Carlin, Samantha",,,,,"Otto, McKenna",0,0,16,16,"[Carlin, Samantha] Service ace (Otto, McKenna).",Hope,Trine
+2,33,32,Hope,attack,kill,Trine,"Carlin, Samantha","Grunewald, Ana","Westra, Tracy",,,,0,0,16,17,"[Carlin, Samantha] Kill by Grunewald, Ana (from Westra, Tracy).",Hope,Trine
+2,34,33,Hope,attack,kill,Hope,"Seib, Samantha","Westra, Tracy","Otto, McKenna",,,,0,0,16,18,"[Seib, Samantha] Kill by Westra, Tracy (from Otto, McKenna).",Hope,Trine
+2,35,34,Hope,block,attack_error,Hope,"Seib, Samantha","Queary, Francesca",,"Otto, McKenna; Westra, Tracy","Queary, Francesca",,0,0,16,19,"[Seib, Samantha] Attack error by Queary, Francesca (block by Otto, McKenna; Westra, Tracy).",Hope,Trine
+2,36,35,Hope,error,ball_handling_error,Hope,"Seib, Samantha",,,,"Baughman, Jacqueline",,1,0,16,20,"[Seib, Samantha] Ball handling error by Baughman, Jacqueline.",Hope,Trine
+2,37,36,Trine,attack,kill,Hope,"Seib, Samantha","Queary, Francesca","Baughman, Jacqueline",,,,0,0,17,20,"[Seib, Samantha] Kill by Queary, Francesca (from Baughman, Jacqueline).",Hope,Trine
+2,38,37,Trine,attack,kill,Trine,"Victor, Cassidy","Queary, Francesca",,,,,0,0,18,20,"[Victor, Cassidy] Kill by Queary, Francesca.",Hope,Trine
+2,39,38,Hope,attack,kill,Trine,"Victor, Cassidy","Otto, McKenna","Westra, Tracy",,,,0,0,18,21,"[Victor, Cassidy] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Trine
+2,40,39,Hope,attack,kill,Hope,"Otto, McKenna","Grunewald, Ana","Westra, Tracy",,,,0,0,18,22,"[Otto, McKenna] Kill by Grunewald, Ana (from Westra, Tracy).",Hope,Trine
+2,41,40,Trine,attack,kill,Hope,"Otto, McKenna","Queary, Francesca","Cornell, Kailee",,,,0,1,19,22,"[Otto, McKenna] Kill by Queary, Francesca (from Cornell, Kailee).",Hope,Trine
+2,42,41,Hope,attack,kill,Trine,"Queary, Francesca","Grunewald, Ana","Westra, Tracy",,,,0,0,19,23,"[Queary, Francesca] Kill by Grunewald, Ana (from Westra, Tracy).",Hope,Trine
+2,43,42,Hope,error,attack_error,Hope,"Westra, Tracy","Dominick, Madison",,,"Dominick, Madison",,0,0,19,24,"[Westra, Tracy] Attack error by Dominick, Madison.",Hope,Trine
+3,1,0,Hope,attack,kill,Hope,"Grunewald, Ana","Otto, McKenna","Westra, Tracy",,,,0,0,0,1,"[Grunewald, Ana] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Trine
+3,2,1,Trine,error,service_error,Hope,"Grunewald, Ana",,,,"Grunewald, Ana",,0,0,1,1,"[Grunewald, Ana] Service error.",Hope,Trine
+3,3,2,Trine,error,ball_handling_error,Trine,"Baughman, Jacqueline",,,,"Westra, Tracy",,0,0,2,1,"[Baughman, Jacqueline] Ball handling error by Westra, Tracy.",Hope,Trine
+3,4,3,Trine,error,attack_error,Trine,"Baughman, Jacqueline","Grunewald, Ana",,,"Grunewald, Ana",,0,0,3,1,"[Baughman, Jacqueline] Attack error by Grunewald, Ana.",Hope,Trine
+3,5,4,Hope,attack,kill,Trine,"Baughman, Jacqueline","Otto, McKenna","Wehrmeyer, Maggie",,,,0,0,3,2,"[Baughman, Jacqueline] Kill by Otto, McKenna (from Wehrmeyer, Maggie).",Hope,Trine
+3,6,5,Hope,attack,kill,Hope,"Pettinger, Grace","Otto, McKenna","Westra, Tracy",,,,0,1,3,3,"[Pettinger, Grace] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Trine
+3,7,6,Trine,attack,kill,Hope,"Pettinger, Grace","Behm, Chloe",,,,,0,0,4,3,"[Pettinger, Grace] Kill by Behm, Chloe.",Hope,Trine
+3,8,7,Hope,block,attack_error,Trine,"Jolliffe, Olivia","Victor, Cassidy",,"Thompson, Rose","Victor, Cassidy",,0,1,4,4,"[Jolliffe, Olivia] Attack error by Victor, Cassidy (block by Thompson, Rose).",Hope,Trine
+3,9,8,Trine,attack,kill,Hope,"Seib, Samantha","Queary, Francesca","Carlin, Samantha",,,,0,1,5,4,"[Seib, Samantha] Kill by Queary, Francesca (from Carlin, Samantha).",Hope,Trine
+3,10,9,Trine,error,attack_error,Trine,"Carlin, Samantha","Otto, McKenna",,,"Otto, McKenna",,0,0,6,4,"[Carlin, Samantha] Attack error by Otto, McKenna.",Hope,Trine
+3,11,10,Hope,attack,kill,Trine,"Carlin, Samantha","Westra, Tracy","Otto, McKenna",,,,0,0,6,5,"[Carlin, Samantha] Kill by Westra, Tracy (from Otto, McKenna).",Hope,Trine
+3,12,11,Hope,attack,kill,Hope,"Otto, McKenna","Ligon, Molly","Westra, Tracy",,,,0,0,6,6,"[Otto, McKenna] Kill by Ligon, Molly (from Westra, Tracy).",Hope,Trine
+3,13,12,Trine,error,service_error,Hope,"Otto, McKenna",,,,"Otto, McKenna",,0,0,7,6,"[Otto, McKenna] Service error.",Hope,Trine
+3,14,13,Hope,attack,kill,Trine,"Victor, Cassidy","Ligon, Molly","Westra, Tracy",,,,0,0,7,7,"[Victor, Cassidy] Kill by Ligon, Molly (from Westra, Tracy).",Hope,Trine
+3,15,14,Trine,error,attack_error,Hope,"Westra, Tracy","Ligon, Molly",,,"Ligon, Molly",,0,0,8,7,"[Westra, Tracy] Attack error by Ligon, Molly.",Hope,Trine
+3,16,15,Trine,attack,kill,Trine,"Campbell, Rachel","Baughman, Jacqueline","Carlin, Samantha",,,,0,0,9,7,"[Campbell, Rachel] Kill by Baughman, Jacqueline (from Carlin, Samantha).",Hope,Trine
+3,17,16,Trine,error,attack_error,Trine,"Campbell, Rachel","Brecht, Charlotte",,,"Brecht, Charlotte",,0,0,10,7,"[Campbell, Rachel] Attack error by Brecht, Charlotte.",Hope,Trine
+3,18,17,Hope,attack,kill,Trine,"Campbell, Rachel","Brecht, Charlotte","Westra, Tracy",,,,0,1,10,8,"[Campbell, Rachel] Kill by Brecht, Charlotte (from Westra, Tracy).",Hope,Trine
+3,19,18,Trine,attack,kill,Hope,"Wehrmeyer, Maggie","Baughman, Jacqueline","VanKalker, Kacie",,,,0,1,11,8,"[Wehrmeyer, Maggie] Kill by Baughman, Jacqueline (from VanKalker, Kacie).",Hope,Trine
+3,20,19,Hope,error,service_error,Trine,"Finnegan, Meara",,,,"Finnegan, Meara",,0,0,11,9,"[Finnegan, Meara] Service error.",Hope,Trine
+3,21,20,Trine,error,attack_error,Hope,"Grunewald, Ana","Otto, McKenna",,,"Otto, McKenna",,0,0,12,9,"[Grunewald, Ana] Attack error by Otto, McKenna.",Hope,Trine
+3,22,21,Hope,error,attack_error,Trine,"Baughman, Jacqueline","Jolliffe, Olivia",,,"Jolliffe, Olivia",,0,0,12,10,"[Baughman, Jacqueline] Attack error by Jolliffe, Olivia.",Hope,Trine
+3,23,22,Hope,ace,service_ace,Hope,"Pettinger, Grace",,,,,"Carlin, Samantha",0,0,12,11,"[Pettinger, Grace] Service ace (Carlin, Samantha).",Hope,Trine
+3,24,23,Hope,error,ball_handling_error,Hope,"Pettinger, Grace",,,,"Baughman, Jacqueline",,0,0,12,12,"[Pettinger, Grace] Ball handling error by Baughman, Jacqueline.",Hope,Trine
+3,25,24,Hope,error,attack_error,Hope,"Pettinger, Grace","Victor, Cassidy",,,"Victor, Cassidy",,0,0,12,13,"[Pettinger, Grace] Attack error by Victor, Cassidy.",Hope,Trine
+3,26,25,Hope,attack,kill,Hope,"Pettinger, Grace","Westra, Tracy","Pettinger, Grace",,,,0,0,12,14,"[Pettinger, Grace] Kill by Westra, Tracy (from Pettinger, Grace).",Hope,Trine
+3,27,26,Hope,error,attack_error,Hope,"Pettinger, Grace","Jolliffe, Olivia",,,"Jolliffe, Olivia",,0,0,12,15,"[Pettinger, Grace] Attack error by Jolliffe, Olivia.",Hope,Trine
+3,28,27,Hope,error,ball_handling_error,Hope,"Pettinger, Grace",,,,"Behm, Chloe",,0,1,12,16,"[Pettinger, Grace] Ball handling error by Behm, Chloe.",Hope,Trine
+3,29,28,Hope,error,attack_error,Hope,"Pettinger, Grace","Loughrey, Anna",,,"Loughrey, Anna",,1,0,12,17,"[Pettinger, Grace] Attack error by Loughrey, Anna.",Hope,Trine
+3,30,29,Hope,error,attack_error,Hope,"Pettinger, Grace","Victor, Cassidy",,,"Victor, Cassidy",,0,0,12,18,"[Pettinger, Grace] Attack error by Victor, Cassidy.",Hope,Trine
+3,31,30,Hope,ace,service_ace,Hope,"Pettinger, Grace",,,,,"Campbell, Rachel",0,1,12,19,"[Pettinger, Grace] Service ace (Campbell, Rachel).",Hope,Trine
+3,32,31,Trine,attack,kill,Hope,"Pettinger, Grace","Dominick, Madison","Baughman, Jacqueline",,,,0,0,13,19,"[Pettinger, Grace] Kill by Dominick, Madison (from Baughman, Jacqueline).",Hope,Trine
+3,33,32,Trine,attack,kill,Trine,"Cornell, Kailee","Dominick, Madison","Carlin, Samantha",,,,0,1,14,19,"[Cornell, Kailee] Kill by Dominick, Madison (from Carlin, Samantha).",Hope,Trine
+3,34,33,Trine,attack,kill,Trine,"Cornell, Kailee","Behm, Chloe","Baughman, Jacqueline",,,,0,0,15,19,"[Cornell, Kailee] Kill by Behm, Chloe (from Baughman, Jacqueline).",Hope,Trine
+3,35,34,Hope,attack,kill,Trine,"Cornell, Kailee","Otto, McKenna","Westra, Tracy",,,,0,0,15,20,"[Cornell, Kailee] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Trine
+3,36,35,Hope,attack,kill,Hope,"Seib, Samantha","Ligon, Molly","Westra, Tracy",,,,0,0,15,21,"[Seib, Samantha] Kill by Ligon, Molly (from Westra, Tracy).",Hope,Trine
+3,37,36,Hope,ace,service_ace,Hope,"Seib, Samantha",,,,,"Cornell, Kailee",0,0,15,22,"[Seib, Samantha] Service ace (Cornell, Kailee).",Hope,Trine
+3,38,37,Trine,attack,kill,Hope,"Seib, Samantha","Queary, Francesca","Baughman, Jacqueline",,,,0,0,16,22,"[Seib, Samantha] Kill by Queary, Francesca (from Baughman, Jacqueline).",Hope,Trine
+3,39,38,Hope,,other,Hope,,,,,,,0,0,16,23,,Hope,Trine

@@ -1,0 +1,181 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,SMI,attack,kill,SWAT,"Mountcastle, Madeline","Teske, Olivia","Woodward, Ruby",,,,0,0,1,0,"[Mountcastle, Madeline] Kill by Teske, Olivia (from Woodward, Ruby).",SWAT,SMI
+1,2,1,SWAT,attack,kill,SMI,"Chapin, Alison","Adam, Isabel","Mountcastle, Madeline",,,,0,0,1,1,"[Chapin, Alison] Kill by Adam, Isabel (from Mountcastle, Madeline).",SWAT,SMI
+1,3,2,SMI,attack,kill,SWAT,"Kim, Nicole","Teske, Olivia","Woodward, Ruby",,,,0,1,2,1,"[Kim, Nicole] Kill by Teske, Olivia (from Woodward, Ruby).",SWAT,SMI
+1,4,3,SWAT,error,service_error,SMI,"Poehlmann, Claudia",,,,"Poehlmann, Claudia",,0,1,2,2,"[Poehlmann, Claudia] Service error.",SWAT,SMI
+1,5,4,SWAT,attack,kill,SWAT,"Eyer, Melissa","Enache, Alexia","Mountcastle, Madeline",,,,0,0,2,3,"[Eyer, Melissa] Kill by Enache, Alexia (from Mountcastle, Madeline).",SWAT,SMI
+1,6,5,SWAT,block,attack_error,SWAT,"Eyer, Melissa","Teske, Olivia",,"Miles, Keira; Enache, Alexia","Teske, Olivia",,0,0,2,4,"[Eyer, Melissa] Attack error by Teske, Olivia (block by Miles, Keira; Enache, Alexia).",SWAT,SMI
+1,7,6,SMI,attack,kill,SWAT,"Eyer, Melissa","Etheridge, Mia","Woodward, Ruby",,,,0,0,3,4,"[Eyer, Melissa] Kill by Etheridge, Mia (from Woodward, Ruby).",SWAT,SMI
+1,8,7,SWAT,attack,kill,SMI,"Teske, Olivia","Miles, Keira","Mountcastle, Madeline",,,,0,0,3,5,"[Teske, Olivia] Kill by Miles, Keira (from Mountcastle, Madeline).",SWAT,SMI
+1,9,8,SMI,attack,kill,SWAT,"Matsukawa, Lois","Etheridge, Mia","Woodward, Ruby",,,,0,1,4,5,"[Matsukawa, Lois] Kill by Etheridge, Mia (from Woodward, Ruby).",SWAT,SMI
+1,10,9,SMI,error,attack_error,SMI,"Etheridge, Mia","Miles, Keira","Sheridan, Maya",,"Miles, Keira",,0,0,5,5,"[Etheridge, Mia] Attack error by Miles, Keira (from Sheridan, Maya).",SWAT,SMI
+1,11,10,SMI,error,ball_handling_error,SMI,"Etheridge, Mia",,,,"Sheridan, Maya",,0,0,6,5,"[Etheridge, Mia] Bad set by Sheridan, Maya.",SWAT,SMI
+1,12,11,SWAT,error,service_error,SMI,"Etheridge, Mia",,,,"Etheridge, Mia",,0,0,6,6,"[Etheridge, Mia] Service error.",SWAT,SMI
+1,13,12,SMI,error,service_error,SWAT,"Enache, Alexia",,,,"Enache, Alexia",,0,0,7,6,"[Enache, Alexia] Service error.",SWAT,SMI
+1,14,13,SWAT,attack,kill,SMI,"Tullis, Ruth","Adam, Isabel","Sheridan, Maya",,,,0,0,7,7,"[Tullis, Ruth] Kill by Adam, Isabel (from Sheridan, Maya).",SWAT,SMI
+1,15,14,SWAT,attack,kill,SWAT,"Miles, Keira","Adam, Isabel","Sheridan, Maya",,,,0,0,7,8,"[Miles, Keira] Kill by Adam, Isabel (from Sheridan, Maya).",SWAT,SMI
+1,16,15,SWAT,attack,kill,SWAT,"Miles, Keira","Miles, Keira","Sheridan, Maya",,,,0,0,7,9,"[Miles, Keira] Kill by Miles, Keira (from Sheridan, Maya).",SWAT,SMI
+1,17,16,SWAT,error,attack_error,SWAT,"Miles, Keira","Teske, Olivia","Woodward, Ruby",,"Teske, Olivia",,0,0,7,10,"[Miles, Keira] Attack error by Teske, Olivia (from Woodward, Ruby).",SWAT,SMI
+1,18,17,SMI,attack,kill,SWAT,"Miles, Keira","Chapin, Alison","Woodward, Ruby",,,,0,0,8,10,"[Miles, Keira] Kill by Chapin, Alison (from Woodward, Ruby).",SWAT,SMI
+1,19,18,SMI,ace,service_ace,SMI,"Woodward, Ruby",,,,,"Eyer, Melissa",0,0,9,10,"[Woodward, Ruby] Service ace (Eyer, Melissa).",SWAT,SMI
+1,20,19,SMI,ace,service_ace,SMI,"Woodward, Ruby",,,,,Team,0,0,10,10,"[Woodward, Ruby] Service ace (Team).",SWAT,SMI
+1,21,20,SWAT,attack,kill,SMI,"Woodward, Ruby","Adam, Isabel","Sheridan, Maya",,,,0,0,10,11,"[Woodward, Ruby] Kill by Adam, Isabel (from Sheridan, Maya).",SWAT,SMI
+1,22,21,SWAT,attack,kill,SWAT,"Mountcastle, Madeline","Adam, Isabel","Mountcastle, Madeline",,,,0,0,10,12,"[Mountcastle, Madeline] Kill by Adam, Isabel (from Mountcastle, Madeline).",SWAT,SMI
+1,23,22,SMI,attack,kill,SWAT,"Mountcastle, Madeline","Teske, Olivia","Woodward, Ruby",,,,0,0,11,12,"[Mountcastle, Madeline] Kill by Teske, Olivia (from Woodward, Ruby).",SWAT,SMI
+1,24,23,SWAT,attack,kill,SMI,"Chapin, Alison","Kim, Nicole","Etheridge, Mia",,,,0,0,11,13,"[Chapin, Alison] Kill by Kim, Nicole (from Etheridge, Mia).",SWAT,SMI
+1,25,24,SMI,attack,kill,SWAT,"Mountcastle, Madeline","Teske, Olivia","Woodward, Ruby",,,,0,0,12,13,"[Mountcastle, Madeline] Kill by Teske, Olivia (from Woodward, Ruby).",SWAT,SMI
+1,26,25,SWAT,attack,kill,SMI,"Poehlmann, Claudia","Bardauskaite, Aiste","Mountcastle, Madeline",,,,0,0,12,14,"[Poehlmann, Claudia] Kill by Bardauskaite, Aiste (from Mountcastle, Madeline).",SWAT,SMI
+1,27,26,SWAT,block,attack_error,SWAT,"Eyer, Melissa","Etheridge, Mia",,"Miles, Keira; Bardauskaite, Aiste","Etheridge, Mia",,0,0,12,15,"[Eyer, Melissa] Attack error by Etheridge, Mia (block by Miles, Keira; Bardauskaite, Aiste).",SWAT,SMI
+1,28,27,SMI,error,service_error,SWAT,"Eyer, Melissa",,,,"Eyer, Melissa",,0,0,13,15,"[Eyer, Melissa] Service error.",SWAT,SMI
+1,29,28,SMI,attack,kill,SMI,"Teske, Olivia","Feuer, Anna","Mountcastle, Madeline",,,,0,0,14,15,"[Teske, Olivia] Kill by Feuer, Anna (from Mountcastle, Madeline).",SWAT,SMI
+1,30,29,SMI,block,attack_error,SMI,"Teske, Olivia","Enache, Alexia",,"Feuer, Anna","Enache, Alexia",,0,0,15,15,"[Teske, Olivia] Attack error by Enache, Alexia (block by Feuer, Anna).",SWAT,SMI
+1,31,30,SWAT,error,service_error,SMI,"Teske, Olivia",,,,"Teske, Olivia",,0,0,15,16,"[Teske, Olivia] Service error.",SWAT,SMI
+1,32,31,SWAT,error,attack_error,SWAT,"Matsukawa, Lois","Etheridge, Mia","Woodward, Ruby",,"Etheridge, Mia",,0,0,15,17,"[Matsukawa, Lois] Attack error by Etheridge, Mia (from Woodward, Ruby).",SWAT,SMI
+1,33,32,SMI,attack,kill,SWAT,"Matsukawa, Lois","Etheridge, Mia","Woodward, Ruby",,,,0,0,16,17,"[Matsukawa, Lois] Kill by Etheridge, Mia (from Woodward, Ruby).",SWAT,SMI
+1,34,33,SMI,ace,service_ace,SMI,"Etheridge, Mia",,,,,"Kim, Nicole",0,0,17,17,"[Etheridge, Mia] Service ace (Kim, Nicole).",SWAT,SMI
+1,35,34,SMI,error,attack_error,SMI,"Etheridge, Mia","Enache, Alexia","Sheridan, Maya",,"Enache, Alexia",,0,0,18,17,"[Etheridge, Mia] Attack error by Enache, Alexia (from Sheridan, Maya).",SWAT,SMI
+1,36,35,SWAT,error,service_error,SMI,"Etheridge, Mia",,,,"Etheridge, Mia",,0,0,18,18,"[Etheridge, Mia] Service error.",SWAT,SMI
+1,37,36,SMI,error,service_error,SWAT,"Enache, Alexia",,,,"Enache, Alexia",,0,0,19,18,"[Enache, Alexia] Service error.",SWAT,SMI
+1,38,37,SMI,ace,service_ace,SMI,"Tullis, Ruth",,,,,"Enache, Alexia",0,0,20,18,"[Tullis, Ruth] Service ace (Enache, Alexia).",SWAT,SMI
+1,39,38,SWAT,attack,kill,SMI,"Tullis, Ruth","Adam, Isabel","Eyer, Melissa",,,,0,0,20,19,"[Tullis, Ruth] Kill by Adam, Isabel (from Eyer, Melissa).",SWAT,SMI
+1,40,39,SMI,attack,kill,SWAT,"Miles, Keira","Chapin, Alison","Woodward, Ruby",,,,0,0,21,19,"[Miles, Keira] Kill by Chapin, Alison (from Woodward, Ruby).",SWAT,SMI
+1,41,40,SMI,ace,service_ace,SMI,"Woodward, Ruby",,,,,"Enache, Alexia",0,0,22,19,"[Woodward, Ruby] Service ace (Enache, Alexia).",SWAT,SMI
+1,42,41,SWAT,error,service_error,SMI,"Woodward, Ruby",,,,"Woodward, Ruby",,0,0,22,20,"[Woodward, Ruby] Service error.",SWAT,SMI
+1,43,42,SMI,attack,kill,SWAT,"Mountcastle, Madeline","Oakes, Miranda","Woodward, Ruby",,,,0,0,23,20,"[Mountcastle, Madeline] Kill by Oakes, Miranda (from Woodward, Ruby).",SWAT,SMI
+1,44,43,SWAT,block,attack_error,SMI,"Chapin, Alison","Etheridge, Mia",,"Bardauskaite, Aiste; Montgomery, Zindzhi","Etheridge, Mia",,0,0,23,21,"[Chapin, Alison] Attack error by Etheridge, Mia (block by Bardauskaite, Aiste; Montgomery, Zindzhi).",SWAT,SMI
+1,45,44,SMI,attack,kill,SWAT,"Kim, Nicole","Etheridge, Mia","Woodward, Ruby",,,,0,0,24,21,"[Kim, Nicole] Kill by Etheridge, Mia (from Woodward, Ruby).",SWAT,SMI
+1,46,45,SWAT,attack,kill,SMI,"Poehlmann, Claudia","Enache, Alexia","Mountcastle, Madeline",,,,0,0,24,22,"[Poehlmann, Claudia] Kill by Enache, Alexia (from Mountcastle, Madeline).",SWAT,SMI
+1,47,46,SMI,attack,kill,SWAT,"Eyer, Melissa","Teske, Olivia","Woodward, Ruby",,,,0,0,25,22,"[Eyer, Melissa] Kill by Teske, Olivia (from Woodward, Ruby).",SWAT,SMI
+2,1,0,SWAT,attack,kill,SMI,"Woodward, Ruby","Mountcastle, Madeline",,,,,0,1,0,1,"[Woodward, Ruby] Kill by Mountcastle, Madeline.",SWAT,SMI
+2,2,1,SWAT,ace,service_ace,SWAT,"Kim, Nicole",,,,,"Chapin, Alison",0,1,0,2,"[Kim, Nicole] Service ace (Chapin, Alison).",SWAT,SMI
+2,3,2,SWAT,error,attack_error,SWAT,"Kim, Nicole","Teske, Olivia","Tullis, Ruth",,"Teske, Olivia",,0,0,0,3,"[Kim, Nicole] Attack error by Teske, Olivia (from Tullis, Ruth).",SWAT,SMI
+2,4,3,SWAT,ace,service_ace,SWAT,"Kim, Nicole",,,,,"Chapin, Alison",0,0,0,4,"[Kim, Nicole] Service ace (Chapin, Alison).",SWAT,SMI
+2,5,4,SWAT,attack,kill,SWAT,"Kim, Nicole","Bardauskaite, Aiste","Mountcastle, Madeline",,,,0,0,0,5,"[Kim, Nicole] Kill by Bardauskaite, Aiste (from Mountcastle, Madeline).",SWAT,SMI
+2,6,5,SWAT,block,attack_error,SWAT,"Kim, Nicole","Klunder, Addison",,"Bardauskaite, Aiste; Montgomery, Zindzhi","Klunder, Addison",,0,1,0,6,"[Kim, Nicole] Attack error by Klunder, Addison (block by Bardauskaite, Aiste; Montgomery, Zindzhi).",SWAT,SMI
+2,7,6,SWAT,ace,service_ace,SWAT,"Kim, Nicole",,,,,"Klunder, Addison",0,0,0,7,"[Kim, Nicole] Service ace (Klunder, Addison).",SWAT,SMI
+2,8,7,SWAT,attack,kill,SWAT,"Kim, Nicole","Montgomery, Zindzhi","Mountcastle, Madeline",,,,0,0,0,8,"[Kim, Nicole] Kill by Montgomery, Zindzhi (from Mountcastle, Madeline).",SWAT,SMI
+2,9,8,SWAT,ace,service_ace,SWAT,"Kim, Nicole",,,,,Team,0,0,0,9,"[Kim, Nicole] Service ace (Team).",SWAT,SMI
+2,10,9,SWAT,error,attack_error,SWAT,"Kim, Nicole","Oakes, Miranda","Woodward, Ruby",,"Oakes, Miranda",,0,0,0,10,"[Kim, Nicole] Attack error by Oakes, Miranda (from Woodward, Ruby).",SWAT,SMI
+2,11,10,SWAT,attack,kill,SWAT,"Kim, Nicole","Enache, Alexia","Eyer, Melissa",,,,0,1,0,11,"[Kim, Nicole] Kill by Enache, Alexia (from Eyer, Melissa).",SWAT,SMI
+2,12,11,SMI,attack,kill,SWAT,"Kim, Nicole","Chapin, Alison","Tullis, Ruth",,,,0,0,1,11,"[Kim, Nicole] Kill by Chapin, Alison (from Tullis, Ruth).",SWAT,SMI
+2,13,12,SWAT,attack,kill,SMI,"Chapin, Alison","Enache, Alexia","Mountcastle, Madeline",,,,0,0,1,12,"[Chapin, Alison] Kill by Enache, Alexia (from Mountcastle, Madeline).",SWAT,SMI
+2,14,13,SWAT,error,attack_error,SWAT,"Eyer, Melissa","Chapin, Alison","Teske, Olivia",,"Chapin, Alison",,0,0,1,13,"[Eyer, Melissa] Attack error by Chapin, Alison (from Teske, Olivia).",SWAT,SMI
+2,15,14,SMI,attack,kill,SWAT,"Eyer, Melissa","Teske, Olivia","Woodward, Ruby",,,,0,0,2,13,"[Eyer, Melissa] Kill by Teske, Olivia (from Woodward, Ruby).",SWAT,SMI
+2,16,15,SMI,error,attack_error,SMI,"Schulz, Uma","Bardauskaite, Aiste","Mountcastle, Madeline",,"Bardauskaite, Aiste",,0,0,3,13,"[Schulz, Uma] Attack error by Bardauskaite, Aiste (from Mountcastle, Madeline).",SWAT,SMI
+2,17,16,SMI,error,ball_handling_error,SMI,"Schulz, Uma",,,,"Mountcastle, Madeline",,0,0,4,13,"[Schulz, Uma] Bad set by Mountcastle, Madeline.",SWAT,SMI
+2,18,17,SWAT,error,service_error,SMI,"Schulz, Uma",,,,"Schulz, Uma",,0,0,4,14,"[Schulz, Uma] Service error.",SWAT,SMI
+2,19,18,SMI,attack,kill,SWAT,"Matsukawa, Lois","Etheridge, Mia","Woodward, Ruby",,,,0,1,5,14,"[Matsukawa, Lois] Kill by Etheridge, Mia (from Woodward, Ruby).",SWAT,SMI
+2,20,19,SMI,error,attack_error,SMI,"Teske, Olivia","Enache, Alexia","Sheridan, Maya",,"Enache, Alexia",,0,0,6,14,"[Teske, Olivia] Attack error by Enache, Alexia (from Sheridan, Maya).",SWAT,SMI
+2,21,20,SMI,block,attack_error,SMI,"Teske, Olivia","Enache, Alexia",,"Feuer, Anna; Woodward, Ruby","Enache, Alexia",,0,0,7,14,"[Teske, Olivia] Attack error by Enache, Alexia (block by Feuer, Anna; Woodward, Ruby).",SWAT,SMI
+2,22,21,SWAT,error,service_error,SMI,"Teske, Olivia",,,,"Teske, Olivia",,0,0,7,15,"[Teske, Olivia] Service error.",SWAT,SMI
+2,23,22,SWAT,error,attack_error,SWAT,"Enache, Alexia","Etheridge, Mia","Woodward, Ruby",,"Etheridge, Mia",,0,0,7,16,"[Enache, Alexia] Attack error by Etheridge, Mia (from Woodward, Ruby).",SWAT,SMI
+2,24,23,SMI,attack,kill,SWAT,"Enache, Alexia","Etheridge, Mia","Woodward, Ruby",,,,0,0,8,16,"[Enache, Alexia] Kill by Etheridge, Mia (from Woodward, Ruby).",SWAT,SMI
+2,25,24,SMI,attack,kill,SMI,"Etheridge, Mia","Chapin, Alison","Woodward, Ruby",,,,0,0,9,16,"[Etheridge, Mia] Kill by Chapin, Alison (from Woodward, Ruby).",SWAT,SMI
+2,26,25,SWAT,error,service_error,SMI,"Etheridge, Mia",,,,"Etheridge, Mia",,0,0,9,17,"[Etheridge, Mia] Service error.",SWAT,SMI
+2,27,26,SMI,error,attack_error,SWAT,"Miles, Keira","Adam, Isabel","Matsukawa, Lois",,"Adam, Isabel",,0,0,10,17,"[Miles, Keira] Attack error by Adam, Isabel (from Matsukawa, Lois).",SWAT,SMI
+2,28,27,SMI,ace,service_ace,SMI,"Hliboki, Maddie",,,,,"Adam, Isabel",0,1,11,17,"[Hliboki, Maddie] Service ace (Adam, Isabel).",SWAT,SMI
+2,29,28,SWAT,attack,kill,SMI,"Hliboki, Maddie","Adam, Isabel","Eyer, Melissa",,,,0,0,11,18,"[Hliboki, Maddie] Kill by Adam, Isabel (from Eyer, Melissa).",SWAT,SMI
+2,30,29,SMI,error,service_error,SWAT,"Mountcastle, Madeline",,,,"Mountcastle, Madeline",,0,0,12,18,"[Mountcastle, Madeline] Service error.",SWAT,SMI
+2,31,30,SWAT,attack,kill,SMI,"Woodward, Ruby","Enache, Alexia","Mountcastle, Madeline",,,,0,0,12,19,"[Woodward, Ruby] Kill by Enache, Alexia (from Mountcastle, Madeline).",SWAT,SMI
+2,32,31,SWAT,error,attack_error,SWAT,"Kim, Nicole","Teske, Olivia","Woodward, Ruby",,"Teske, Olivia",,0,0,12,20,"[Kim, Nicole] Attack error by Teske, Olivia (from Woodward, Ruby).",SWAT,SMI
+2,33,32,SMI,error,service_error,SWAT,"Kim, Nicole",,,,"Kim, Nicole",,0,0,13,20,"[Kim, Nicole] Service error.",SWAT,SMI
+2,34,33,SWAT,error,service_error,SMI,"Chapin, Alison",,,,"Chapin, Alison",,0,0,13,21,"[Chapin, Alison] Service error.",SWAT,SMI
+2,35,34,SMI,attack,kill,SWAT,"Eyer, Melissa","Schulz, Uma","Woodward, Ruby",,,,0,0,14,21,"[Eyer, Melissa] Kill by Schulz, Uma (from Woodward, Ruby).",SWAT,SMI
+2,36,35,SWAT,attack,kill,SMI,"Schulz, Uma","Enache, Alexia","Mountcastle, Madeline",,,,0,0,14,22,"[Schulz, Uma] Kill by Enache, Alexia (from Mountcastle, Madeline).",SWAT,SMI
+2,37,36,SMI,attack,kill,SWAT,"Matsukawa, Lois","Etheridge, Mia","Woodward, Ruby",,,,0,0,15,22,"[Matsukawa, Lois] Kill by Etheridge, Mia (from Woodward, Ruby).",SWAT,SMI
+2,38,37,SWAT,attack,kill,SMI,"Teske, Olivia","Enache, Alexia","Sheridan, Maya",,,,0,0,15,23,"[Teske, Olivia] Kill by Enache, Alexia (from Sheridan, Maya).",SWAT,SMI
+2,39,38,SWAT,attack,kill,SWAT,"Enache, Alexia","Miles, Keira","Sheridan, Maya",,,,0,0,15,24,"[Enache, Alexia] Kill by Miles, Keira (from Sheridan, Maya).",SWAT,SMI
+2,40,39,SMI,attack,kill,SWAT,"Enache, Alexia","Etheridge, Mia","Woodward, Ruby",,,,0,0,16,24,"[Enache, Alexia] Kill by Etheridge, Mia (from Woodward, Ruby).",SWAT,SMI
+2,41,40,SMI,block,attack_error,SMI,"Etheridge, Mia","Adam, Isabel",,"Woodward, Ruby; Feuer, Anna","Adam, Isabel",,0,0,17,24,"[Etheridge, Mia] Attack error by Adam, Isabel (block by Woodward, Ruby; Feuer, Anna).",SWAT,SMI
+2,42,41,SMI,error,attack_error,SMI,"Etheridge, Mia","Miles, Keira","Adam, Isabel",,"Miles, Keira",,0,0,18,24,"[Etheridge, Mia] Attack error by Miles, Keira (from Adam, Isabel).",SWAT,SMI
+2,43,42,SWAT,attack,kill,SMI,"Etheridge, Mia","Miles, Keira","Sheridan, Maya",,,,0,0,18,25,"[Etheridge, Mia] Kill by Miles, Keira (from Sheridan, Maya).",SWAT,SMI
+3,1,0,SMI,error,service_error,SWAT,"Mountcastle, Madeline",,,,"Mountcastle, Madeline",,0,1,1,0,"[Mountcastle, Madeline] Service error.",SWAT,SMI
+3,2,1,SWAT,error,ball_handling_error,SMI,"Etheridge, Mia",,,,"Poehlmann, Claudia",,0,0,1,1,"[Etheridge, Mia] Bad set by Poehlmann, Claudia.",SWAT,SMI
+3,3,2,SMI,error,service_error,SWAT,"Kim, Nicole",,,,"Kim, Nicole",,0,1,2,1,"[Kim, Nicole] Service error.",SWAT,SMI
+3,4,3,SMI,attack,kill,SMI,"Tullis, Ruth","Poehlmann, Claudia","Woodward, Ruby",,,,0,0,3,1,"[Tullis, Ruth] Kill by Poehlmann, Claudia (from Woodward, Ruby).",SWAT,SMI
+3,5,4,SWAT,attack,kill,SMI,"Tullis, Ruth","Bardauskaite, Aiste","Mountcastle, Madeline",,,,0,0,3,2,"[Tullis, Ruth] Kill by Bardauskaite, Aiste (from Mountcastle, Madeline).",SWAT,SMI
+3,6,5,SWAT,attack,kill,SWAT,"Eyer, Melissa","Enache, Alexia","Mountcastle, Madeline",,,,0,0,3,3,"[Eyer, Melissa] Kill by Enache, Alexia (from Mountcastle, Madeline).",SWAT,SMI
+3,7,6,SMI,attack,kill,SWAT,"Eyer, Melissa","Poehlmann, Claudia","Woodward, Ruby",,,,0,0,4,3,"[Eyer, Melissa] Kill by Poehlmann, Claudia (from Woodward, Ruby).",SWAT,SMI
+3,8,7,SWAT,attack,kill,SMI,"Poehlmann, Claudia","Enache, Alexia",,,,,0,0,4,4,"[Poehlmann, Claudia] Kill by Enache, Alexia.",SWAT,SMI
+3,9,8,SWAT,ace,service_ace,SWAT,"Matsukawa, Lois",,,,,"Tullis, Ruth",0,1,4,5,"[Matsukawa, Lois] Service ace (Tullis, Ruth).",SWAT,SMI
+3,10,9,SWAT,attack,kill,SWAT,"Matsukawa, Lois","Matsukawa, Lois","Woodward, Ruby",,,,0,0,4,6,"[Matsukawa, Lois] Kill by Matsukawa, Lois (from Woodward, Ruby).",SWAT,SMI
+3,11,10,SMI,attack,kill,SWAT,"Matsukawa, Lois","Chapin, Alison","Woodward, Ruby",,,,0,1,5,6,"[Matsukawa, Lois] Kill by Chapin, Alison (from Woodward, Ruby).",SWAT,SMI
+3,12,11,SMI,attack,kill,SMI,"Chapin, Alison","Etheridge, Mia","Woodward, Ruby",,,,0,0,6,6,"[Chapin, Alison] Kill by Etheridge, Mia (from Woodward, Ruby).",SWAT,SMI
+3,13,12,SWAT,error,service_error,SMI,"Chapin, Alison",,,,"Chapin, Alison",,0,0,6,7,"[Chapin, Alison] Service error.",SWAT,SMI
+3,14,13,SWAT,ace,service_ace,SWAT,"Enache, Alexia",,,,,Team,0,0,6,8,"[Enache, Alexia] Service ace (Team).",SWAT,SMI
+3,15,14,SMI,attack,kill,SWAT,"Enache, Alexia","Woodward, Ruby",,,,,0,0,7,8,"[Enache, Alexia] Kill by Woodward, Ruby.",SWAT,SMI
+3,16,15,SWAT,attack,kill,SMI,"Schulz, Uma","Miles, Keira","Sheridan, Maya",,,,0,0,7,9,"[Schulz, Uma] Kill by Miles, Keira (from Sheridan, Maya).",SWAT,SMI
+3,17,16,SWAT,attack,kill,SWAT,"Miles, Keira","Adam, Isabel","Sheridan, Maya",,,,0,0,7,10,"[Miles, Keira] Kill by Adam, Isabel (from Sheridan, Maya).",SWAT,SMI
+3,18,17,SMI,error,service_error,SWAT,"Miles, Keira",,,,"Miles, Keira",,0,1,8,10,"[Miles, Keira] Service error.",SWAT,SMI
+3,19,18,SWAT,error,attack_error,SMI,"Woodward, Ruby","Etheridge, Mia","Poehlmann, Claudia",,"Etheridge, Mia",,0,0,8,11,"[Woodward, Ruby] Attack error by Etheridge, Mia (from Poehlmann, Claudia).",SWAT,SMI
+3,20,19,SWAT,attack,kill,SWAT,"Mountcastle, Madeline","Adam, Isabel","Mountcastle, Madeline",,,,0,0,8,12,"[Mountcastle, Madeline] Kill by Adam, Isabel (from Mountcastle, Madeline).",SWAT,SMI
+3,21,20,SMI,attack,kill,SWAT,"Mountcastle, Madeline","Feuer, Anna","Woodward, Ruby",,,,0,0,9,12,"[Mountcastle, Madeline] Kill by Feuer, Anna (from Woodward, Ruby).",SWAT,SMI
+3,22,21,SMI,error,attack_error,SMI,"Etheridge, Mia","Adam, Isabel","Mountcastle, Madeline",,"Adam, Isabel",,0,0,10,12,"[Etheridge, Mia] Attack error by Adam, Isabel (from Mountcastle, Madeline).",SWAT,SMI
+3,23,22,SMI,attack,kill,SMI,"Etheridge, Mia","Poehlmann, Claudia","Woodward, Ruby",,,,0,0,11,12,"[Etheridge, Mia] Kill by Poehlmann, Claudia (from Woodward, Ruby).",SWAT,SMI
+3,24,23,SMI,attack,kill,SMI,"Etheridge, Mia","Feuer, Anna","Woodward, Ruby",,,,0,0,12,12,"[Etheridge, Mia] Kill by Feuer, Anna (from Woodward, Ruby).",SWAT,SMI
+3,25,24,SMI,ace,service_ace,SMI,"Etheridge, Mia",,,,,"Etheridge, Mia",0,0,13,12,"[Etheridge, Mia] Service ace (Etheridge, Mia).",SWAT,SMI
+3,26,25,SWAT,ace,service_ace,SWAT,"Kim, Nicole",,,,,Team,0,0,13,13,"[Kim, Nicole] Service ace (Team).",SWAT,SMI
+3,27,26,SWAT,block,attack_error,SWAT,"Kim, Nicole","Chapin, Alison",,"Montgomery, Zindzhi; Bardauskaite, Aiste","Chapin, Alison",,0,0,13,14,"[Kim, Nicole] Attack error by Chapin, Alison (block by Montgomery, Zindzhi; Bardauskaite, Aiste).",SWAT,SMI
+3,28,27,SMI,attack,kill,SWAT,"Kim, Nicole","Chapin, Alison","Woodward, Ruby",,,,0,0,14,14,"[Kim, Nicole] Kill by Chapin, Alison (from Woodward, Ruby).",SWAT,SMI
+3,29,28,SMI,attack,kill,SMI,"Tullis, Ruth","Chapin, Alison","Woodward, Ruby",,,,0,0,15,14,"[Tullis, Ruth] Kill by Chapin, Alison (from Woodward, Ruby).",SWAT,SMI
+3,30,29,SMI,block,attack_error,SMI,"Tullis, Ruth","Bardauskaite, Aiste",,"Chapin, Alison; Schulz, Uma","Bardauskaite, Aiste",,0,0,16,14,"[Tullis, Ruth] Attack error by Bardauskaite, Aiste (block by Chapin, Alison; Schulz, Uma).",SWAT,SMI
+3,31,30,SMI,ace,service_ace,SMI,"Tullis, Ruth",,,,,"Eyer, Melissa",0,0,17,14,"[Tullis, Ruth] Service ace (Eyer, Melissa).",SWAT,SMI
+3,32,31,SMI,error,attack_error,SMI,"Tullis, Ruth","Bardauskaite, Aiste","Mountcastle, Madeline",,"Bardauskaite, Aiste",,0,0,18,14,"[Tullis, Ruth] Attack error by Bardauskaite, Aiste (from Mountcastle, Madeline).",SWAT,SMI
+3,33,32,SWAT,error,service_error,SMI,"Tullis, Ruth",,,,"Tullis, Ruth",,0,1,18,15,"[Tullis, Ruth] Service error.",SWAT,SMI
+3,34,33,SMI,attack,kill,SWAT,"Eyer, Melissa","Poehlmann, Claudia","Woodward, Ruby",,,,0,0,19,15,"[Eyer, Melissa] Kill by Poehlmann, Claudia (from Woodward, Ruby).",SWAT,SMI
+3,35,34,SWAT,attack,kill,SMI,"Hliboki, Maddie","Enache, Alexia","Sun, Emily",,,,0,0,19,16,"[Hliboki, Maddie] Kill by Enache, Alexia (from Sun, Emily).",SWAT,SMI
+3,36,35,SMI,attack,kill,SWAT,"Matsukawa, Lois","Schulz, Uma","Woodward, Ruby",,,,0,0,20,16,"[Matsukawa, Lois] Kill by Schulz, Uma (from Woodward, Ruby).",SWAT,SMI
+3,37,36,SMI,block,attack_error,SMI,"Chapin, Alison","Miles, Keira",,"Etheridge, Mia; Schulz, Uma","Miles, Keira",,0,0,21,16,"[Chapin, Alison] Attack error by Miles, Keira (block by Etheridge, Mia; Schulz, Uma).",SWAT,SMI
+3,38,37,SMI,attack,kill,SMI,"Chapin, Alison","Etheridge, Mia","Hliboki, Maddie",,,,0,0,22,16,"[Chapin, Alison] Kill by Etheridge, Mia (from Hliboki, Maddie).",SWAT,SMI
+3,39,38,SMI,ace,service_ace,SMI,"Chapin, Alison",,,,,Team,0,0,23,16,"[Chapin, Alison] Service ace (Team).",SWAT,SMI
+3,40,39,SWAT,block,attack_error,SMI,"Chapin, Alison","Etheridge, Mia",,"Miles, Keira; Sheridan, Maya","Etheridge, Mia",,0,0,23,17,"[Chapin, Alison] Attack error by Etheridge, Mia (block by Miles, Keira; Sheridan, Maya).",SWAT,SMI
+3,41,40,SWAT,error,ball_handling_error,SWAT,"Enache, Alexia",,,,"Woodward, Ruby",,0,0,23,18,"[Enache, Alexia] Bad set by Woodward, Ruby.",SWAT,SMI
+3,42,41,SWAT,error,attack_error,SWAT,"Enache, Alexia","Schulz, Uma","Woodward, Ruby",,"Schulz, Uma",,0,0,23,19,"[Enache, Alexia] Attack error by Schulz, Uma (from Woodward, Ruby).",SWAT,SMI
+3,43,42,SWAT,error,attack_error,SWAT,"Enache, Alexia","Etheridge, Mia","Woodward, Ruby",,"Etheridge, Mia",,0,0,23,20,"[Enache, Alexia] Attack error by Etheridge, Mia (from Woodward, Ruby).",SWAT,SMI
+3,44,43,SWAT,ace,service_ace,SWAT,"Enache, Alexia",,,,,"Chapin, Alison",0,0,23,21,"[Enache, Alexia] Service ace (Chapin, Alison).",SWAT,SMI
+3,45,44,SMI,error,service_error,SWAT,"Enache, Alexia",,,,"Enache, Alexia",,0,0,24,21,"[Enache, Alexia] Service error.",SWAT,SMI
+3,46,45,SWAT,block,attack_error,SMI,"Schulz, Uma","Etheridge, Mia",,"Miles, Keira; Sheridan, Maya","Etheridge, Mia",,0,0,24,22,"[Schulz, Uma] Attack error by Etheridge, Mia (block by Miles, Keira; Sheridan, Maya).",SWAT,SMI
+3,47,46,SMI,attack,kill,SWAT,"Miles, Keira","Etheridge, Mia","Woodward, Ruby",,,,0,0,25,22,"[Miles, Keira] Kill by Etheridge, Mia (from Woodward, Ruby).",SWAT,SMI
+4,1,0,SMI,attack,kill,SMI,"Woodward, Ruby","Feuer, Anna","Woodward, Ruby",,,,0,1,1,0,"[Woodward, Ruby] Kill by Feuer, Anna (from Woodward, Ruby).",SWAT,SMI
+4,2,1,SWAT,attack,kill,SMI,"Woodward, Ruby","Montgomery, Zindzhi","Mountcastle, Madeline",,,,0,0,1,1,"[Woodward, Ruby] Kill by Montgomery, Zindzhi (from Mountcastle, Madeline).",SWAT,SMI
+4,3,2,SWAT,ace,service_ace,SWAT,"Kim, Nicole",,,,,Team,0,1,1,2,"[Kim, Nicole] Service ace (Team).",SWAT,SMI
+4,4,3,SMI,attack,kill,SWAT,"Kim, Nicole","Poehlmann, Claudia","Woodward, Ruby",,,,0,0,2,2,"[Kim, Nicole] Kill by Poehlmann, Claudia (from Woodward, Ruby).",SWAT,SMI
+4,5,4,SMI,error,attack_error,SMI,"Etheridge, Mia","Enache, Alexia","Eyer, Melissa",,"Enache, Alexia",,0,0,3,2,"[Etheridge, Mia] Attack error by Enache, Alexia (from Eyer, Melissa).",SWAT,SMI
+4,6,5,SMI,block,attack_error,SMI,"Etheridge, Mia","Enache, Alexia",,"Feuer, Anna; Poehlmann, Claudia","Enache, Alexia",,0,0,4,2,"[Etheridge, Mia] Attack error by Enache, Alexia (block by Feuer, Anna; Poehlmann, Claudia).",SWAT,SMI
+4,7,6,SMI,attack,kill,SMI,"Etheridge, Mia","Feuer, Anna",,,,,0,0,5,2,"[Etheridge, Mia] Kill by Feuer, Anna.",SWAT,SMI
+4,8,7,SWAT,attack,kill,SMI,"Etheridge, Mia","Enache, Alexia","Eyer, Melissa",,,,0,0,5,3,"[Etheridge, Mia] Kill by Enache, Alexia (from Eyer, Melissa).",SWAT,SMI
+4,9,8,SMI,attack,kill,SWAT,"Eyer, Melissa","Poehlmann, Claudia","Woodward, Ruby",,,,0,0,6,3,"[Eyer, Melissa] Kill by Poehlmann, Claudia (from Woodward, Ruby).",SWAT,SMI
+4,10,9,SWAT,attack,kill,SMI,"Tullis, Ruth","Miles, Keira","Mountcastle, Madeline",,,,0,0,6,4,"[Tullis, Ruth] Kill by Miles, Keira (from Mountcastle, Madeline).",SWAT,SMI
+4,11,10,SMI,error,service_error,SWAT,"Sun, Emily",,,,"Sun, Emily",,0,1,7,4,"[Sun, Emily] Service error.",SWAT,SMI
+4,12,11,SMI,ace,service_ace,SMI,"Hliboki, Maddie",,,,,"Enache, Alexia",0,1,8,4,"[Hliboki, Maddie] Service ace (Enache, Alexia).",SWAT,SMI
+4,13,12,SWAT,error,attack_error,SMI,"Hliboki, Maddie","Chapin, Alison","Woodward, Ruby",,"Chapin, Alison",,0,0,8,5,"[Hliboki, Maddie] Attack error by Chapin, Alison (from Woodward, Ruby).",SWAT,SMI
+4,14,13,SMI,attack,kill,SWAT,"Enache, Alexia","Chapin, Alison","Woodward, Ruby",,,,0,0,9,5,"[Enache, Alexia] Kill by Chapin, Alison (from Woodward, Ruby).",SWAT,SMI
+4,15,14,SWAT,attack,kill,SMI,"Chapin, Alison","Miles, Keira","Sun, Emily",,,,0,0,9,6,"[Chapin, Alison] Kill by Miles, Keira (from Sun, Emily).",SWAT,SMI
+4,16,15,SMI,error,service_error,SWAT,"Miles, Keira",,,,"Miles, Keira",,0,0,10,6,"[Miles, Keira] Service error.",SWAT,SMI
+4,17,16,SWAT,error,service_error,SMI,"Schulz, Uma",,,,"Schulz, Uma",,0,0,10,7,"[Schulz, Uma] Service error.",SWAT,SMI
+4,18,17,SWAT,ace,service_ace,SWAT,"Mountcastle, Madeline",,,,,"Chapin, Alison",0,0,10,8,"[Mountcastle, Madeline] Service ace (Chapin, Alison).",SWAT,SMI
+4,19,18,SMI,attack,kill,SWAT,"Mountcastle, Madeline","Etheridge, Mia","Woodward, Ruby",,,,0,0,11,8,"[Mountcastle, Madeline] Kill by Etheridge, Mia (from Woodward, Ruby).",SWAT,SMI
+4,20,19,SMI,error,ball_handling_error,SMI,"Woodward, Ruby",,,,"Mountcastle, Madeline",,0,0,12,8,"[Woodward, Ruby] Bad set by Mountcastle, Madeline.",SWAT,SMI
+4,21,20,SMI,error,attack_error,SMI,"Woodward, Ruby","Adam, Isabel","Montgomery, Zindzhi",,"Adam, Isabel",,0,0,13,8,"[Woodward, Ruby] Attack error by Adam, Isabel (from Montgomery, Zindzhi).",SWAT,SMI
+4,22,21,SMI,ace,service_ace,SMI,"Woodward, Ruby",,,,,"Eyer, Melissa",0,1,14,8,"[Woodward, Ruby] Service ace (Eyer, Melissa).",SWAT,SMI
+4,23,22,SMI,attack,kill,SMI,"Woodward, Ruby","Feuer, Anna","Woodward, Ruby",,,,0,0,15,8,"[Woodward, Ruby] Kill by Feuer, Anna (from Woodward, Ruby).",SWAT,SMI
+4,24,23,SWAT,attack,kill,SMI,"Woodward, Ruby","Enache, Alexia","Mountcastle, Madeline",,,,0,0,15,9,"[Woodward, Ruby] Kill by Enache, Alexia (from Mountcastle, Madeline).",SWAT,SMI
+4,25,24,SMI,attack,kill,SWAT,"Kim, Nicole","Klunder, Addison","Woodward, Ruby",,,,0,0,16,9,"[Kim, Nicole] Kill by Klunder, Addison (from Woodward, Ruby).",SWAT,SMI
+4,26,25,SWAT,attack,kill,SMI,"Klunder, Addison","Enache, Alexia","Mountcastle, Madeline",,,,0,0,16,10,"[Klunder, Addison] Kill by Enache, Alexia (from Mountcastle, Madeline).",SWAT,SMI
+4,27,26,SMI,attack,kill,SWAT,"Eyer, Melissa","Feuer, Anna","Woodward, Ruby",,,,0,0,17,10,"[Eyer, Melissa] Kill by Feuer, Anna (from Woodward, Ruby).",SWAT,SMI
+4,28,27,SWAT,attack,kill,SMI,"Tullis, Ruth","Enache, Alexia","Mountcastle, Madeline",,,,0,0,17,11,"[Tullis, Ruth] Kill by Enache, Alexia (from Mountcastle, Madeline).",SWAT,SMI
+4,29,28,SMI,attack,kill,SWAT,"Sun, Emily","Schulz, Uma",,,,,0,0,18,11,"[Sun, Emily] Kill by Schulz, Uma.",SWAT,SMI
+4,30,29,SMI,attack,kill,SMI,"Hliboki, Maddie","Chapin, Alison","Woodward, Ruby",,,,0,0,19,11,"[Hliboki, Maddie] Kill by Chapin, Alison (from Woodward, Ruby).",SWAT,SMI
+4,31,30,SWAT,attack,kill,SMI,"Hliboki, Maddie","Enache, Alexia","Sun, Emily",,,,0,0,19,12,"[Hliboki, Maddie] Kill by Enache, Alexia (from Sun, Emily).",SWAT,SMI
+4,32,31,SWAT,ace,service_ace,SWAT,"Enache, Alexia",,,,,"Tullis, Ruth",0,0,19,13,"[Enache, Alexia] Service ace (Tullis, Ruth).",SWAT,SMI
+4,33,32,SMI,attack,kill,SWAT,"Enache, Alexia","Chapin, Alison","Woodward, Ruby",,,,0,0,20,13,"[Enache, Alexia] Kill by Chapin, Alison (from Woodward, Ruby).",SWAT,SMI
+4,34,33,SWAT,error,attack_error,SMI,"Chapin, Alison","Chapin, Alison","Tullis, Ruth",,"Chapin, Alison",,0,0,20,14,"[Chapin, Alison] Attack error by Chapin, Alison (from Tullis, Ruth).",SWAT,SMI
+4,35,34,SMI,error,attack_error,SWAT,"Streeper, Ellie","Montgomery, Zindzhi",,,"Montgomery, Zindzhi",,0,1,21,14,"[Streeper, Ellie] Attack error by Montgomery, Zindzhi.",SWAT,SMI
+4,36,35,SWAT,error,attack_error,SMI,"Schulz, Uma","Klunder, Addison","Woodward, Ruby",,"Klunder, Addison",,0,0,21,15,"[Schulz, Uma] Attack error by Klunder, Addison (from Woodward, Ruby).",SWAT,SMI
+4,37,36,SMI,error,service_error,SWAT,"Mountcastle, Madeline",,,,"Mountcastle, Madeline",,0,0,22,15,"[Mountcastle, Madeline] Service error.",SWAT,SMI
+4,38,37,SMI,ace,service_ace,SMI,"Woodward, Ruby",,,,,"Enache, Alexia",0,0,23,15,"[Woodward, Ruby] Service ace (Enache, Alexia).",SWAT,SMI
+4,39,38,SWAT,error,service_error,SMI,"Woodward, Ruby",,,,"Woodward, Ruby",,0,0,23,16,"[Woodward, Ruby] Service error.",SWAT,SMI
+4,40,39,SWAT,ace,service_ace,SWAT,"Kim, Nicole",,,,,"Klunder, Addison",0,0,23,17,"[Kim, Nicole] Service ace (Klunder, Addison).",SWAT,SMI
+4,41,40,SMI,error,ball_handling_error,SWAT,"Kim, Nicole",,,,"Mountcastle, Madeline",,0,0,24,17,"[Kim, Nicole] Bad set by Mountcastle, Madeline.",SWAT,SMI
+4,42,41,SWAT,error,service_error,SMI,"Klunder, Addison",,,,"Klunder, Addison",,0,0,24,18,"[Klunder, Addison] Service error.",SWAT,SMI
+4,43,42,SMI,attack,kill,SWAT,"Eyer, Melissa","Poehlmann, Claudia","Woodward, Ruby",,,,0,0,25,18,"[Eyer, Melissa] Kill by Poehlmann, Claudia (from Woodward, Ruby).",SWAT,SMI

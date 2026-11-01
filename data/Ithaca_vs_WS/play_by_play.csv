@@ -1,0 +1,204 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,WSC,block,attack_error,WSC,"Williams, Delainy","Gonzalez-Abreu, Gabriela",,"Von Dohlen, Hope; Newsome, Arielle","Gonzalez-Abreu, Gabriela",,0,0,1,0,"[Williams, Delainy] Attack error by Gonzalez-Abreu, Gabriela (block by Von Dohlen, Hope; Newsome, Arielle).",ITH,WSC
+1,2,1,ITH,attack,kill,WSC,"Williams, Delainy","Wiese, Jayden","Slavin, Wesley",,,,0,0,1,1,"[Williams, Delainy] Kill by Wiese, Jayden (from Slavin, Wesley).",ITH,WSC
+1,3,2,WSC,error,service_error,ITH,"Benedict, Ellie",,,,"Benedict, Ellie",,0,0,2,1,"[Benedict, Ellie] Service error.",ITH,WSC
+1,4,3,WSC,ace,service_ace,WSC,"Sayre, Malya",,,,,"Gonzalez-Abreu, Gabriela",0,0,3,1,"[Sayre, Malya] Service ace (Gonzalez-Abreu, Gabriela).",ITH,WSC
+1,5,4,WSC,attack,kill,WSC,"Sayre, Malya","Fulton, Emily","Williams, Delainy",,,,0,0,4,1,"[Sayre, Malya] Kill by Fulton, Emily (from Williams, Delainy).",ITH,WSC
+1,6,5,WSC,attack,kill,WSC,"Sayre, Malya","Newsome, Arielle","Williams, Delainy",,,,0,0,5,1,"[Sayre, Malya] Kill by Newsome, Arielle (from Williams, Delainy).",ITH,WSC
+1,7,6,ITH,error,service_error,WSC,"Sayre, Malya",,,,"Sayre, Malya",,0,0,5,2,"[Sayre, Malya] Service error.",ITH,WSC
+1,8,7,WSC,attack,kill,ITH,"Altland, Bridget","Newsome, Arielle","Williams, Delainy",,,,0,1,6,2,"[Altland, Bridget] Kill by Newsome, Arielle (from Williams, Delainy).",ITH,WSC
+1,9,8,WSC,attack,kill,WSC,"Vanderhoof, Kali","Von Dohlen, Hope","Williams, Delainy",,,,0,0,7,2,"[Vanderhoof, Kali] Kill by Von Dohlen, Hope (from Williams, Delainy).",ITH,WSC
+1,10,9,ITH,attack,kill,WSC,"Vanderhoof, Kali","Leadbetter, Addison","Slavin, Wesley",,,,0,0,7,3,"[Vanderhoof, Kali] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WSC
+1,11,10,WSC,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Von Dohlen, Hope","Williams, Delainy",,,,0,1,8,3,"[Gonzalez-Abreu, Gabriela] Kill by Von Dohlen, Hope (from Williams, Delainy).",ITH,WSC
+1,12,11,ITH,error,attack_error,WSC,"Fernandez, Cydney","Fulton, Emily","Williams, Delainy",,"Fulton, Emily",,0,1,8,4,"[Fernandez, Cydney] Attack error by Fulton, Emily (from Williams, Delainy).",ITH,WSC
+1,13,12,ITH,block,attack_error,ITH,"Leadbetter, Addison","Sayre, Malya",,"Graper, Ella","Sayre, Malya",,0,1,8,5,"[Leadbetter, Addison] Attack error by Sayre, Malya (block by Graper, Ella).",ITH,WSC
+1,14,13,ITH,attack,kill,ITH,"Leadbetter, Addison","Clauhs, Naomi","Slavin, Wesley",,,,0,0,8,6,"[Leadbetter, Addison] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+1,15,14,ITH,attack,kill,ITH,"Leadbetter, Addison","Clauhs, Naomi","Slavin, Wesley",,,,0,0,8,7,"[Leadbetter, Addison] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+1,16,15,ITH,ace,service_ace,ITH,"Leadbetter, Addison",,,,,"Fulton, Emily",0,0,8,8,"[Leadbetter, Addison] Service ace (Fulton, Emily).",ITH,WSC
+1,17,16,ITH,attack,kill,ITH,"Leadbetter, Addison","Clauhs, Naomi","Slavin, Wesley",,,,0,0,8,9,"[Leadbetter, Addison] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+1,18,17,WSC,attack,kill,ITH,"Leadbetter, Addison","Fulton, Emily","Williams, Delainy",,,,0,0,9,9,"[Leadbetter, Addison] Kill by Fulton, Emily (from Williams, Delainy).",ITH,WSC
+1,19,18,ITH,attack,kill,WSC,"Fulton, Emily","Slavin, Wesley","Slavin, Wesley",,,,0,0,9,10,"[Fulton, Emily] Kill by Slavin, Wesley (from Slavin, Wesley).",ITH,WSC
+1,20,19,WSC,attack,kill,ITH,"Slavin, Wesley","Sayre, Malya","Williams, Delainy",,,,0,0,10,10,"[Slavin, Wesley] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+1,21,20,ITH,attack,kill,WSC,"Kresl, Madilyn","Wiese, Jayden","Slavin, Wesley",,,,0,1,10,11,"[Kresl, Madilyn] Kill by Wiese, Jayden (from Slavin, Wesley).",ITH,WSC
+1,22,21,ITH,block,attack_error,ITH,"Garcia, Karina","Newsome, Arielle",,"Graper, Ella; Gonzalez-Abreu, Gabriela","Newsome, Arielle",,0,0,10,12,"[Garcia, Karina] Attack error by Newsome, Arielle (block by Graper, Ella; Gonzalez-Abreu, Gabriela).",ITH,WSC
+1,23,22,WSC,attack,kill,ITH,"Garcia, Karina","Williams, Delainy",,,,,0,0,11,12,"[Garcia, Karina] Kill by Williams, Delainy.",ITH,WSC
+1,24,23,ITH,attack,kill,WSC,"Williams, Delainy","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,11,13,"[Williams, Delainy] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+1,25,24,WSC,attack,kill,ITH,"Benedict, Ellie","Sayre, Malya","Vanderhoof, Kali",,,,0,0,12,13,"[Benedict, Ellie] Kill by Sayre, Malya (from Vanderhoof, Kali).",ITH,WSC
+1,26,25,ITH,error,service_error,WSC,"Sayre, Malya",,,,"Sayre, Malya",,0,0,12,14,"[Sayre, Malya] Service error.",ITH,WSC
+1,27,26,ITH,error,attack_error,ITH,"Altland, Bridget","Fulton, Emily","Williams, Delainy",,"Fulton, Emily",,0,0,12,15,"[Altland, Bridget] Attack error by Fulton, Emily (from Williams, Delainy).",ITH,WSC
+1,28,27,WSC,attack,kill,ITH,"Altland, Bridget","Von Dohlen, Hope","Williams, Delainy",,,,0,0,13,15,"[Altland, Bridget] Kill by Von Dohlen, Hope (from Williams, Delainy).",ITH,WSC
+1,29,28,WSC,error,attack_error,WSC,"Vanderhoof, Kali","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,"Gonzalez-Abreu, Gabriela",,0,0,14,15,"[Vanderhoof, Kali] Attack error by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+1,30,29,ITH,attack,kill,WSC,"Vanderhoof, Kali","Gonzalez-Abreu, Gabriela","Benedict, Ellie",,,,0,0,14,16,"[Vanderhoof, Kali] Kill by Gonzalez-Abreu, Gabriela (from Benedict, Ellie).",ITH,WSC
+1,31,30,WSC,error,attack_error,ITH,"Gonzalez-Abreu, Gabriela","Clauhs, Naomi","Slavin, Wesley",,"Clauhs, Naomi",,0,0,15,16,"[Gonzalez-Abreu, Gabriela] Attack error by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+1,32,31,WSC,error,ball_handling_error,WSC,"Fernandez, Cydney",,,,"Slavin, Wesley",,0,0,16,16,"[Fernandez, Cydney] Bad set by Slavin, Wesley.",ITH,WSC
+1,33,32,WSC,ace,service_ace,WSC,"Fernandez, Cydney",,,,,Team,0,0,17,16,"[Fernandez, Cydney] Service ace (Team).",ITH,WSC
+1,34,33,ITH,attack,kill,WSC,"Fernandez, Cydney","Slavin, Wesley",,,,,0,0,17,17,"[Fernandez, Cydney] Kill by Slavin, Wesley.",ITH,WSC
+1,35,34,WSC,attack,kill,ITH,"Leadbetter, Addison","Fulton, Emily","McCarthy, Jaylynn",,,,0,0,18,17,"[Leadbetter, Addison] Kill by Fulton, Emily (from McCarthy, Jaylynn).",ITH,WSC
+1,36,35,ITH,block,attack_error,WSC,"Fulton, Emily","Sayre, Malya",,"Graper, Ella","Sayre, Malya",,0,0,18,18,"[Fulton, Emily] Attack error by Sayre, Malya (block by Graper, Ella).",ITH,WSC
+1,37,36,WSC,attack,kill,ITH,"Slavin, Wesley","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,19,18,"[Slavin, Wesley] Kill by McCarthy, Jaylynn (from Williams, Delainy).",ITH,WSC
+1,38,37,ITH,attack,kill,WSC,"Kresl, Madilyn","Clauhs, Naomi","Slavin, Wesley",,,,0,0,19,19,"[Kresl, Madilyn] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+1,39,38,ITH,attack,kill,ITH,"Garcia, Karina","Graper, Ella",,,,,0,0,19,20,"[Garcia, Karina] Kill by Graper, Ella.",ITH,WSC
+1,40,39,WSC,error,service_error,ITH,"Garcia, Karina",,,,"Garcia, Karina",,0,0,20,20,"[Garcia, Karina] Service error.",ITH,WSC
+1,41,40,WSC,attack,kill,WSC,"Williams, Delainy","Sayre, Malya","Williams, Delainy",,,,0,0,21,20,"[Williams, Delainy] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+1,42,41,ITH,attack,kill,WSC,"Williams, Delainy","Wiese, Jayden","Slavin, Wesley",,,,0,0,21,21,"[Williams, Delainy] Kill by Wiese, Jayden (from Slavin, Wesley).",ITH,WSC
+1,43,42,ITH,ace,service_ace,ITH,"Benedict, Ellie",,,,,"Vanderhoof, Kali",0,0,21,22,"[Benedict, Ellie] Service ace (Vanderhoof, Kali).",ITH,WSC
+1,44,43,WSC,error,service_error,ITH,"Benedict, Ellie",,,,"Benedict, Ellie",,0,0,22,22,"[Benedict, Ellie] Service error.",ITH,WSC
+1,45,44,WSC,block,attack_error,WSC,"Sayre, Malya","Gonzalez-Abreu, Gabriela",,"Newsome, Arielle; Von Dohlen, Hope","Gonzalez-Abreu, Gabriela",,0,0,23,22,"[Sayre, Malya] Attack error by Gonzalez-Abreu, Gabriela (block by Newsome, Arielle; Von Dohlen, Hope).",ITH,WSC
+1,46,45,WSC,attack,kill,WSC,"Sayre, Malya","Von Dohlen, Hope","Williams, Delainy",,,,0,0,24,22,"[Sayre, Malya] Kill by Von Dohlen, Hope (from Williams, Delainy).",ITH,WSC
+1,47,46,ITH,block,attack_error,WSC,"Sayre, Malya","Fulton, Emily",,"Wiese, Jayden","Fulton, Emily",,0,0,24,23,"[Sayre, Malya] Attack error by Fulton, Emily (block by Wiese, Jayden).",ITH,WSC
+1,48,47,WSC,attack,kill,ITH,"Altland, Bridget","Newsome, Arielle","Williams, Delainy",,,,0,0,25,23,"[Altland, Bridget] Kill by Newsome, Arielle (from Williams, Delainy).",ITH,WSC
+2,1,0,ITH,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Clauhs, Naomi","Gonzalez-Abreu, Gabriela",,,,0,1,0,1,"[Gonzalez-Abreu, Gabriela] Kill by Clauhs, Naomi (from Gonzalez-Abreu, Gabriela).",ITH,WSC
+2,2,1,WSC,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Sayre, Malya","Williams, Delainy",,,,0,0,1,1,"[Gonzalez-Abreu, Gabriela] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+2,3,2,WSC,attack,kill,WSC,"Williams, Delainy","Von Dohlen, Hope","Williams, Delainy",,,,0,1,2,1,"[Williams, Delainy] Kill by Von Dohlen, Hope (from Williams, Delainy).",ITH,WSC
+2,4,3,ITH,attack,kill,WSC,"Williams, Delainy","Leadbetter, Addison","Slavin, Wesley",,,,0,0,2,2,"[Williams, Delainy] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WSC
+2,5,4,WSC,attack,kill,ITH,"Leadbetter, Addison","Von Dohlen, Hope","Williams, Delainy",,,,0,0,3,2,"[Leadbetter, Addison] Kill by Von Dohlen, Hope (from Williams, Delainy).",ITH,WSC
+2,6,5,ITH,attack,kill,WSC,"Sayre, Malya","Slavin, Wesley",,,,,0,0,3,3,"[Sayre, Malya] Kill by Slavin, Wesley.",ITH,WSC
+2,7,6,ITH,ace,service_ace,ITH,"Slavin, Wesley",,,,,Team,0,1,3,4,"[Slavin, Wesley] Service ace (Team).",ITH,WSC
+2,8,7,ITH,ace,service_ace,ITH,"Slavin, Wesley",,,,,"Fulton, Emily",0,0,3,5,"[Slavin, Wesley] Service ace (Fulton, Emily).",ITH,WSC
+2,9,8,ITH,attack,kill,ITH,"Slavin, Wesley","Clauhs, Naomi","Benedict, Ellie",,,,0,0,3,6,"[Slavin, Wesley] Kill by Clauhs, Naomi (from Benedict, Ellie).",ITH,WSC
+2,10,9,ITH,ace,service_ace,ITH,"Slavin, Wesley",,,,,Team,0,0,3,7,"[Slavin, Wesley] Service ace (Team).",ITH,WSC
+2,11,10,WSC,attack,kill,ITH,"Slavin, Wesley","Newsome, Arielle",,,,,0,0,4,7,"[Slavin, Wesley] Kill by Newsome, Arielle.",ITH,WSC
+2,12,11,ITH,attack,kill,WSC,"Vanderhoof, Kali","Wiese, Jayden","Slavin, Wesley",,,,0,0,4,8,"[Vanderhoof, Kali] Kill by Wiese, Jayden (from Slavin, Wesley).",ITH,WSC
+2,13,12,ITH,error,attack_error,ITH,"Garcia, Karina","Von Dohlen, Hope","Williams, Delainy",,"Von Dohlen, Hope",,0,1,4,9,"[Garcia, Karina] Attack error by Von Dohlen, Hope (from Williams, Delainy).",ITH,WSC
+2,14,13,WSC,error,service_error,ITH,"Garcia, Karina",,,,"Garcia, Karina",,0,0,5,9,"[Garcia, Karina] Service error.",ITH,WSC
+2,15,14,WSC,error,attack_error,WSC,"Fernandez, Cydney","Wiese, Jayden","Slavin, Wesley",,"Wiese, Jayden",,0,1,6,9,"[Fernandez, Cydney] Attack error by Wiese, Jayden (from Slavin, Wesley).",ITH,WSC
+2,16,15,ITH,attack,kill,WSC,"Fernandez, Cydney","Graper, Ella",,,,,0,0,6,10,"[Fernandez, Cydney] Kill by Graper, Ella.",ITH,WSC
+2,17,16,ITH,attack,kill,ITH,"Benedict, Ellie","Leadbetter, Addison","Slavin, Wesley",,,,0,0,6,11,"[Benedict, Ellie] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WSC
+2,18,17,ITH,ace,service_ace,ITH,"Benedict, Ellie",,,,,"Sayre, Malya",0,0,6,12,"[Benedict, Ellie] Service ace (Sayre, Malya).",ITH,WSC
+2,19,18,ITH,attack,kill,ITH,"Benedict, Ellie","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,6,13,"[Benedict, Ellie] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+2,20,19,ITH,attack,kill,ITH,"Benedict, Ellie","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,6,14,"[Benedict, Ellie] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+2,21,20,WSC,attack,kill,ITH,"Benedict, Ellie","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,7,14,"[Benedict, Ellie] Kill by McCarthy, Jaylynn (from Williams, Delainy).",ITH,WSC
+2,22,21,WSC,error,attack_error,WSC,"Fulton, Emily","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,"Gonzalez-Abreu, Gabriela",,0,0,8,14,"[Fulton, Emily] Attack error by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+2,23,22,WSC,block,attack_error,WSC,"Fulton, Emily","Wiese, Jayden",,"Sayre, Malya; McCarthy, Jaylynn","Wiese, Jayden",,0,0,9,14,"[Fulton, Emily] Attack error by Wiese, Jayden (block by Sayre, Malya; McCarthy, Jaylynn).",ITH,WSC
+2,24,23,ITH,attack,kill,WSC,"Fulton, Emily","Leadbetter, Addison","Slavin, Wesley",,,,0,0,9,15,"[Fulton, Emily] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WSC
+2,25,24,WSC,attack,kill,ITH,"Altland, Bridget","Sayre, Malya","Williams, Delainy",,,,0,0,10,15,"[Altland, Bridget] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+2,26,25,WSC,attack,kill,WSC,"Kresl, Madilyn","Sayre, Malya","Williams, Delainy",,,,0,1,11,15,"[Kresl, Madilyn] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+2,27,26,WSC,attack,kill,WSC,"Kresl, Madilyn","Sayre, Malya","Williams, Delainy",,,,0,0,12,15,"[Kresl, Madilyn] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+2,28,27,ITH,attack,kill,WSC,"Kresl, Madilyn","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,12,16,"[Kresl, Madilyn] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+2,29,28,ITH,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Clauhs, Naomi","Slavin, Wesley",,,,0,0,12,17,"[Gonzalez-Abreu, Gabriela] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+2,30,29,ITH,block,attack_error,ITH,"Gonzalez-Abreu, Gabriela","Newsome, Arielle",,"Leadbetter, Addison","Newsome, Arielle",,0,0,12,18,"[Gonzalez-Abreu, Gabriela] Attack error by Newsome, Arielle (block by Leadbetter, Addison).",ITH,WSC
+2,31,30,ITH,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Leadbetter, Addison","Slavin, Wesley",,,,0,0,12,19,"[Gonzalez-Abreu, Gabriela] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WSC
+2,32,31,WSC,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Sayre, Malya","Williams, Delainy",,,,0,0,13,19,"[Gonzalez-Abreu, Gabriela] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+2,33,32,ITH,attack,kill,WSC,"Williams, Delainy","Clauhs, Naomi","Benedict, Ellie",,,,0,0,13,20,"[Williams, Delainy] Kill by Clauhs, Naomi (from Benedict, Ellie).",ITH,WSC
+2,34,33,ITH,error,attack_error,ITH,"Leadbetter, Addison","Von Dohlen, Hope","Williams, Delainy",,"Von Dohlen, Hope",,0,0,13,21,"[Leadbetter, Addison] Attack error by Von Dohlen, Hope (from Williams, Delainy).",ITH,WSC
+2,35,34,ITH,attack,kill,ITH,"Leadbetter, Addison","Clauhs, Naomi","Slavin, Wesley",,,,0,0,13,22,"[Leadbetter, Addison] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+2,36,35,ITH,error,attack_error,ITH,"Leadbetter, Addison","Sayre, Malya","Williams, Delainy",,"Sayre, Malya",,0,0,13,23,"[Leadbetter, Addison] Attack error by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+2,37,36,ITH,attack,kill,ITH,"Leadbetter, Addison","Clauhs, Naomi","Slavin, Wesley",,,,0,0,13,24,"[Leadbetter, Addison] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+2,38,37,WSC,attack,kill,ITH,"Leadbetter, Addison","Sayre, Malya","Vanderhoof, Kali",,,,0,0,14,24,"[Leadbetter, Addison] Kill by Sayre, Malya (from Vanderhoof, Kali).",ITH,WSC
+2,39,38,WSC,block,attack_error,WSC,"Sayre, Malya","Graper, Ella",,"Fulton, Emily; Newsome, Arielle","Graper, Ella",,0,0,15,24,"[Sayre, Malya] Attack error by Graper, Ella (block by Fulton, Emily; Newsome, Arielle).",ITH,WSC
+2,40,39,ITH,error,service_error,WSC,"Sayre, Malya",,,,"Sayre, Malya",,0,0,15,25,"[Sayre, Malya] Service error.",ITH,WSC
+3,1,0,WSC,attack,kill,WSC,"Montagne, Marin","Fulton, Emily","Vanderhoof, Kali",,,,0,1,1,0,"[Montagne, Marin] Kill by Fulton, Emily (from Vanderhoof, Kali).",ITH,WSC
+3,2,1,ITH,error,attack_error,WSC,"Montagne, Marin","Fulton, Emily","Williams, Delainy",,"Fulton, Emily",,0,0,1,1,"[Montagne, Marin] Attack error by Fulton, Emily (from Williams, Delainy).",ITH,WSC
+3,3,2,ITH,block,attack_error,ITH,"Leadbetter, Addison","McCarthy, Jaylynn",,"Graper, Ella; Clauhs, Naomi","McCarthy, Jaylynn",,0,0,1,2,"[Leadbetter, Addison] Attack error by McCarthy, Jaylynn (block by Graper, Ella; Clauhs, Naomi).",ITH,WSC
+3,4,3,ITH,attack,kill,ITH,"Leadbetter, Addison","Clauhs, Naomi","Slavin, Wesley",,,,0,0,1,3,"[Leadbetter, Addison] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+3,5,4,WSC,attack,kill,ITH,"Leadbetter, Addison","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,2,3,"[Leadbetter, Addison] Kill by McCarthy, Jaylynn (from Williams, Delainy).",ITH,WSC
+3,6,5,ITH,attack,kill,WSC,"Fulton, Emily","Graper, Ella","Slavin, Wesley",,,,0,0,2,4,"[Fulton, Emily] Kill by Graper, Ella (from Slavin, Wesley).",ITH,WSC
+3,7,6,WSC,error,attack_error,ITH,"Slavin, Wesley","Clauhs, Naomi","Slavin, Wesley",,"Clauhs, Naomi",,0,1,3,4,"[Slavin, Wesley] Attack error by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+3,8,7,WSC,attack,kill,WSC,"Kresl, Madilyn","Williams, Delainy","Sayre, Malya",,,,0,1,4,4,"[Kresl, Madilyn] Kill by Williams, Delainy (from Sayre, Malya).",ITH,WSC
+3,9,8,ITH,attack,kill,WSC,"Kresl, Madilyn","Clauhs, Naomi","Slavin, Wesley",,,,0,0,4,5,"[Kresl, Madilyn] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+3,10,9,ITH,block,attack_error,ITH,"Garcia, Karina","Sayre, Malya",,"Wiese, Jayden","Sayre, Malya",,0,1,4,6,"[Garcia, Karina] Attack error by Sayre, Malya (block by Wiese, Jayden).",ITH,WSC
+3,11,10,ITH,error,attack_error,ITH,"Garcia, Karina","Sayre, Malya","Williams, Delainy",,"Sayre, Malya",,0,0,4,7,"[Garcia, Karina] Attack error by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+3,12,11,WSC,error,attack_error,ITH,"Garcia, Karina","Gonzalez-Abreu, Gabriela",,,"Gonzalez-Abreu, Gabriela",,0,0,5,7,"[Garcia, Karina] Attack error by Gonzalez-Abreu, Gabriela.",ITH,WSC
+3,13,12,ITH,attack,kill,WSC,"Montagne, Marin","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,5,8,"[Montagne, Marin] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+3,14,13,ITH,error,attack_error,ITH,"Benedict, Ellie","Sayre, Malya","Williams, Delainy",,"Sayre, Malya",,0,0,5,9,"[Benedict, Ellie] Attack error by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+3,15,14,ITH,attack,kill,ITH,"Benedict, Ellie","Gonzalez-Abreu, Gabriela","Benedict, Ellie",,,,0,0,5,10,"[Benedict, Ellie] Kill by Gonzalez-Abreu, Gabriela (from Benedict, Ellie).",ITH,WSC
+3,16,15,ITH,ace,service_ace,ITH,"Benedict, Ellie",,,,,"Fulton, Emily",0,1,5,11,"[Benedict, Ellie] Service ace (Fulton, Emily).",ITH,WSC
+3,17,16,ITH,error,attack_error,ITH,"Benedict, Ellie","Von Dohlen, Hope","Williams, Delainy",,"Von Dohlen, Hope",,0,0,5,12,"[Benedict, Ellie] Attack error by Von Dohlen, Hope (from Williams, Delainy).",ITH,WSC
+3,18,17,WSC,attack,kill,ITH,"Benedict, Ellie","Von Dohlen, Hope","Sayre, Malya",,,,0,0,6,12,"[Benedict, Ellie] Kill by Von Dohlen, Hope (from Sayre, Malya).",ITH,WSC
+3,19,18,ITH,attack,kill,WSC,"Sayre, Malya","Wiese, Jayden","Slavin, Wesley",,,,0,0,6,13,"[Sayre, Malya] Kill by Wiese, Jayden (from Slavin, Wesley).",ITH,WSC
+3,20,19,WSC,attack,kill,ITH,"Altland, Bridget","Newsome, Arielle","Williams, Delainy",,,,0,0,7,13,"[Altland, Bridget] Kill by Newsome, Arielle (from Williams, Delainy).",ITH,WSC
+3,21,20,ITH,attack,kill,WSC,"Vanderhoof, Kali","Leadbetter, Addison","Slavin, Wesley",,,,0,0,7,14,"[Vanderhoof, Kali] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WSC
+3,22,21,WSC,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Von Dohlen, Hope","Williams, Delainy",,,,0,0,8,14,"[Gonzalez-Abreu, Gabriela] Kill by Von Dohlen, Hope (from Williams, Delainy).",ITH,WSC
+3,23,22,ITH,attack,kill,WSC,"Fernandez, Cydney","Leadbetter, Addison","Slavin, Wesley",,,,0,1,8,15,"[Fernandez, Cydney] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WSC
+3,24,23,WSC,attack,kill,ITH,"Leadbetter, Addison","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,9,15,"[Leadbetter, Addison] Kill by McCarthy, Jaylynn (from Williams, Delainy).",ITH,WSC
+3,25,24,WSC,attack,kill,WSC,"Fulton, Emily","Sayre, Malya","Williams, Delainy",,,,0,0,10,15,"[Fulton, Emily] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+3,26,25,WSC,attack,kill,WSC,"Fulton, Emily","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,11,15,"[Fulton, Emily] Kill by McCarthy, Jaylynn (from Williams, Delainy).",ITH,WSC
+3,27,26,WSC,ace,service_ace,WSC,"Fulton, Emily",,,,,"Gonzalez-Abreu, Gabriela",0,0,12,15,"[Fulton, Emily] Service ace (Gonzalez-Abreu, Gabriela).",ITH,WSC
+3,28,27,WSC,attack,kill,WSC,"Fulton, Emily","Sayre, Malya","Williams, Delainy",,,,0,0,13,15,"[Fulton, Emily] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+3,29,28,ITH,attack,kill,WSC,"Fulton, Emily","Clauhs, Naomi","Slavin, Wesley",,,,0,0,13,16,"[Fulton, Emily] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+3,30,29,WSC,attack,kill,ITH,"Slavin, Wesley","Sayre, Malya","Williams, Delainy",,,,0,0,14,16,"[Slavin, Wesley] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+3,31,30,WSC,attack,kill,WSC,"Kresl, Madilyn","Sayre, Malya","Williams, Delainy",,,,0,0,15,16,"[Kresl, Madilyn] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+3,32,31,ITH,attack,kill,WSC,"Kresl, Madilyn","Slavin, Wesley",,,,,0,0,15,17,"[Kresl, Madilyn] Kill by Slavin, Wesley.",ITH,WSC
+3,33,32,ITH,block,attack_error,ITH,"Garcia, Karina","Sayre, Malya",,"Graper, Ella","Sayre, Malya",,0,0,15,18,"[Garcia, Karina] Attack error by Sayre, Malya (block by Graper, Ella).",ITH,WSC
+3,34,33,WSC,attack,kill,ITH,"Garcia, Karina","Sayre, Malya","Williams, Delainy",,,,0,0,16,18,"[Garcia, Karina] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+3,35,34,ITH,attack,kill,WSC,"Williams, Delainy","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,16,19,"[Williams, Delainy] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+3,36,35,ITH,ace,service_ace,ITH,"Benedict, Ellie",,,,,Team,0,0,16,20,"[Benedict, Ellie] Service ace (Team).",ITH,WSC
+3,37,36,WSC,attack,kill,ITH,"Benedict, Ellie","Newsome, Arielle","Williams, Delainy",,,,0,0,17,20,"[Benedict, Ellie] Kill by Newsome, Arielle (from Williams, Delainy).",ITH,WSC
+3,38,37,ITH,attack,kill,WSC,"Sayre, Malya","Leadbetter, Addison","Slavin, Wesley",,,,0,0,17,21,"[Sayre, Malya] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WSC
+3,39,38,WSC,attack,kill,ITH,"Altland, Bridget","Newsome, Arielle","Williams, Delainy",,,,0,0,18,21,"[Altland, Bridget] Kill by Newsome, Arielle (from Williams, Delainy).",ITH,WSC
+3,40,39,ITH,attack,kill,WSC,"Vanderhoof, Kali","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,18,22,"[Vanderhoof, Kali] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+3,41,40,ITH,error,attack_error,ITH,"Gonzalez-Abreu, Gabriela","Von Dohlen, Hope","Williams, Delainy",,"Von Dohlen, Hope",,0,0,18,23,"[Gonzalez-Abreu, Gabriela] Attack error by Von Dohlen, Hope (from Williams, Delainy).",ITH,WSC
+3,42,41,WSC,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,19,23,"[Gonzalez-Abreu, Gabriela] Kill by McCarthy, Jaylynn (from Williams, Delainy).",ITH,WSC
+3,43,42,ITH,attack,kill,WSC,"Fernandez, Cydney","Leadbetter, Addison","Slavin, Wesley",,,,0,0,19,24,"[Fernandez, Cydney] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WSC
+3,44,43,ITH,ace,service_ace,ITH,"Leadbetter, Addison",,,,,"Sayre, Malya",0,0,19,25,"[Leadbetter, Addison] Service ace (Sayre, Malya).",ITH,WSC
+4,1,0,ITH,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Clauhs, Naomi","Slavin, Wesley",,,,0,1,0,1,"[Gonzalez-Abreu, Gabriela] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+4,2,1,ITH,error,attack_error,ITH,"Gonzalez-Abreu, Gabriela","McCarthy, Jaylynn","Williams, Delainy",,"McCarthy, Jaylynn",,0,0,0,2,"[Gonzalez-Abreu, Gabriela] Attack error by McCarthy, Jaylynn (from Williams, Delainy).",ITH,WSC
+4,3,2,ITH,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Clauhs, Naomi","Slavin, Wesley",,,,0,0,0,3,"[Gonzalez-Abreu, Gabriela] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+4,4,3,WSC,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,1,3,"[Gonzalez-Abreu, Gabriela] Kill by McCarthy, Jaylynn (from Williams, Delainy).",ITH,WSC
+4,5,4,WSC,attack,kill,WSC,"Fulton, Emily","Sayre, Malya","Williams, Delainy",,,,0,0,2,3,"[Fulton, Emily] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+4,6,5,WSC,ace,service_ace,WSC,"Fulton, Emily",,,,,"Gonzalez-Abreu, Gabriela",0,0,3,3,"[Fulton, Emily] Service ace (Gonzalez-Abreu, Gabriela).",ITH,WSC
+4,7,6,ITH,attack,kill,WSC,"Fulton, Emily","Leadbetter, Addison","Slavin, Wesley",,,,0,0,3,4,"[Fulton, Emily] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WSC
+4,8,7,ITH,attack,kill,ITH,"Leadbetter, Addison","Graper, Ella","Slavin, Wesley",,,,0,0,3,5,"[Leadbetter, Addison] Kill by Graper, Ella (from Slavin, Wesley).",ITH,WSC
+4,9,8,WSC,attack,kill,ITH,"Leadbetter, Addison","Sayre, Malya","Williams, Delainy",,,,0,0,4,5,"[Leadbetter, Addison] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+4,10,9,ITH,attack,kill,WSC,"Kresl, Madilyn","Clauhs, Naomi","Slavin, Wesley",,,,0,1,4,6,"[Kresl, Madilyn] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+4,11,10,WSC,attack,kill,ITH,"Slavin, Wesley","Newsome, Arielle","Williams, Delainy",,,,0,1,5,6,"[Slavin, Wesley] Kill by Newsome, Arielle (from Williams, Delainy).",ITH,WSC
+4,12,11,WSC,error,attack_error,WSC,"Williams, Delainy","Clauhs, Naomi","Slavin, Wesley",,"Clauhs, Naomi",,0,1,6,6,"[Williams, Delainy] Attack error by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+4,13,12,WSC,error,attack_error,WSC,"Williams, Delainy","Clauhs, Naomi","Gonzalez-Abreu, Gabriela",,"Clauhs, Naomi",,0,0,7,6,"[Williams, Delainy] Attack error by Clauhs, Naomi (from Gonzalez-Abreu, Gabriela).",ITH,WSC
+4,14,13,ITH,error,attack_error,WSC,"Williams, Delainy","Newsome, Arielle",,,"Newsome, Arielle",,0,0,7,7,"[Williams, Delainy] Attack error by Newsome, Arielle.",ITH,WSC
+4,15,14,ITH,attack,kill,ITH,"Garcia, Karina","Wiese, Jayden","Slavin, Wesley",,,,0,1,7,8,"[Garcia, Karina] Kill by Wiese, Jayden (from Slavin, Wesley).",ITH,WSC
+4,16,15,WSC,error,attack_error,ITH,"Garcia, Karina","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,"Gonzalez-Abreu, Gabriela",,0,0,8,8,"[Garcia, Karina] Attack error by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+4,17,16,WSC,ace,service_ace,WSC,"Sayre, Malya",,,,,"Gonzalez-Abreu, Gabriela",0,0,9,8,"[Sayre, Malya] Service ace (Gonzalez-Abreu, Gabriela).",ITH,WSC
+4,18,17,WSC,attack,kill,WSC,"Sayre, Malya","Von Dohlen, Hope","Williams, Delainy",,,,0,0,10,8,"[Sayre, Malya] Kill by Von Dohlen, Hope (from Williams, Delainy).",ITH,WSC
+4,19,18,WSC,attack,kill,WSC,"Sayre, Malya","Newsome, Arielle",,,,,0,0,11,8,"[Sayre, Malya] Kill by Newsome, Arielle.",ITH,WSC
+4,20,19,ITH,attack,kill,WSC,"Sayre, Malya","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,11,9,"[Sayre, Malya] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+4,21,20,ITH,error,attack_error,ITH,"Benedict, Ellie","Von Dohlen, Hope","Williams, Delainy",,"Von Dohlen, Hope",,0,0,11,10,"[Benedict, Ellie] Attack error by Von Dohlen, Hope (from Williams, Delainy).",ITH,WSC
+4,22,21,WSC,attack,kill,ITH,"Benedict, Ellie","Newsome, Arielle","Williams, Delainy",,,,0,0,12,10,"[Benedict, Ellie] Kill by Newsome, Arielle (from Williams, Delainy).",ITH,WSC
+4,23,22,ITH,error,attack_error,WSC,"Vanderhoof, Kali","Fulton, Emily","Vanderhoof, Kali",,"Fulton, Emily",,0,0,12,11,"[Vanderhoof, Kali] Attack error by Fulton, Emily (from Vanderhoof, Kali).",ITH,WSC
+4,24,23,ITH,error,attack_error,ITH,"Altland, Bridget","Fulton, Emily","Williams, Delainy",,"Fulton, Emily",,0,0,12,12,"[Altland, Bridget] Attack error by Fulton, Emily (from Williams, Delainy).",ITH,WSC
+4,25,24,ITH,ace,service_ace,ITH,"Altland, Bridget",,,,,"Sayre, Malya",0,0,12,13,"[Altland, Bridget] Service ace (Sayre, Malya).",ITH,WSC
+4,26,25,WSC,block,attack_error,ITH,"Altland, Bridget","Leadbetter, Addison",,"McCarthy, Jaylynn","Leadbetter, Addison",,0,0,13,13,"[Altland, Bridget] Attack error by Leadbetter, Addison (block by McCarthy, Jaylynn).",ITH,WSC
+4,27,26,ITH,attack,kill,WSC,"Fernandez, Cydney","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,1,13,14,"[Fernandez, Cydney] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+4,28,27,ITH,error,attack_error,ITH,"Gonzalez-Abreu, Gabriela","Fulton, Emily","Vanderhoof, Kali",,"Fulton, Emily",,0,0,13,15,"[Gonzalez-Abreu, Gabriela] Attack error by Fulton, Emily (from Vanderhoof, Kali).",ITH,WSC
+4,29,28,WSC,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,14,15,"[Gonzalez-Abreu, Gabriela] Kill by McCarthy, Jaylynn (from Williams, Delainy).",ITH,WSC
+4,30,29,WSC,attack,kill,WSC,"Fulton, Emily","Sayre, Malya","Williams, Delainy",,,,0,0,15,15,"[Fulton, Emily] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+4,31,30,ITH,attack,kill,WSC,"Fulton, Emily","Leadbetter, Addison","Slavin, Wesley",,,,0,0,15,16,"[Fulton, Emily] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WSC
+4,32,31,WSC,attack,kill,ITH,"Leadbetter, Addison","Williams, Delainy","Williams, Delainy",,,,0,0,16,16,"[Leadbetter, Addison] Kill by Williams, Delainy (from Williams, Delainy).",ITH,WSC
+4,33,32,WSC,ace,service_ace,WSC,"Kresl, Madilyn",,,,,"Gonzalez-Abreu, Gabriela",0,0,17,16,"[Kresl, Madilyn] Service ace (Gonzalez-Abreu, Gabriela).",ITH,WSC
+4,34,33,WSC,attack,kill,WSC,"Kresl, Madilyn","Sayre, Malya","Williams, Delainy",,,,0,0,18,16,"[Kresl, Madilyn] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+4,35,34,WSC,ace,service_ace,WSC,"Kresl, Madilyn",,,,,Team,0,0,19,16,"[Kresl, Madilyn] Service ace (Team).",ITH,WSC
+4,36,35,ITH,attack,kill,WSC,"Kresl, Madilyn","Clauhs, Naomi","Slavin, Wesley",,,,0,0,19,17,"[Kresl, Madilyn] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+4,37,36,WSC,error,service_error,ITH,"Slavin, Wesley",,,,"Slavin, Wesley",,0,0,20,17,"[Slavin, Wesley] Service error.",ITH,WSC
+4,38,37,WSC,attack,kill,WSC,"Williams, Delainy","Sayre, Malya","Williams, Delainy",,,,0,0,21,17,"[Williams, Delainy] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+4,39,38,WSC,block,attack_error,WSC,"Williams, Delainy","Wiese, Jayden",,"Newsome, Arielle","Wiese, Jayden",,0,0,22,17,"[Williams, Delainy] Attack error by Wiese, Jayden (block by Newsome, Arielle).",ITH,WSC
+4,40,39,WSC,block,attack_error,WSC,"Williams, Delainy","Wiese, Jayden",,"Von Dohlen, Hope; Newsome, Arielle","Wiese, Jayden",,0,0,23,17,"[Williams, Delainy] Attack error by Wiese, Jayden (block by Von Dohlen, Hope; Newsome, Arielle).",ITH,WSC
+4,41,40,WSC,attack,kill,WSC,"Williams, Delainy","Sayre, Malya","Williams, Delainy",,,,0,0,24,17,"[Williams, Delainy] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+4,42,41,ITH,attack,kill,WSC,"Williams, Delainy","Clauhs, Naomi","Slavin, Wesley",,,,0,0,24,18,"[Williams, Delainy] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+4,43,42,WSC,attack,kill,ITH,"Garcia, Karina","Newsome, Arielle","Williams, Delainy",,,,0,0,25,18,"[Garcia, Karina] Kill by Newsome, Arielle (from Williams, Delainy).",ITH,WSC
+5,1,0,WSC,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","McCarthy, Jaylynn","Williams, Delainy",,,,0,1,1,0,"[Gonzalez-Abreu, Gabriela] Kill by McCarthy, Jaylynn (from Williams, Delainy).",ITH,WSC
+5,2,1,ITH,attack,kill,WSC,"Fulton, Emily","Leadbetter, Addison","Slavin, Wesley",,,,0,0,1,1,"[Fulton, Emily] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WSC
+5,3,2,WSC,attack,kill,ITH,"Leadbetter, Addison","Sayre, Malya","Williams, Delainy",,,,0,0,2,1,"[Leadbetter, Addison] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+5,4,3,ITH,attack,kill,WSC,"Kresl, Madilyn","Clauhs, Naomi","Slavin, Wesley",,,,0,1,2,2,"[Kresl, Madilyn] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+5,5,4,WSC,error,service_error,ITH,"Slavin, Wesley",,,,"Slavin, Wesley",,0,1,3,2,"[Slavin, Wesley] Service error.",ITH,WSC
+5,6,5,ITH,attack,kill,WSC,"Williams, Delainy","Clauhs, Naomi","Slavin, Wesley",,,,0,1,3,3,"[Williams, Delainy] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+5,7,6,ITH,attack,kill,ITH,"Garcia, Karina","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,1,3,4,"[Garcia, Karina] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+5,8,7,ITH,ace,service_ace,ITH,"Garcia, Karina",,,,,Team,0,0,3,5,"[Garcia, Karina] Service ace (Team).",ITH,WSC
+5,9,8,ITH,attack,kill,ITH,"Garcia, Karina","Graper, Ella",,,,,0,0,3,6,"[Garcia, Karina] Kill by Graper, Ella.",ITH,WSC
+5,10,9,WSC,attack,kill,ITH,"Garcia, Karina","Sayre, Malya","Williams, Delainy",,,,0,0,4,6,"[Garcia, Karina] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+5,11,10,ITH,attack,kill,WSC,"Sayre, Malya","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,4,7,"[Sayre, Malya] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+5,12,11,WSC,attack,kill,ITH,"Benedict, Ellie","Newsome, Arielle","Williams, Delainy",,,,0,0,5,7,"[Benedict, Ellie] Kill by Newsome, Arielle (from Williams, Delainy).",ITH,WSC
+5,13,12,ITH,attack,kill,WSC,"Vanderhoof, Kali","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,5,8,"[Vanderhoof, Kali] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+5,14,13,ITH,attack,kill,ITH,"Altland, Bridget","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,5,9,"[Altland, Bridget] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+5,15,14,WSC,error,service_error,ITH,"Altland, Bridget",,,,"Altland, Bridget",,0,0,6,9,"[Altland, Bridget] Service error.",ITH,WSC
+5,16,15,WSC,block,attack_error,WSC,"Fernandez, Cydney","Gonzalez-Abreu, Gabriela",,"McCarthy, Jaylynn; Williams, Delainy","Gonzalez-Abreu, Gabriela",,0,1,7,9,"[Fernandez, Cydney] Attack error by Gonzalez-Abreu, Gabriela (block by McCarthy, Jaylynn; Williams, Delainy).",ITH,WSC
+5,17,16,ITH,attack,kill,WSC,"Fernandez, Cydney","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,7,10,"[Fernandez, Cydney] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+5,18,17,WSC,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,8,10,"[Gonzalez-Abreu, Gabriela] Kill by McCarthy, Jaylynn (from Williams, Delainy).",ITH,WSC
+5,19,18,ITH,error,attack_error,WSC,"Fulton, Emily","Sayre, Malya","Williams, Delainy",,"Sayre, Malya",,0,0,8,11,"[Fulton, Emily] Attack error by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+5,20,19,WSC,attack,kill,ITH,"Leadbetter, Addison","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,9,11,"[Leadbetter, Addison] Kill by McCarthy, Jaylynn (from Williams, Delainy).",ITH,WSC
+5,21,20,WSC,attack,kill,WSC,"Kresl, Madilyn","Sayre, Malya","Williams, Delainy",,,,0,0,10,11,"[Kresl, Madilyn] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+5,22,21,ITH,attack,kill,WSC,"Kresl, Madilyn","Clauhs, Naomi","Slavin, Wesley",,,,0,0,10,12,"[Kresl, Madilyn] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+5,23,22,WSC,attack,kill,ITH,"Slavin, Wesley","Newsome, Arielle","Williams, Delainy",,,,0,0,11,12,"[Slavin, Wesley] Kill by Newsome, Arielle (from Williams, Delainy).",ITH,WSC
+5,24,23,ITH,attack,kill,WSC,"Williams, Delainy","Clauhs, Naomi","Slavin, Wesley",,,,0,0,11,13,"[Williams, Delainy] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WSC
+5,25,24,WSC,attack,kill,ITH,"Garcia, Karina","Sayre, Malya","Williams, Delainy",,,,0,0,12,13,"[Garcia, Karina] Kill by Sayre, Malya (from Williams, Delainy).",ITH,WSC
+5,26,25,ITH,attack,kill,WSC,"Sayre, Malya","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,12,14,"[Sayre, Malya] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC
+5,27,26,WSC,attack,kill,ITH,"Benedict, Ellie","Fulton, Emily","Williams, Delainy",,,,0,0,13,14,"[Benedict, Ellie] Kill by Fulton, Emily (from Williams, Delainy).",ITH,WSC
+5,28,27,ITH,attack,kill,WSC,"Vanderhoof, Kali","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,13,15,"[Vanderhoof, Kali] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WSC

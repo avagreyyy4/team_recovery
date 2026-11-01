@@ -1,0 +1,165 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,ITH,attack,kill,WP,"Houpt, Abby","Leadbetter, Addison",,,,,0,0,0,1,"[Houpt, Abby] Kill by Leadbetter, Addison.",ITH,WP
+1,2,1,WP,attack,kill,ITH,"Leadbetter, Addison","Gruener, Laura","Houpt, Abby",,,,0,0,1,1,"[Leadbetter, Addison] Kill by Gruener, Laura (from Houpt, Abby).",ITH,WP
+1,3,2,ITH,attack,kill,WP,"Elliott, Riley","Clauhs, Naomi","Slavin, Wesley",,,,0,0,1,2,"[Elliott, Riley] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+1,4,3,WP,error,service_error,ITH,"Slavin, Wesley",,,,"Slavin, Wesley",,0,1,2,2,"[Slavin, Wesley] Service error.",ITH,WP
+1,5,4,ITH,attack,kill,WP,"Gruener, Laura","Clauhs, Naomi","Slavin, Wesley",,,,0,1,2,3,"[Gruener, Laura] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+1,6,5,WP,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Miller, Cecilia","Gruener, Laura",,,,0,1,3,3,"[Gonzalez-Abreu, Gabriela] Kill by Miller, Cecilia (from Gruener, Laura).",ITH,WP
+1,7,6,ITH,attack,kill,WP,"Hitt, Jillian","Graper, Ella","Slavin, Wesley",,,,0,1,3,4,"[Hitt, Jillian] Kill by Graper, Ella (from Slavin, Wesley).",ITH,WP
+1,8,7,ITH,attack,kill,ITH,"Benedict, Ellie","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,3,5,"[Benedict, Ellie] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WP
+1,9,8,ITH,attack,kill,ITH,"Benedict, Ellie","Leadbetter, Addison","Houpt, Abby",,,,0,0,3,6,"[Benedict, Ellie] Kill by Leadbetter, Addison (from Houpt, Abby).",ITH,WP
+1,10,9,ITH,error,ball_handling_error,ITH,"Benedict, Ellie",,,,"Houpt, Abby",,0,0,3,7,"[Benedict, Ellie] Bad set by Houpt, Abby.",ITH,WP
+1,11,10,ITH,attack,kill,ITH,"Benedict, Ellie","Leadbetter, Addison","Slavin, Wesley",,,,0,0,3,8,"[Benedict, Ellie] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WP
+1,12,11,ITH,ace,service_ace,ITH,"Benedict, Ellie",,,,,"Hitt, Jillian",0,0,3,9,"[Benedict, Ellie] Service ace (Hitt, Jillian).",ITH,WP
+1,13,12,ITH,block,attack_error,ITH,"Benedict, Ellie","Miller, Cecilia",,"Slavin, Wesley; Leadbetter, Addison","Miller, Cecilia",,0,0,3,10,"[Benedict, Ellie] Attack error by Miller, Cecilia (block by Slavin, Wesley; Leadbetter, Addison).",ITH,WP
+1,14,13,WP,attack,kill,ITH,"Benedict, Ellie","Miller, Cecilia","Houpt, Abby",,,,0,0,4,10,"[Benedict, Ellie] Kill by Miller, Cecilia (from Houpt, Abby).",ITH,WP
+1,15,14,ITH,attack,kill,WP,"Hayth, Abigail","Owen, Brianna","Slavin, Wesley",,,,0,0,4,11,"[Hayth, Abigail] Kill by Owen, Brianna (from Slavin, Wesley).",ITH,WP
+1,16,15,ITH,attack,kill,ITH,"Owen, Brianna","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,4,12,"[Owen, Brianna] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WP
+1,17,16,WP,attack,kill,ITH,"Owen, Brianna","Elliott, Riley","Houpt, Abby",,,,0,0,5,12,"[Owen, Brianna] Kill by Elliott, Riley (from Houpt, Abby).",ITH,WP
+1,18,17,ITH,attack,kill,WP,"Demers, Bella","Slavin, Wesley","Garcia, Karina",,,,0,0,5,13,"[Demers, Bella] Kill by Slavin, Wesley (from Garcia, Karina).",ITH,WP
+1,19,18,WP,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Gruener, Laura","Houpt, Abby",,,,0,0,6,13,"[Gonzalez-Abreu, Gabriela] Kill by Gruener, Laura (from Houpt, Abby).",ITH,WP
+1,20,19,WP,attack,kill,WP,"Houpt, Abby","Elliott, Riley","Houpt, Abby",,,,0,0,7,13,"[Houpt, Abby] Kill by Elliott, Riley (from Houpt, Abby).",ITH,WP
+1,21,20,WP,ace,service_ace,WP,"Houpt, Abby",,,,,Team,0,0,8,13,"[Houpt, Abby] Service ace (Team).",ITH,WP
+1,22,21,WP,ace,service_ace,WP,"Houpt, Abby",,,,,"Gonzalez-Abreu, Gabriela",0,0,9,13,"[Houpt, Abby] Service ace (Gonzalez-Abreu, Gabriela).",ITH,WP
+1,23,22,ITH,attack,kill,WP,"Houpt, Abby","Clauhs, Naomi","Slavin, Wesley",,,,0,0,9,14,"[Houpt, Abby] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+1,24,23,WP,attack,kill,ITH,"Leadbetter, Addison","Elliott, Riley","Houpt, Abby",,,,0,0,10,14,"[Leadbetter, Addison] Kill by Elliott, Riley (from Houpt, Abby).",ITH,WP
+1,25,24,WP,ace,service_ace,WP,"Elliott, Riley",,,,,"McGowan, Renee",0,0,11,14,"[Elliott, Riley] Service ace (McGowan, Renee).",ITH,WP
+1,26,25,ITH,attack,kill,WP,"Elliott, Riley","Clauhs, Naomi","Slavin, Wesley",,,,0,0,11,15,"[Elliott, Riley] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+1,27,26,WP,error,service_error,ITH,"Slavin, Wesley",,,,"Slavin, Wesley",,0,0,12,15,"[Slavin, Wesley] Service error.",ITH,WP
+1,28,27,ITH,attack,kill,WP,"Gruener, Laura","Clauhs, Naomi","Slavin, Wesley",,,,0,0,12,16,"[Gruener, Laura] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+1,29,28,WP,attack,kill,ITH,"Garcia, Karina","Miller, Cecilia","Demers, Bella",,,,0,0,13,16,"[Garcia, Karina] Kill by Miller, Cecilia (from Demers, Bella).",ITH,WP
+1,30,29,WP,attack,kill,WP,"Hitt, Jillian","Miller, Cecilia","Houpt, Abby",,,,0,0,14,16,"[Hitt, Jillian] Kill by Miller, Cecilia (from Houpt, Abby).",ITH,WP
+1,31,30,WP,ace,service_ace,WP,"Hitt, Jillian",,,,,"Garcia, Karina",0,0,15,16,"[Hitt, Jillian] Service ace (Garcia, Karina).",ITH,WP
+1,32,31,ITH,attack,kill,WP,"Hitt, Jillian","Owen, Brianna","Slavin, Wesley",,,,0,0,15,17,"[Hitt, Jillian] Kill by Owen, Brianna (from Slavin, Wesley).",ITH,WP
+1,33,32,ITH,error,ball_handling_error,ITH,"Benedict, Ellie",,,,"Houpt, Abby",,0,0,15,18,"[Benedict, Ellie] Bad set by Houpt, Abby.",ITH,WP
+1,34,33,WP,attack,kill,ITH,"Benedict, Ellie","Miller, Cecilia","Houpt, Abby",,,,0,0,16,18,"[Benedict, Ellie] Kill by Miller, Cecilia (from Houpt, Abby).",ITH,WP
+1,35,34,WP,error,attack_error,WP,"Hayth, Abigail","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,"Gonzalez-Abreu, Gabriela",,0,0,17,18,"[Hayth, Abigail] Attack error by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WP
+1,36,35,ITH,attack,kill,WP,"Hayth, Abigail","Leadbetter, Addison","Slavin, Wesley",,,,0,0,17,19,"[Hayth, Abigail] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WP
+1,37,36,WP,attack,kill,ITH,"Owen, Brianna","Elliott, Riley","Houpt, Abby",,,,0,0,18,19,"[Owen, Brianna] Kill by Elliott, Riley (from Houpt, Abby).",ITH,WP
+1,38,37,ITH,attack,kill,WP,"Demers, Bella","Leadbetter, Addison","Slavin, Wesley",,,,0,0,18,20,"[Demers, Bella] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WP
+1,39,38,ITH,error,attack_error,ITH,"Gonzalez-Abreu, Gabriela","Elliott, Riley","Houpt, Abby",,"Elliott, Riley",,0,0,18,21,"[Gonzalez-Abreu, Gabriela] Attack error by Elliott, Riley (from Houpt, Abby).",ITH,WP
+1,40,39,ITH,block,attack_error,ITH,"Gonzalez-Abreu, Gabriela","Elliott, Riley",,"Leadbetter, Addison; Slavin, Wesley","Elliott, Riley",,0,0,18,22,"[Gonzalez-Abreu, Gabriela] Attack error by Elliott, Riley (block by Leadbetter, Addison; Slavin, Wesley).",ITH,WP
+1,41,40,WP,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Grady, Taylor",,,,,0,1,19,22,"[Gonzalez-Abreu, Gabriela] Kill by Grady, Taylor.",ITH,WP
+1,42,41,WP,attack,kill,WP,"Grady, Taylor","Elliott, Riley","Grady, Taylor",,,,0,0,20,22,"[Grady, Taylor] Kill by Elliott, Riley (from Grady, Taylor).",ITH,WP
+1,43,42,ITH,error,attack_error,WP,"Grady, Taylor","Grady, Taylor","Demers, Bella",,"Grady, Taylor",,0,0,20,23,"[Grady, Taylor] Attack error by Grady, Taylor (from Demers, Bella).",ITH,WP
+1,44,43,WP,attack,kill,ITH,"Leadbetter, Addison","Gruener, Laura","Grady, Taylor",,,,0,0,21,23,"[Leadbetter, Addison] Kill by Gruener, Laura (from Grady, Taylor).",ITH,WP
+1,45,44,ITH,attack,kill,WP,"Elliott, Riley","Clauhs, Naomi","Gonzalez-Abreu, Gabriela",,,,0,0,21,24,"[Elliott, Riley] Kill by Clauhs, Naomi (from Gonzalez-Abreu, Gabriela).",ITH,WP
+1,46,45,ITH,attack,kill,ITH,"Slavin, Wesley","Clauhs, Naomi",,,,,0,0,21,25,"[Slavin, Wesley] Kill by Clauhs, Naomi.",ITH,WP
+2,1,0,ITH,error,ball_handling_error,ITH,"Gonzalez-Abreu, Gabriela",,,,"Grady, Taylor",,0,1,0,1,"[Gonzalez-Abreu, Gabriela] Bad set by Grady, Taylor.",ITH,WP
+2,2,1,WP,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Gruener, Laura","Grady, Taylor",,,,0,0,1,1,"[Gonzalez-Abreu, Gabriela] Kill by Gruener, Laura (from Grady, Taylor).",ITH,WP
+2,3,2,WP,block,attack_error,WP,"Grady, Taylor","Leadbetter, Addison",,"Gruener, Laura","Leadbetter, Addison",,0,0,2,1,"[Grady, Taylor] Attack error by Leadbetter, Addison (block by Gruener, Laura).",ITH,WP
+2,4,3,WP,ace,service_ace,WP,"Grady, Taylor",,,,,"Gonzalez-Abreu, Gabriela",0,0,3,1,"[Grady, Taylor] Service ace (Gonzalez-Abreu, Gabriela).",ITH,WP
+2,5,4,WP,attack,kill,WP,"Grady, Taylor","Elliott, Riley","Grady, Taylor",,,,0,0,4,1,"[Grady, Taylor] Kill by Elliott, Riley (from Grady, Taylor).",ITH,WP
+2,6,5,WP,ace,service_ace,WP,"Grady, Taylor",,,,,"Gonzalez-Abreu, Gabriela",0,0,5,1,"[Grady, Taylor] Service ace (Gonzalez-Abreu, Gabriela).",ITH,WP
+2,7,6,WP,attack,kill,WP,"Grady, Taylor","Glenn, Kristian","Grady, Taylor",,,,0,0,6,1,"[Grady, Taylor] Kill by Glenn, Kristian (from Grady, Taylor).",ITH,WP
+2,8,7,ITH,error,service_error,WP,"Grady, Taylor",,,,"Grady, Taylor",,0,0,6,2,"[Grady, Taylor] Service error.",ITH,WP
+2,9,8,WP,attack,kill,ITH,"Leadbetter, Addison","Gruener, Laura","Grady, Taylor",,,,0,0,7,2,"[Leadbetter, Addison] Kill by Gruener, Laura (from Grady, Taylor).",ITH,WP
+2,10,9,ITH,attack,kill,WP,"Elliott, Riley","Clauhs, Naomi","Slavin, Wesley",,,,0,1,7,3,"[Elliott, Riley] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+2,11,10,WP,attack,kill,ITH,"Slavin, Wesley","Glenn, Kristian","Grady, Taylor",,,,0,1,8,3,"[Slavin, Wesley] Kill by Glenn, Kristian (from Grady, Taylor).",ITH,WP
+2,12,11,ITH,attack,kill,WP,"Gruener, Laura","Clauhs, Naomi","Slavin, Wesley",,,,0,0,8,4,"[Gruener, Laura] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+2,13,12,ITH,ace,service_ace,ITH,"Garcia, Karina",,,,,Team,0,0,8,5,"[Garcia, Karina] Service ace (Team).",ITH,WP
+2,14,13,WP,attack,kill,ITH,"Garcia, Karina","Miller, Cecilia","Grady, Taylor",,,,0,0,9,5,"[Garcia, Karina] Kill by Miller, Cecilia (from Grady, Taylor).",ITH,WP
+2,15,14,ITH,attack,kill,WP,"Hitt, Jillian","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,1,9,6,"[Hitt, Jillian] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WP
+2,16,15,WP,attack,kill,ITH,"Benedict, Ellie","Miller, Cecilia","Grady, Taylor",,,,0,0,10,6,"[Benedict, Ellie] Kill by Miller, Cecilia (from Grady, Taylor).",ITH,WP
+2,17,16,ITH,attack,kill,WP,"Hayth, Abigail","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,10,7,"[Hayth, Abigail] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WP
+2,18,17,WP,error,service_error,ITH,"Owen, Brianna",,,,"Owen, Brianna",,0,0,11,7,"[Owen, Brianna] Service error.",ITH,WP
+2,19,18,WP,attack,kill,WP,"Demers, Bella","Gruener, Laura",,,,,0,0,12,7,"[Demers, Bella] Kill by Gruener, Laura.",ITH,WP
+2,20,19,ITH,attack,kill,WP,"Demers, Bella","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,12,8,"[Demers, Bella] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WP
+2,21,20,ITH,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Clauhs, Naomi","Slavin, Wesley",,,,0,0,12,9,"[Gonzalez-Abreu, Gabriela] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+2,22,21,WP,error,service_error,ITH,"Gonzalez-Abreu, Gabriela",,,,"Gonzalez-Abreu, Gabriela",,0,0,13,9,"[Gonzalez-Abreu, Gabriela] Service error.",ITH,WP
+2,23,22,WP,ace,service_ace,WP,"Grady, Taylor",,,,,"McGowan, Renee",0,0,14,9,"[Grady, Taylor] Service ace (McGowan, Renee).",ITH,WP
+2,24,23,ITH,attack,kill,WP,"Grady, Taylor","Clauhs, Naomi","Gonzalez-Abreu, Gabriela",,,,0,0,14,10,"[Grady, Taylor] Kill by Clauhs, Naomi (from Gonzalez-Abreu, Gabriela).",ITH,WP
+2,25,24,WP,attack,kill,ITH,"Leadbetter, Addison","Gruener, Laura","Grady, Taylor",,,,0,0,15,10,"[Leadbetter, Addison] Kill by Gruener, Laura (from Grady, Taylor).",ITH,WP
+2,26,25,ITH,attack,kill,WP,"Elliott, Riley","Clauhs, Naomi","Benedict, Ellie",,,,0,0,15,11,"[Elliott, Riley] Kill by Clauhs, Naomi (from Benedict, Ellie).",ITH,WP
+2,27,26,WP,attack,kill,ITH,"Slavin, Wesley","Miller, Cecilia","Demers, Bella",,,,0,0,16,11,"[Slavin, Wesley] Kill by Miller, Cecilia (from Demers, Bella).",ITH,WP
+2,28,27,ITH,attack,kill,WP,"Gruener, Laura","Clauhs, Naomi","Slavin, Wesley",,,,0,0,16,12,"[Gruener, Laura] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+2,29,28,WP,error,attack_error,ITH,"Garcia, Karina","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,"Gonzalez-Abreu, Gabriela",,0,0,17,12,"[Garcia, Karina] Attack error by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WP
+2,30,29,ITH,attack,kill,WP,"Hitt, Jillian","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,17,13,"[Hitt, Jillian] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WP
+2,31,30,WP,attack,kill,ITH,"Benedict, Ellie","Zablackis, Sofia","Grady, Taylor",,,,0,0,18,13,"[Benedict, Ellie] Kill by Zablackis, Sofia (from Grady, Taylor).",ITH,WP
+2,32,31,ITH,attack,kill,WP,"Hayth, Abigail","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,18,14,"[Hayth, Abigail] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WP
+2,33,32,WP,attack,kill,ITH,"Owen, Brianna","Elliott, Riley","Grady, Taylor",,,,0,0,19,14,"[Owen, Brianna] Kill by Elliott, Riley (from Grady, Taylor).",ITH,WP
+2,34,33,ITH,attack,kill,WP,"Demers, Bella","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,19,15,"[Demers, Bella] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WP
+2,35,34,WP,block,attack_error,ITH,"Gonzalez-Abreu, Gabriela","Leadbetter, Addison",,"Elliott, Riley; Gruener, Laura","Leadbetter, Addison",,0,0,20,15,"[Gonzalez-Abreu, Gabriela] Attack error by Leadbetter, Addison (block by Elliott, Riley; Gruener, Laura).",ITH,WP
+2,36,35,ITH,error,service_error,WP,"Grady, Taylor",,,,"Grady, Taylor",,0,0,20,16,"[Grady, Taylor] Service error.",ITH,WP
+2,37,36,WP,attack,kill,ITH,"Leadbetter, Addison","Glenn, Kristian","Grady, Taylor",,,,0,0,21,16,"[Leadbetter, Addison] Kill by Glenn, Kristian (from Grady, Taylor).",ITH,WP
+2,38,37,WP,error,attack_error,WP,"Elliott, Riley","Clauhs, Naomi","Slavin, Wesley",,"Clauhs, Naomi",,0,0,22,16,"[Elliott, Riley] Attack error by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+2,39,38,ITH,attack,kill,WP,"Elliott, Riley","Clauhs, Naomi","Slavin, Wesley",,,,0,0,22,17,"[Elliott, Riley] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+2,40,39,WP,attack,kill,ITH,"Slavin, Wesley","Glenn, Kristian","Grady, Taylor",,,,0,0,23,17,"[Slavin, Wesley] Kill by Glenn, Kristian (from Grady, Taylor).",ITH,WP
+2,41,40,ITH,attack,kill,WP,"Gruener, Laura","Clauhs, Naomi","Slavin, Wesley",,,,0,0,23,18,"[Gruener, Laura] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+2,42,41,WP,attack,kill,ITH,"Garcia, Karina","Miller, Cecilia","Grady, Taylor",,,,0,0,24,18,"[Garcia, Karina] Kill by Miller, Cecilia (from Grady, Taylor).",ITH,WP
+2,43,42,WP,attack,kill,WP,"Hitt, Jillian","Miller, Cecilia","Demers, Bella",,,,0,0,25,18,"[Hitt, Jillian] Kill by Miller, Cecilia (from Demers, Bella).",ITH,WP
+3,1,0,ITH,attack,kill,WP,"Grady, Taylor","Clauhs, Naomi","Slavin, Wesley",,,,0,1,0,1,"[Grady, Taylor] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+3,2,1,WP,attack,kill,ITH,"Leadbetter, Addison","Glenn, Kristian","Grady, Taylor",,,,0,0,1,1,"[Leadbetter, Addison] Kill by Glenn, Kristian (from Grady, Taylor).",ITH,WP
+3,3,2,ITH,attack,kill,WP,"Elliott, Riley","Clauhs, Naomi","Slavin, Wesley",,,,0,1,1,2,"[Elliott, Riley] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+3,4,3,ITH,block,attack_error,ITH,"Slavin, Wesley","Miller, Cecilia",,"Graper, Ella; Owen, Brianna","Miller, Cecilia",,0,0,1,3,"[Slavin, Wesley] Attack error by Miller, Cecilia (block by Graper, Ella; Owen, Brianna).",ITH,WP
+3,5,4,WP,error,service_error,ITH,"Slavin, Wesley",,,,"Slavin, Wesley",,0,1,2,3,"[Slavin, Wesley] Service error.",ITH,WP
+3,6,5,ITH,attack,kill,WP,"Gruener, Laura","Slavin, Wesley","Gonzalez-Abreu, Gabriela",,,,0,0,2,4,"[Gruener, Laura] Kill by Slavin, Wesley (from Gonzalez-Abreu, Gabriela).",ITH,WP
+3,7,6,ITH,block,attack_error,ITH,"Garcia, Karina","Miller, Cecilia",,"Graper, Ella; Owen, Brianna","Miller, Cecilia",,0,1,2,5,"[Garcia, Karina] Attack error by Miller, Cecilia (block by Graper, Ella; Owen, Brianna).",ITH,WP
+3,8,7,ITH,error,ball_handling_error,ITH,"Garcia, Karina",,,,"Zablackis, Sofia",,0,0,2,6,"[Garcia, Karina] Bad set by Zablackis, Sofia.",ITH,WP
+3,9,8,WP,attack,kill,ITH,"Garcia, Karina","Glenn, Kristian","Grady, Taylor",,,,0,0,3,6,"[Garcia, Karina] Kill by Glenn, Kristian (from Grady, Taylor).",ITH,WP
+3,10,9,ITH,attack,kill,WP,"Hitt, Jillian","Owen, Brianna","Slavin, Wesley",,,,0,1,3,7,"[Hitt, Jillian] Kill by Owen, Brianna (from Slavin, Wesley).",ITH,WP
+3,11,10,WP,block,attack_error,ITH,"Benedict, Ellie","Gonzalez-Abreu, Gabriela",,"Zablackis, Sofia; Grady, Taylor","Gonzalez-Abreu, Gabriela",,0,0,4,7,"[Benedict, Ellie] Attack error by Gonzalez-Abreu, Gabriela (block by Zablackis, Sofia; Grady, Taylor).",ITH,WP
+3,12,11,ITH,attack,kill,WP,"Hayth, Abigail","Leadbetter, Addison","Slavin, Wesley",,,,0,0,4,8,"[Hayth, Abigail] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WP
+3,13,12,ITH,ace,service_ace,ITH,"Owen, Brianna",,,,,"Hitt, Jillian",0,0,4,9,"[Owen, Brianna] Service ace (Hitt, Jillian).",ITH,WP
+3,14,13,ITH,attack,kill,ITH,"Owen, Brianna","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,4,10,"[Owen, Brianna] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WP
+3,15,14,ITH,attack,kill,ITH,"Owen, Brianna","Leadbetter, Addison","Slavin, Wesley",,,,0,0,4,11,"[Owen, Brianna] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WP
+3,16,15,WP,attack,kill,ITH,"Owen, Brianna","Elliott, Riley","Grady, Taylor",,,,0,0,5,11,"[Owen, Brianna] Kill by Elliott, Riley (from Grady, Taylor).",ITH,WP
+3,17,16,ITH,attack,kill,WP,"Demers, Bella","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,5,12,"[Demers, Bella] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WP
+3,18,17,ITH,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Clauhs, Naomi","Slavin, Wesley",,,,0,0,5,13,"[Gonzalez-Abreu, Gabriela] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+3,19,18,WP,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Gruener, Laura","Grady, Taylor",,,,0,0,6,13,"[Gonzalez-Abreu, Gabriela] Kill by Gruener, Laura (from Grady, Taylor).",ITH,WP
+3,20,19,ITH,attack,kill,WP,"Grady, Taylor","Leadbetter, Addison","Slavin, Wesley",,,,0,0,6,14,"[Grady, Taylor] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WP
+3,21,20,WP,attack,kill,ITH,"Leadbetter, Addison","Hayth, Abigail","Gruener, Laura",,,,0,0,7,14,"[Leadbetter, Addison] Kill by Hayth, Abigail (from Gruener, Laura).",ITH,WP
+3,22,21,ITH,attack,kill,WP,"Elliott, Riley","Clauhs, Naomi","Slavin, Wesley",,,,0,0,7,15,"[Elliott, Riley] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+3,23,22,WP,attack,kill,ITH,"Slavin, Wesley","Glenn, Kristian","Grady, Taylor",,,,0,0,8,15,"[Slavin, Wesley] Kill by Glenn, Kristian (from Grady, Taylor).",ITH,WP
+3,24,23,ITH,error,service_error,WP,"Gruener, Laura",,,,"Gruener, Laura",,0,0,8,16,"[Gruener, Laura] Service error.",ITH,WP
+3,25,24,ITH,attack,kill,ITH,"Garcia, Karina","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,8,17,"[Garcia, Karina] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WP
+3,26,25,WP,attack,kill,ITH,"Garcia, Karina","Glenn, Kristian","Grady, Taylor",,,,0,0,9,17,"[Garcia, Karina] Kill by Glenn, Kristian (from Grady, Taylor).",ITH,WP
+3,27,26,ITH,attack,kill,WP,"Hitt, Jillian","Owen, Brianna","Slavin, Wesley",,,,0,0,9,18,"[Hitt, Jillian] Kill by Owen, Brianna (from Slavin, Wesley).",ITH,WP
+3,28,27,ITH,attack,kill,ITH,"Benedict, Ellie","Owen, Brianna","Slavin, Wesley",,,,0,0,9,19,"[Benedict, Ellie] Kill by Owen, Brianna (from Slavin, Wesley).",ITH,WP
+3,29,28,ITH,attack,kill,ITH,"Benedict, Ellie","Gonzalez-Abreu, Gabriela","Grady, Taylor",,,,0,0,9,20,"[Benedict, Ellie] Kill by Gonzalez-Abreu, Gabriela (from Grady, Taylor).",ITH,WP
+3,30,29,ITH,ace,service_ace,ITH,"Benedict, Ellie",,,,,"Hitt, Jillian",0,0,9,21,"[Benedict, Ellie] Service ace (Hitt, Jillian).",ITH,WP
+3,31,30,WP,attack,kill,ITH,"Benedict, Ellie","Grady, Taylor",,,,,0,0,10,21,"[Benedict, Ellie] Kill by Grady, Taylor.",ITH,WP
+3,32,31,ITH,error,ball_handling_error,WP,"Hayth, Abigail",,,,"Grady, Taylor",,0,0,10,22,"[Hayth, Abigail] Bad set by Grady, Taylor.",ITH,WP
+3,33,32,ITH,error,attack_error,ITH,"Owen, Brianna","Zablackis, Sofia","Grady, Taylor",,"Zablackis, Sofia",,0,0,10,23,"[Owen, Brianna] Attack error by Zablackis, Sofia (from Grady, Taylor).",ITH,WP
+3,34,33,ITH,attack,kill,ITH,"Owen, Brianna","Leadbetter, Addison",,,,,0,0,10,24,"[Owen, Brianna] Kill by Leadbetter, Addison.",ITH,WP
+3,35,34,WP,block,attack_error,ITH,"Owen, Brianna","Gonzalez-Abreu, Gabriela",,"Zablackis, Sofia; Grady, Taylor","Gonzalez-Abreu, Gabriela",,0,0,11,24,"[Owen, Brianna] Attack error by Gonzalez-Abreu, Gabriela (block by Zablackis, Sofia; Grady, Taylor).",ITH,WP
+3,36,35,ITH,attack,kill,WP,"Demers, Bella","Slavin, Wesley",,,,,0,0,11,25,"[Demers, Bella] Kill by Slavin, Wesley.",ITH,WP
+4,1,0,WP,error,service_error,ITH,"Gonzalez-Abreu, Gabriela",,,,"Gonzalez-Abreu, Gabriela",,0,1,1,0,"[Gonzalez-Abreu, Gabriela] Service error.",ITH,WP
+4,2,1,ITH,error,service_error,WP,"Grady, Taylor",,,,"Grady, Taylor",,0,1,1,1,"[Grady, Taylor] Service error.",ITH,WP
+4,3,2,WP,attack,kill,ITH,"Leadbetter, Addison","Glenn, Kristian","Grady, Taylor",,,,0,0,2,1,"[Leadbetter, Addison] Kill by Glenn, Kristian (from Grady, Taylor).",ITH,WP
+4,4,3,ITH,error,service_error,WP,"Elliott, Riley",,,,"Elliott, Riley",,0,1,2,2,"[Elliott, Riley] Service error.",ITH,WP
+4,5,4,ITH,attack,kill,ITH,"Slavin, Wesley","Clauhs, Naomi","Slavin, Wesley",,,,0,0,2,3,"[Slavin, Wesley] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+4,6,5,WP,error,attack_error,ITH,"Slavin, Wesley","Clauhs, Naomi","Owen, Brianna",,"Clauhs, Naomi",,0,1,3,3,"[Slavin, Wesley] Attack error by Clauhs, Naomi (from Owen, Brianna).",ITH,WP
+4,7,6,WP,attack,kill,WP,"Gruener, Laura","Miller, Cecilia","Grady, Taylor",,,,0,0,4,3,"[Gruener, Laura] Kill by Miller, Cecilia (from Grady, Taylor).",ITH,WP
+4,8,7,ITH,attack,kill,WP,"Gruener, Laura","Graper, Ella","Slavin, Wesley",,,,0,0,4,4,"[Gruener, Laura] Kill by Graper, Ella (from Slavin, Wesley).",ITH,WP
+4,9,8,ITH,ace,service_ace,ITH,"Garcia, Karina",,,,,"Pak, Dilara",0,1,4,5,"[Garcia, Karina] Service ace (Pak, Dilara).",ITH,WP
+4,10,9,ITH,attack,kill,ITH,"Garcia, Karina","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,4,6,"[Garcia, Karina] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WP
+4,11,10,ITH,error,ball_handling_error,ITH,"Garcia, Karina",,,,"Grady, Taylor",,0,0,4,7,"[Garcia, Karina] Bad set by Grady, Taylor.",ITH,WP
+4,12,11,ITH,attack,kill,ITH,"Garcia, Karina","Owen, Brianna","Slavin, Wesley",,,,0,0,4,8,"[Garcia, Karina] Kill by Owen, Brianna (from Slavin, Wesley).",ITH,WP
+4,13,12,ITH,error,ball_handling_error,ITH,"Garcia, Karina",,,,"Grady, Taylor",,0,0,4,9,"[Garcia, Karina] Bad set by Grady, Taylor.",ITH,WP
+4,14,13,WP,attack,kill,ITH,"Garcia, Karina","Zablackis, Sofia",,,,,0,0,5,9,"[Garcia, Karina] Kill by Zablackis, Sofia.",ITH,WP
+4,15,14,ITH,attack,kill,WP,"Molnar, Leah","Graper, Ella","Slavin, Wesley",,,,0,0,5,10,"[Molnar, Leah] Kill by Graper, Ella (from Slavin, Wesley).",ITH,WP
+4,16,15,ITH,error,attack_error,ITH,"Benedict, Ellie","Grady, Taylor","Slavin, Wesley",,"Grady, Taylor",,0,0,5,11,"[Benedict, Ellie] Attack error by Grady, Taylor (from Slavin, Wesley).",ITH,WP
+4,17,16,WP,attack,kill,ITH,"Benedict, Ellie","Miller, Cecilia","Demers, Bella",,,,0,0,6,11,"[Benedict, Ellie] Kill by Miller, Cecilia (from Demers, Bella).",ITH,WP
+4,18,17,ITH,block,attack_error,WP,"Hayth, Abigail","Zablackis, Sofia",,"Leadbetter, Addison","Zablackis, Sofia",,0,0,6,12,"[Hayth, Abigail] Attack error by Zablackis, Sofia (block by Leadbetter, Addison).",ITH,WP
+4,19,18,ITH,attack,kill,ITH,"Owen, Brianna","Gonzalez-Abreu, Gabriela","Benedict, Ellie",,,,0,0,6,13,"[Owen, Brianna] Kill by Gonzalez-Abreu, Gabriela (from Benedict, Ellie).",ITH,WP
+4,20,19,ITH,ace,service_ace,ITH,"Owen, Brianna",,,,,"Molnar, Leah",0,0,6,14,"[Owen, Brianna] Service ace (Molnar, Leah).",ITH,WP
+4,21,20,WP,attack,kill,ITH,"Owen, Brianna","Zablackis, Sofia","Grady, Taylor",,,,0,0,7,14,"[Owen, Brianna] Kill by Zablackis, Sofia (from Grady, Taylor).",ITH,WP
+4,22,21,ITH,error,attack_error,WP,"Demers, Bella","Elliott, Riley","Grady, Taylor",,"Elliott, Riley",,0,0,7,15,"[Demers, Bella] Attack error by Elliott, Riley (from Grady, Taylor).",ITH,WP
+4,23,22,WP,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Elliott, Riley","Grady, Taylor",,,,0,0,8,15,"[Gonzalez-Abreu, Gabriela] Kill by Elliott, Riley (from Grady, Taylor).",ITH,WP
+4,24,23,ITH,attack,kill,WP,"Grady, Taylor","Clauhs, Naomi","Slavin, Wesley",,,,0,0,8,16,"[Grady, Taylor] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+4,25,24,WP,attack,kill,ITH,"Leadbetter, Addison","Glenn, Kristian","Grady, Taylor",,,,0,0,9,16,"[Leadbetter, Addison] Kill by Glenn, Kristian (from Grady, Taylor).",ITH,WP
+4,26,25,ITH,attack,kill,WP,"Elliott, Riley","Clauhs, Naomi","Slavin, Wesley",,,,0,0,9,17,"[Elliott, Riley] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+4,27,26,WP,error,service_error,ITH,"Slavin, Wesley",,,,"Slavin, Wesley",,0,0,10,17,"[Slavin, Wesley] Service error.",ITH,WP
+4,28,27,ITH,attack,kill,WP,"Gruener, Laura","Clauhs, Naomi","Slavin, Wesley",,,,0,0,10,18,"[Gruener, Laura] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,WP
+4,29,28,WP,attack,kill,ITH,"Garcia, Karina","Glenn, Kristian","Grady, Taylor",,,,0,0,11,18,"[Garcia, Karina] Kill by Glenn, Kristian (from Grady, Taylor).",ITH,WP
+4,30,29,WP,attack,kill,WP,"Molnar, Leah","Miller, Cecilia",,,,,0,0,12,18,"[Molnar, Leah] Kill by Miller, Cecilia.",ITH,WP
+4,31,30,ITH,block,attack_error,WP,"Molnar, Leah","Miller, Cecilia",,"Graper, Ella","Miller, Cecilia",,0,0,12,19,"[Molnar, Leah] Attack error by Miller, Cecilia (block by Graper, Ella).",ITH,WP
+4,32,31,ITH,attack,kill,ITH,"Benedict, Ellie","Owen, Brianna","Slavin, Wesley",,,,0,0,12,20,"[Benedict, Ellie] Kill by Owen, Brianna (from Slavin, Wesley).",ITH,WP
+4,33,32,ITH,attack,kill,ITH,"Benedict, Ellie","Leadbetter, Addison","Slavin, Wesley",,,,0,0,12,21,"[Benedict, Ellie] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,WP
+4,34,33,ITH,ace,service_ace,ITH,"Benedict, Ellie",,,,,Team,0,0,12,22,"[Benedict, Ellie] Service ace (Team).",ITH,WP
+4,35,34,WP,error,service_error,ITH,"Benedict, Ellie",,,,"Benedict, Ellie",,0,0,13,22,"[Benedict, Ellie] Service error.",ITH,WP
+4,36,35,ITH,attack,kill,WP,"Hayth, Abigail","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,13,23,"[Hayth, Abigail] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,WP
+4,37,36,ITH,error,attack_error,ITH,"Owen, Brianna","Elliott, Riley","Grady, Taylor",,"Elliott, Riley",,0,0,13,24,"[Owen, Brianna] Attack error by Elliott, Riley (from Grady, Taylor).",ITH,WP
+4,38,37,WP,attack,kill,ITH,"Owen, Brianna","Zablackis, Sofia","Grady, Taylor",,,,0,0,14,24,"[Owen, Brianna] Kill by Zablackis, Sofia (from Grady, Taylor).",ITH,WP
+4,39,38,ITH,attack,kill,WP,"Demers, Bella","Benedict, Ellie","Leadbetter, Addison",,,,0,0,14,25,"[Demers, Bella] Kill by Benedict, Ellie (from Leadbetter, Addison).",ITH,WP

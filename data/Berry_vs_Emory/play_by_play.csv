@@ -1,0 +1,175 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,EU,block,attack_error,EU,"Massenat, Jillian","Kruk, Keira",,"Niko, Leneia","Kruk, Keira",,0,0,0,1,"[Massenat, Jillian] Attack error by Kruk, Keira (block by Niko, Leneia).",EU,Berry
+1,2,1,Berry,attack,kill,EU,"Massenat, Jillian","Armstead, Cali","Brovet, Ava",,,,0,0,1,1,"[Massenat, Jillian] Kill by Armstead, Cali (from Brovet, Ava).",EU,Berry
+1,3,2,Berry,attack,kill,Berry,"Whitehead, Madie","Kruk, Keira","Brovet, Ava",,,,0,0,2,1,"[Whitehead, Madie] Kill by Kruk, Keira (from Brovet, Ava).",EU,Berry
+1,4,3,Berry,block,attack_error,Berry,"Whitehead, Madie","Niko, Leneia",,"Kruk, Keira; Armstead, Cali","Niko, Leneia",,0,0,3,1,"[Whitehead, Madie] Attack error by Niko, Leneia (block by Kruk, Keira; Armstead, Cali).",EU,Berry
+1,5,4,EU,error,service_error,Berry,"Whitehead, Madie",,,,"Whitehead, Madie",,0,0,3,2,"[Whitehead, Madie] Service error.",EU,Berry
+1,6,5,EU,attack,kill,EU,"Coyle, Caroline","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,3,3,"[Coyle, Caroline] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+1,7,6,EU,attack,kill,EU,"Coyle, Caroline","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,3,4,"[Coyle, Caroline] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+1,8,7,Berry,attack,kill,EU,"Coyle, Caroline","Kruk, Keira","Brovet, Ava",,,,0,0,4,4,"[Coyle, Caroline] Kill by Kruk, Keira (from Brovet, Ava).",EU,Berry
+1,9,8,Berry,error,attack_error,Berry,"Schmit, Kara","Silberman, Eliane","Rabinowitz, Olivia",,"Silberman, Eliane",,0,1,5,4,"[Schmit, Kara] Attack error by Silberman, Eliane (from Rabinowitz, Olivia).",EU,Berry
+1,10,9,EU,error,attack_error,Berry,"Schmit, Kara","Underwood, Lura","Whitehead, Madie",,"Underwood, Lura",,0,0,5,5,"[Schmit, Kara] Attack error by Underwood, Lura (from Whitehead, Madie).",EU,Berry
+1,11,10,EU,error,attack_error,EU,"Copulos, Ioanna","Armstead, Cali","Brovet, Ava",,"Armstead, Cali",,0,1,5,6,"[Copulos, Ioanna] Attack error by Armstead, Cali (from Brovet, Ava).",EU,Berry
+1,12,11,EU,attack,kill,EU,"Copulos, Ioanna","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,5,7,"[Copulos, Ioanna] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+1,13,12,Berry,attack,kill,EU,"Copulos, Ioanna","Underwood, Lura","Brovet, Ava",,,,0,0,6,7,"[Copulos, Ioanna] Kill by Underwood, Lura (from Brovet, Ava).",EU,Berry
+1,14,13,EU,attack,kill,Berry,"Hurt, Andrea","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,6,8,"[Hurt, Andrea] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+1,15,14,EU,ace,service_ace,EU,"LaRocco, Kate",,,,,"Kruk, Keira",0,1,6,9,"[LaRocco, Kate] Service ace (Kruk, Keira).",EU,Berry
+1,16,15,EU,attack,kill,EU,"LaRocco, Kate","Silberman, Eliane","Rabinowitz, Olivia",,,,0,0,6,10,"[LaRocco, Kate] Kill by Silberman, Eliane (from Rabinowitz, Olivia).",EU,Berry
+1,17,16,EU,attack,kill,EU,"LaRocco, Kate","Rabinowitz, Olivia","Copulos, Ioanna",,,,0,0,6,11,"[LaRocco, Kate] Kill by Rabinowitz, Olivia (from Copulos, Ioanna).",EU,Berry
+1,18,17,EU,error,attack_error,EU,"LaRocco, Kate","Barnes, Blakely","Brovet, Ava",,"Barnes, Blakely",,0,0,6,12,"[LaRocco, Kate] Attack error by Barnes, Blakely (from Brovet, Ava).",EU,Berry
+1,19,18,Berry,block,attack_error,EU,"LaRocco, Kate","LaRocco, Kate",,"Brovet, Ava","LaRocco, Kate",,0,0,7,12,"[LaRocco, Kate] Attack error by LaRocco, Kate (block by Brovet, Ava).",EU,Berry
+1,20,19,EU,attack,kill,Berry,"Brovet, Ava","Silberman, Eliane","Rabinowitz, Olivia",,,,0,0,7,13,"[Brovet, Ava] Kill by Silberman, Eliane (from Rabinowitz, Olivia).",EU,Berry
+1,21,20,Berry,error,service_error,EU,"Silberman, Eliane",,,,"Silberman, Eliane",,0,0,8,13,"[Silberman, Eliane] Service error.",EU,Berry
+1,22,21,Berry,error,attack_error,Berry,"Underwood, Lura","LaRocco, Kate","Rabinowitz, Olivia",,"LaRocco, Kate",,0,0,9,13,"[Underwood, Lura] Attack error by LaRocco, Kate (from Rabinowitz, Olivia).",EU,Berry
+1,23,22,Berry,attack,kill,Berry,"Underwood, Lura","Whitehead, Madie","Brovet, Ava",,,,0,0,10,13,"[Underwood, Lura] Kill by Whitehead, Madie (from Brovet, Ava).",EU,Berry
+1,24,23,EU,error,service_error,Berry,"Underwood, Lura",,,,"Underwood, Lura",,0,0,10,14,"[Underwood, Lura] Service error.",EU,Berry
+1,25,24,Berry,attack,kill,EU,"Rabinowitz, Olivia","Whitehead, Madie","Barnes, Blakely",,,,0,0,11,14,"[Rabinowitz, Olivia] Kill by Whitehead, Madie (from Barnes, Blakely).",EU,Berry
+1,26,25,EU,block,attack_error,Berry,"England, Ailee","Kruk, Keira",,"Niko, Leneia; Regan, Maggie","Kruk, Keira",,0,1,11,15,"[England, Ailee] Attack error by Kruk, Keira (block by Niko, Leneia; Regan, Maggie).",EU,Berry
+1,27,26,EU,error,attack_error,EU,"Massenat, Jillian","Whitehead, Madie","Brovet, Ava",,"Whitehead, Madie",,0,0,11,16,"[Massenat, Jillian] Attack error by Whitehead, Madie (from Brovet, Ava).",EU,Berry
+1,28,27,Berry,error,service_error,EU,"Massenat, Jillian",,,,"Massenat, Jillian",,0,0,12,16,"[Massenat, Jillian] Service error.",EU,Berry
+1,29,28,Berry,error,attack_error,Berry,"Whitehead, Madie","Niko, Leneia","Monrose, Kaya",,"Niko, Leneia",,0,0,13,16,"[Whitehead, Madie] Attack error by Niko, Leneia (from Monrose, Kaya).",EU,Berry
+1,30,29,Berry,attack,kill,Berry,"Whitehead, Madie","Armstead, Cali",,,,,0,0,14,16,"[Whitehead, Madie] Kill by Armstead, Cali.",EU,Berry
+1,31,30,EU,attack,kill,Berry,"Whitehead, Madie","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,14,17,"[Whitehead, Madie] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+1,32,31,Berry,attack,kill,EU,"Coyle, Caroline","Kruk, Keira","Brovet, Ava",,,,0,0,15,17,"[Coyle, Caroline] Kill by Kruk, Keira (from Brovet, Ava).",EU,Berry
+1,33,32,EU,error,service_error,Berry,"Schmit, Kara",,,,"Schmit, Kara",,0,0,15,18,"[Schmit, Kara] Service error.",EU,Berry
+1,34,33,Berry,attack,kill,EU,"Copulos, Ioanna","Armstead, Cali","Brovet, Ava",,,,0,0,16,18,"[Copulos, Ioanna] Kill by Armstead, Cali (from Brovet, Ava).",EU,Berry
+1,35,34,EU,attack,kill,Berry,"Hurt, Andrea","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,16,19,"[Hurt, Andrea] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+1,36,35,Berry,block,attack_error,EU,"LaRocco, Kate","Flynn, Maria",,"Barnes, Blakely; Brovet, Ava","Flynn, Maria",,0,0,17,19,"[LaRocco, Kate] Attack error by Flynn, Maria (block by Barnes, Blakely; Brovet, Ava).",EU,Berry
+1,37,36,Berry,attack,kill,Berry,"Brovet, Ava","Underwood, Lura","Kruk, Keira",,,,0,0,18,19,"[Brovet, Ava] Kill by Underwood, Lura (from Kruk, Keira).",EU,Berry
+1,38,37,EU,attack,kill,Berry,"Brovet, Ava","Silberman, Eliane","Rabinowitz, Olivia",,,,0,0,18,20,"[Brovet, Ava] Kill by Silberman, Eliane (from Rabinowitz, Olivia).",EU,Berry
+1,39,38,Berry,attack,kill,EU,"Silberman, Eliane","Barnes, Blakely","Brovet, Ava",,,,0,0,19,20,"[Silberman, Eliane] Kill by Barnes, Blakely (from Brovet, Ava).",EU,Berry
+1,40,39,EU,error,service_error,Berry,"Underwood, Lura",,,,"Underwood, Lura",,0,0,19,21,"[Underwood, Lura] Service error.",EU,Berry
+1,41,40,Berry,attack,kill,EU,"Rabinowitz, Olivia","Harris, Shelby","Armstead, Cali",,,,0,0,20,21,"[Rabinowitz, Olivia] Kill by Harris, Shelby (from Armstead, Cali).",EU,Berry
+1,42,41,Berry,block,attack_error,Berry,"England, Ailee","Flynn, Maria",,"Whitehead, Madie; Armstead, Cali","Flynn, Maria",,0,0,21,21,"[England, Ailee] Attack error by Flynn, Maria (block by Whitehead, Madie; Armstead, Cali).",EU,Berry
+1,43,42,Berry,attack,kill,Berry,"England, Ailee","Whitehead, Madie","Harris, Shelby",,,,0,1,22,21,"[England, Ailee] Kill by Whitehead, Madie (from Harris, Shelby).",EU,Berry
+1,44,43,EU,error,service_error,Berry,"England, Ailee",,,,"England, Ailee",,0,0,22,22,"[England, Ailee] Service error.",EU,Berry
+1,45,44,Berry,attack,kill,EU,"Massenat, Jillian","Kruk, Keira","Brovet, Ava",,,,0,0,23,22,"[Massenat, Jillian] Kill by Kruk, Keira (from Brovet, Ava).",EU,Berry
+1,46,45,EU,attack,kill,Berry,"Whitehead, Madie","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,23,23,"[Whitehead, Madie] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+1,47,46,Berry,attack,kill,EU,"Coyle, Caroline","Armstead, Cali","Brovet, Ava",,,,0,0,24,23,"[Coyle, Caroline] Kill by Armstead, Cali (from Brovet, Ava).",EU,Berry
+1,48,47,Berry,error,attack_error,Berry,"Schmit, Kara","Silberman, Eliane","Rabinowitz, Olivia",,"Silberman, Eliane",,0,0,25,23,"[Schmit, Kara] Attack error by Silberman, Eliane (from Rabinowitz, Olivia).",EU,Berry
+2,1,0,EU,error,service_error,Berry,"England, Ailee",,,,"England, Ailee",,0,1,0,1,"[England, Ailee] Service error.",EU,Berry
+2,2,1,Berry,attack,kill,EU,"Coyle, Caroline","Whitehead, Madie",,,,,0,0,1,1,"[Coyle, Caroline] Kill by Whitehead, Madie.",EU,Berry
+2,3,2,Berry,ace,service_ace,Berry,"Whitehead, Madie",,,,,"Coyle, Caroline",0,0,2,1,"[Whitehead, Madie] Service ace (Coyle, Caroline).",EU,Berry
+2,4,3,EU,error,service_error,Berry,"Whitehead, Madie",,,,"Whitehead, Madie",,0,0,2,2,"[Whitehead, Madie] Service error.",EU,Berry
+2,5,4,EU,attack,kill,EU,"Copulos, Ioanna","Silberman, Eliane","Rabinowitz, Olivia",,,,0,1,2,3,"[Copulos, Ioanna] Kill by Silberman, Eliane (from Rabinowitz, Olivia).",EU,Berry
+2,6,5,Berry,block,attack_error,EU,"Copulos, Ioanna","Monrose, Kaya",,"Brovet, Ava; Armstead, Cali","Monrose, Kaya",,0,0,3,3,"[Copulos, Ioanna] Attack error by Monrose, Kaya (block by Brovet, Ava; Armstead, Cali).",EU,Berry
+2,7,6,Berry,attack,kill,Berry,"Schmit, Kara","Armstead, Cali","Brovet, Ava",,,,0,1,4,3,"[Schmit, Kara] Kill by Armstead, Cali (from Brovet, Ava).",EU,Berry
+2,8,7,EU,attack,kill,Berry,"Schmit, Kara","Monrose, Kaya","Coyle, Caroline",,,,0,0,4,4,"[Schmit, Kara] Kill by Monrose, Kaya (from Coyle, Caroline).",EU,Berry
+2,9,8,Berry,error,service_error,EU,"Massenat, Jillian",,,,"Massenat, Jillian",,0,1,5,4,"[Massenat, Jillian] Service error.",EU,Berry
+2,10,9,EU,attack,kill,Berry,"Hurt, Andrea","Silberman, Eliane","Rabinowitz, Olivia",,,,0,1,5,5,"[Hurt, Andrea] Kill by Silberman, Eliane (from Rabinowitz, Olivia).",EU,Berry
+2,11,10,Berry,error,service_error,EU,"Silberman, Eliane",,,,"Silberman, Eliane",,0,0,6,5,"[Silberman, Eliane] Service error.",EU,Berry
+2,12,11,Berry,error,attack_error,Berry,"Brovet, Ava","Regan, Maggie","Rabinowitz, Olivia",,"Regan, Maggie",,0,0,7,5,"[Brovet, Ava] Attack error by Regan, Maggie (from Rabinowitz, Olivia).",EU,Berry
+2,13,12,EU,attack,kill,Berry,"Brovet, Ava","LaRocco, Kate","Rabinowitz, Olivia",,,,0,0,7,6,"[Brovet, Ava] Kill by LaRocco, Kate (from Rabinowitz, Olivia).",EU,Berry
+2,14,13,EU,block,attack_error,EU,"Rabinowitz, Olivia","Whitehead, Madie",,"Regan, Maggie","Whitehead, Madie",,0,0,7,7,"[Rabinowitz, Olivia] Attack error by Whitehead, Madie (block by Regan, Maggie).",EU,Berry
+2,15,14,EU,attack,kill,EU,"Rabinowitz, Olivia","Niko, Leneia","Coyle, Caroline",,,,0,0,7,8,"[Rabinowitz, Olivia] Kill by Niko, Leneia (from Coyle, Caroline).",EU,Berry
+2,16,15,Berry,attack,kill,EU,"Rabinowitz, Olivia","Underwood, Lura","Brovet, Ava",,,,0,0,8,8,"[Rabinowitz, Olivia] Kill by Underwood, Lura (from Brovet, Ava).",EU,Berry
+2,17,16,EU,attack,kill,Berry,"Underwood, Lura","LaRocco, Kate","Rabinowitz, Olivia",,,,0,0,8,9,"[Underwood, Lura] Kill by LaRocco, Kate (from Rabinowitz, Olivia).",EU,Berry
+2,18,17,Berry,attack,kill,EU,"LaRocco, Kate","Barnes, Blakely","Brovet, Ava",,,,0,1,9,9,"[LaRocco, Kate] Kill by Barnes, Blakely (from Brovet, Ava).",EU,Berry
+2,19,18,EU,error,service_error,Berry,"England, Ailee",,,,"England, Ailee",,0,0,9,10,"[England, Ailee] Service error.",EU,Berry
+2,20,19,EU,attack,kill,EU,"Coyle, Caroline","LaRocco, Kate","Rabinowitz, Olivia",,,,0,0,9,11,"[Coyle, Caroline] Kill by LaRocco, Kate (from Rabinowitz, Olivia).",EU,Berry
+2,21,20,Berry,attack,kill,EU,"Coyle, Caroline","Whitehead, Madie","Brovet, Ava",,,,0,0,10,11,"[Coyle, Caroline] Kill by Whitehead, Madie (from Brovet, Ava).",EU,Berry
+2,22,21,Berry,attack,kill,Berry,"Whitehead, Madie","Armstead, Cali",,,,,0,0,11,11,"[Whitehead, Madie] Kill by Armstead, Cali.",EU,Berry
+2,23,22,EU,attack,kill,Berry,"Whitehead, Madie","Niko, Leneia","Rabinowitz, Olivia",,,,0,0,11,12,"[Whitehead, Madie] Kill by Niko, Leneia (from Rabinowitz, Olivia).",EU,Berry
+2,24,23,EU,error,attack_error,EU,"Copulos, Ioanna","Armstead, Cali","Brovet, Ava",,"Armstead, Cali",,0,0,11,13,"[Copulos, Ioanna] Attack error by Armstead, Cali (from Brovet, Ava).",EU,Berry
+2,25,24,EU,attack,kill,EU,"Copulos, Ioanna","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,11,14,"[Copulos, Ioanna] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+2,26,25,Berry,error,attack_error,EU,"Copulos, Ioanna","Silberman, Eliane","Rabinowitz, Olivia",,"Silberman, Eliane",,0,0,12,14,"[Copulos, Ioanna] Attack error by Silberman, Eliane (from Rabinowitz, Olivia).",EU,Berry
+2,27,26,EU,error,service_error,Berry,"Schmit, Kara",,,,"Schmit, Kara",,0,0,12,15,"[Schmit, Kara] Service error.",EU,Berry
+2,28,27,EU,ace,service_ace,EU,"Massenat, Jillian",,,,,"Kruk, Keira",0,0,12,16,"[Massenat, Jillian] Service ace (Kruk, Keira).",EU,Berry
+2,29,28,Berry,attack,kill,EU,"Massenat, Jillian","Underwood, Lura","Brovet, Ava",,,,0,0,13,16,"[Massenat, Jillian] Kill by Underwood, Lura (from Brovet, Ava).",EU,Berry
+2,30,29,EU,attack,kill,Berry,"Hurt, Andrea","LaRocco, Kate","Rabinowitz, Olivia",,,,0,0,13,17,"[Hurt, Andrea] Kill by LaRocco, Kate (from Rabinowitz, Olivia).",EU,Berry
+2,31,30,Berry,error,service_error,EU,"Hong, Bekah",,,,"Hong, Bekah",,0,1,14,17,"[Hong, Bekah] Service error.",EU,Berry
+2,32,31,Berry,attack,kill,Berry,"Brovet, Ava","Whitehead, Madie","Brovet, Ava",,,,0,0,15,17,"[Brovet, Ava] Kill by Whitehead, Madie (from Brovet, Ava).",EU,Berry
+2,33,32,Berry,error,attack_error,Berry,"Brovet, Ava","Regan, Maggie","Rabinowitz, Olivia",,"Regan, Maggie",,0,0,16,17,"[Brovet, Ava] Attack error by Regan, Maggie (from Rabinowitz, Olivia).",EU,Berry
+2,34,33,Berry,attack,kill,Berry,"Brovet, Ava","Barnes, Blakely","Brovet, Ava",,,,0,1,17,17,"[Brovet, Ava] Kill by Barnes, Blakely (from Brovet, Ava).",EU,Berry
+2,35,34,EU,attack,kill,Berry,"Brovet, Ava","LaRocco, Kate","Rabinowitz, Olivia",,,,0,0,17,18,"[Brovet, Ava] Kill by LaRocco, Kate (from Rabinowitz, Olivia).",EU,Berry
+2,36,35,EU,error,attack_error,EU,"Rabinowitz, Olivia","Underwood, Lura","Brovet, Ava",,"Underwood, Lura",,0,0,17,19,"[Rabinowitz, Olivia] Attack error by Underwood, Lura (from Brovet, Ava).",EU,Berry
+2,37,36,Berry,error,service_error,EU,"Rabinowitz, Olivia",,,,"Rabinowitz, Olivia",,0,0,18,19,"[Rabinowitz, Olivia] Service error.",EU,Berry
+2,38,37,EU,attack,kill,Berry,"Underwood, Lura","LaRocco, Kate","Rabinowitz, Olivia",,,,0,0,18,20,"[Underwood, Lura] Kill by LaRocco, Kate (from Rabinowitz, Olivia).",EU,Berry
+2,39,38,Berry,attack,kill,EU,"LaRocco, Kate","Whitehead, Madie","Brovet, Ava",,,,0,0,19,20,"[LaRocco, Kate] Kill by Whitehead, Madie (from Brovet, Ava).",EU,Berry
+2,40,39,Berry,attack,kill,Berry,"England, Ailee","Whitehead, Madie","Brovet, Ava",,,,0,0,20,20,"[England, Ailee] Kill by Whitehead, Madie (from Brovet, Ava).",EU,Berry
+2,41,40,EU,attack,kill,Berry,"England, Ailee","Niko, Leneia","Rabinowitz, Olivia",,,,0,0,20,21,"[England, Ailee] Kill by Niko, Leneia (from Rabinowitz, Olivia).",EU,Berry
+2,42,41,EU,attack,kill,EU,"Coyle, Caroline","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,20,22,"[Coyle, Caroline] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+2,43,42,Berry,attack,kill,EU,"Coyle, Caroline","Armstead, Cali","Brovet, Ava",,,,0,0,21,22,"[Coyle, Caroline] Kill by Armstead, Cali (from Brovet, Ava).",EU,Berry
+2,44,43,EU,attack,kill,Berry,"Whitehead, Madie","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,21,23,"[Whitehead, Madie] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+2,45,44,Berry,attack,kill,EU,"Copulos, Ioanna","Kruk, Keira","Brovet, Ava",,,,0,0,22,23,"[Copulos, Ioanna] Kill by Kruk, Keira (from Brovet, Ava).",EU,Berry
+2,46,45,EU,attack,kill,Berry,"Kruk, Keira","Rabinowitz, Olivia","Massenat, Jillian",,,,0,0,22,24,"[Kruk, Keira] Kill by Rabinowitz, Olivia (from Massenat, Jillian).",EU,Berry
+2,47,46,EU,attack,kill,EU,"Massenat, Jillian","LaRocco, Kate","Rabinowitz, Olivia",,,,0,0,22,25,"[Massenat, Jillian] Kill by LaRocco, Kate (from Rabinowitz, Olivia).",EU,Berry
+3,1,0,EU,ace,service_ace,EU,"LaRocco, Kate",,,,,"Hurt, Andrea",0,1,0,1,"[LaRocco, Kate] Service ace (Hurt, Andrea).",EU,Berry
+3,2,1,EU,attack,kill,EU,"LaRocco, Kate","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,0,2,"[LaRocco, Kate] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+3,3,2,EU,attack,kill,EU,"LaRocco, Kate","Niko, Leneia","Rabinowitz, Olivia",,,,0,0,0,3,"[LaRocco, Kate] Kill by Niko, Leneia (from Rabinowitz, Olivia).",EU,Berry
+3,4,3,EU,error,attack_error,EU,"LaRocco, Kate","Whitehead, Madie","Brovet, Ava",,"Whitehead, Madie",,0,0,0,4,"[LaRocco, Kate] Attack error by Whitehead, Madie (from Brovet, Ava).",EU,Berry
+3,5,4,Berry,attack,kill,EU,"LaRocco, Kate","Kruk, Keira","Brovet, Ava",,,,0,0,1,4,"[LaRocco, Kate] Kill by Kruk, Keira (from Brovet, Ava).",EU,Berry
+3,6,5,Berry,block,attack_error,Berry,"Whitehead, Madie","Niko, Leneia",,"Kruk, Keira; Armstead, Cali","Niko, Leneia",,0,0,2,4,"[Whitehead, Madie] Attack error by Niko, Leneia (block by Kruk, Keira; Armstead, Cali).",EU,Berry
+3,7,6,EU,attack,kill,Berry,"Whitehead, Madie","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,2,5,"[Whitehead, Madie] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+3,8,7,Berry,error,attack_error,EU,"Kennedy, Sydney","Monrose, Kaya","Rabinowitz, Olivia",,"Monrose, Kaya",,0,0,3,5,"[Kennedy, Sydney] Attack error by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+3,9,8,Berry,error,attack_error,Berry,"England, Ailee","Silberman, Eliane","Rabinowitz, Olivia",,"Silberman, Eliane",,0,1,4,5,"[England, Ailee] Attack error by Silberman, Eliane (from Rabinowitz, Olivia).",EU,Berry
+3,10,9,EU,attack,kill,Berry,"England, Ailee","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,4,6,"[England, Ailee] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+3,11,10,Berry,error,attack_error,EU,"Copulos, Ioanna","Monrose, Kaya","Rabinowitz, Olivia",,"Monrose, Kaya",,0,1,5,6,"[Copulos, Ioanna] Attack error by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+3,12,11,Berry,error,attack_error,Berry,"Hurt, Andrea","Silberman, Eliane","Rabinowitz, Olivia",,"Silberman, Eliane",,0,0,6,6,"[Hurt, Andrea] Attack error by Silberman, Eliane (from Rabinowitz, Olivia).",EU,Berry
+3,13,12,EU,attack,kill,Berry,"Hurt, Andrea","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,6,7,"[Hurt, Andrea] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+3,14,13,EU,error,attack_error,EU,"Massenat, Jillian","Whitehead, Madie","Brovet, Ava",,"Whitehead, Madie",,0,1,6,8,"[Massenat, Jillian] Attack error by Whitehead, Madie (from Brovet, Ava).",EU,Berry
+3,15,14,Berry,attack,kill,EU,"Massenat, Jillian","Underwood, Lura","Brovet, Ava",,,,0,0,7,8,"[Massenat, Jillian] Kill by Underwood, Lura (from Brovet, Ava).",EU,Berry
+3,16,15,EU,attack,kill,Berry,"Brovet, Ava","Silberman, Eliane","Rabinowitz, Olivia",,,,0,0,7,9,"[Brovet, Ava] Kill by Silberman, Eliane (from Rabinowitz, Olivia).",EU,Berry
+3,17,16,EU,error,attack_error,EU,"Coyle, Caroline","Underwood, Lura","Kruk, Keira",,"Underwood, Lura",,0,0,7,10,"[Coyle, Caroline] Attack error by Underwood, Lura (from Kruk, Keira).",EU,Berry
+3,18,17,Berry,attack,kill,EU,"Coyle, Caroline","Whitehead, Madie","Brovet, Ava",,,,0,0,8,10,"[Coyle, Caroline] Kill by Whitehead, Madie (from Brovet, Ava).",EU,Berry
+3,19,18,EU,attack,kill,Berry,"Underwood, Lura","LaRocco, Kate","Rabinowitz, Olivia",,,,0,0,8,11,"[Underwood, Lura] Kill by LaRocco, Kate (from Rabinowitz, Olivia).",EU,Berry
+3,20,19,Berry,attack,kill,EU,"Rabinowitz, Olivia","Whitehead, Madie","Brovet, Ava",,,,0,0,9,11,"[Rabinowitz, Olivia] Kill by Whitehead, Madie (from Brovet, Ava).",EU,Berry
+3,21,20,Berry,error,attack_error,Berry,"Schmit, Kara","Niko, Leneia","LaRocco, Kate",,"Niko, Leneia",,0,1,10,11,"[Schmit, Kara] Attack error by Niko, Leneia (from LaRocco, Kate).",EU,Berry
+3,22,21,Berry,block,attack_error,Berry,"Schmit, Kara","LaRocco, Kate",,"Armstead, Cali; Whitehead, Madie","LaRocco, Kate",,0,0,11,11,"[Schmit, Kara] Attack error by LaRocco, Kate (block by Armstead, Cali; Whitehead, Madie).",EU,Berry
+3,23,22,Berry,ace,service_ace,Berry,"Schmit, Kara",,,,,"LaRocco, Kate",0,0,12,11,"[Schmit, Kara] Service ace (LaRocco, Kate).",EU,Berry
+3,24,23,EU,attack,kill,Berry,"Schmit, Kara","LaRocco, Kate","Rabinowitz, Olivia",,,,0,0,12,12,"[Schmit, Kara] Kill by LaRocco, Kate (from Rabinowitz, Olivia).",EU,Berry
+3,25,24,EU,attack,kill,EU,"LaRocco, Kate","Niko, Leneia","Rabinowitz, Olivia",,,,0,0,12,13,"[LaRocco, Kate] Kill by Niko, Leneia (from Rabinowitz, Olivia).",EU,Berry
+3,26,25,EU,attack,kill,EU,"LaRocco, Kate","Kennedy, Sydney",,,,,0,0,12,14,"[LaRocco, Kate] Kill by Kennedy, Sydney.",EU,Berry
+3,27,26,Berry,attack,kill,EU,"LaRocco, Kate","Whitehead, Madie","Brovet, Ava",,,,0,0,13,14,"[LaRocco, Kate] Kill by Whitehead, Madie (from Brovet, Ava).",EU,Berry
+3,28,27,EU,attack,kill,Berry,"Whitehead, Madie","Kennedy, Sydney","Rabinowitz, Olivia",,,,0,0,13,15,"[Whitehead, Madie] Kill by Kennedy, Sydney (from Rabinowitz, Olivia).",EU,Berry
+3,29,28,Berry,attack,kill,EU,"Kennedy, Sydney","Kruk, Keira","Brovet, Ava",,,,0,0,14,15,"[Kennedy, Sydney] Kill by Kruk, Keira (from Brovet, Ava).",EU,Berry
+3,30,29,EU,attack,kill,Berry,"England, Ailee","Niko, Leneia","Rabinowitz, Olivia",,,,0,0,14,16,"[England, Ailee] Kill by Niko, Leneia (from Rabinowitz, Olivia).",EU,Berry
+3,31,30,EU,error,attack_error,EU,"Copulos, Ioanna","Underwood, Lura","Armstead, Cali",,"Underwood, Lura",,0,0,14,17,"[Copulos, Ioanna] Attack error by Underwood, Lura (from Armstead, Cali).",EU,Berry
+3,32,31,EU,error,attack_error,EU,"Copulos, Ioanna","Armstead, Cali","Brovet, Ava",,"Armstead, Cali",,0,0,14,18,"[Copulos, Ioanna] Attack error by Armstead, Cali (from Brovet, Ava).",EU,Berry
+3,33,32,EU,block,attack_error,EU,"Copulos, Ioanna","Underwood, Lura",,"Silberman, Eliane; Rabinowitz, Olivia","Underwood, Lura",,0,0,14,19,"[Copulos, Ioanna] Attack error by Underwood, Lura (block by Silberman, Eliane; Rabinowitz, Olivia).",EU,Berry
+3,34,33,Berry,error,service_error,EU,"Copulos, Ioanna",,,,"Copulos, Ioanna",,0,0,15,19,"[Copulos, Ioanna] Service error.",EU,Berry
+3,35,34,EU,attack,kill,Berry,"Hurt, Andrea","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,15,20,"[Hurt, Andrea] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+3,36,35,Berry,error,attack_error,EU,"Massenat, Jillian","LaRocco, Kate","Copulos, Ioanna",,"LaRocco, Kate",,0,0,16,20,"[Massenat, Jillian] Attack error by LaRocco, Kate (from Copulos, Ioanna).",EU,Berry
+3,37,36,Berry,error,attack_error,Berry,"Brovet, Ava","LaRocco, Kate",,,"LaRocco, Kate",,0,0,17,20,"[Brovet, Ava] Attack error by LaRocco, Kate.",EU,Berry
+3,38,37,EU,attack,kill,Berry,"Brovet, Ava","Silberman, Eliane","Rabinowitz, Olivia",,,,0,0,17,21,"[Brovet, Ava] Kill by Silberman, Eliane (from Rabinowitz, Olivia).",EU,Berry
+3,39,38,EU,attack,kill,EU,"Coyle, Caroline","LaRocco, Kate","Rabinowitz, Olivia",,,,0,0,17,22,"[Coyle, Caroline] Kill by LaRocco, Kate (from Rabinowitz, Olivia).",EU,Berry
+3,40,39,Berry,attack,kill,EU,"Coyle, Caroline","Whitehead, Madie","Brovet, Ava",,,,0,0,18,22,"[Coyle, Caroline] Kill by Whitehead, Madie (from Brovet, Ava).",EU,Berry
+3,41,40,EU,attack,kill,Berry,"Underwood, Lura","LaRocco, Kate","Rabinowitz, Olivia",,,,0,0,18,23,"[Underwood, Lura] Kill by LaRocco, Kate (from Rabinowitz, Olivia).",EU,Berry
+3,42,41,EU,attack,kill,EU,"Rabinowitz, Olivia","Kennedy, Sydney","Hurt, Andrea",,,,0,0,18,24,"[Rabinowitz, Olivia] Kill by Kennedy, Sydney (from Hurt, Andrea).",EU,Berry
+3,43,42,EU,block,attack_error,EU,"Rabinowitz, Olivia","Kruk, Keira",,"Niko, Leneia","Kruk, Keira",,0,0,18,25,"[Rabinowitz, Olivia] Attack error by Kruk, Keira (block by Niko, Leneia).",EU,Berry
+4,1,0,EU,attack,kill,Berry,"Schmit, Kara","Monrose, Kaya","Rabinowitz, Olivia",,,,0,1,0,1,"[Schmit, Kara] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+4,2,1,Berry,attack,kill,EU,"Kennedy, Sydney","Armstead, Cali","Brovet, Ava",,,,0,1,1,1,"[Kennedy, Sydney] Kill by Armstead, Cali (from Brovet, Ava).",EU,Berry
+4,3,2,Berry,attack,kill,Berry,"Whitehead, Madie","Brovet, Ava","Underwood, Lura",,,,0,0,2,1,"[Whitehead, Madie] Kill by Brovet, Ava (from Underwood, Lura).",EU,Berry
+4,4,3,Berry,error,attack_error,Berry,"Whitehead, Madie","Monrose, Kaya","Rabinowitz, Olivia",,"Monrose, Kaya",,0,0,3,1,"[Whitehead, Madie] Attack error by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+4,5,4,EU,attack,kill,Berry,"Whitehead, Madie","Silberman, Eliane","Rabinowitz, Olivia",,,,0,0,3,2,"[Whitehead, Madie] Kill by Silberman, Eliane (from Rabinowitz, Olivia).",EU,Berry
+4,6,5,EU,error,attack_error,EU,"Copulos, Ioanna","Armstead, Cali",,,"Armstead, Cali",,0,1,3,3,"[Copulos, Ioanna] Attack error by Armstead, Cali.",EU,Berry
+4,7,6,EU,block,attack_error,EU,"Copulos, Ioanna","Whitehead, Madie",,"Silberman, Eliane","Whitehead, Madie",,0,0,3,4,"[Copulos, Ioanna] Attack error by Whitehead, Madie (block by Silberman, Eliane).",EU,Berry
+4,8,7,EU,ace,service_ace,EU,"Copulos, Ioanna",,,,,"Hurt, Andrea",0,0,3,5,"[Copulos, Ioanna] Service ace (Hurt, Andrea).",EU,Berry
+4,9,8,EU,attack,kill,EU,"Copulos, Ioanna","Monrose, Kaya","Copulos, Ioanna",,,,0,0,3,6,"[Copulos, Ioanna] Kill by Monrose, Kaya (from Copulos, Ioanna).",EU,Berry
+4,10,9,Berry,error,service_error,EU,"Copulos, Ioanna",,,,"Copulos, Ioanna",,0,0,4,6,"[Copulos, Ioanna] Service error.",EU,Berry
+4,11,10,Berry,ace,service_ace,Berry,"Underwood, Lura",,,,,"Coyle, Caroline",0,0,5,6,"[Underwood, Lura] Service ace (Coyle, Caroline).",EU,Berry
+4,12,11,EU,attack,kill,Berry,"Underwood, Lura","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,5,7,"[Underwood, Lura] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+4,13,12,Berry,attack,kill,EU,"Massenat, Jillian","Kruk, Keira","Brovet, Ava",,,,0,1,6,7,"[Massenat, Jillian] Kill by Kruk, Keira (from Brovet, Ava).",EU,Berry
+4,14,13,EU,attack,kill,Berry,"Hurt, Andrea","Silberman, Eliane","Rabinowitz, Olivia",,,,0,0,6,8,"[Hurt, Andrea] Kill by Silberman, Eliane (from Rabinowitz, Olivia).",EU,Berry
+4,15,14,Berry,attack,kill,EU,"Coyle, Caroline","Kruk, Keira","Brovet, Ava",,,,0,0,7,8,"[Coyle, Caroline] Kill by Kruk, Keira (from Brovet, Ava).",EU,Berry
+4,16,15,EU,attack,kill,Berry,"Brovet, Ava","LaRocco, Kate","Rabinowitz, Olivia",,,,0,0,7,9,"[Brovet, Ava] Kill by LaRocco, Kate (from Rabinowitz, Olivia).",EU,Berry
+4,17,16,EU,block,attack_error,EU,"Rabinowitz, Olivia","Kruk, Keira",,"Niko, Leneia; Kennedy, Sydney","Kruk, Keira",,0,0,7,10,"[Rabinowitz, Olivia] Attack error by Kruk, Keira (block by Niko, Leneia; Kennedy, Sydney).",EU,Berry
+4,18,17,EU,block,attack_error,EU,"Rabinowitz, Olivia","Schmit, Kara",,"LaRocco, Kate","Schmit, Kara",,0,0,7,11,"[Rabinowitz, Olivia] Attack error by Schmit, Kara (block by LaRocco, Kate).",EU,Berry
+4,19,18,EU,ace,service_ace,EU,"Rabinowitz, Olivia",,,,,"Hurt, Andrea",0,0,7,12,"[Rabinowitz, Olivia] Service ace (Hurt, Andrea).",EU,Berry
+4,20,19,EU,error,ball_handling_error,EU,"Rabinowitz, Olivia",,,,"Brovet, Ava",,0,0,7,13,"[Rabinowitz, Olivia] Bad set by Brovet, Ava.",EU,Berry
+4,21,20,EU,attack,kill,EU,"Rabinowitz, Olivia","Kennedy, Sydney","Rabinowitz, Olivia",,,,0,0,7,14,"[Rabinowitz, Olivia] Kill by Kennedy, Sydney (from Rabinowitz, Olivia).",EU,Berry
+4,22,21,EU,block,attack_error,EU,"Rabinowitz, Olivia","Whitehead, Madie",,"LaRocco, Kate","Whitehead, Madie",,0,0,7,15,"[Rabinowitz, Olivia] Attack error by Whitehead, Madie (block by LaRocco, Kate).",EU,Berry
+4,23,22,EU,ace,service_ace,EU,"Rabinowitz, Olivia",,,,,"Hurt, Andrea",0,0,7,16,"[Rabinowitz, Olivia] Service ace (Hurt, Andrea).",EU,Berry
+4,24,23,EU,attack,kill,EU,"Rabinowitz, Olivia","Monrose, Kaya","Rabinowitz, Olivia",,,,0,1,7,17,"[Rabinowitz, Olivia] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+4,25,24,Berry,attack,kill,EU,"Rabinowitz, Olivia","Kruk, Keira","Brovet, Ava",,,,0,0,8,17,"[Rabinowitz, Olivia] Kill by Kruk, Keira (from Brovet, Ava).",EU,Berry
+4,26,25,EU,attack,kill,Berry,"England, Ailee","Niko, Leneia","Rabinowitz, Olivia",,,,0,1,8,18,"[England, Ailee] Kill by Niko, Leneia (from Rabinowitz, Olivia).",EU,Berry
+4,27,26,Berry,error,attack_error,EU,"LaRocco, Kate","Kennedy, Sydney","Rabinowitz, Olivia",,"Kennedy, Sydney",,0,0,9,18,"[LaRocco, Kate] Attack error by Kennedy, Sydney (from Rabinowitz, Olivia).",EU,Berry
+4,28,27,EU,attack,kill,Berry,"Schmit, Kara","Monrose, Kaya","Rabinowitz, Olivia",,,,0,0,9,19,"[Schmit, Kara] Kill by Monrose, Kaya (from Rabinowitz, Olivia).",EU,Berry
+4,29,28,Berry,error,service_error,EU,"Kennedy, Sydney",,,,"Kennedy, Sydney",,0,0,10,19,"[Kennedy, Sydney] Service error.",EU,Berry
+4,30,29,EU,attack,kill,Berry,"Whitehead, Madie","Silberman, Eliane","Rabinowitz, Olivia",,,,0,0,10,20,"[Whitehead, Madie] Kill by Silberman, Eliane (from Rabinowitz, Olivia).",EU,Berry
+4,31,30,EU,error,attack_error,EU,"Copulos, Ioanna","Armstead, Cali","Brovet, Ava",,"Armstead, Cali",,0,0,10,21,"[Copulos, Ioanna] Attack error by Armstead, Cali (from Brovet, Ava).",EU,Berry
+4,32,31,EU,attack,kill,EU,"Copulos, Ioanna","Rabinowitz, Olivia","Copulos, Ioanna",,,,0,0,10,22,"[Copulos, Ioanna] Kill by Rabinowitz, Olivia (from Copulos, Ioanna).",EU,Berry
+4,33,32,EU,ace,service_ace,EU,"Copulos, Ioanna",,,,,"Kruk, Keira",0,0,10,23,"[Copulos, Ioanna] Service ace (Kruk, Keira).",EU,Berry
+4,34,33,EU,error,attack_error,EU,"Copulos, Ioanna","Armstead, Cali","Brovet, Ava",,"Armstead, Cali",,0,0,10,24,"[Copulos, Ioanna] Attack error by Armstead, Cali (from Brovet, Ava).",EU,Berry
+4,35,34,Berry,attack,kill,EU,"Copulos, Ioanna","Whitehead, Madie","Brovet, Ava",,,,0,0,11,24,"[Copulos, Ioanna] Kill by Whitehead, Madie (from Brovet, Ava).",EU,Berry
+4,36,35,EU,attack,kill,Berry,"Underwood, Lura","Silberman, Eliane","Rabinowitz, Olivia",,,,0,0,11,25,"[Underwood, Lura] Kill by Silberman, Eliane (from Rabinowitz, Olivia).",EU,Berry

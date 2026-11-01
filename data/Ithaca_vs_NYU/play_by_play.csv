@@ -1,0 +1,150 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,NYU,attack,kill,NYU,"Launsbach, Ava","Nelson, Grace","Launsbach, Ava",,,,0,0,0,1,"[Launsbach, Ava] Kill by Nelson, Grace (from Launsbach, Ava).",NYU,ITH
+1,2,1,ITH,attack,kill,NYU,"Launsbach, Ava","Gonzalez-Abreu, Gabriela","Cox, Maddie",,,,0,0,1,1,"[Launsbach, Ava] Kill by Gonzalez-Abreu, Gabriela (from Cox, Maddie).",NYU,ITH
+1,3,2,ITH,error,ball_handling_error,ITH,"Graper, Ella",,,,"Launsbach, Ava",,0,0,2,1,"[Graper, Ella] Bad set by Launsbach, Ava.",NYU,ITH
+1,4,3,NYU,attack,kill,ITH,"Graper, Ella","Odum, Taylor","Launsbach, Ava",,,,0,0,2,2,"[Graper, Ella] Kill by Odum, Taylor (from Launsbach, Ava).",NYU,ITH
+1,5,4,NYU,ace,service_ace,NYU,"Nelson, Grace",,,,,"Sabatier, Faith",0,0,2,3,"[Nelson, Grace] Service ace (Sabatier, Faith).",NYU,ITH
+1,6,5,NYU,attack,kill,NYU,"Nelson, Grace","Holz, Haley",,,,,0,0,2,4,"[Nelson, Grace] Kill by Holz, Haley.",NYU,ITH
+1,7,6,NYU,ace,service_ace,NYU,"Nelson, Grace",,,,,Team,0,0,2,5,"[Nelson, Grace] Service ace (Team).",NYU,ITH
+1,8,7,NYU,ace,service_ace,NYU,"Nelson, Grace",,,,,"Gonzalez-Abreu, Gabriela ",0,0,2,6,"[Nelson, Grace] Service ace (Gonzalez-Abreu, Gabriela ).",NYU,ITH
+1,9,8,NYU,error,attack_error,NYU,"Nelson, Grace","Sabatier, Faith","Cox, Maddie",,"Sabatier, Faith",,0,0,2,7,"[Nelson, Grace] Attack error by Sabatier, Faith (from Cox, Maddie).",NYU,ITH
+1,10,9,ITH,error,service_error,NYU,"Nelson, Grace",,,,"Nelson, Grace",,0,0,3,7,"[Nelson, Grace] Service error.",NYU,ITH
+1,11,10,NYU,attack,kill,ITH,"Miller, Peyton","Holz, Haley","Hirano, Lindsey",,,,0,1,3,8,"[Miller, Peyton] Kill by Holz, Haley (from Hirano, Lindsey).",NYU,ITH
+1,12,11,ITH,attack,kill,NYU,"Hirano, Lindsey","Gonzalez-Abreu, Gabriela","Costa, Julia",,,,0,0,4,8,"[Hirano, Lindsey] Kill by Gonzalez-Abreu, Gabriela (from Costa, Julia).",NYU,ITH
+1,13,12,ITH,attack,kill,ITH,"Gonzalez-Abreu, Gabriela ","Koopman, Jamie","Cox, Maddie",,,,0,1,5,8,"[Gonzalez-Abreu, Gabriela ] Kill by Koopman, Jamie (from Cox, Maddie).",NYU,ITH
+1,14,13,ITH,block,attack_error,ITH,"Gonzalez-Abreu, Gabriela ","Holz, Haley",,"Cox, Maddie; Koopman, Jamie","Holz, Haley",,0,0,6,8,"[Gonzalez-Abreu, Gabriela ] Attack error by Holz, Haley (block by Cox, Maddie; Koopman, Jamie).",NYU,ITH
+1,15,14,NYU,attack,kill,ITH,"Gonzalez-Abreu, Gabriela ","Anvekar, Leela","Launsbach, Ava",,,,0,0,6,9,"[Gonzalez-Abreu, Gabriela ] Kill by Anvekar, Leela (from Launsbach, Ava).",NYU,ITH
+1,16,15,ITH,error,service_error,NYU,"Drust, Dominique",,,,"Drust, Dominique",,0,1,7,9,"[Drust, Dominique] Service error.",NYU,ITH
+1,17,16,ITH,ace,service_ace,ITH,"Costa, Julia",,,,,"Holz, Haley",0,0,8,9,"[Costa, Julia] Service ace (Holz, Haley).",NYU,ITH
+1,18,17,ITH,error,attack_error,ITH,"Costa, Julia","Holz, Haley","Launsbach, Ava",,"Holz, Haley",,0,0,9,9,"[Costa, Julia] Attack error by Holz, Haley (from Launsbach, Ava).",NYU,ITH
+1,19,18,ITH,attack,kill,ITH,"Costa, Julia","Clauhs, Naomi","Cox, Maddie",,,,0,0,10,9,"[Costa, Julia] Kill by Clauhs, Naomi (from Cox, Maddie).",NYU,ITH
+1,20,19,ITH,ace,service_ace,ITH,"Costa, Julia",,,,,"Nelson, Grace",0,0,11,9,"[Costa, Julia] Service ace (Nelson, Grace).",NYU,ITH
+1,21,20,NYU,error,service_error,ITH,"Costa, Julia",,,,"Costa, Julia",,0,0,11,10,"[Costa, Julia] Service error.",NYU,ITH
+1,22,21,ITH,error,service_error,NYU,"Holz, Haley",,,,"Holz, Haley",,0,0,12,10,"[Holz, Haley] Service error.",NYU,ITH
+1,23,22,NYU,attack,kill,ITH,"Cox, Maddie","Weider, Ella","Drust, Dominique",,,,0,0,12,11,"[Cox, Maddie] Kill by Weider, Ella (from Drust, Dominique).",NYU,ITH
+1,24,23,NYU,attack,kill,NYU,"Anvekar, Leela","Weider, Ella","Anvekar, Leela",,,,0,0,12,12,"[Anvekar, Leela] Kill by Weider, Ella (from Anvekar, Leela).",NYU,ITH
+1,25,24,ITH,error,service_error,NYU,"Anvekar, Leela",,,,"Anvekar, Leela",,0,0,13,12,"[Anvekar, Leela] Service error.",NYU,ITH
+1,26,25,NYU,attack,kill,ITH,"Benedict, Ellie","Weider, Ella","Drust, Dominique",,,,0,0,13,13,"[Benedict, Ellie] Kill by Weider, Ella (from Drust, Dominique).",NYU,ITH
+1,27,26,ITH,attack,kill,NYU,"Launsbach, Ava","Sabatier, Faith","Costa, Julia",,,,0,0,14,13,"[Launsbach, Ava] Kill by Sabatier, Faith (from Costa, Julia).",NYU,ITH
+1,28,27,ITH,error,attack_error,ITH,"Cox, Maddie","Nelson, Grace","Launsbach, Ava",,"Nelson, Grace",,0,0,15,13,"[Cox, Maddie] Attack error by Nelson, Grace (from Launsbach, Ava).",NYU,ITH
+1,29,28,ITH,attack,kill,ITH,"Graper, Ella","Gonzalez-Abreu, Gabriela","Sabatier, Faith",,,,0,0,16,13,"[Graper, Ella] Kill by Gonzalez-Abreu, Gabriela (from Sabatier, Faith).",NYU,ITH
+1,30,29,ITH,error,ball_handling_error,ITH,"Graper, Ella",,,,"Hirano, Lindsey",,0,0,17,13,"[Graper, Ella] Bad set by Hirano, Lindsey.",NYU,ITH
+1,31,30,NYU,attack,kill,ITH,"Graper, Ella","Odum, Taylor","Launsbach, Ava",,,,0,0,17,14,"[Graper, Ella] Kill by Odum, Taylor (from Launsbach, Ava).",NYU,ITH
+1,32,31,ITH,attack,kill,NYU,"Nelson, Grace","Gonzalez-Abreu, Gabriela","Cox, Maddie",,,,0,0,18,14,"[Nelson, Grace] Kill by Gonzalez-Abreu, Gabriela (from Cox, Maddie).",NYU,ITH
+1,33,32,NYU,error,service_error,ITH,"Miller, Peyton",,,,"Miller, Peyton",,0,1,18,15,"[Miller, Peyton] Service error.",NYU,ITH
+1,34,33,NYU,attack,kill,NYU,"Hirano, Lindsey","Holz, Haley","Launsbach, Ava",,,,0,0,18,16,"[Hirano, Lindsey] Kill by Holz, Haley (from Launsbach, Ava).",NYU,ITH
+1,35,34,NYU,attack,kill,NYU,"Hirano, Lindsey","Holz, Haley","Launsbach, Ava",,,,0,0,18,17,"[Hirano, Lindsey] Kill by Holz, Haley (from Launsbach, Ava).",NYU,ITH
+1,36,35,NYU,block,attack_error,NYU,"Hirano, Lindsey","Koopman, Jamie",,"Holz, Haley","Koopman, Jamie",,0,0,18,18,"[Hirano, Lindsey] Attack error by Koopman, Jamie (block by Holz, Haley).",NYU,ITH
+1,37,36,NYU,attack,kill,NYU,"Hirano, Lindsey","Holz, Haley",,,,,0,0,18,19,"[Hirano, Lindsey] Kill by Holz, Haley.",NYU,ITH
+1,38,37,NYU,attack,kill,NYU,"Hirano, Lindsey","Holz, Haley","Hirano, Lindsey",,,,0,0,18,20,"[Hirano, Lindsey] Kill by Holz, Haley (from Hirano, Lindsey).",NYU,ITH
+1,39,38,ITH,attack,kill,NYU,"Hirano, Lindsey","Koopman, Jamie","Cox, Maddie",,,,0,0,19,20,"[Hirano, Lindsey] Kill by Koopman, Jamie (from Cox, Maddie).",NYU,ITH
+1,40,39,ITH,block,attack_error,ITH,"Gonzalez-Abreu, Gabriela ","Holz, Haley",,"Koopman, Jamie","Holz, Haley",,0,0,20,20,"[Gonzalez-Abreu, Gabriela ] Attack error by Holz, Haley (block by Koopman, Jamie).",NYU,ITH
+1,41,40,ITH,attack,kill,ITH,"Gonzalez-Abreu, Gabriela ","Clauhs, Naomi","Miller, Peyton",,,,0,0,21,20,"[Gonzalez-Abreu, Gabriela ] Kill by Clauhs, Naomi (from Miller, Peyton).",NYU,ITH
+1,42,41,NYU,error,service_error,ITH,"Gonzalez-Abreu, Gabriela ",,,,"Gonzalez-Abreu, Gabriela ",,0,0,21,21,"[Gonzalez-Abreu, Gabriela ] Service error.",NYU,ITH
+1,43,42,NYU,attack,kill,NYU,"Drust, Dominique","Weider, Ella","Cox, Maddie",,,,0,0,21,22,"[Drust, Dominique] Kill by Weider, Ella (from Cox, Maddie).",NYU,ITH
+1,44,43,NYU,ace,service_ace,NYU,"Drust, Dominique",,,,,"Klemm, Samantha",0,0,21,23,"[Drust, Dominique] Service ace (Klemm, Samantha).",NYU,ITH
+1,45,44,ITH,attack,kill,NYU,"Drust, Dominique","Clauhs, Naomi","Miller, Peyton",,,,0,0,22,23,"[Drust, Dominique] Kill by Clauhs, Naomi (from Miller, Peyton).",NYU,ITH
+1,46,45,NYU,attack,kill,ITH,"Costa, Julia","Weider, Ella","Drust, Dominique",,,,0,0,22,24,"[Costa, Julia] Kill by Weider, Ella (from Drust, Dominique).",NYU,ITH
+1,47,46,NYU,block,attack_error,NYU,"Holz, Haley","Clauhs, Naomi",,"Weider, Ella; Lattan, Sarah","Clauhs, Naomi",,0,0,22,25,"[Holz, Haley] Attack error by Clauhs, Naomi (block by Weider, Ella; Lattan, Sarah).",NYU,ITH
+2,1,0,NYU,attack,kill,ITH,"Benedict, Ellie","Nelson, Grace","Hirano, Lindsey",,,,0,1,0,1,"[Benedict, Ellie] Kill by Nelson, Grace (from Hirano, Lindsey).",NYU,ITH
+2,2,1,ITH,attack,kill,NYU,"Nelson, Grace","Graper, Ella","Cox, Maddie",,,,0,0,1,1,"[Nelson, Grace] Kill by Graper, Ella (from Cox, Maddie).",NYU,ITH
+2,3,2,ITH,block,attack_error,ITH,"Graper, Ella","Holz, Haley",,"Koopman, Jamie","Holz, Haley",,0,0,2,1,"[Graper, Ella] Attack error by Holz, Haley (block by Koopman, Jamie).",NYU,ITH
+2,4,3,NYU,error,service_error,ITH,"Graper, Ella",,,,"Graper, Ella",,0,0,2,2,"[Graper, Ella] Service error.",NYU,ITH
+2,5,4,ITH,attack,kill,NYU,"Hirano, Lindsey","Koopman, Jamie","Cox, Maddie",,,,0,0,3,2,"[Hirano, Lindsey] Kill by Koopman, Jamie (from Cox, Maddie).",NYU,ITH
+2,6,5,ITH,error,attack_error,ITH,"Miller, Peyton","Anvekar, Leela","Launsbach, Ava",,"Anvekar, Leela",,0,1,4,2,"[Miller, Peyton] Attack error by Anvekar, Leela (from Launsbach, Ava).",NYU,ITH
+2,7,6,NYU,attack,kill,ITH,"Miller, Peyton","Holz, Haley","Launsbach, Ava",,,,0,0,4,3,"[Miller, Peyton] Kill by Holz, Haley (from Launsbach, Ava).",NYU,ITH
+2,8,7,NYU,error,attack_error,NYU,"Drust, Dominique","Koopman, Jamie","Cox, Maddie",,"Koopman, Jamie",,0,1,4,4,"[Drust, Dominique] Attack error by Koopman, Jamie (from Cox, Maddie).",NYU,ITH
+2,9,8,ITH,attack,kill,NYU,"Drust, Dominique","Gonzalez-Abreu, Gabriela","Cox, Maddie",,,,0,0,5,4,"[Drust, Dominique] Kill by Gonzalez-Abreu, Gabriela (from Cox, Maddie).",NYU,ITH
+2,10,9,NYU,attack,kill,ITH,"Gonzalez-Abreu, Gabriela ","Holz, Haley","Drust, Dominique",,,,0,1,5,5,"[Gonzalez-Abreu, Gabriela ] Kill by Holz, Haley (from Drust, Dominique).",NYU,ITH
+2,11,10,ITH,attack,kill,NYU,"Holz, Haley","Koopman, Jamie","Cox, Maddie",,,,0,1,6,5,"[Holz, Haley] Kill by Koopman, Jamie (from Cox, Maddie).",NYU,ITH
+2,12,11,NYU,attack,kill,ITH,"Costa, Julia","Weider, Ella","Drust, Dominique",,,,0,0,6,6,"[Costa, Julia] Kill by Weider, Ella (from Drust, Dominique).",NYU,ITH
+2,13,12,ITH,attack,kill,NYU,"Anvekar, Leela","Cox, Maddie",,,,,0,0,7,6,"[Anvekar, Leela] Kill by Cox, Maddie.",NYU,ITH
+2,14,13,NYU,attack,kill,ITH,"Cox, Maddie","Odum, Taylor","Drust, Dominique",,,,0,0,7,7,"[Cox, Maddie] Kill by Odum, Taylor (from Drust, Dominique).",NYU,ITH
+2,15,14,ITH,attack,kill,NYU,"Launsbach, Ava","Graper, Ella","Cox, Maddie",,,,0,0,8,7,"[Launsbach, Ava] Kill by Graper, Ella (from Cox, Maddie).",NYU,ITH
+2,16,15,ITH,ace,service_ace,ITH,"Benedict, Ellie",,,,,"Holz, Haley",0,0,9,7,"[Benedict, Ellie] Service ace (Holz, Haley).",NYU,ITH
+2,17,16,NYU,block,attack_error,ITH,"Benedict, Ellie","Sabatier, Faith",,"Nelson, Grace; Odum, Taylor","Sabatier, Faith",,0,0,9,8,"[Benedict, Ellie] Attack error by Sabatier, Faith (block by Nelson, Grace; Odum, Taylor).",NYU,ITH
+2,18,17,NYU,block,attack_error,NYU,"Nelson, Grace","Gonzalez-Abreu, Gabriela",,"Pasmooij, Eveliena","Gonzalez-Abreu, Gabriela",,0,0,9,9,"[Nelson, Grace] Attack error by Gonzalez-Abreu, Gabriela (block by Pasmooij, Eveliena).",NYU,ITH
+2,19,18,NYU,attack,kill,NYU,"Nelson, Grace","Odum, Taylor","Launsbach, Ava",,,,0,0,9,10,"[Nelson, Grace] Kill by Odum, Taylor (from Launsbach, Ava).",NYU,ITH
+2,20,19,ITH,error,attack_error,NYU,"Nelson, Grace","Pasmooij, Eveliena","Holz, Haley",,"Pasmooij, Eveliena",,0,0,10,10,"[Nelson, Grace] Attack error by Pasmooij, Eveliena (from Holz, Haley).",NYU,ITH
+2,21,20,ITH,block,attack_error,ITH,"Slavin, Wesley ","Holz, Haley",,"Sabatier, Faith; Koopman, Jamie","Holz, Haley",,0,1,11,10,"[Slavin, Wesley ] Attack error by Holz, Haley (block by Sabatier, Faith; Koopman, Jamie).",NYU,ITH
+2,22,21,NYU,attack,kill,ITH,"Slavin, Wesley ","Holz, Haley","Launsbach, Ava",,,,0,0,11,11,"[Slavin, Wesley ] Kill by Holz, Haley (from Launsbach, Ava).",NYU,ITH
+2,23,22,ITH,attack,kill,NYU,"Hirano, Lindsey","Koopman, Jamie",,,,,0,0,12,11,"[Hirano, Lindsey] Kill by Koopman, Jamie.",NYU,ITH
+2,24,23,NYU,attack,kill,ITH,"Miller, Peyton","Holz, Haley","Launsbach, Ava",,,,0,0,12,12,"[Miller, Peyton] Kill by Holz, Haley (from Launsbach, Ava).",NYU,ITH
+2,25,24,ITH,attack,kill,NYU,"Drust, Dominique","Gonzalez-Abreu, Gabriela","Cox, Maddie",,,,0,0,13,12,"[Drust, Dominique] Kill by Gonzalez-Abreu, Gabriela (from Cox, Maddie).",NYU,ITH
+2,26,25,ITH,ace,service_ace,ITH,"Gonzalez-Abreu, Gabriela ",,,,,"Holz, Haley",0,0,14,12,"[Gonzalez-Abreu, Gabriela ] Service ace (Holz, Haley).",NYU,ITH
+2,27,26,ITH,attack,kill,ITH,"Gonzalez-Abreu, Gabriela ","Clauhs, Naomi","Cox, Maddie",,,,0,0,15,12,"[Gonzalez-Abreu, Gabriela ] Kill by Clauhs, Naomi (from Cox, Maddie).",NYU,ITH
+2,28,27,NYU,block,attack_error,ITH,"Gonzalez-Abreu, Gabriela ","Clauhs, Naomi",,"Weider, Ella; Anvekar, Leela","Clauhs, Naomi",,0,0,15,13,"[Gonzalez-Abreu, Gabriela ] Attack error by Clauhs, Naomi (block by Weider, Ella; Anvekar, Leela).",NYU,ITH
+2,29,28,ITH,attack,kill,NYU,"Holz, Haley","Koopman, Jamie","Cox, Maddie",,,,0,0,16,13,"[Holz, Haley] Kill by Koopman, Jamie (from Cox, Maddie).",NYU,ITH
+2,30,29,ITH,error,attack_error,ITH,"Costa, Julia","Weider, Ella","Drust, Dominique",,"Weider, Ella",,0,0,17,13,"[Costa, Julia] Attack error by Weider, Ella (from Drust, Dominique).",NYU,ITH
+2,31,30,NYU,error,service_error,ITH,"Costa, Julia",,,,"Costa, Julia",,0,0,17,14,"[Costa, Julia] Service error.",NYU,ITH
+2,32,31,NYU,block,attack_error,NYU,"Anvekar, Leela","Clauhs, Naomi",,"Odum, Taylor","Clauhs, Naomi",,0,0,17,15,"[Anvekar, Leela] Attack error by Clauhs, Naomi (block by Odum, Taylor).",NYU,ITH
+2,33,32,ITH,error,service_error,NYU,"Anvekar, Leela",,,,"Anvekar, Leela",,0,0,18,15,"[Anvekar, Leela] Service error.",NYU,ITH
+2,34,33,ITH,error,attack_error,ITH,"Cox, Maddie","Nelson, Grace","Drust, Dominique",,"Nelson, Grace",,0,0,19,15,"[Cox, Maddie] Attack error by Nelson, Grace (from Drust, Dominique).",NYU,ITH
+2,35,34,NYU,attack,kill,ITH,"Cox, Maddie","Weider, Ella","Drust, Dominique",,"Graper, Ella",,0,0,19,16,"[Cox, Maddie] Kill by Weider, Ella (from Drust, Dominique), block error by Graper, Ella.",NYU,ITH
+2,36,35,NYU,attack,kill,NYU,"Launsbach, Ava","Nelson, Grace","Launsbach, Ava",,,,0,0,19,17,"[Launsbach, Ava] Kill by Nelson, Grace (from Launsbach, Ava).",NYU,ITH
+2,37,36,NYU,error,attack_error,NYU,"Launsbach, Ava","Sabatier, Faith","Cox, Maddie",,"Sabatier, Faith",,0,0,19,18,"[Launsbach, Ava] Attack error by Sabatier, Faith (from Cox, Maddie).",NYU,ITH
+2,38,37,ITH,attack,kill,NYU,"Launsbach, Ava","Graper, Ella",,,,,0,0,20,18,"[Launsbach, Ava] Kill by Graper, Ella.",NYU,ITH
+2,39,38,ITH,ace,service_ace,ITH,"Benedict, Ellie",,,,,"Holz, Haley",0,0,21,18,"[Benedict, Ellie] Service ace (Holz, Haley).",NYU,ITH
+2,40,39,NYU,attack,kill,ITH,"Benedict, Ellie","Nelson, Grace","Launsbach, Ava",,,,0,0,21,19,"[Benedict, Ellie] Kill by Nelson, Grace (from Launsbach, Ava).",NYU,ITH
+2,41,40,ITH,error,attack_error,NYU,"Nelson, Grace","Holz, Haley","Launsbach, Ava",,"Holz, Haley",,0,0,22,19,"[Nelson, Grace] Attack error by Holz, Haley (from Launsbach, Ava).",NYU,ITH
+2,42,41,NYU,attack,kill,ITH,"Graper, Ella","Odum, Taylor","Launsbach, Ava",,,,0,0,22,20,"[Graper, Ella] Kill by Odum, Taylor (from Launsbach, Ava).",NYU,ITH
+2,43,42,ITH,attack,kill,NYU,"Hirano, Lindsey","Sabatier, Faith","Cox, Maddie",,,,0,0,23,20,"[Hirano, Lindsey] Kill by Sabatier, Faith (from Cox, Maddie).",NYU,ITH
+2,44,43,NYU,error,attack_error,ITH,"Miller, Peyton","Gonzalez-Abreu, Gabriela","Cox, Maddie",,"Gonzalez-Abreu, Gabriela",,0,0,23,21,"[Miller, Peyton] Attack error by Gonzalez-Abreu, Gabriela (from Cox, Maddie).",NYU,ITH
+2,45,44,NYU,error,attack_error,NYU,"Drust, Dominique","Koopman, Jamie","Cox, Maddie",,"Koopman, Jamie",,0,0,23,22,"[Drust, Dominique] Attack error by Koopman, Jamie (from Cox, Maddie).",NYU,ITH
+2,46,45,NYU,error,attack_error,NYU,"Drust, Dominique","Gonzalez-Abreu, Gabriela","Benedict, Ellie",,"Gonzalez-Abreu, Gabriela",,0,0,23,23,"[Drust, Dominique] Attack error by Gonzalez-Abreu, Gabriela (from Benedict, Ellie).",NYU,ITH
+2,47,46,ITH,error,service_error,NYU,"Drust, Dominique",,,,"Drust, Dominique",,0,0,24,23,"[Drust, Dominique] Service error.",NYU,ITH
+2,48,47,NYU,attack,kill,ITH,"Gonzalez-Abreu, Gabriela ","Holz, Haley","Launsbach, Ava",,,,0,0,24,24,"[Gonzalez-Abreu, Gabriela ] Kill by Holz, Haley (from Launsbach, Ava).",NYU,ITH
+2,49,48,ITH,attack,kill,NYU,"Holz, Haley","Koopman, Jamie","Cox, Maddie",,,,0,0,25,24,"[Holz, Haley] Kill by Koopman, Jamie (from Cox, Maddie).",NYU,ITH
+2,50,49,NYU,attack,kill,ITH,"Costa, Julia","Weider, Ella","Drust, Dominique",,,,0,0,25,25,"[Costa, Julia] Kill by Weider, Ella (from Drust, Dominique).",NYU,ITH
+2,51,50,ITH,attack,kill,NYU,"Anvekar, Leela","Benedict, Ellie","Cox, Maddie",,,,0,0,26,25,"[Anvekar, Leela] Kill by Benedict, Ellie (from Cox, Maddie).",NYU,ITH
+2,52,51,NYU,attack,kill,ITH,"Cox, Maddie","Weider, Ella","Drust, Dominique",,,,0,0,26,26,"[Cox, Maddie] Kill by Weider, Ella (from Drust, Dominique).",NYU,ITH
+2,53,52,NYU,attack,kill,NYU,"Launsbach, Ava","Odum, Taylor","Drust, Dominique",,,,0,0,26,27,"[Launsbach, Ava] Kill by Odum, Taylor (from Drust, Dominique).",NYU,ITH
+2,54,53,NYU,error,attack_error,NYU,"Launsbach, Ava","Sabatier, Faith","Cox, Maddie",,"Sabatier, Faith",,0,0,26,28,"[Launsbach, Ava] Attack error by Sabatier, Faith (from Cox, Maddie).",NYU,ITH
+3,1,0,NYU,attack,kill,NYU,"Launsbach, Ava","Nelson, Grace","Launsbach, Ava",,,,0,1,0,1,"[Launsbach, Ava] Kill by Nelson, Grace (from Launsbach, Ava).",NYU,ITH
+3,2,1,ITH,error,service_error,NYU,"Launsbach, Ava",,,,"Launsbach, Ava",,0,0,1,1,"[Launsbach, Ava] Service error.",NYU,ITH
+3,3,2,NYU,attack,kill,ITH,"Graper, Ella","Nelson, Grace","Launsbach, Ava",,,,0,0,1,2,"[Graper, Ella] Kill by Nelson, Grace (from Launsbach, Ava).",NYU,ITH
+3,4,3,ITH,attack,kill,NYU,"Nelson, Grace","Sabatier, Faith","Cox, Maddie",,,,0,0,2,2,"[Nelson, Grace] Kill by Sabatier, Faith (from Cox, Maddie).",NYU,ITH
+3,5,4,NYU,block,attack_error,ITH,"Miller, Peyton","Gonzalez-Abreu, Gabriela",,"Pasmooij, Eveliena","Gonzalez-Abreu, Gabriela",,0,1,2,3,"[Miller, Peyton] Attack error by Gonzalez-Abreu, Gabriela (block by Pasmooij, Eveliena).",NYU,ITH
+3,6,5,NYU,attack,kill,NYU,"Hirano, Lindsey","Anvekar, Leela","Launsbach, Ava",,,,0,0,2,4,"[Hirano, Lindsey] Kill by Anvekar, Leela (from Launsbach, Ava).",NYU,ITH
+3,7,6,ITH,attack,kill,NYU,"Hirano, Lindsey","Koopman, Jamie","Cox, Maddie",,,,0,0,3,4,"[Hirano, Lindsey] Kill by Koopman, Jamie (from Cox, Maddie).",NYU,ITH
+3,8,7,NYU,error,service_error,ITH,"Gonzalez-Abreu, Gabriela ",,,,"Gonzalez-Abreu, Gabriela ",,0,0,3,5,"[Gonzalez-Abreu, Gabriela ] Service error.",NYU,ITH
+3,9,8,NYU,error,attack_error,NYU,"Drust, Dominique","Koopman, Jamie","Costa, Julia",,"Koopman, Jamie",,0,1,3,6,"[Drust, Dominique] Attack error by Koopman, Jamie (from Costa, Julia).",NYU,ITH
+3,10,9,ITH,attack,kill,NYU,"Drust, Dominique","Koopman, Jamie","Cox, Maddie",,,,0,0,4,6,"[Drust, Dominique] Kill by Koopman, Jamie (from Cox, Maddie).",NYU,ITH
+3,11,10,NYU,error,attack_error,ITH,"Klemm, Samantha","Montgomery, Alexandra","Cox, Maddie",,"Montgomery, Alexandra",,0,1,4,7,"[Klemm, Samantha] Attack error by Montgomery, Alexandra (from Cox, Maddie).",NYU,ITH
+3,12,11,ITH,error,service_error,NYU,"Holz, Haley",,,,"Holz, Haley",,0,0,5,7,"[Holz, Haley] Service error.",NYU,ITH
+3,13,12,NYU,attack,kill,ITH,"Cox, Maddie","Weider, Ella","Drust, Dominique",,,,0,0,5,8,"[Cox, Maddie] Kill by Weider, Ella (from Drust, Dominique).",NYU,ITH
+3,14,13,ITH,attack,kill,NYU,"Anvekar, Leela","Sabatier, Faith","Costa, Julia",,,,0,0,6,8,"[Anvekar, Leela] Kill by Sabatier, Faith (from Costa, Julia).",NYU,ITH
+3,15,14,ITH,attack,kill,ITH,"Benedict, Ellie","Sabatier, Faith","Costa, Julia",,,,0,0,7,8,"[Benedict, Ellie] Kill by Sabatier, Faith (from Costa, Julia).",NYU,ITH
+3,16,15,NYU,attack,kill,ITH,"Benedict, Ellie","Nelson, Grace","Drust, Dominique",,,,0,0,7,9,"[Benedict, Ellie] Kill by Nelson, Grace (from Drust, Dominique).",NYU,ITH
+3,17,16,ITH,attack,kill,NYU,"Launsbach, Ava","Sabatier, Faith","Cox, Maddie",,,,0,0,8,9,"[Launsbach, Ava] Kill by Sabatier, Faith (from Cox, Maddie).",NYU,ITH
+3,18,17,NYU,attack,kill,ITH,"Graper, Ella","Nelson, Grace","Hirano, Lindsey",,,,0,0,8,10,"[Graper, Ella] Kill by Nelson, Grace (from Hirano, Lindsey).",NYU,ITH
+3,19,18,ITH,error,service_error,NYU,"Nelson, Grace",,,,"Nelson, Grace",,0,0,9,10,"[Nelson, Grace] Service error.",NYU,ITH
+3,20,19,NYU,attack,kill,ITH,"Miller, Peyton","Odum, Taylor","Launsbach, Ava",,,,0,0,9,11,"[Miller, Peyton] Kill by Odum, Taylor (from Launsbach, Ava).",NYU,ITH
+3,21,20,NYU,block,attack_error,NYU,"Hirano, Lindsey","Gonzalez-Abreu, Gabriela",,"Anvekar, Leela","Gonzalez-Abreu, Gabriela",,0,0,9,12,"[Hirano, Lindsey] Attack error by Gonzalez-Abreu, Gabriela (block by Anvekar, Leela).",NYU,ITH
+3,22,21,NYU,attack,kill,NYU,"Hirano, Lindsey","Holz, Haley","Weider, Ella",,,,0,0,9,13,"[Hirano, Lindsey] Kill by Holz, Haley (from Weider, Ella).",NYU,ITH
+3,23,22,ITH,attack,kill,NYU,"Hirano, Lindsey","Montgomery, Alexandra","Cox, Maddie",,,,0,1,10,13,"[Hirano, Lindsey] Kill by Montgomery, Alexandra (from Cox, Maddie).",NYU,ITH
+3,24,23,ITH,attack,kill,ITH,"Klemm, Samantha","Montgomery, Alexandra","Cox, Maddie",,,,0,0,11,13,"[Klemm, Samantha] Kill by Montgomery, Alexandra (from Cox, Maddie).",NYU,ITH
+3,25,24,NYU,block,attack_error,ITH,"Klemm, Samantha","Koopman, Jamie",,"Anvekar, Leela; Odum, Taylor","Koopman, Jamie",,0,0,11,14,"[Klemm, Samantha] Attack error by Koopman, Jamie (block by Anvekar, Leela; Odum, Taylor).",NYU,ITH
+3,26,25,NYU,attack,kill,NYU,"Drust, Dominique","Anvekar, Leela","Drust, Dominique",,,,0,0,11,15,"[Drust, Dominique] Kill by Anvekar, Leela (from Drust, Dominique).",NYU,ITH
+3,27,26,ITH,error,service_error,NYU,"Drust, Dominique",,,,"Drust, Dominique",,0,0,12,15,"[Drust, Dominique] Service error.",NYU,ITH
+3,28,27,ITH,attack,kill,ITH,"Costa, Julia","Klemm, Samantha","Cox, Maddie",,,,0,0,13,15,"[Costa, Julia] Kill by Klemm, Samantha (from Cox, Maddie).",NYU,ITH
+3,29,28,ITH,ace,service_ace,ITH,"Costa, Julia",,,,,"Hirano, Lindsey",0,0,14,15,"[Costa, Julia] Service ace (Hirano, Lindsey).",NYU,ITH
+3,30,29,NYU,attack,kill,ITH,"Costa, Julia","Holz, Haley","Drust, Dominique",,,,0,0,14,16,"[Costa, Julia] Kill by Holz, Haley (from Drust, Dominique).",NYU,ITH
+3,31,30,NYU,error,attack_error,NYU,"Holz, Haley","Montgomery, Alexandra","Cox, Maddie",,"Montgomery, Alexandra",,0,0,14,17,"[Holz, Haley] Attack error by Montgomery, Alexandra (from Cox, Maddie).",NYU,ITH
+3,32,31,ITH,error,ball_handling_error,NYU,"Holz, Haley",,,,"Hirano, Lindsey",,0,0,15,17,"[Holz, Haley] Bad set by Hirano, Lindsey.",NYU,ITH
+3,33,32,ITH,error,attack_error,ITH,"Cox, Maddie","Anvekar, Leela","Drust, Dominique",,"Anvekar, Leela",,0,0,16,17,"[Cox, Maddie] Attack error by Anvekar, Leela (from Drust, Dominique).",NYU,ITH
+3,34,33,ITH,block,attack_error,ITH,"Cox, Maddie","Anvekar, Leela",,"Montgomery, Alexandra","Anvekar, Leela",,0,0,17,17,"[Cox, Maddie] Attack error by Anvekar, Leela (block by Montgomery, Alexandra).",NYU,ITH
+3,35,34,ITH,block,attack_error,ITH,"Cox, Maddie","Drust, Dominique",,"Graper, Ella","Drust, Dominique",,0,0,18,17,"[Cox, Maddie] Attack error by Drust, Dominique (block by Graper, Ella).",NYU,ITH
+3,36,35,NYU,attack,kill,ITH,"Cox, Maddie","Nelson, Grace","Drust, Dominique",,,,0,0,18,18,"[Cox, Maddie] Kill by Nelson, Grace (from Drust, Dominique).",NYU,ITH
+3,37,36,NYU,attack,kill,NYU,"Anvekar, Leela","Nelson, Grace","Drust, Dominique",,,,0,0,18,19,"[Anvekar, Leela] Kill by Nelson, Grace (from Drust, Dominique).",NYU,ITH
+3,38,37,ITH,attack,kill,NYU,"Anvekar, Leela","Graper, Ella","Cox, Maddie",,,,0,0,19,19,"[Anvekar, Leela] Kill by Graper, Ella (from Cox, Maddie).",NYU,ITH
+3,39,38,ITH,error,attack_error,ITH,"Benedict, Ellie","Nelson, Grace","Drust, Dominique",,"Nelson, Grace",,0,0,20,19,"[Benedict, Ellie] Attack error by Nelson, Grace (from Drust, Dominique).",NYU,ITH
+3,40,39,NYU,error,service_error,ITH,"Benedict, Ellie",,,,"Benedict, Ellie",,0,0,20,20,"[Benedict, Ellie] Service error.",NYU,ITH
+3,41,40,ITH,error,service_error,NYU,"Launsbach, Ava",,,,"Launsbach, Ava",,0,0,21,20,"[Launsbach, Ava] Service error.",NYU,ITH
+3,42,41,NYU,attack,kill,ITH,"Graper, Ella","Odum, Taylor","Launsbach, Ava",,,,0,0,21,21,"[Graper, Ella] Kill by Odum, Taylor (from Launsbach, Ava).",NYU,ITH
+3,43,42,ITH,attack,kill,NYU,"Nelson, Grace","Sabatier, Faith","Cox, Maddie",,,,0,0,22,21,"[Nelson, Grace] Kill by Sabatier, Faith (from Cox, Maddie).",NYU,ITH
+3,44,43,NYU,block,attack_error,ITH,"Miller, Peyton","Clauhs, Naomi",,"Pasmooij, Eveliena","Clauhs, Naomi",,0,0,22,22,"[Miller, Peyton] Attack error by Clauhs, Naomi (block by Pasmooij, Eveliena).",NYU,ITH
+3,45,44,NYU,error,attack_error,NYU,"Hirano, Lindsey","Clauhs, Naomi","Cox, Maddie",,"Clauhs, Naomi",,0,0,22,23,"[Hirano, Lindsey] Attack error by Clauhs, Naomi (from Cox, Maddie).",NYU,ITH
+3,46,45,ITH,attack,kill,NYU,"Hirano, Lindsey","Koopman, Jamie","Cox, Maddie",,,,0,0,23,23,"[Hirano, Lindsey] Kill by Koopman, Jamie (from Cox, Maddie).",NYU,ITH
+3,47,46,NYU,attack,kill,ITH,"Clauhs, Naomi ","Holz, Haley","Launsbach, Ava",,,,0,0,23,24,"[Clauhs, Naomi ] Kill by Holz, Haley (from Launsbach, Ava).",NYU,ITH
+3,48,47,NYU,ace,service_ace,NYU,"Drust, Dominique",,,,,"Costa, Julia",0,0,23,25,"[Drust, Dominique] Service ace (Costa, Julia).",NYU,ITH

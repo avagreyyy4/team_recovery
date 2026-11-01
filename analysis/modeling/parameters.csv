@@ -1,0 +1,33 @@
+game_id,home_team,left_team_start,teams_switch,camera_static,number_sets, set_five_left_start
+Calvin_v_Hope,Hope,Hope,FALSE,FALSE,5, Hope
+Trinity_v_HSU,Trinity,Trinity,TRUE,TRUE,4, NA
+Berry_v_Emory, Emory, Emory, TRUE, TRUE, 4, NA
+Trinity_v_ETBU, Trinity, Trinity, TRUE, TRUE, 4, NA
+Ithaca_vs_WS, Ithaca, Ithaca, TRUE, TRUE, 5, WS
+Bridgewater_v_Washington,Bridgewater,Washington,TRUE,FALSE,4, NA
+Hope_v_Denison,Hope,Hope,TRUE,FALSE,4, NA
+MCLA_v_Framingham,MCLA,Framingham,TRUE,TRUE,5, MCLA
+Smith_v_NYU, Smith, Smith, TRUE, TRUE, 3, NA
+Ithaca_v_WS_reg, Ithaca, Ithaca, TRUE, TRUE, 5, WS
+NYU_v_Swarthmore, NYU, NYU, TRUE, TRUE, 4, NA
+Ithaca_v_Clarkson, Ithaca, Ithaca, TRUE, TRUE, 4, NA
+Bluffton_v_Transylvania, Bluffton, Bluffton, TRUE, TRUE, 4, NA
+Adrian_vs_Oberlin, Adrian, Oberline, FALSE, TRUE, 4, NA
+Wesleyan_v_Bowdoin, Bowdoin, Wesleyan, TRUE, TRUE, 4, NA
+TexasLutheran_v_CalLutheran, Cal Lutheran, Texas Lutheran, FALSE, TRUE, 5, NA
+Wittenberg_v_Transylvania, Wittenberg, Wittenberg, TRUE, TRUE, 4, NA
+MSJ_v_Transylvania, MSJ, Transylvania, TRUE, FALSE, 4, NA
+Emory_v_ColoradoCollege, Emory, Emory, TRUE, TRUE, 4, NA
+Emory_v_Wittenberg, Emory, Emory, TRUE, TRUE, 5, Wittenberg
+Emory_v_Transylvania, Emory, Emory, TRUE, TRUE, 4, NA
+TexasLutheran_v_AustinCollege, Austin, Texas Lutheran, TRUE, FALSE, 4, NA
+SouthwesternUniversity_v_LaVerne, LaVerne, LaVerne, TRUE, TRUE, 4, NA
+NYU_v_Eastern, NYU, Eastern, TRUE, TRUE, 4, NA
+Ithaca_v_NYU, Ithaca, Ithaca, TRUE, TRUE, 3, NA
+Emory_v_Berry_2019, Emory, Emory, TRUE, TRUE, 3, NA
+Emory_v_Susquehanna, Emory, Emory, TRUE, TRUE, 5, Susquehanna
+UnionCollege_v_WS, Union, Union, TRUE, TRUE, 3, NA
+Hope_v_Albion, Hope, Hope, FALSE, FALSE, 3, NA
+Hope_v_Trine, Hope, Hope, FALSE, FALSE, 3, NA
+Ithaca_v_WilliamPaterson, Ithaca, Ithaca, TRUE, TRUE, 4, NA
+Swarthmore_v_Smith, Swarthmore, Swarthmore, TRUE, TRUE, 4, NA

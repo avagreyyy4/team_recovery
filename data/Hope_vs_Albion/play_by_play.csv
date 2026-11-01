@@ -1,0 +1,131 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,Albion,error,attack_error,Hope,"Grunewald, Ana","Otto, McKenna",,,"Otto, McKenna",,0,0,1,0,"[Grunewald, Ana] Attack error by Otto, McKenna.",Hope,Albion
+1,2,1,Albion,error,attack_error,Albion,"Nicholson, Kaylynne","Thompson, Rose",,,"Thompson, Rose",,0,0,2,0,"[Nicholson, Kaylynne] Attack error by Thompson, Rose.",Hope,Albion
+1,3,2,Hope,error,ball_handling_error,Albion,"Nicholson, Kaylynne",,,,"VanDorn, Grace",,0,0,2,1,"[Nicholson, Kaylynne] Ball handling error by VanDorn, Grace.",Hope,Albion
+1,4,3,Hope,error,attack_error,Hope,"Pettinger, Grace","Alexander, Olivia",,,"Alexander, Olivia",,0,1,2,2,"[Pettinger, Grace] Attack error by Alexander, Olivia.",Hope,Albion
+1,5,4,Albion,attack,kill,Hope,"Pettinger, Grace","Winter, Kate","VanDorn, Grace",,,,0,0,3,2,"[Pettinger, Grace] Kill by Winter, Kate (from VanDorn, Grace).",Hope,Albion
+1,6,5,Hope,attack,kill,Albion,"Khoury, Jenna","Otto, McKenna","Westra, Tracy",,,,0,0,3,3,"[Khoury, Jenna] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Albion
+1,7,6,Albion,attack,kill,Hope,"Thompson, Rose","Webber, Chloe","VanDorn, Grace",,,,0,0,4,3,"[Thompson, Rose] Kill by Webber, Chloe (from VanDorn, Grace).",Hope,Albion
+1,8,7,Hope,attack,kill,Albion,"Smith, Ava","Ligon, Molly","Westra, Tracy",,,,0,1,4,4,"[Smith, Ava] Kill by Ligon, Molly (from Westra, Tracy).",Hope,Albion
+1,9,8,Albion,attack,kill,Hope,"Otto, McKenna","Alexander, Olivia","Brenz, Mariah",,,,0,0,5,4,"[Otto, McKenna] Kill by Alexander, Olivia (from Brenz, Mariah).",Hope,Albion
+1,10,9,Hope,attack,kill,Albion,"Haley, Kameron","Grunewald, Ana","Westra, Tracy",,,,0,1,5,5,"[Haley, Kameron] Kill by Grunewald, Ana (from Westra, Tracy).",Hope,Albion
+1,11,10,Hope,error,attack_error,Hope,"Cutler, Adair","Nicholson, Kaylynne",,,"Nicholson, Kaylynne",,0,0,5,6,"[Cutler, Adair] Attack error by Nicholson, Kaylynne.",Hope,Albion
+1,12,11,Hope,error,attack_error,Hope,"Cutler, Adair","Nicholson, Kaylynne",,,"Nicholson, Kaylynne",,0,0,5,7,"[Cutler, Adair] Attack error by Nicholson, Kaylynne.",Hope,Albion
+1,13,12,Albion,attack,kill,Hope,"Cutler, Adair","Nicholson, Kaylynne",,,,,0,0,6,7,"[Cutler, Adair] Kill by Nicholson, Kaylynne.",Hope,Albion
+1,14,13,Albion,ace,service_ace,Albion,"Webber, Chloe",,,,,"Wehrmeyer, Maggie",0,0,7,7,"[Webber, Chloe] Service ace (Wehrmeyer, Maggie).",Hope,Albion
+1,15,14,Albion,ace,service_ace,Albion,"Webber, Chloe",,,,,"Grunewald, Ana",0,0,8,7,"[Webber, Chloe] Service ace (Grunewald, Ana).",Hope,Albion
+1,16,15,Hope,attack,kill,Albion,"Webber, Chloe","Brecht, Charlotte","Cutler, Adair",,,,0,0,8,8,"[Webber, Chloe] Kill by Brecht, Charlotte (from Cutler, Adair).",Hope,Albion
+1,17,16,Albion,attack,kill,Hope,"Wehrmeyer, Maggie","Brenz, Mariah","Haley, Kameron",,,,0,0,9,8,"[Wehrmeyer, Maggie] Kill by Brenz, Mariah (from Haley, Kameron).",Hope,Albion
+1,18,17,Albion,block,attack_error,Albion,"Brenz, Mariah","Grunewald, Ana",,"Hepner, Jesse; Winter, Kate","Grunewald, Ana",,0,0,10,8,"[Brenz, Mariah] Attack error by Grunewald, Ana (block by Hepner, Jesse; Winter, Kate).",Hope,Albion
+1,19,18,Hope,attack,kill,Albion,"Brenz, Mariah","Thompson, Rose","Wehrmeyer, Maggie",,,,0,0,10,9,"[Brenz, Mariah] Kill by Thompson, Rose (from Wehrmeyer, Maggie).",Hope,Albion
+1,20,19,Hope,attack,kill,Hope,"Grunewald, Ana","Thompson, Rose","Cutler, Adair",,,,0,0,10,10,"[Grunewald, Ana] Kill by Thompson, Rose (from Cutler, Adair).",Hope,Albion
+1,21,20,Hope,block,attack_error,Hope,"Grunewald, Ana","Winter, Kate",,"Otto, McKenna; Brecht, Charlotte","Winter, Kate",,0,0,10,11,"[Grunewald, Ana] Attack error by Winter, Kate (block by Otto, McKenna; Brecht, Charlotte).",Hope,Albion
+1,22,21,Hope,block,attack_error,Hope,"Grunewald, Ana","Nicholson, Kaylynne",,"Brecht, Charlotte; Thompson, Rose","Nicholson, Kaylynne",,0,0,10,12,"[Grunewald, Ana] Attack error by Nicholson, Kaylynne (block by Brecht, Charlotte; Thompson, Rose).",Hope,Albion
+1,23,22,Albion,attack,kill,Hope,"Grunewald, Ana","Winter, Kate","VanDorn, Grace",,,,0,0,11,12,"[Grunewald, Ana] Kill by Winter, Kate (from VanDorn, Grace).",Hope,Albion
+1,24,23,Hope,attack,kill,Albion,"Nicholson, Kaylynne","Brecht, Charlotte","Westra, Tracy",,,,0,0,11,13,"[Nicholson, Kaylynne] Kill by Brecht, Charlotte (from Westra, Tracy).",Hope,Albion
+1,25,24,Hope,ace,service_ace,Hope,"Pettinger, Grace",,,,,"Nicholson, Kaylynne",0,0,11,14,"[Pettinger, Grace] Service ace (Nicholson, Kaylynne).",Hope,Albion
+1,26,25,Albion,error,service_error,Hope,"Pettinger, Grace",,,,"Pettinger, Grace",,0,0,12,14,"[Pettinger, Grace] Service error.",Hope,Albion
+1,27,26,Hope,error,service_error,Albion,"Khoury, Jenna",,,,"Khoury, Jenna",,0,0,12,15,"[Khoury, Jenna] Service error.",Hope,Albion
+1,28,27,Albion,attack,kill,Hope,"Poland, Sasha","Webber, Chloe","VanDorn, Grace",,,,0,1,13,15,"[Poland, Sasha] Kill by Webber, Chloe (from VanDorn, Grace).",Hope,Albion
+1,29,28,Hope,attack,kill,Albion,"Smith, Ava","Ligon, Molly","Westra, Tracy",,,,0,0,13,16,"[Smith, Ava] Kill by Ligon, Molly (from Westra, Tracy).",Hope,Albion
+1,30,29,Albion,attack,kill,Hope,"Otto, McKenna","Webber, Chloe","Brenz, Mariah",,,,0,0,14,16,"[Otto, McKenna] Kill by Webber, Chloe (from Brenz, Mariah).",Hope,Albion
+1,31,30,Hope,error,attack_error,Albion,"Haley, Kameron","Webber, Chloe",,,"Webber, Chloe",,0,0,14,17,"[Haley, Kameron] Attack error by Webber, Chloe.",Hope,Albion
+1,32,31,Albion,error,attack_error,Hope,"Westra, Tracy","Grunewald, Ana",,,"Grunewald, Ana",,0,0,15,17,"[Westra, Tracy] Attack error by Grunewald, Ana.",Hope,Albion
+1,33,32,Hope,attack,kill,Albion,"Webber, Chloe","Ligon, Molly","Westra, Tracy",,,,0,0,15,18,"[Webber, Chloe] Kill by Ligon, Molly (from Westra, Tracy).",Hope,Albion
+1,34,33,Albion,block,attack_error,Hope,"Wehrmeyer, Maggie","Otto, McKenna",,"Hepner, Jesse","Otto, McKenna",,0,0,16,18,"[Wehrmeyer, Maggie] Attack error by Otto, McKenna (block by Hepner, Jesse).",Hope,Albion
+1,35,34,Albion,ace,service_ace,Albion,"Brenz, Mariah",,,,,"Grunewald, Ana",0,0,17,18,"[Brenz, Mariah] Service ace (Grunewald, Ana).",Hope,Albion
+1,36,35,Hope,attack,kill,Albion,"Brenz, Mariah","Grunewald, Ana","Westra, Tracy",,,,0,0,17,19,"[Brenz, Mariah] Kill by Grunewald, Ana (from Westra, Tracy).",Hope,Albion
+1,37,36,Albion,error,service_error,Hope,"Grunewald, Ana",,,,"Grunewald, Ana",,0,0,18,19,"[Grunewald, Ana] Service error.",Hope,Albion
+1,38,37,Albion,error,attack_error,Albion,"Nicholson, Kaylynne","Otto, McKenna",,,"Otto, McKenna",,0,0,19,19,"[Nicholson, Kaylynne] Attack error by Otto, McKenna.",Hope,Albion
+1,39,38,Hope,error,service_error,Albion,"Nicholson, Kaylynne",,,,"Nicholson, Kaylynne",,0,0,19,20,"[Nicholson, Kaylynne] Service error.",Hope,Albion
+1,40,39,Albion,attack,kill,Hope,"Pettinger, Grace","Alexander, Olivia","VanDorn, Grace",,,,0,0,20,20,"[Pettinger, Grace] Kill by Alexander, Olivia (from VanDorn, Grace).",Hope,Albion
+1,41,40,Albion,block,attack_error,Albion,"Khoury, Jenna","Thompson, Rose",,"Winter, Kate; Webber, Chloe","Thompson, Rose",,0,0,21,20,"[Khoury, Jenna] Attack error by Thompson, Rose (block by Winter, Kate; Webber, Chloe).",Hope,Albion
+1,42,41,Hope,attack,kill,Albion,"Khoury, Jenna","Otto, McKenna","Westra, Tracy",,,,0,0,21,21,"[Khoury, Jenna] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Albion
+1,43,42,Albion,attack,kill,Hope,"Thompson, Rose","Winter, Kate","VanDorn, Grace",,,,0,0,22,21,"[Thompson, Rose] Kill by Winter, Kate (from VanDorn, Grace).",Hope,Albion
+1,44,43,Hope,error,attack_error,Albion,"Smith, Ava","Webber, Chloe",,,"Webber, Chloe",,0,0,22,22,"[Smith, Ava] Attack error by Webber, Chloe.",Hope,Albion
+1,45,44,Hope,ace,service_ace,Hope,"Otto, McKenna",,,,,"Khoury, Jenna",0,0,22,23,"[Otto, McKenna] Service ace (Khoury, Jenna).",Hope,Albion
+1,46,45,Albion,attack,kill,Hope,"Otto, McKenna","Webber, Chloe","Brenz, Mariah",,,,1,0,23,23,"[Otto, McKenna] Kill by Webber, Chloe (from Brenz, Mariah).",Hope,Albion
+1,47,46,Hope,attack,kill,Albion,"Alexander, Olivia","Grunewald, Ana","Westra, Tracy",,,,0,0,23,24,"[Alexander, Olivia] Kill by Grunewald, Ana (from Westra, Tracy).",Hope,Albion
+2,1,0,Hope,attack,kill,Albion,"VanDorn, Grace","Brecht, Charlotte","Westra, Tracy",,,,0,0,0,1,"[VanDorn, Grace] Kill by Brecht, Charlotte (from Westra, Tracy).",Hope,Albion
+2,2,1,Hope,error,attack_error,Hope,"Grunewald, Ana","Hepner, Jesse",,,"Hepner, Jesse",,0,0,0,2,"[Grunewald, Ana] Attack error by Hepner, Jesse.",Hope,Albion
+2,3,2,Albion,attack,kill,Hope,"Grunewald, Ana","Winter, Kate","VanDorn, Grace",,,,0,0,1,2,"[Grunewald, Ana] Kill by Winter, Kate (from VanDorn, Grace).",Hope,Albion
+2,4,3,Hope,error,service_error,Albion,"Nicholson, Kaylynne",,,,"Nicholson, Kaylynne",,0,0,1,3,"[Nicholson, Kaylynne] Service error.",Hope,Albion
+2,5,4,Albion,attack,kill,Hope,"Pettinger, Grace","Alexander, Olivia","VanDorn, Grace",,,,0,1,2,3,"[Pettinger, Grace] Kill by Alexander, Olivia (from VanDorn, Grace).",Hope,Albion
+2,6,5,Hope,attack,kill,Albion,"Khoury, Jenna","Grunewald, Ana","Grunewald, Ana",,,,0,0,2,4,"[Khoury, Jenna] Kill by Grunewald, Ana (from Grunewald, Ana).",Hope,Albion
+2,7,6,Albion,block,attack_error,Hope,"Poland, Sasha","Otto, McKenna",,"Webber, Chloe","Otto, McKenna",,0,1,3,4,"[Poland, Sasha] Attack error by Otto, McKenna (block by Webber, Chloe).",Hope,Albion
+2,8,7,Albion,attack,kill,Albion,"Smith, Ava","Webber, Chloe","Brenz, Mariah",,,,0,1,4,4,"[Smith, Ava] Kill by Webber, Chloe (from Brenz, Mariah).",Hope,Albion
+2,9,8,Albion,error,ball_handling_error,Albion,"Smith, Ava",,,,"Westra, Tracy",,0,0,5,4,"[Smith, Ava] Ball handling error by Westra, Tracy.",Hope,Albion
+2,10,9,Albion,attack,kill,Albion,"Smith, Ava","Webber, Chloe","Brenz, Mariah",,,,0,0,6,4,"[Smith, Ava] Kill by Webber, Chloe (from Brenz, Mariah).",Hope,Albion
+2,11,10,Hope,attack,kill,Albion,"Smith, Ava","Otto, McKenna","Westra, Tracy",,,,0,0,6,5,"[Smith, Ava] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Albion
+2,12,11,Albion,attack,kill,Hope,"Otto, McKenna","Brenz, Mariah","Khoury, Jenna",,,,0,0,7,5,"[Otto, McKenna] Kill by Brenz, Mariah (from Khoury, Jenna).",Hope,Albion
+2,13,12,Albion,error,attack_error,Albion,"Haley, Kameron","Grunewald, Ana",,,"Grunewald, Ana",,0,1,8,5,"[Haley, Kameron] Attack error by Grunewald, Ana.",Hope,Albion
+2,14,13,Hope,error,service_error,Albion,"Haley, Kameron",,,,"Haley, Kameron",,0,0,8,6,"[Haley, Kameron] Service error.",Hope,Albion
+2,15,14,Albion,error,service_error,Hope,"Westra, Tracy",,,,"Westra, Tracy",,0,0,9,6,"[Westra, Tracy] Service error.",Hope,Albion
+2,16,15,Hope,attack,kill,Albion,"Webber, Chloe","Brecht, Charlotte","Westra, Tracy",,,,0,0,9,7,"[Webber, Chloe] Kill by Brecht, Charlotte (from Westra, Tracy).",Hope,Albion
+2,17,16,Hope,block,attack_error,Hope,"Wehrmeyer, Maggie","Hepner, Jesse",,"Brecht, Charlotte","Hepner, Jesse",,0,0,9,8,"[Wehrmeyer, Maggie] Attack error by Hepner, Jesse (block by Brecht, Charlotte).",Hope,Albion
+2,18,17,Albion,attack,kill,Hope,"Wehrmeyer, Maggie","Brenz, Mariah","Nicholson, Kaylynne",,,,0,0,10,8,"[Wehrmeyer, Maggie] Kill by Brenz, Mariah (from Nicholson, Kaylynne).",Hope,Albion
+2,19,18,Hope,attack,kill,Albion,"Brenz, Mariah","Brecht, Charlotte","Westra, Tracy",,,,0,0,10,9,"[Brenz, Mariah] Kill by Brecht, Charlotte (from Westra, Tracy).",Hope,Albion
+2,20,19,Albion,error,attack_error,Hope,"Grunewald, Ana","Thompson, Rose",,,"Thompson, Rose",,0,0,11,9,"[Grunewald, Ana] Attack error by Thompson, Rose.",Hope,Albion
+2,21,20,Hope,attack,kill,Albion,"Nicholson, Kaylynne","Otto, McKenna","Westra, Tracy",,,,0,0,11,10,"[Nicholson, Kaylynne] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Albion
+2,22,21,Albion,attack,kill,Hope,"Pettinger, Grace","Alexander, Olivia","VanDorn, Grace",,,,0,0,12,10,"[Pettinger, Grace] Kill by Alexander, Olivia (from VanDorn, Grace).",Hope,Albion
+2,23,22,Hope,attack,kill,Albion,"Khoury, Jenna","Otto, McKenna","Westra, Tracy",,,,0,0,12,11,"[Khoury, Jenna] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Albion
+2,24,23,Hope,attack,kill,Hope,"Poland, Sasha","Otto, McKenna","Westra, Tracy",,,,0,0,12,12,"[Poland, Sasha] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Albion
+2,25,24,Hope,block,attack_error,Hope,"Poland, Sasha","Alexander, Olivia",,"Thompson, Rose; Otto, McKenna","Alexander, Olivia",,0,0,12,13,"[Poland, Sasha] Attack error by Alexander, Olivia (block by Thompson, Rose; Otto, McKenna).",Hope,Albion
+2,26,25,Hope,attack,kill,Hope,"Poland, Sasha","Ligon, Molly","Westra, Tracy",,,,0,0,12,14,"[Poland, Sasha] Kill by Ligon, Molly (from Westra, Tracy).",Hope,Albion
+2,27,26,Albion,attack,kill,Hope,"Poland, Sasha","Alexander, Olivia","VanDorn, Grace",,,,1,0,13,14,"[Poland, Sasha] Kill by Alexander, Olivia (from VanDorn, Grace).",Hope,Albion
+2,28,27,Albion,attack,kill,Albion,"Smith, Ava","Webber, Chloe",,,,,0,0,14,14,"[Smith, Ava] Kill by Webber, Chloe.",Hope,Albion
+2,29,28,Hope,attack,kill,Albion,"Smith, Ava","Westra, Tracy","Pettinger, Grace",,,,0,0,14,15,"[Smith, Ava] Kill by Westra, Tracy (from Pettinger, Grace).",Hope,Albion
+2,30,29,Albion,error,service_error,Hope,"Otto, McKenna",,,,"Otto, McKenna",,0,0,15,15,"[Otto, McKenna] Service error.",Hope,Albion
+2,31,30,Hope,attack,kill,Albion,"Haley, Kameron","Grunewald, Ana","Westra, Tracy",,,,0,0,15,16,"[Haley, Kameron] Kill by Grunewald, Ana (from Westra, Tracy).",Hope,Albion
+2,32,31,Albion,attack,kill,Hope,"Westra, Tracy","Webber, Chloe","Brenz, Mariah",,,,0,0,16,16,"[Westra, Tracy] Kill by Webber, Chloe (from Brenz, Mariah).",Hope,Albion
+2,33,32,Hope,attack,kill,Albion,"Webber, Chloe","Brecht, Charlotte","Westra, Tracy",,,,0,0,16,17,"[Webber, Chloe] Kill by Brecht, Charlotte (from Westra, Tracy).",Hope,Albion
+2,34,33,Hope,attack,kill,Hope,"Wehrmeyer, Maggie","Grunewald, Ana","Westra, Tracy",,,,0,0,16,18,"[Wehrmeyer, Maggie] Kill by Grunewald, Ana (from Westra, Tracy).",Hope,Albion
+2,35,34,Hope,block,attack_error,Hope,"Wehrmeyer, Maggie","Nicholson, Kaylynne",,"Thompson, Rose; Brecht, Charlotte","Nicholson, Kaylynne",,0,0,16,19,"[Wehrmeyer, Maggie] Attack error by Nicholson, Kaylynne (block by Thompson, Rose; Brecht, Charlotte).",Hope,Albion
+2,36,35,Hope,attack,kill,Hope,"Wehrmeyer, Maggie","Otto, McKenna","Westra, Tracy",,,,0,0,16,20,"[Wehrmeyer, Maggie] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Albion
+2,37,36,Albion,attack,kill,Hope,"Wehrmeyer, Maggie","Hepner, Jesse","Brenz, Mariah",,,,1,0,17,20,"[Wehrmeyer, Maggie] Kill by Hepner, Jesse (from Brenz, Mariah).",Hope,Albion
+2,38,37,Albion,error,attack_error,Albion,"Brenz, Mariah","Brecht, Charlotte",,,"Brecht, Charlotte",,0,0,18,20,"[Brenz, Mariah] Attack error by Brecht, Charlotte.",Hope,Albion
+2,39,38,Hope,error,attack_error,Albion,"Brenz, Mariah","Hepner, Jesse",,,"Hepner, Jesse",,0,0,18,21,"[Brenz, Mariah] Attack error by Hepner, Jesse.",Hope,Albion
+2,40,39,Hope,attack,kill,Hope,"Grunewald, Ana","Otto, McKenna","Westra, Tracy",,,,0,0,18,22,"[Grunewald, Ana] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Albion
+2,41,40,Hope,error,attack_error,Hope,"Grunewald, Ana","Nicholson, Kaylynne",,,"Nicholson, Kaylynne",,0,0,18,23,"[Grunewald, Ana] Attack error by Nicholson, Kaylynne.",Hope,Albion
+2,42,41,Hope,attack,kill,Hope,"Grunewald, Ana","Otto, McKenna","Westra, Tracy",,,,0,0,18,24,"[Grunewald, Ana] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Albion
+2,43,42,Albion,attack,kill,Hope,"Grunewald, Ana","Palmer, Shelby","VanDorn, Grace",,,,0,1,19,24,"[Grunewald, Ana] Kill by Palmer, Shelby (from VanDorn, Grace).",Hope,Albion
+2,44,43,Hope,error,attack_error,Albion,"Palmer, Shelby","Winter, Kate",,,"Winter, Kate",,0,1,19,25,"[Palmer, Shelby] Attack error by Winter, Kate.",Hope,Albion
+3,1,0,Hope,ace,service_ace,Hope,"Grunewald, Ana",,,,,"Haley, Kameron",0,0,0,1,"[Grunewald, Ana] Service ace (Haley, Kameron).",Hope,Albion
+3,2,1,Albion,error,service_error,Hope,"Grunewald, Ana",,,,"Grunewald, Ana",,0,0,1,1,"[Grunewald, Ana] Service error.",Hope,Albion
+3,3,2,Hope,attack,kill,Albion,"Alexander, Olivia","Otto, McKenna","Westra, Tracy",,,,0,1,1,2,"[Alexander, Olivia] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Albion
+3,4,3,Albion,attack,kill,Hope,"Pettinger, Grace","Winter, Kate","VanDorn, Grace",,"Otto, McKenna",,0,1,2,2,"[Pettinger, Grace] Kill by Winter, Kate (from VanDorn, Grace), block error by Otto, McKenna.",Hope,Albion
+3,5,4,Hope,attack,kill,Albion,"Khoury, Jenna","Otto, McKenna","Westra, Tracy",,,,0,0,2,3,"[Khoury, Jenna] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Albion
+3,6,5,Hope,attack,kill,Hope,"Poland, Sasha","Westra, Tracy","Pettinger, Grace",,,,0,1,2,4,"[Poland, Sasha] Kill by Westra, Tracy (from Pettinger, Grace).",Hope,Albion
+3,7,6,Hope,ace,service_ace,Hope,"Poland, Sasha",,,,,"Khoury, Jenna",0,0,2,5,"[Poland, Sasha] Service ace (Khoury, Jenna).",Hope,Albion
+3,8,7,Hope,attack,kill,Hope,"Poland, Sasha","Westra, Tracy","Ligon, Molly",,,,0,0,2,6,"[Poland, Sasha] Kill by Westra, Tracy (from Ligon, Molly).",Hope,Albion
+3,9,8,Albion,error,service_error,Hope,"Poland, Sasha",,,,"Poland, Sasha",,0,0,3,6,"[Poland, Sasha] Service error.",Hope,Albion
+3,10,9,Hope,attack,kill,Albion,"Smith, Ava","Otto, McKenna","Westra, Tracy",,,,0,1,3,7,"[Smith, Ava] Kill by Otto, McKenna (from Westra, Tracy).",Hope,Albion
+3,11,10,Albion,attack,kill,Hope,"Otto, McKenna","Brenz, Mariah","Alexander, Olivia",,,,0,0,4,7,"[Otto, McKenna] Kill by Brenz, Mariah (from Alexander, Olivia).",Hope,Albion
+3,12,11,Hope,attack,kill,Albion,"Haley, Kameron","Ligon, Molly","Westra, Tracy",,,,0,0,4,8,"[Haley, Kameron] Kill by Ligon, Molly (from Westra, Tracy).",Hope,Albion
+3,13,12,Hope,error,attack_error,Hope,"Westra, Tracy","Webber, Chloe",,,"Webber, Chloe",,0,0,4,9,"[Westra, Tracy] Attack error by Webber, Chloe.",Hope,Albion
+3,14,13,Albion,error,service_error,Hope,"Westra, Tracy",,,,"Westra, Tracy",,0,0,5,9,"[Westra, Tracy] Service error.",Hope,Albion
+3,15,14,Hope,attack,kill,Albion,"Webber, Chloe","Grunewald, Ana","Westra, Tracy",,,,0,0,5,10,"[Webber, Chloe] Kill by Grunewald, Ana (from Westra, Tracy).",Hope,Albion
+3,16,15,Hope,attack,kill,Albion,"Brenz, Mariah","Grunewald, Ana","Westra, Tracy",,,,0,0,5,11,"[Brenz, Mariah] Kill by Grunewald, Ana (from Westra, Tracy).",Hope,Albion
+3,17,16,Hope,error,attack_error,Hope,"Grunewald, Ana","Winter, Kate",,,"Winter, Kate",,0,0,5,12,"[Grunewald, Ana] Attack error by Winter, Kate.",Hope,Albion
+3,18,17,Hope,attack,kill,Hope,"Grunewald, Ana","Brecht, Charlotte","Wehrmeyer, Maggie",,,,0,0,5,13,"[Grunewald, Ana] Kill by Brecht, Charlotte (from Wehrmeyer, Maggie).",Hope,Albion
+3,19,18,Hope,block,attack_error,Hope,"Grunewald, Ana","Winter, Kate",,"Otto, McKenna; Brecht, Charlotte","Winter, Kate",,1,0,5,14,"[Grunewald, Ana] Attack error by Winter, Kate (block by Otto, McKenna; Brecht, Charlotte).",Hope,Albion
+3,20,19,Albion,attack,kill,Hope,"Grunewald, Ana","Alexander, Olivia","VanDorn, Grace",,,,0,0,6,14,"[Grunewald, Ana] Kill by Alexander, Olivia (from VanDorn, Grace).",Hope,Albion
+3,21,20,Hope,attack,kill,Albion,"Alexander, Olivia","Thompson, Rose","Westra, Tracy",,,,0,0,6,15,"[Alexander, Olivia] Kill by Thompson, Rose (from Westra, Tracy).",Hope,Albion
+3,22,21,Albion,error,attack_error,Hope,"Pettinger, Grace","Thompson, Rose",,,"Thompson, Rose",,0,0,7,15,"[Pettinger, Grace] Attack error by Thompson, Rose.",Hope,Albion
+3,23,22,Hope,attack,kill,Albion,"Khoury, Jenna","Westra, Tracy","Grunewald, Ana",,,,0,0,7,16,"[Khoury, Jenna] Kill by Westra, Tracy (from Grunewald, Ana).",Hope,Albion
+3,24,23,Albion,error,attack_error,Hope,"Poland, Sasha","Ligon, Molly",,,"Ligon, Molly",,0,0,8,16,"[Poland, Sasha] Attack error by Ligon, Molly.",Hope,Albion
+3,25,24,Albion,error,attack_error,Albion,"Smith, Ava","Ligon, Molly",,,"Ligon, Molly",,0,0,9,16,"[Smith, Ava] Attack error by Ligon, Molly.",Hope,Albion
+3,26,25,Hope,attack,kill,Albion,"Smith, Ava","Ligon, Molly","Westra, Tracy",,,,0,0,9,17,"[Smith, Ava] Kill by Ligon, Molly (from Westra, Tracy).",Hope,Albion
+3,27,26,Hope,block,attack_error,Hope,"Otto, McKenna","Palmer, Shelby",,"Ligon, Molly; Westra, Tracy","Palmer, Shelby",,0,0,9,18,"[Otto, McKenna] Attack error by Palmer, Shelby (block by Ligon, Molly; Westra, Tracy).",Hope,Albion
+3,28,27,Albion,attack,kill,Hope,"Otto, McKenna","Webber, Chloe","Brenz, Mariah",,,,0,0,10,18,"[Otto, McKenna] Kill by Webber, Chloe (from Brenz, Mariah).",Hope,Albion
+3,29,28,Albion,attack,kill,Albion,"Haley, Kameron","Brenz, Mariah","Smith, Ava",,,,0,0,11,18,"[Haley, Kameron] Kill by Brenz, Mariah (from Smith, Ava).",Hope,Albion
+3,30,29,Hope,attack,kill,Albion,"Haley, Kameron","Ligon, Molly","Westra, Tracy",,,,0,0,11,19,"[Haley, Kameron] Kill by Ligon, Molly (from Westra, Tracy).",Hope,Albion
+3,31,30,Hope,attack,kill,Hope,"Westra, Tracy","Brecht, Charlotte","Westra, Tracy",,,,0,0,11,20,"[Westra, Tracy] Kill by Brecht, Charlotte (from Westra, Tracy).",Hope,Albion
+3,32,31,Albion,error,service_error,Hope,"Westra, Tracy",,,,"Westra, Tracy",,1,0,12,20,"[Westra, Tracy] Service error.",Hope,Albion
+3,33,32,Hope,block,attack_error,Albion,"Webber, Chloe","Hepner, Jesse",,"Brecht, Charlotte","Hepner, Jesse",,0,0,12,21,"[Webber, Chloe] Attack error by Hepner, Jesse (block by Brecht, Charlotte).",Hope,Albion
+3,34,33,Albion,attack,kill,Hope,"Wehrmeyer, Maggie","Webber, Chloe",,,,,0,0,13,21,"[Wehrmeyer, Maggie] Kill by Webber, Chloe.",Hope,Albion
+3,35,34,Albion,attack,kill,Albion,"Brenz, Mariah","Hepner, Jesse","Haley, Kameron",,,,0,0,14,21,"[Brenz, Mariah] Kill by Hepner, Jesse (from Haley, Kameron).",Hope,Albion
+3,36,35,Hope,attack,kill,Albion,"Brenz, Mariah","Brecht, Charlotte","Westra, Tracy",,,,0,0,14,22,"[Brenz, Mariah] Kill by Brecht, Charlotte (from Westra, Tracy).",Hope,Albion
+3,37,36,Hope,attack,kill,Hope,"Grunewald, Ana","Otto, McKenna","Brecht, Charlotte",,,,0,0,14,23,"[Grunewald, Ana] Kill by Otto, McKenna (from Brecht, Charlotte).",Hope,Albion
+3,38,37,Hope,ace,service_ace,Hope,"Grunewald, Ana",,,,,"Haley, Kameron",0,0,14,24,"[Grunewald, Ana] Service ace (Haley, Kameron).",Hope,Albion
+3,39,38,Hope,error,attack_error,Hope,"Grunewald, Ana","Winter, Kate",,,"Winter, Kate",,0,0,14,25,"[Grunewald, Ana] Attack error by Winter, Kate.",Hope,Albion

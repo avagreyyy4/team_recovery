@@ -1,0 +1,182 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,ITH,attack,kill,CLK,"Currier, Ashley","Graper, Ella","Slavin, Wesley",,,,0,0,0,1,"[Currier, Ashley] Kill by Graper, Ella (from Slavin, Wesley).",ITH,CLK
+1,2,1,ITH,block,attack_error,ITH,"Benedict, Ellie","Hanson, Grace",,"Leadbetter, Addison; Owen, Brianna","Hanson, Grace",,0,0,0,2,"[Benedict, Ellie] Attack error by Hanson, Grace (block by Leadbetter, Addison; Owen, Brianna).",ITH,CLK
+1,3,2,CLK,error,service_error,ITH,"Benedict, Ellie",,,,"Benedict, Ellie",,0,0,1,2,"[Benedict, Ellie] Service error.",ITH,CLK
+1,4,3,CLK,attack,kill,CLK,"Burns, Conley","Hanson, Grace","Baxter, Olivia",,,,0,0,2,2,"[Burns, Conley] Kill by Hanson, Grace (from Baxter, Olivia).",ITH,CLK
+1,5,4,CLK,error,attack_error,CLK,"Burns, Conley","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,"Gonzalez-Abreu, Gabriela",,0,0,3,2,"[Burns, Conley] Attack error by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,CLK
+1,6,5,ITH,attack,kill,CLK,"Burns, Conley","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,3,3,"[Burns, Conley] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,CLK
+1,7,6,ITH,attack,kill,ITH,"Owen, Brianna","Leadbetter, Addison","Slavin, Wesley",,,,0,0,3,4,"[Owen, Brianna] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,CLK
+1,8,7,ITH,error,attack_error,ITH,"Owen, Brianna","Hanson, Grace","Currier, Ashley",,"Hanson, Grace",,0,0,3,5,"[Owen, Brianna] Attack error by Hanson, Grace (from Currier, Ashley).",ITH,CLK
+1,9,8,CLK,attack,kill,ITH,"Owen, Brianna","Burns, Conley","Currier, Ashley",,,,0,0,4,5,"[Owen, Brianna] Kill by Burns, Conley (from Currier, Ashley).",ITH,CLK
+1,10,9,ITH,attack,kill,CLK,"Leader, Jordyn","Slavin, Wesley",,,,,0,1,4,6,"[Leader, Jordyn] Kill by Slavin, Wesley.",ITH,CLK
+1,11,10,ITH,error,ball_handling_error,ITH,"Gonzalez-Abreu, Gabriela",,,,"Hanson, Grace",,0,0,4,7,"[Gonzalez-Abreu, Gabriela] Bad set by Hanson, Grace.",ITH,CLK
+1,12,11,CLK,error,service_error,ITH,"Gonzalez-Abreu, Gabriela",,,,"Gonzalez-Abreu, Gabriela",,0,1,5,7,"[Gonzalez-Abreu, Gabriela] Service error.",ITH,CLK
+1,13,12,ITH,attack,kill,CLK,"Alvira, Alyciana","Clauhs, Naomi","Slavin, Wesley",,,,0,1,5,8,"[Alvira, Alyciana] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+1,14,13,CLK,error,service_error,ITH,"Leadbetter, Addison",,,,"Leadbetter, Addison",,0,0,6,8,"[Leadbetter, Addison] Service error.",ITH,CLK
+1,15,14,ITH,error,attack_error,CLK,"Hangliter, Marin","Burns, Conley","Currier, Ashley",,"Burns, Conley",,0,0,6,9,"[Hangliter, Marin] Attack error by Burns, Conley (from Currier, Ashley).",ITH,CLK
+1,16,15,ITH,ace,service_ace,ITH,"Slavin, Wesley",,,,,Team,0,0,6,10,"[Slavin, Wesley] Service ace (Team).",ITH,CLK
+1,17,16,ITH,attack,kill,ITH,"Slavin, Wesley","Clauhs, Naomi","Gonzalez-Abreu, Gabriela",,,,0,0,6,11,"[Slavin, Wesley] Kill by Clauhs, Naomi (from Gonzalez-Abreu, Gabriela).",ITH,CLK
+1,18,17,CLK,attack,kill,ITH,"Slavin, Wesley","Currier, Ashley","Hangliter, Marin",,,,0,0,7,11,"[Slavin, Wesley] Kill by Currier, Ashley (from Hangliter, Marin).",ITH,CLK
+1,19,18,ITH,attack,kill,CLK,"Baxter, Olivia","Graper, Ella","Slavin, Wesley",,,,0,0,7,12,"[Baxter, Olivia] Kill by Graper, Ella (from Slavin, Wesley).",ITH,CLK
+1,20,19,CLK,attack,kill,ITH,"Garcia, Karina","Leader, Jordyn","Currier, Ashley",,,,0,0,8,12,"[Garcia, Karina] Kill by Leader, Jordyn (from Currier, Ashley).",ITH,CLK
+1,21,20,ITH,attack,kill,CLK,"Currier, Ashley","Owen, Brianna","Slavin, Wesley",,,,0,0,8,13,"[Currier, Ashley] Kill by Owen, Brianna (from Slavin, Wesley).",ITH,CLK
+1,22,21,ITH,attack,kill,ITH,"Benedict, Ellie","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,8,14,"[Benedict, Ellie] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,CLK
+1,23,22,CLK,attack,kill,ITH,"Benedict, Ellie","Burns, Conley","Currier, Ashley",,,,0,0,9,14,"[Benedict, Ellie] Kill by Burns, Conley (from Currier, Ashley).",ITH,CLK
+1,24,23,ITH,error,attack_error,CLK,"Burns, Conley","Hangliter, Marin","Baxter, Olivia",,"Hangliter, Marin",,0,0,9,15,"[Burns, Conley] Attack error by Hangliter, Marin (from Baxter, Olivia).",ITH,CLK
+1,25,24,ITH,ace,service_ace,ITH,"Owen, Brianna",,,,,Team,0,0,9,16,"[Owen, Brianna] Service ace (Team).",ITH,CLK
+1,26,25,CLK,attack,kill,ITH,"Owen, Brianna","Hanson, Grace","Currier, Ashley",,,,0,0,10,16,"[Owen, Brianna] Kill by Hanson, Grace (from Currier, Ashley).",ITH,CLK
+1,27,26,ITH,attack,kill,CLK,"Leader, Jordyn","Gonzalez-Abreu, Gabriela","Benedict, Ellie",,,,0,0,10,17,"[Leader, Jordyn] Kill by Gonzalez-Abreu, Gabriela (from Benedict, Ellie).",ITH,CLK
+1,28,27,CLK,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Hangliter, Marin","Currier, Ashley",,,,0,0,11,17,"[Gonzalez-Abreu, Gabriela] Kill by Hangliter, Marin (from Currier, Ashley).",ITH,CLK
+1,29,28,ITH,block,attack_error,CLK,"Alvira, Alyciana","Reimer, Ainslie",,"Leadbetter, Addison; Clauhs, Naomi","Reimer, Ainslie",,0,0,11,18,"[Alvira, Alyciana] Attack error by Reimer, Ainslie (block by Leadbetter, Addison; Clauhs, Naomi).",ITH,CLK
+1,30,29,ITH,error,attack_error,ITH,"Leadbetter, Addison","Hangliter, Marin","Currier, Ashley",,"Hangliter, Marin",,0,0,11,19,"[Leadbetter, Addison] Attack error by Hangliter, Marin (from Currier, Ashley).",ITH,CLK
+1,31,30,CLK,error,attack_error,ITH,"Leadbetter, Addison","Clauhs, Naomi","Slavin, Wesley",,"Clauhs, Naomi",,0,0,12,19,"[Leadbetter, Addison] Attack error by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+1,32,31,ITH,attack,kill,CLK,"Hangliter, Marin","Clauhs, Naomi","Slavin, Wesley",,,,0,0,12,20,"[Hangliter, Marin] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+1,33,32,CLK,block,attack_error,ITH,"Slavin, Wesley","Clauhs, Naomi",,"Reimer, Ainslie; Currier, Ashley","Clauhs, Naomi",,0,0,13,20,"[Slavin, Wesley] Attack error by Clauhs, Naomi (block by Reimer, Ainslie; Currier, Ashley).",ITH,CLK
+1,34,33,ITH,error,service_error,CLK,"Baxter, Olivia",,,,"Baxter, Olivia",,0,0,13,21,"[Baxter, Olivia] Service error.",ITH,CLK
+1,35,34,CLK,attack,kill,ITH,"Garcia, Karina","Currier, Ashley",,,,,0,0,14,21,"[Garcia, Karina] Kill by Currier, Ashley.",ITH,CLK
+1,36,35,ITH,attack,kill,CLK,"Currier, Ashley","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,14,22,"[Currier, Ashley] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,CLK
+1,37,36,CLK,attack,kill,ITH,"Benedict, Ellie","Burns, Conley","Baxter, Olivia",,,,0,0,15,22,"[Benedict, Ellie] Kill by Burns, Conley (from Baxter, Olivia).",ITH,CLK
+1,38,37,ITH,attack,kill,CLK,"Burns, Conley","Owen, Brianna","Slavin, Wesley",,,,0,0,15,23,"[Burns, Conley] Kill by Owen, Brianna (from Slavin, Wesley).",ITH,CLK
+1,39,38,CLK,error,attack_error,ITH,"Owen, Brianna","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,"Gonzalez-Abreu, Gabriela",,0,0,16,23,"[Owen, Brianna] Attack error by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,CLK
+1,40,39,ITH,attack,kill,CLK,"Leader, Jordyn","Gonzalez-Abreu, Gabriela","Benedict, Ellie",,,,0,0,16,24,"[Leader, Jordyn] Kill by Gonzalez-Abreu, Gabriela (from Benedict, Ellie).",ITH,CLK
+1,41,40,CLK,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Hangliter, Marin","Currier, Ashley",,,,0,0,17,24,"[Gonzalez-Abreu, Gabriela] Kill by Hangliter, Marin (from Currier, Ashley).",ITH,CLK
+1,42,41,ITH,attack,kill,CLK,"Alvira, Alyciana","Leadbetter, Addison","Slavin, Wesley",,,,0,0,17,25,"[Alvira, Alyciana] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,CLK
+2,1,0,ITH,attack,kill,ITH,"Garcia, Karina","Graper, Ella","Slavin, Wesley",,,,0,1,0,1,"[Garcia, Karina] Kill by Graper, Ella (from Slavin, Wesley).",ITH,CLK
+2,2,1,ITH,attack,kill,ITH,"Garcia, Karina","Gonzalez-Abreu, Gabriela","Benedict, Ellie",,,,0,0,0,2,"[Garcia, Karina] Kill by Gonzalez-Abreu, Gabriela (from Benedict, Ellie).",ITH,CLK
+2,3,2,ITH,error,attack_error,ITH,"Garcia, Karina","Reimer, Ainslie","Currier, Ashley",,"Reimer, Ainslie",,0,0,0,3,"[Garcia, Karina] Attack error by Reimer, Ainslie (from Currier, Ashley).",ITH,CLK
+2,4,3,CLK,error,ball_handling_error,ITH,"Garcia, Karina",,,,"Owen, Brianna",,0,0,1,3,"[Garcia, Karina] Bad set by Owen, Brianna.",ITH,CLK
+2,5,4,ITH,attack,kill,CLK,"Baxter, Olivia","Gonzalez-Abreu, Gabriela","Owen, Brianna",,,,0,1,1,4,"[Baxter, Olivia] Kill by Gonzalez-Abreu, Gabriela (from Owen, Brianna).",ITH,CLK
+2,6,5,ITH,error,attack_error,ITH,"Benedict, Ellie","Leader, Jordyn","Currier, Ashley",,"Leader, Jordyn",,0,0,1,5,"[Benedict, Ellie] Attack error by Leader, Jordyn (from Currier, Ashley).",ITH,CLK
+2,7,6,CLK,attack,kill,ITH,"Benedict, Ellie","Burns, Conley","Baxter, Olivia",,,,0,0,2,5,"[Benedict, Ellie] Kill by Burns, Conley (from Baxter, Olivia).",ITH,CLK
+2,8,7,ITH,error,attack_error,CLK,"Currier, Ashley","Burns, Conley","Currier, Ashley",,"Burns, Conley",,0,1,2,6,"[Currier, Ashley] Attack error by Burns, Conley (from Currier, Ashley).",ITH,CLK
+2,9,8,ITH,ace,service_ace,ITH,"Owen, Brianna",,,,,"Burns, Conley",0,0,2,7,"[Owen, Brianna] Service ace (Burns, Conley).",ITH,CLK
+2,10,9,ITH,attack,kill,ITH,"Owen, Brianna","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,2,8,"[Owen, Brianna] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,CLK
+2,11,10,CLK,error,service_error,ITH,"Owen, Brianna",,,,"Owen, Brianna",,0,0,3,8,"[Owen, Brianna] Service error.",ITH,CLK
+2,12,11,ITH,attack,kill,CLK,"Burns, Conley","Leadbetter, Addison","Slavin, Wesley",,,,0,1,3,9,"[Burns, Conley] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,CLK
+2,13,12,CLK,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Hanson, Grace","Currier, Ashley",,,,0,1,4,9,"[Gonzalez-Abreu, Gabriela] Kill by Hanson, Grace (from Currier, Ashley).",ITH,CLK
+2,14,13,ITH,attack,kill,CLK,"Leader, Jordyn","Clauhs, Naomi","Slavin, Wesley",,,,0,0,4,10,"[Leader, Jordyn] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+2,15,14,CLK,attack,kill,ITH,"Leadbetter, Addison","Reimer, Ainslie","Currier, Ashley",,,,0,0,5,10,"[Leadbetter, Addison] Kill by Reimer, Ainslie (from Currier, Ashley).",ITH,CLK
+2,16,15,ITH,attack,kill,CLK,"Alvira, Alyciana","Clauhs, Naomi","Slavin, Wesley",,,,0,0,5,11,"[Alvira, Alyciana] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+2,17,16,ITH,attack,kill,ITH,"Slavin, Wesley","Owen, Brianna","Slavin, Wesley",,,,0,0,5,12,"[Slavin, Wesley] Kill by Owen, Brianna (from Slavin, Wesley).",ITH,CLK
+2,18,17,CLK,error,service_error,ITH,"Slavin, Wesley",,,,"Slavin, Wesley",,0,0,6,12,"[Slavin, Wesley] Service error.",ITH,CLK
+2,19,18,CLK,ace,service_ace,CLK,"Hangliter, Marin",,,,,Team,0,0,7,12,"[Hangliter, Marin] Service ace (Team).",ITH,CLK
+2,20,19,CLK,attack,kill,CLK,"Hangliter, Marin","Burns, Conley","Currier, Ashley",,,,0,0,8,12,"[Hangliter, Marin] Kill by Burns, Conley (from Currier, Ashley).",ITH,CLK
+2,21,20,ITH,block,attack_error,CLK,"Hangliter, Marin","Reimer, Ainslie",,"Graper, Ella","Reimer, Ainslie",,0,0,8,13,"[Hangliter, Marin] Attack error by Reimer, Ainslie (block by Graper, Ella).",ITH,CLK
+2,22,21,CLK,attack,kill,ITH,"Garcia, Karina","Burns, Conley","Currier, Ashley",,,,0,0,9,13,"[Garcia, Karina] Kill by Burns, Conley (from Currier, Ashley).",ITH,CLK
+2,23,22,ITH,error,service_error,CLK,"Baxter, Olivia",,,,"Baxter, Olivia",,0,0,9,14,"[Baxter, Olivia] Service error.",ITH,CLK
+2,24,23,CLK,attack,kill,ITH,"Benedict, Ellie","Burns, Conley","Baxter, Olivia",,,,0,0,10,14,"[Benedict, Ellie] Kill by Burns, Conley (from Baxter, Olivia).",ITH,CLK
+2,25,24,CLK,attack,kill,CLK,"Currier, Ashley","Burns, Conley","Currier, Ashley",,,,0,0,11,14,"[Currier, Ashley] Kill by Burns, Conley (from Currier, Ashley).",ITH,CLK
+2,26,25,CLK,error,attack_error,CLK,"Currier, Ashley","Leadbetter, Addison","Slavin, Wesley",,"Leadbetter, Addison",,0,0,12,14,"[Currier, Ashley] Attack error by Leadbetter, Addison (from Slavin, Wesley).",ITH,CLK
+2,27,26,ITH,error,attack_error,CLK,"Currier, Ashley","Burns, Conley","Baxter, Olivia",,"Burns, Conley",,0,0,12,15,"[Currier, Ashley] Attack error by Burns, Conley (from Baxter, Olivia).",ITH,CLK
+2,28,27,ITH,attack,kill,ITH,"Owen, Brianna","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,12,16,"[Owen, Brianna] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,CLK
+2,29,28,CLK,attack,kill,ITH,"Owen, Brianna","Burns, Conley","Currier, Ashley",,,,0,0,13,16,"[Owen, Brianna] Kill by Burns, Conley (from Currier, Ashley).",ITH,CLK
+2,30,29,ITH,attack,kill,CLK,"Burns, Conley","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,13,17,"[Burns, Conley] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,CLK
+2,31,30,CLK,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Hangliter, Marin","Currier, Ashley",,,,0,0,14,17,"[Gonzalez-Abreu, Gabriela] Kill by Hangliter, Marin (from Currier, Ashley).",ITH,CLK
+2,32,31,CLK,attack,kill,CLK,"Leader, Jordyn","Hanson, Grace","Hangliter, Marin",,,,0,0,15,17,"[Leader, Jordyn] Kill by Hanson, Grace (from Hangliter, Marin).",ITH,CLK
+2,33,32,CLK,error,attack_error,CLK,"Leader, Jordyn","Leadbetter, Addison","Benedict, Ellie",,"Leadbetter, Addison",,0,0,16,17,"[Leader, Jordyn] Attack error by Leadbetter, Addison (from Benedict, Ellie).",ITH,CLK
+2,34,33,ITH,attack,kill,CLK,"Leader, Jordyn","Clauhs, Naomi","Slavin, Wesley",,,,0,0,16,18,"[Leader, Jordyn] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+2,35,34,ITH,ace,service_ace,ITH,"Leadbetter, Addison",,,,,"Burns, Conley",0,0,16,19,"[Leadbetter, Addison] Service ace (Burns, Conley).",ITH,CLK
+2,36,35,ITH,attack,kill,ITH,"Leadbetter, Addison","Clauhs, Naomi","Slavin, Wesley",,,,0,0,16,20,"[Leadbetter, Addison] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+2,37,36,CLK,attack,kill,ITH,"Leadbetter, Addison","Hanson, Grace","Baxter, Olivia",,,,0,0,17,20,"[Leadbetter, Addison] Kill by Hanson, Grace (from Baxter, Olivia).",ITH,CLK
+2,38,37,CLK,error,ball_handling_error,CLK,"Alvira, Alyciana",,,,"Slavin, Wesley",,0,0,18,20,"[Alvira, Alyciana] Bad set by Slavin, Wesley.",ITH,CLK
+2,39,38,ITH,attack,kill,CLK,"Alvira, Alyciana","Clauhs, Naomi","Slavin, Wesley",,,,0,0,18,21,"[Alvira, Alyciana] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+2,40,39,CLK,error,service_error,ITH,"Slavin, Wesley",,,,"Slavin, Wesley",,0,0,19,21,"[Slavin, Wesley] Service error.",ITH,CLK
+2,41,40,ITH,attack,kill,CLK,"Hangliter, Marin","Owen, Brianna","Clauhs, Naomi",,,,0,0,19,22,"[Hangliter, Marin] Kill by Owen, Brianna (from Clauhs, Naomi).",ITH,CLK
+2,42,41,ITH,ace,service_ace,ITH,"Garcia, Karina",,,,,"Baxter, Olivia",0,0,19,23,"[Garcia, Karina] Service ace (Baxter, Olivia).",ITH,CLK
+2,43,42,ITH,block,attack_error,ITH,"Garcia, Karina","Burns, Conley",,"Owen, Brianna","Burns, Conley",,0,0,19,24,"[Garcia, Karina] Attack error by Burns, Conley (block by Owen, Brianna).",ITH,CLK
+2,44,43,CLK,attack,kill,ITH,"Garcia, Karina","Burns, Conley","Currier, Ashley",,,,0,0,20,24,"[Garcia, Karina] Kill by Burns, Conley (from Currier, Ashley).",ITH,CLK
+2,45,44,ITH,block,attack_error,CLK,"Baxter, Olivia","Leader, Jordyn",,"Gonzalez-Abreu, Gabriela","Leader, Jordyn",,0,0,20,25,"[Baxter, Olivia] Attack error by Leader, Jordyn (block by Gonzalez-Abreu, Gabriela).",ITH,CLK
+3,1,0,CLK,ace,service_ace,CLK,"Hangliter, Marin",,,,,"Garcia, Karina",0,1,1,0,"[Hangliter, Marin] Service ace (Garcia, Karina).",ITH,CLK
+3,2,1,CLK,attack,kill,CLK,"Hangliter, Marin","Burns, Conley","Currier, Ashley",,,,0,0,2,0,"[Hangliter, Marin] Kill by Burns, Conley (from Currier, Ashley).",ITH,CLK
+3,3,2,CLK,ace,service_ace,CLK,"Hangliter, Marin",,,,,Team,0,0,3,0,"[Hangliter, Marin] Service ace (Team).",ITH,CLK
+3,4,3,CLK,ace,service_ace,CLK,"Hangliter, Marin",,,,,"Garcia, Karina",0,0,4,0,"[Hangliter, Marin] Service ace (Garcia, Karina).",ITH,CLK
+3,5,4,CLK,error,attack_error,CLK,"Hangliter, Marin","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,"Gonzalez-Abreu, Gabriela",,0,0,5,0,"[Hangliter, Marin] Attack error by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,CLK
+3,6,5,ITH,attack,kill,CLK,"Hangliter, Marin","Owen, Brianna","Slavin, Wesley",,,,0,1,5,1,"[Hangliter, Marin] Kill by Owen, Brianna (from Slavin, Wesley).",ITH,CLK
+3,7,6,CLK,error,service_error,ITH,"Benedict, Ellie",,,,"Benedict, Ellie",,0,0,6,1,"[Benedict, Ellie] Service error.",ITH,CLK
+3,8,7,ITH,attack,kill,CLK,"Baxter, Olivia","Leadbetter, Addison","Slavin, Wesley",,,,0,0,6,2,"[Baxter, Olivia] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,CLK
+3,9,8,ITH,ace,service_ace,ITH,"Owen, Brianna",,,,,"Alvira, Alyciana",0,0,6,3,"[Owen, Brianna] Service ace (Alvira, Alyciana).",ITH,CLK
+3,10,9,CLK,error,attack_error,ITH,"Owen, Brianna","Leadbetter, Addison","Slavin, Wesley",,"Leadbetter, Addison",,0,0,7,3,"[Owen, Brianna] Attack error by Leadbetter, Addison (from Slavin, Wesley).",ITH,CLK
+3,11,10,CLK,ace,service_ace,CLK,"Currier, Ashley",,,,,"Altland, Bridget",0,1,8,3,"[Currier, Ashley] Service ace (Altland, Bridget).",ITH,CLK
+3,12,11,ITH,error,service_error,CLK,"Currier, Ashley",,,,"Currier, Ashley",,0,0,8,4,"[Currier, Ashley] Service error.",ITH,CLK
+3,13,12,CLK,error,service_error,ITH,"Gonzalez-Abreu, Gabriela",,,,"Gonzalez-Abreu, Gabriela",,0,1,9,4,"[Gonzalez-Abreu, Gabriela] Service error.",ITH,CLK
+3,14,13,CLK,error,attack_error,CLK,"Burns, Conley","Clauhs, Naomi","Slavin, Wesley",,"Clauhs, Naomi",,0,0,10,4,"[Burns, Conley] Attack error by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+3,15,14,ITH,attack,kill,CLK,"Burns, Conley","Clauhs, Naomi","Slavin, Wesley",,,,0,0,10,5,"[Burns, Conley] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+3,16,15,ITH,error,attack_error,ITH,"Leadbetter, Addison","Hangliter, Marin","Currier, Ashley",,"Hangliter, Marin",,0,0,10,6,"[Leadbetter, Addison] Attack error by Hangliter, Marin (from Currier, Ashley).",ITH,CLK
+3,17,16,CLK,error,ball_handling_error,ITH,"Leadbetter, Addison",,,,"Clauhs, Naomi",,0,0,11,6,"[Leadbetter, Addison] Bad set by Clauhs, Naomi.",ITH,CLK
+3,18,17,ITH,attack,kill,CLK,"Leader, Jordyn","Clauhs, Naomi","Slavin, Wesley",,,,0,0,11,7,"[Leader, Jordyn] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+3,19,18,ITH,attack,kill,ITH,"Slavin, Wesley","Clauhs, Naomi","Slavin, Wesley",,,,0,0,11,8,"[Slavin, Wesley] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+3,20,19,CLK,error,service_error,ITH,"Slavin, Wesley",,,,"Slavin, Wesley",,0,0,12,8,"[Slavin, Wesley] Service error.",ITH,CLK
+3,21,20,ITH,error,ball_handling_error,CLK,"Alvira, Alyciana",,,,"Currier, Ashley",,0,0,12,9,"[Alvira, Alyciana] Bad set by Currier, Ashley.",ITH,CLK
+3,22,21,CLK,error,attack_error,ITH,"McGowan, Renee","Graper, Ella","Slavin, Wesley",,"Graper, Ella",,0,0,13,9,"[McGowan, Renee] Attack error by Graper, Ella (from Slavin, Wesley).",ITH,CLK
+3,23,22,ITH,error,service_error,CLK,"Hangliter, Marin",,,,"Hangliter, Marin",,0,0,13,10,"[Hangliter, Marin] Service error.",ITH,CLK
+3,24,23,ITH,error,attack_error,ITH,"Benedict, Ellie","Burns, Conley","Currier, Ashley",,"Burns, Conley",,0,0,13,11,"[Benedict, Ellie] Attack error by Burns, Conley (from Currier, Ashley).",ITH,CLK
+3,25,24,ITH,ace,service_ace,ITH,"Benedict, Ellie",,,,,Team,0,0,13,12,"[Benedict, Ellie] Service ace (Team).",ITH,CLK
+3,26,25,ITH,attack,kill,ITH,"Benedict, Ellie","Gonzalez-Abreu, Gabriela","Benedict, Ellie",,,,0,0,13,13,"[Benedict, Ellie] Kill by Gonzalez-Abreu, Gabriela (from Benedict, Ellie).",ITH,CLK
+3,27,26,CLK,error,attack_error,ITH,"Benedict, Ellie","Owen, Brianna","Benedict, Ellie",,"Owen, Brianna",,0,0,14,13,"[Benedict, Ellie] Attack error by Owen, Brianna (from Benedict, Ellie).",ITH,CLK
+3,28,27,CLK,attack,kill,CLK,"Baxter, Olivia","Burns, Conley","Currier, Ashley",,,,0,0,15,13,"[Baxter, Olivia] Kill by Burns, Conley (from Currier, Ashley).",ITH,CLK
+3,29,28,ITH,attack,kill,CLK,"Baxter, Olivia","Leadbetter, Addison","Currier, Ashley",,,,0,0,15,14,"[Baxter, Olivia] Kill by Leadbetter, Addison (from Currier, Ashley).",ITH,CLK
+3,30,29,CLK,attack,kill,ITH,"Owen, Brianna","Burns, Conley","Currier, Ashley",,,,0,0,16,14,"[Owen, Brianna] Kill by Burns, Conley (from Currier, Ashley).",ITH,CLK
+3,31,30,ITH,attack,kill,CLK,"Currier, Ashley","Gonzalez-Abreu, Gabriela",,,,,0,0,16,15,"[Currier, Ashley] Kill by Gonzalez-Abreu, Gabriela.",ITH,CLK
+3,32,31,ITH,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Clauhs, Naomi","Slavin, Wesley",,,,0,0,16,16,"[Gonzalez-Abreu, Gabriela] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+3,33,32,ITH,error,attack_error,ITH,"Gonzalez-Abreu, Gabriela","Burns, Conley","Baxter, Olivia",,"Burns, Conley",,0,0,16,17,"[Gonzalez-Abreu, Gabriela] Attack error by Burns, Conley (from Baxter, Olivia).",ITH,CLK
+3,34,33,CLK,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Burns, Conley","Currier, Ashley",,,,0,0,17,17,"[Gonzalez-Abreu, Gabriela] Kill by Burns, Conley (from Currier, Ashley).",ITH,CLK
+3,35,34,CLK,error,attack_error,CLK,"Burns, Conley","Clauhs, Naomi","Slavin, Wesley",,"Clauhs, Naomi",,0,0,18,17,"[Burns, Conley] Attack error by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+3,36,35,ITH,attack,kill,CLK,"Burns, Conley","Leadbetter, Addison","Slavin, Wesley",,,,0,0,18,18,"[Burns, Conley] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,CLK
+3,37,36,CLK,attack,kill,ITH,"Leadbetter, Addison","Leader, Jordyn","Currier, Ashley",,,,0,0,19,18,"[Leadbetter, Addison] Kill by Leader, Jordyn (from Currier, Ashley).",ITH,CLK
+3,38,37,CLK,error,attack_error,CLK,"Leader, Jordyn","Clauhs, Naomi","Slavin, Wesley",,"Clauhs, Naomi",,0,0,20,18,"[Leader, Jordyn] Attack error by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+3,39,38,ITH,attack,kill,CLK,"Leader, Jordyn","Benedict, Ellie",,,,,0,0,20,19,"[Leader, Jordyn] Kill by Benedict, Ellie.",ITH,CLK
+3,40,39,ITH,error,ball_handling_error,ITH,"Slavin, Wesley",,,,"Currier, Ashley",,0,0,20,20,"[Slavin, Wesley] Bad set by Currier, Ashley.",ITH,CLK
+3,41,40,ITH,ace,service_ace,ITH,"Slavin, Wesley",,,,,"Burns, Conley",0,0,20,21,"[Slavin, Wesley] Service ace (Burns, Conley).",ITH,CLK
+3,42,41,CLK,error,service_error,ITH,"Slavin, Wesley",,,,"Slavin, Wesley",,0,0,21,21,"[Slavin, Wesley] Service error.",ITH,CLK
+3,43,42,CLK,ace,service_ace,CLK,"Alvira, Alyciana",,,,,"Gonzalez-Abreu, Gabriela",0,0,22,21,"[Alvira, Alyciana] Service ace (Gonzalez-Abreu, Gabriela).",ITH,CLK
+3,44,43,CLK,error,attack_error,CLK,"Alvira, Alyciana","Graper, Ella","Slavin, Wesley",,"Graper, Ella",,0,0,23,21,"[Alvira, Alyciana] Attack error by Graper, Ella (from Slavin, Wesley).",ITH,CLK
+3,45,44,ITH,error,attack_error,CLK,"Alvira, Alyciana","Hangliter, Marin","Currier, Ashley",,"Hangliter, Marin",,0,0,23,22,"[Alvira, Alyciana] Attack error by Hangliter, Marin (from Currier, Ashley).",ITH,CLK
+3,46,45,CLK,error,service_error,ITH,"McGowan, Renee",,,,"McGowan, Renee",,0,0,24,22,"[McGowan, Renee] Service error.",ITH,CLK
+3,47,46,CLK,attack,kill,CLK,"Hangliter, Marin","Burns, Conley","Currier, Ashley",,,,0,0,25,22,"[Hangliter, Marin] Kill by Burns, Conley (from Currier, Ashley).",ITH,CLK
+4,1,0,CLK,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Burns, Conley",,,,,0,1,1,0,"[Gonzalez-Abreu, Gabriela] Kill by Burns, Conley.",ITH,CLK
+4,2,1,ITH,attack,kill,CLK,"Baxter, Olivia","Leadbetter, Addison","Slavin, Wesley",,,,0,0,1,1,"[Baxter, Olivia] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,CLK
+4,3,2,ITH,ace,service_ace,ITH,"Leadbetter, Addison",,,,,Team,0,0,1,2,"[Leadbetter, Addison] Service ace (Team).",ITH,CLK
+4,4,3,ITH,ace,service_ace,ITH,"Leadbetter, Addison",,,,,Team,0,0,1,3,"[Leadbetter, Addison] Service ace (Team).",ITH,CLK
+4,5,4,ITH,error,attack_error,ITH,"Leadbetter, Addison","Burns, Conley","Currier, Ashley",,"Burns, Conley",,0,0,1,4,"[Leadbetter, Addison] Attack error by Burns, Conley (from Currier, Ashley).",ITH,CLK
+4,6,5,ITH,attack,kill,ITH,"Leadbetter, Addison","Clauhs, Naomi","Slavin, Wesley",,,,0,0,1,5,"[Leadbetter, Addison] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+4,7,6,ITH,block,attack_error,ITH,"Leadbetter, Addison","Burns, Conley",,"Leadbetter, Addison; Slavin, Wesley","Burns, Conley",,0,0,1,6,"[Leadbetter, Addison] Attack error by Burns, Conley (block by Leadbetter, Addison; Slavin, Wesley).",ITH,CLK
+4,8,7,ITH,attack,kill,ITH,"Leadbetter, Addison","Clauhs, Naomi","Slavin, Wesley",,,,0,0,1,7,"[Leadbetter, Addison] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+4,9,8,CLK,block,attack_error,ITH,"Leadbetter, Addison","Clauhs, Naomi",,"Leader, Jordyn; Currier, Ashley","Clauhs, Naomi",,0,0,2,7,"[Leadbetter, Addison] Attack error by Clauhs, Naomi (block by Leader, Jordyn; Currier, Ashley).",ITH,CLK
+4,10,9,ITH,attack,kill,CLK,"Currier, Ashley","Clauhs, Naomi","Slavin, Wesley",,,,0,1,2,8,"[Currier, Ashley] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+4,11,10,CLK,error,ball_handling_error,ITH,"Slavin, Wesley",,,,"Benedict, Ellie",,0,0,3,8,"[Slavin, Wesley] Bad set by Benedict, Ellie.",ITH,CLK
+4,12,11,CLK,attack,kill,CLK,"Burns, Conley","Burns, Conley","Baxter, Olivia",,,,0,0,4,8,"[Burns, Conley] Kill by Burns, Conley (from Baxter, Olivia).",ITH,CLK
+4,13,12,CLK,error,ball_handling_error,CLK,"Burns, Conley",,,,"Clauhs, Naomi",,0,1,5,8,"[Burns, Conley] Bad set by Clauhs, Naomi.",ITH,CLK
+4,14,13,ITH,attack,kill,CLK,"Burns, Conley","Clauhs, Naomi","Slavin, Wesley",,,,0,0,5,9,"[Burns, Conley] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+4,15,14,CLK,error,attack_error,ITH,"McGowan, Renee","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,"Gonzalez-Abreu, Gabriela",,0,1,6,9,"[McGowan, Renee] Attack error by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,CLK
+4,16,15,CLK,error,attack_error,CLK,"Leader, Jordyn","Owen, Brianna","Benedict, Ellie",,"Owen, Brianna",,0,0,7,9,"[Leader, Jordyn] Attack error by Owen, Brianna (from Benedict, Ellie).",ITH,CLK
+4,17,16,ITH,attack,kill,CLK,"Leader, Jordyn","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,1,7,10,"[Leader, Jordyn] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,CLK
+4,18,17,ITH,attack,kill,ITH,"Benedict, Ellie","Gonzalez-Abreu, Gabriela","Benedict, Ellie",,,,0,1,7,11,"[Benedict, Ellie] Kill by Gonzalez-Abreu, Gabriela (from Benedict, Ellie).",ITH,CLK
+4,19,18,CLK,error,service_error,ITH,"Benedict, Ellie",,,,"Benedict, Ellie",,0,0,8,11,"[Benedict, Ellie] Service error.",ITH,CLK
+4,20,19,ITH,error,attack_error,CLK,"Alvira, Alyciana","Burns, Conley","Currier, Ashley",,"Burns, Conley",,0,0,8,12,"[Alvira, Alyciana] Attack error by Burns, Conley (from Currier, Ashley).",ITH,CLK
+4,21,20,CLK,attack,kill,ITH,"Altland, Bridget","Hangliter, Marin","Currier, Ashley",,,,0,0,9,12,"[Altland, Bridget] Kill by Hangliter, Marin (from Currier, Ashley).",ITH,CLK
+4,22,21,CLK,block,attack_error,CLK,"Hangliter, Marin","Leadbetter, Addison",,"Currier, Ashley; Reimer, Ainslie","Leadbetter, Addison",,0,0,10,12,"[Hangliter, Marin] Attack error by Leadbetter, Addison (block by Currier, Ashley; Reimer, Ainslie).",ITH,CLK
+4,23,22,CLK,error,attack_error,CLK,"Hangliter, Marin","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,"Gonzalez-Abreu, Gabriela",,0,0,11,12,"[Hangliter, Marin] Attack error by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,CLK
+4,24,23,ITH,error,attack_error,CLK,"Hangliter, Marin","Burns, Conley","Currier, Ashley",,"Burns, Conley",,0,0,11,13,"[Hangliter, Marin] Attack error by Burns, Conley (from Currier, Ashley).",ITH,CLK
+4,25,24,ITH,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Clauhs, Naomi","Slavin, Wesley",,,,0,0,11,14,"[Gonzalez-Abreu, Gabriela] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+4,26,25,CLK,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Hangliter, Marin","Currier, Ashley",,,,0,0,12,14,"[Gonzalez-Abreu, Gabriela] Kill by Hangliter, Marin (from Currier, Ashley).",ITH,CLK
+4,27,26,CLK,ace,service_ace,CLK,"Baxter, Olivia",,,,,"Gonzalez-Abreu, Gabriela",0,0,13,14,"[Baxter, Olivia] Service ace (Gonzalez-Abreu, Gabriela).",ITH,CLK
+4,28,27,ITH,error,service_error,CLK,"Baxter, Olivia",,,,"Baxter, Olivia",,0,0,13,15,"[Baxter, Olivia] Service error.",ITH,CLK
+4,29,28,ITH,error,attack_error,ITH,"Leadbetter, Addison","Burns, Conley","Currier, Ashley",,"Burns, Conley",,0,0,13,16,"[Leadbetter, Addison] Attack error by Burns, Conley (from Currier, Ashley).",ITH,CLK
+4,30,29,CLK,attack,kill,ITH,"Leadbetter, Addison","Leader, Jordyn","Currier, Ashley",,,,0,0,14,16,"[Leadbetter, Addison] Kill by Leader, Jordyn (from Currier, Ashley).",ITH,CLK
+4,31,30,ITH,attack,kill,CLK,"Currier, Ashley","Clauhs, Naomi","Slavin, Wesley",,,,0,0,14,17,"[Currier, Ashley] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+4,32,31,CLK,attack,kill,ITH,"Slavin, Wesley","Burns, Conley","Currier, Ashley",,,,0,0,15,17,"[Slavin, Wesley] Kill by Burns, Conley (from Currier, Ashley).",ITH,CLK
+4,33,32,ITH,attack,kill,CLK,"Burns, Conley","Clauhs, Naomi","Slavin, Wesley",,,,0,0,15,18,"[Burns, Conley] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+4,34,33,CLK,error,service_error,ITH,"McGowan, Renee",,,,"McGowan, Renee",,0,0,16,18,"[McGowan, Renee] Service error.",ITH,CLK
+4,35,34,ITH,attack,kill,CLK,"Leader, Jordyn","Wiese, Jayden","Slavin, Wesley",,,,0,0,16,19,"[Leader, Jordyn] Kill by Wiese, Jayden (from Slavin, Wesley).",ITH,CLK
+4,36,35,CLK,error,attack_error,ITH,"Benedict, Ellie","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,"Gonzalez-Abreu, Gabriela",,0,0,17,19,"[Benedict, Ellie] Attack error by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,CLK
+4,37,36,ITH,error,service_error,CLK,"Alvira, Alyciana",,,,"Alvira, Alyciana",,0,0,17,20,"[Alvira, Alyciana] Service error.",ITH,CLK
+4,38,37,ITH,attack,kill,ITH,"Altland, Bridget","Leadbetter, Addison","Slavin, Wesley",,,,0,0,17,21,"[Altland, Bridget] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,CLK
+4,39,38,CLK,attack,kill,ITH,"Altland, Bridget","Hangliter, Marin","Currier, Ashley",,,,0,0,18,21,"[Altland, Bridget] Kill by Hangliter, Marin (from Currier, Ashley).",ITH,CLK
+4,40,39,CLK,attack,kill,CLK,"Hangliter, Marin","Burns, Conley","Currier, Ashley",,,,0,0,19,21,"[Hangliter, Marin] Kill by Burns, Conley (from Currier, Ashley).",ITH,CLK
+4,41,40,ITH,attack,kill,CLK,"Hangliter, Marin","Gonzalez-Abreu, Gabriela","Slavin, Wesley",,,,0,0,19,22,"[Hangliter, Marin] Kill by Gonzalez-Abreu, Gabriela (from Slavin, Wesley).",ITH,CLK
+4,42,41,ITH,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Clauhs, Naomi","Slavin, Wesley",,,,0,0,19,23,"[Gonzalez-Abreu, Gabriela] Kill by Clauhs, Naomi (from Slavin, Wesley).",ITH,CLK
+4,43,42,ITH,ace,service_ace,ITH,"Gonzalez-Abreu, Gabriela",,,,,"Hangliter, Marin",0,0,19,24,"[Gonzalez-Abreu, Gabriela] Service ace (Hangliter, Marin).",ITH,CLK
+4,44,43,CLK,attack,kill,ITH,"Gonzalez-Abreu, Gabriela","Burns, Conley","Currier, Ashley",,,,0,0,20,24,"[Gonzalez-Abreu, Gabriela] Kill by Burns, Conley (from Currier, Ashley).",ITH,CLK
+4,45,44,CLK,error,attack_error,CLK,"Baxter, Olivia","Leadbetter, Addison",,,"Leadbetter, Addison",,0,0,21,24,"[Baxter, Olivia] Attack error by Leadbetter, Addison.",ITH,CLK
+4,46,45,CLK,error,attack_error,CLK,"Baxter, Olivia","Leadbetter, Addison","Slavin, Wesley",,"Leadbetter, Addison",,0,0,22,24,"[Baxter, Olivia] Attack error by Leadbetter, Addison (from Slavin, Wesley).",ITH,CLK
+4,47,46,ITH,attack,kill,CLK,"Baxter, Olivia","Leadbetter, Addison","Slavin, Wesley",,,,0,0,22,25,"[Baxter, Olivia] Kill by Leadbetter, Addison (from Slavin, Wesley).",ITH,CLK

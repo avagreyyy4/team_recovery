@@ -1,0 +1,181 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,TrinTX,ace,service_ace,TrinTX,"DeRivel, Kendall",,,,,"Humphrey, Callie",0,1,0,1,"[DeRivel, Kendall] Service ace (Humphrey, Callie).",TrinTX,ETBU
+1,2,1,ETBU,attack,kill,TrinTX,"DeRivel, Kendall","Server, Katherine","Moody, Lexi",,,,0,0,1,1,"[DeRivel, Kendall] Kill by Server, Katherine (from Moody, Lexi).",TrinTX,ETBU
+1,3,2,ETBU,attack,kill,ETBU,"Server, Katherine","Hancock, Anita","Moody, Lexi",,,,0,1,2,1,"[Server, Katherine] Kill by Hancock, Anita (from Moody, Lexi).",TrinTX,ETBU
+1,4,3,TrinTX,attack,kill,ETBU,"Server, Katherine","Starr, Taylor","DeRivel, Kendall",,,,0,0,2,2,"[Server, Katherine] Kill by Starr, Taylor (from DeRivel, Kendall).",TrinTX,ETBU
+1,5,4,ETBU,attack,kill,TrinTX,"Long, Lily","Hancock, Anita","Moody, Lexi",,,,0,1,3,2,"[Long, Lily] Kill by Hancock, Anita (from Moody, Lexi).",TrinTX,ETBU
+1,6,5,TrinTX,error,service_error,ETBU,"Temple, Sydney",,,,"Temple, Sydney",,0,1,3,3,"[Temple, Sydney] Service error.",TrinTX,ETBU
+1,7,6,TrinTX,attack,kill,TrinTX,"Starr, Taylor","Pope, Courtney","Whatley, Reagan",,,,0,1,3,4,"[Starr, Taylor] Kill by Pope, Courtney (from Whatley, Reagan).",TrinTX,ETBU
+1,8,7,ETBU,error,service_error,TrinTX,"Starr, Taylor",,,,"Starr, Taylor",,0,0,4,4,"[Starr, Taylor] Service error.",TrinTX,ETBU
+1,9,8,ETBU,attack,kill,ETBU,"Mosley, Graycee","Gooch, Lindsey","Temple, Sydney",,,,0,1,5,4,"[Mosley, Graycee] Kill by Gooch, Lindsey (from Temple, Sydney).",TrinTX,ETBU
+1,10,9,ETBU,attack,kill,ETBU,"Mosley, Graycee","Hornsby, Lara","Temple, Sydney",,,,0,0,6,4,"[Mosley, Graycee] Kill by Hornsby, Lara (from Temple, Sydney).",TrinTX,ETBU
+1,11,10,ETBU,block,attack_error,ETBU,"Mosley, Graycee","Pope, Courtney",,"Hancock, Anita; Hornsby, Lara","Pope, Courtney",,0,0,7,4,"[Mosley, Graycee] Attack error by Pope, Courtney (block by Hancock, Anita; Hornsby, Lara).",TrinTX,ETBU
+1,12,11,TrinTX,attack,kill,ETBU,"Mosley, Graycee","Whatley, Reagan","DeRivel, Kendall",,,,0,0,7,5,"[Mosley, Graycee] Kill by Whatley, Reagan (from DeRivel, Kendall).",TrinTX,ETBU
+1,13,12,ETBU,attack,kill,TrinTX,"Dhayer, Jozie","Hancock, Anita","Temple, Sydney",,,,0,1,8,5,"[Dhayer, Jozie] Kill by Hancock, Anita (from Temple, Sydney).",TrinTX,ETBU
+1,14,13,TrinTX,attack,kill,ETBU,"Humphrey, Callie","Whatley, Reagan","Dhayer, Jozie",,,,0,1,8,6,"[Humphrey, Callie] Kill by Whatley, Reagan (from Dhayer, Jozie).",TrinTX,ETBU
+1,15,14,ETBU,attack,kill,TrinTX,"Whatley, Reagan","Server, Katherine","Temple, Sydney",,,,0,0,9,6,"[Whatley, Reagan] Kill by Server, Katherine (from Temple, Sydney).",TrinTX,ETBU
+1,16,15,TrinTX,error,service_error,ETBU,"Moody, Lexi",,,,"Moody, Lexi",,0,1,9,7,"[Moody, Lexi] Service error.",TrinTX,ETBU
+1,17,16,ETBU,attack,kill,TrinTX,"Rodriguez, Jenna","Riley, McKinzie","Moody, Lexi",,,,0,1,10,7,"[Rodriguez, Jenna] Kill by Riley, McKinzie (from Moody, Lexi).",TrinTX,ETBU
+1,18,17,ETBU,error,attack_error,ETBU,"Hornsby, Lara","Whatley, Reagan","Dhayer, Jozie",,"Whatley, Reagan",,0,0,11,7,"[Hornsby, Lara] Attack error by Whatley, Reagan (from Dhayer, Jozie).",TrinTX,ETBU
+1,19,18,ETBU,attack,kill,ETBU,"Hornsby, Lara","Riley, McKinzie","Moody, Lexi",,,,0,0,12,7,"[Hornsby, Lara] Kill by Riley, McKinzie (from Moody, Lexi).",TrinTX,ETBU
+1,20,19,ETBU,attack,kill,ETBU,"Hornsby, Lara","Moody, Lexi",,,,,0,0,13,7,"[Hornsby, Lara] Kill by Moody, Lexi.",TrinTX,ETBU
+1,21,20,ETBU,attack,kill,ETBU,"Hornsby, Lara","Mosley, Graycee","Moody, Lexi",,,,0,0,14,7,"[Hornsby, Lara] Kill by Mosley, Graycee (from Moody, Lexi).",TrinTX,ETBU
+1,22,21,TrinTX,attack,kill,ETBU,"Hornsby, Lara","McWilliams, Connelley","Dhayer, Jozie",,,,0,0,14,8,"[Hornsby, Lara] Kill by McWilliams, Connelley (from Dhayer, Jozie).",TrinTX,ETBU
+1,23,22,TrinTX,block,attack_error,TrinTX,"DeRivel, Kendall","Riley, McKinzie",,"Long, Lily; Starr, Taylor","Riley, McKinzie",,0,1,14,9,"[DeRivel, Kendall] Attack error by Riley, McKinzie (block by Long, Lily; Starr, Taylor).",TrinTX,ETBU
+1,24,23,TrinTX,ace,service_ace,TrinTX,"DeRivel, Kendall",,,,,"Kasowski, Sadie",0,0,14,10,"[DeRivel, Kendall] Service ace (Kasowski, Sadie).",TrinTX,ETBU
+1,25,24,TrinTX,error,attack_error,TrinTX,"DeRivel, Kendall","Mosley, Graycee","Moody, Lexi",,"Mosley, Graycee",,0,0,14,11,"[DeRivel, Kendall] Attack error by Mosley, Graycee (from Moody, Lexi).",TrinTX,ETBU
+1,26,25,TrinTX,attack,kill,TrinTX,"DeRivel, Kendall","Long, Lily","DeRivel, Kendall",,,,0,0,14,12,"[DeRivel, Kendall] Kill by Long, Lily (from DeRivel, Kendall).",TrinTX,ETBU
+1,27,26,TrinTX,error,attack_error,TrinTX,"DeRivel, Kendall","Mosley, Graycee","Moody, Lexi",,"Mosley, Graycee",,0,0,14,13,"[DeRivel, Kendall] Attack error by Mosley, Graycee (from Moody, Lexi).",TrinTX,ETBU
+1,28,27,ETBU,attack,kill,TrinTX,"DeRivel, Kendall","Server, Katherine","Moody, Lexi",,,,0,0,15,13,"[DeRivel, Kendall] Kill by Server, Katherine (from Moody, Lexi).",TrinTX,ETBU
+1,29,28,ETBU,block,attack_error,ETBU,"Poore, Taylor","Long, Lily",,"Hancock, Anita; Riley, McKinzie","Long, Lily",,0,1,16,13,"[Poore, Taylor] Attack error by Long, Lily (block by Hancock, Anita; Riley, McKinzie).",TrinTX,ETBU
+1,30,29,TrinTX,attack,kill,ETBU,"Poore, Taylor","Pope, Courtney","DeRivel, Kendall",,,,0,0,16,14,"[Poore, Taylor] Kill by Pope, Courtney (from DeRivel, Kendall).",TrinTX,ETBU
+1,31,30,ETBU,attack,kill,TrinTX,"Long, Lily","Mosley, Graycee","Moody, Lexi",,,,0,1,17,14,"[Long, Lily] Kill by Mosley, Graycee (from Moody, Lexi).",TrinTX,ETBU
+1,32,31,TrinTX,attack,kill,ETBU,"Temple, Sydney","Whatley, Reagan","DeRivel, Kendall",,,,0,1,17,15,"[Temple, Sydney] Kill by Whatley, Reagan (from DeRivel, Kendall).",TrinTX,ETBU
+1,33,32,TrinTX,block,attack_error,TrinTX,"Bishop, Brynn","Mosley, Graycee",,"Whatley, Reagan; McCarthy, Lauren","Mosley, Graycee",,0,1,17,16,"[Bishop, Brynn] Attack error by Mosley, Graycee (block by Whatley, Reagan; McCarthy, Lauren).",TrinTX,ETBU
+1,34,33,ETBU,error,service_error,TrinTX,"Bishop, Brynn",,,,"Bishop, Brynn",,0,0,18,16,"[Bishop, Brynn] Service error.",TrinTX,ETBU
+1,35,34,TrinTX,attack,kill,ETBU,"Mosley, Graycee","Whatley, Reagan",,,,,0,1,18,17,"[Mosley, Graycee] Kill by Whatley, Reagan.",TrinTX,ETBU
+1,36,35,ETBU,attack,kill,TrinTX,"Dhayer, Jozie","Mosley, Graycee","Temple, Sydney",,,,0,1,19,17,"[Dhayer, Jozie] Kill by Mosley, Graycee (from Temple, Sydney).",TrinTX,ETBU
+1,37,36,TrinTX,block,attack_error,ETBU,"Humphrey, Callie","Gooch, Lindsey",,"Whatley, Reagan; McCarthy, Lauren","Gooch, Lindsey",,0,1,19,18,"[Humphrey, Callie] Attack error by Gooch, Lindsey (block by Whatley, Reagan; McCarthy, Lauren).",TrinTX,ETBU
+1,38,37,TrinTX,error,attack_error,TrinTX,"Whatley, Reagan","Hornsby, Lara","Temple, Sydney",,"Hornsby, Lara",,0,0,19,19,"[Whatley, Reagan] Attack error by Hornsby, Lara (from Temple, Sydney).",TrinTX,ETBU
+1,39,38,TrinTX,error,attack_error,TrinTX,"Whatley, Reagan","Hornsby, Lara","Temple, Sydney",,"Hornsby, Lara",,0,0,19,20,"[Whatley, Reagan] Attack error by Hornsby, Lara (from Temple, Sydney).",TrinTX,ETBU
+1,40,39,TrinTX,error,attack_error,TrinTX,"Whatley, Reagan","Gooch, Lindsey","Temple, Sydney",,"Gooch, Lindsey",,0,0,19,21,"[Whatley, Reagan] Attack error by Gooch, Lindsey (from Temple, Sydney).",TrinTX,ETBU
+1,41,40,TrinTX,block,attack_error,TrinTX,"Whatley, Reagan","Hornsby, Lara",,"McCarthy, Lauren; McWilliams, Connelley","Hornsby, Lara",,0,0,19,22,"[Whatley, Reagan] Attack error by Hornsby, Lara (block by McCarthy, Lauren; McWilliams, Connelley).",TrinTX,ETBU
+1,42,41,ETBU,attack,kill,TrinTX,"Whatley, Reagan","Server, Katherine","Temple, Sydney",,,,0,0,20,22,"[Whatley, Reagan] Kill by Server, Katherine (from Temple, Sydney).",TrinTX,ETBU
+1,43,42,TrinTX,block,attack_error,ETBU,"Moody, Lexi","Riley, McKinzie",,"Long, Lily; McCarthy, Lauren","Riley, McKinzie",,0,1,20,23,"[Moody, Lexi] Attack error by Riley, McKinzie (block by Long, Lily; McCarthy, Lauren).",TrinTX,ETBU
+1,44,43,ETBU,attack,kill,TrinTX,"Rodriguez, Jenna","Humphrey, Callie","Server, Katherine",,,,0,1,21,23,"[Rodriguez, Jenna] Kill by Humphrey, Callie (from Server, Katherine).",TrinTX,ETBU
+1,45,44,TrinTX,attack,kill,ETBU,"Hornsby, Lara","McWilliams, Connelley","Dhayer, Jozie",,,,0,0,21,24,"[Hornsby, Lara] Kill by McWilliams, Connelley (from Dhayer, Jozie).",TrinTX,ETBU
+1,46,45,ETBU,attack,kill,TrinTX,"DeRivel, Kendall","Mosley, Graycee","Riley, McKinzie",,,,0,1,22,24,"[DeRivel, Kendall] Kill by Mosley, Graycee (from Riley, McKinzie).",TrinTX,ETBU
+1,47,46,TrinTX,attack,kill,ETBU,"Poore, Taylor","Pope, Courtney","DeRivel, Kendall",,,,0,1,22,25,"[Poore, Taylor] Kill by Pope, Courtney (from DeRivel, Kendall).",TrinTX,ETBU
+2,1,0,TrinTX,attack,kill,ETBU,"Poore, Taylor","Starr, Taylor","DeRivel, Kendall",,,,0,1,0,1,"[Poore, Taylor] Kill by Starr, Taylor (from DeRivel, Kendall).",TrinTX,ETBU
+2,2,1,ETBU,error,service_error,TrinTX,"Long, Lily",,,,"Long, Lily",,0,0,1,1,"[Long, Lily] Service error.",TrinTX,ETBU
+2,3,2,ETBU,block,attack_error,ETBU,"Server, Katherine","Pope, Courtney",,"Hancock, Anita; Mosley, Graycee","Pope, Courtney",,0,1,2,1,"[Server, Katherine] Attack error by Pope, Courtney (block by Hancock, Anita; Mosley, Graycee).",TrinTX,ETBU
+2,4,3,TrinTX,attack,kill,ETBU,"Server, Katherine","Long, Lily","DeRivel, Kendall",,,,0,0,2,2,"[Server, Katherine] Kill by Long, Lily (from DeRivel, Kendall).",TrinTX,ETBU
+2,5,4,TrinTX,ace,service_ace,TrinTX,"Starr, Taylor",,,,,"Poore, Taylor",0,1,2,3,"[Starr, Taylor] Service ace (Poore, Taylor).",TrinTX,ETBU
+2,6,5,ETBU,attack,kill,TrinTX,"Starr, Taylor","Mosley, Graycee","Moody, Lexi",,,,0,0,3,3,"[Starr, Taylor] Kill by Mosley, Graycee (from Moody, Lexi).",TrinTX,ETBU
+2,7,6,ETBU,attack,kill,ETBU,"Temple, Sydney","Gooch, Lindsey","Temple, Sydney",,,,0,1,4,3,"[Temple, Sydney] Kill by Gooch, Lindsey (from Temple, Sydney).",TrinTX,ETBU
+2,8,7,TrinTX,attack,kill,ETBU,"Temple, Sydney","DeRivel, Kendall","Whatley, Reagan",,,,0,0,4,4,"[Temple, Sydney] Kill by DeRivel, Kendall (from Whatley, Reagan).",TrinTX,ETBU
+2,9,8,TrinTX,error,attack_error,TrinTX,"Dhayer, Jozie","Gooch, Lindsey","Humphrey, Callie",,"Gooch, Lindsey",,0,1,4,5,"[Dhayer, Jozie] Attack error by Gooch, Lindsey (from Humphrey, Callie).",TrinTX,ETBU
+2,10,9,TrinTX,ace,service_ace,TrinTX,"Dhayer, Jozie",,,,,"Poore, Taylor",0,0,4,6,"[Dhayer, Jozie] Service ace (Poore, Taylor).",TrinTX,ETBU
+2,11,10,TrinTX,error,attack_error,TrinTX,"Dhayer, Jozie","Mosley, Graycee","Temple, Sydney",,"Mosley, Graycee",,0,0,4,7,"[Dhayer, Jozie] Attack error by Mosley, Graycee (from Temple, Sydney).",TrinTX,ETBU
+2,12,11,ETBU,attack,kill,TrinTX,"Dhayer, Jozie","Mosley, Graycee","Temple, Sydney",,,,0,0,5,7,"[Dhayer, Jozie] Kill by Mosley, Graycee (from Temple, Sydney).",TrinTX,ETBU
+2,13,12,ETBU,error,ball_handling_error,ETBU,"Mosley, Graycee",,,,"Long, Lily",,0,1,6,7,"[Mosley, Graycee] Bad set by Long, Lily.",TrinTX,ETBU
+2,14,13,ETBU,error,attack_error,ETBU,"Mosley, Graycee","McWilliams, Connelley","Dhayer, Jozie",,"McWilliams, Connelley",,0,0,7,7,"[Mosley, Graycee] Attack error by McWilliams, Connelley (from Dhayer, Jozie).",TrinTX,ETBU
+2,15,14,TrinTX,attack,kill,ETBU,"Mosley, Graycee","Whatley, Reagan","Dhayer, Jozie",,,,0,0,7,8,"[Mosley, Graycee] Kill by Whatley, Reagan (from Dhayer, Jozie).",TrinTX,ETBU
+2,16,15,ETBU,error,service_error,TrinTX,"Whatley, Reagan",,,,"Whatley, Reagan",,0,0,8,8,"[Whatley, Reagan] Service error.",TrinTX,ETBU
+2,17,16,ETBU,error,attack_error,ETBU,"Humphrey, Callie","McCarthy, Lauren","Dhayer, Jozie",,"McCarthy, Lauren",,0,1,9,8,"[Humphrey, Callie] Attack error by McCarthy, Lauren (from Dhayer, Jozie).",TrinTX,ETBU
+2,18,17,ETBU,attack,kill,ETBU,"Humphrey, Callie","Hornsby, Lara","Temple, Sydney",,,,0,0,10,8,"[Humphrey, Callie] Kill by Hornsby, Lara (from Temple, Sydney).",TrinTX,ETBU
+2,19,18,TrinTX,attack,kill,ETBU,"Humphrey, Callie","Long, Lily","Dhayer, Jozie",,,,0,0,10,9,"[Humphrey, Callie] Kill by Long, Lily (from Dhayer, Jozie).",TrinTX,ETBU
+2,20,19,TrinTX,block,attack_error,TrinTX,"Rodriguez, Jenna","Server, Katherine",,"Starr, Taylor; Long, Lily","Server, Katherine",,0,1,10,10,"[Rodriguez, Jenna] Attack error by Server, Katherine (block by Starr, Taylor; Long, Lily).",TrinTX,ETBU
+2,21,20,ETBU,error,service_error,TrinTX,"Rodriguez, Jenna",,,,"Rodriguez, Jenna",,0,0,11,10,"[Rodriguez, Jenna] Service error.",TrinTX,ETBU
+2,22,21,TrinTX,attack,kill,ETBU,"Moody, Lexi","Starr, Taylor","Dhayer, Jozie",,,,0,1,11,11,"[Moody, Lexi] Kill by Starr, Taylor (from Dhayer, Jozie).",TrinTX,ETBU
+2,23,22,TrinTX,attack,kill,TrinTX,"DeRivel, Kendall","DeRivel, Kendall","Rodriguez, Jenna",,,,0,1,11,12,"[DeRivel, Kendall] Kill by DeRivel, Kendall (from Rodriguez, Jenna).",TrinTX,ETBU
+2,24,23,TrinTX,error,attack_error,TrinTX,"DeRivel, Kendall","Server, Katherine","Moody, Lexi",,"Server, Katherine",,0,0,11,13,"[DeRivel, Kendall] Attack error by Server, Katherine (from Moody, Lexi).",TrinTX,ETBU
+2,25,24,ETBU,error,service_error,TrinTX,"DeRivel, Kendall",,,,"DeRivel, Kendall",,0,0,12,13,"[DeRivel, Kendall] Service error.",TrinTX,ETBU
+2,26,25,ETBU,error,attack_error,ETBU,"Hornsby, Lara","Long, Lily","Whatley, Reagan",,"Long, Lily",,0,0,13,13,"[Hornsby, Lara] Attack error by Long, Lily (from Whatley, Reagan).",TrinTX,ETBU
+2,27,26,ETBU,error,attack_error,ETBU,"Hornsby, Lara","Pope, Courtney","DeRivel, Kendall",,"Pope, Courtney",,0,0,14,13,"[Hornsby, Lara] Attack error by Pope, Courtney (from DeRivel, Kendall).",TrinTX,ETBU
+2,28,27,ETBU,error,attack_error,ETBU,"Hornsby, Lara","Long, Lily","DeRivel, Kendall",,"Long, Lily",,0,0,15,13,"[Hornsby, Lara] Attack error by Long, Lily (from DeRivel, Kendall).",TrinTX,ETBU
+2,29,28,ETBU,ace,service_ace,ETBU,"Hornsby, Lara",,,,,"Long, Lily",0,0,16,13,"[Hornsby, Lara] Service ace (Long, Lily).",TrinTX,ETBU
+2,30,29,TrinTX,block,attack_error,ETBU,"Hornsby, Lara","Riley, McKinzie",,"Starr, Taylor; Drange, Marissa","Riley, McKinzie",,0,1,16,14,"[Hornsby, Lara] Attack error by Riley, McKinzie (block by Starr, Taylor; Drange, Marissa).",TrinTX,ETBU
+2,31,30,ETBU,error,attack_error,TrinTX,"Bishop, Brynn","Pope, Courtney","Rodriguez, Jenna",,"Pope, Courtney",,0,1,17,14,"[Bishop, Brynn] Attack error by Pope, Courtney (from Rodriguez, Jenna).",TrinTX,ETBU
+2,32,31,ETBU,block,attack_error,ETBU,"Kasowski, Sadie","Starr, Taylor",,"Mosley, Graycee; Hancock, Anita","Starr, Taylor",,0,1,18,14,"[Kasowski, Sadie] Attack error by Starr, Taylor (block by Mosley, Graycee; Hancock, Anita).",TrinTX,ETBU
+2,33,32,ETBU,attack,kill,ETBU,"Kasowski, Sadie","Mosley, Graycee","Kasowski, Sadie",,,,0,0,19,14,"[Kasowski, Sadie] Kill by Mosley, Graycee (from Kasowski, Sadie).",TrinTX,ETBU
+2,34,33,TrinTX,attack,kill,ETBU,"Kasowski, Sadie","Whatley, Reagan","DeRivel, Kendall",,,,0,0,19,15,"[Kasowski, Sadie] Kill by Whatley, Reagan (from DeRivel, Kendall).",TrinTX,ETBU
+2,35,34,ETBU,attack,kill,TrinTX,"Starr, Taylor","Hancock, Anita","Moody, Lexi",,,,0,1,20,15,"[Starr, Taylor] Kill by Hancock, Anita (from Moody, Lexi).",TrinTX,ETBU
+2,36,35,TrinTX,attack,kill,ETBU,"Temple, Sydney","Pope, Courtney","DeRivel, Kendall",,,,0,1,20,16,"[Temple, Sydney] Kill by Pope, Courtney (from DeRivel, Kendall).",TrinTX,ETBU
+2,37,36,ETBU,attack,kill,TrinTX,"Dhayer, Jozie","Mosley, Graycee","Temple, Sydney",,,,0,1,21,16,"[Dhayer, Jozie] Kill by Mosley, Graycee (from Temple, Sydney).",TrinTX,ETBU
+2,38,37,ETBU,attack,kill,ETBU,"Mosley, Graycee","Gooch, Lindsey","Temple, Sydney",,,,0,1,22,16,"[Mosley, Graycee] Kill by Gooch, Lindsey (from Temple, Sydney).",TrinTX,ETBU
+2,39,38,TrinTX,attack,kill,ETBU,"Mosley, Graycee","Whatley, Reagan","Rodriguez, Jenna",,,,0,0,22,17,"[Mosley, Graycee] Kill by Whatley, Reagan (from Rodriguez, Jenna).",TrinTX,ETBU
+2,40,39,TrinTX,error,attack_error,TrinTX,"Whatley, Reagan","Gooch, Lindsey","Temple, Sydney",,"Gooch, Lindsey",,0,1,22,18,"[Whatley, Reagan] Attack error by Gooch, Lindsey (from Temple, Sydney).",TrinTX,ETBU
+2,41,40,ETBU,error,attack_error,TrinTX,"Whatley, Reagan","McWilliams, Connelley","Drange, Marissa",,"McWilliams, Connelley",,0,0,23,18,"[Whatley, Reagan] Attack error by McWilliams, Connelley (from Drange, Marissa).",TrinTX,ETBU
+2,42,41,ETBU,attack,kill,ETBU,"Humphrey, Callie","Hornsby, Lara","Temple, Sydney",,,,0,1,24,18,"[Humphrey, Callie] Kill by Hornsby, Lara (from Temple, Sydney).",TrinTX,ETBU
+2,43,42,ETBU,attack,kill,ETBU,"Humphrey, Callie","Hornsby, Lara","Humphrey, Callie",,,,0,0,25,18,"[Humphrey, Callie] Kill by Hornsby, Lara (from Humphrey, Callie).",TrinTX,ETBU
+3,1,0,TrinTX,ace,service_ace,TrinTX,"DeRivel, Kendall",,,,,"Humphrey, Callie",0,1,0,1,"[DeRivel, Kendall] Service ace (Humphrey, Callie).",TrinTX,ETBU
+3,2,1,TrinTX,ace,service_ace,TrinTX,"DeRivel, Kendall",,,,,Team,0,0,0,2,"[DeRivel, Kendall] Service ace (Team).",TrinTX,ETBU
+3,3,2,ETBU,attack,kill,TrinTX,"DeRivel, Kendall","Mosley, Graycee","Moody, Lexi",,,,0,0,1,2,"[DeRivel, Kendall] Kill by Mosley, Graycee (from Moody, Lexi).",TrinTX,ETBU
+3,4,3,TrinTX,attack,kill,ETBU,"Server, Katherine","Long, Lily","Rodriguez, Jenna",,,,0,0,1,3,"[Server, Katherine] Kill by Long, Lily (from Rodriguez, Jenna).",TrinTX,ETBU
+3,5,4,TrinTX,error,attack_error,TrinTX,"Long, Lily","Hancock, Anita","Moody, Lexi",,"Hancock, Anita",,0,1,1,4,"[Long, Lily] Attack error by Hancock, Anita (from Moody, Lexi).",TrinTX,ETBU
+3,6,5,ETBU,attack,kill,TrinTX,"Long, Lily","Mosley, Graycee","Moody, Lexi",,,,0,0,2,4,"[Long, Lily] Kill by Mosley, Graycee (from Moody, Lexi).",TrinTX,ETBU
+3,7,6,TrinTX,error,service_error,ETBU,"Temple, Sydney",,,,"Temple, Sydney",,0,1,2,5,"[Temple, Sydney] Service error.",TrinTX,ETBU
+3,8,7,TrinTX,attack,kill,TrinTX,"Starr, Taylor","Whatley, Reagan","Starr, Taylor",,,,0,1,2,6,"[Starr, Taylor] Kill by Whatley, Reagan (from Starr, Taylor).",TrinTX,ETBU
+3,9,8,TrinTX,ace,service_ace,TrinTX,"Starr, Taylor",,,,,"Poore, Taylor",0,0,2,7,"[Starr, Taylor] Service ace (Poore, Taylor).",TrinTX,ETBU
+3,10,9,ETBU,attack,kill,TrinTX,"Starr, Taylor","Hancock, Anita","Temple, Sydney",,,,0,0,3,7,"[Starr, Taylor] Kill by Hancock, Anita (from Temple, Sydney).",TrinTX,ETBU
+3,11,10,ETBU,error,attack_error,ETBU,"Mosley, Graycee","Pope, Courtney","Whatley, Reagan",,"Pope, Courtney",,0,1,4,7,"[Mosley, Graycee] Attack error by Pope, Courtney (from Whatley, Reagan).",TrinTX,ETBU
+3,12,11,TrinTX,error,ball_handling_error,ETBU,"Mosley, Graycee",,,,"Temple, Sydney",,0,0,4,8,"[Mosley, Graycee] Bad set by Temple, Sydney.",TrinTX,ETBU
+3,13,12,ETBU,error,service_error,TrinTX,"Dhayer, Jozie",,,,"Dhayer, Jozie",,0,1,5,8,"[Dhayer, Jozie] Service error.",TrinTX,ETBU
+3,14,13,TrinTX,block,attack_error,ETBU,"Humphrey, Callie","Hornsby, Lara",,"McWilliams, Connelley; McCarthy, Lauren","Hornsby, Lara",,0,1,5,9,"[Humphrey, Callie] Attack error by Hornsby, Lara (block by McWilliams, Connelley; McCarthy, Lauren).",TrinTX,ETBU
+3,15,14,ETBU,error,service_error,TrinTX,"Whatley, Reagan",,,,"Whatley, Reagan",,0,0,6,9,"[Whatley, Reagan] Service error.",TrinTX,ETBU
+3,16,15,ETBU,block,attack_error,ETBU,"Moody, Lexi","McWilliams, Connelley",,"Hancock, Anita; Hornsby, Lara","McWilliams, Connelley",,0,1,7,9,"[Moody, Lexi] Attack error by McWilliams, Connelley (block by Hancock, Anita; Hornsby, Lara).",TrinTX,ETBU
+3,17,16,ETBU,block,attack_error,ETBU,"Moody, Lexi","Long, Lily",,"Riley, McKinzie; Hancock, Anita","Long, Lily",,0,0,8,9,"[Moody, Lexi] Attack error by Long, Lily (block by Riley, McKinzie; Hancock, Anita).",TrinTX,ETBU
+3,18,17,TrinTX,block,attack_error,ETBU,"Moody, Lexi","Riley, McKinzie",,"Long, Lily","Riley, McKinzie",,0,0,8,10,"[Moody, Lexi] Attack error by Riley, McKinzie (block by Long, Lily).",TrinTX,ETBU
+3,19,18,TrinTX,attack,kill,TrinTX,"Rodriguez, Jenna","Long, Lily","Dhayer, Jozie",,,,0,1,8,11,"[Rodriguez, Jenna] Kill by Long, Lily (from Dhayer, Jozie).",TrinTX,ETBU
+3,20,19,TrinTX,error,ball_handling_error,TrinTX,"Rodriguez, Jenna",,,,"Moody, Lexi",,0,0,8,12,"[Rodriguez, Jenna] Ball handling error by Moody, Lexi.",TrinTX,ETBU
+3,21,20,TrinTX,attack,kill,TrinTX,"Rodriguez, Jenna","Starr, Taylor",,,,,0,0,8,13,"[Rodriguez, Jenna] Kill by Starr, Taylor.",TrinTX,ETBU
+3,22,21,TrinTX,block,attack_error,TrinTX,"Rodriguez, Jenna","Hornsby, Lara",,"Starr, Taylor; McWilliams, Connelley","Hornsby, Lara",,0,0,8,14,"[Rodriguez, Jenna] Attack error by Hornsby, Lara (block by Starr, Taylor; McWilliams, Connelley).",TrinTX,ETBU
+3,23,22,ETBU,error,attack_error,TrinTX,"Rodriguez, Jenna","Whatley, Reagan","Dhayer, Jozie",,"Whatley, Reagan",,0,1,9,14,"[Rodriguez, Jenna] Attack error by Whatley, Reagan (from Dhayer, Jozie).",TrinTX,ETBU
+3,24,23,TrinTX,attack,kill,ETBU,"Hornsby, Lara","Long, Lily","Dhayer, Jozie",,,,0,0,9,15,"[Hornsby, Lara] Kill by Long, Lily (from Dhayer, Jozie).",TrinTX,ETBU
+3,25,24,TrinTX,attack,kill,TrinTX,"DeRivel, Kendall","Pope, Courtney","DeRivel, Kendall",,,,0,1,9,16,"[DeRivel, Kendall] Kill by Pope, Courtney (from DeRivel, Kendall).",TrinTX,ETBU
+3,26,25,ETBU,attack,kill,TrinTX,"DeRivel, Kendall","Mosley, Graycee","Moody, Lexi",,,,0,0,10,16,"[DeRivel, Kendall] Kill by Mosley, Graycee (from Moody, Lexi).",TrinTX,ETBU
+3,27,26,ETBU,attack,kill,ETBU,"Kasowski, Sadie","Hancock, Anita","Moody, Lexi",,,,0,1,11,16,"[Kasowski, Sadie] Kill by Hancock, Anita (from Moody, Lexi).",TrinTX,ETBU
+3,28,27,ETBU,attack,kill,ETBU,"Kasowski, Sadie","Mosley, Graycee",,,,,0,0,12,16,"[Kasowski, Sadie] Kill by Mosley, Graycee.",TrinTX,ETBU
+3,29,28,TrinTX,attack,kill,ETBU,"Kasowski, Sadie","Long, Lily","DeRivel, Kendall",,,,0,0,12,17,"[Kasowski, Sadie] Kill by Long, Lily (from DeRivel, Kendall).",TrinTX,ETBU
+3,30,29,ETBU,attack,kill,TrinTX,"Long, Lily","Hancock, Anita","Moody, Lexi",,,,0,1,13,17,"[Long, Lily] Kill by Hancock, Anita (from Moody, Lexi).",TrinTX,ETBU
+3,31,30,TrinTX,attack,kill,ETBU,"Temple, Sydney","Whatley, Reagan","DeRivel, Kendall",,,,0,1,13,18,"[Temple, Sydney] Kill by Whatley, Reagan (from DeRivel, Kendall).",TrinTX,ETBU
+3,32,31,ETBU,block,attack_error,TrinTX,"Bishop, Brynn","Pope, Courtney",,"Hancock, Anita; Mosley, Graycee","Pope, Courtney",,0,1,14,18,"[Bishop, Brynn] Attack error by Pope, Courtney (block by Hancock, Anita; Mosley, Graycee).",TrinTX,ETBU
+3,33,32,TrinTX,attack,kill,ETBU,"Mosley, Graycee","DeRivel, Kendall","Whatley, Reagan",,,,0,1,14,19,"[Mosley, Graycee] Kill by DeRivel, Kendall (from Whatley, Reagan).",TrinTX,ETBU
+3,34,33,ETBU,attack,kill,TrinTX,"Dhayer, Jozie","Gooch, Lindsey","Temple, Sydney",,,,0,1,15,19,"[Dhayer, Jozie] Kill by Gooch, Lindsey (from Temple, Sydney).",TrinTX,ETBU
+3,35,34,ETBU,attack,kill,ETBU,"Humphrey, Callie","Server, Katherine","Temple, Sydney",,,,0,1,16,19,"[Humphrey, Callie] Kill by Server, Katherine (from Temple, Sydney).",TrinTX,ETBU
+3,36,35,TrinTX,attack,kill,ETBU,"Humphrey, Callie","Whatley, Reagan","Rodriguez, Jenna",,,,0,0,16,20,"[Humphrey, Callie] Kill by Whatley, Reagan (from Rodriguez, Jenna).",TrinTX,ETBU
+3,37,36,ETBU,attack,kill,TrinTX,"Whatley, Reagan","Hornsby, Lara","Humphrey, Callie",,,,0,0,17,20,"[Whatley, Reagan] Kill by Hornsby, Lara (from Humphrey, Callie).",TrinTX,ETBU
+3,38,37,TrinTX,attack,kill,ETBU,"Moody, Lexi","Long, Lily","Dhayer, Jozie",,,,0,1,17,21,"[Moody, Lexi] Kill by Long, Lily (from Dhayer, Jozie).",TrinTX,ETBU
+3,39,38,ETBU,attack,kill,TrinTX,"Rodriguez, Jenna","Server, Katherine","Moody, Lexi",,,,0,1,18,21,"[Rodriguez, Jenna] Kill by Server, Katherine (from Moody, Lexi).",TrinTX,ETBU
+3,40,39,TrinTX,attack,kill,ETBU,"Hornsby, Lara","Starr, Taylor","Dhayer, Jozie",,,,0,0,18,22,"[Hornsby, Lara] Kill by Starr, Taylor (from Dhayer, Jozie).",TrinTX,ETBU
+3,41,40,ETBU,error,service_error,TrinTX,"DeRivel, Kendall",,,,"DeRivel, Kendall",,0,1,19,22,"[DeRivel, Kendall] Service error.",TrinTX,ETBU
+3,42,41,ETBU,attack,kill,ETBU,"Server, Katherine","Mosley, Graycee","Moody, Lexi",,,,0,1,20,22,"[Server, Katherine] Kill by Mosley, Graycee (from Moody, Lexi).",TrinTX,ETBU
+3,43,42,ETBU,attack,kill,ETBU,"Server, Katherine","Hancock, Anita","Moody, Lexi",,,,0,1,21,22,"[Server, Katherine] Kill by Hancock, Anita (from Moody, Lexi).",TrinTX,ETBU
+3,44,43,ETBU,error,attack_error,ETBU,"Server, Katherine","Whatley, Reagan","DeRivel, Kendall",,"Whatley, Reagan",,0,0,22,22,"[Server, Katherine] Attack error by Whatley, Reagan (from DeRivel, Kendall).",TrinTX,ETBU
+3,45,44,ETBU,error,attack_error,ETBU,"Server, Katherine","Long, Lily","Rodriguez, Jenna",,"Long, Lily",,0,0,23,22,"[Server, Katherine] Attack error by Long, Lily (from Rodriguez, Jenna).",TrinTX,ETBU
+3,46,45,TrinTX,error,service_error,ETBU,"Server, Katherine",,,,"Server, Katherine",,0,1,23,23,"[Server, Katherine] Service error.",TrinTX,ETBU
+3,47,46,ETBU,attack,kill,TrinTX,"Drange, Marissa","Hancock, Anita","Moody, Lexi",,,,0,1,24,23,"[Drange, Marissa] Kill by Hancock, Anita (from Moody, Lexi).",TrinTX,ETBU
+3,48,47,TrinTX,attack,kill,ETBU,"Temple, Sydney","Whatley, Reagan","DeRivel, Kendall",,,,0,1,24,24,"[Temple, Sydney] Kill by Whatley, Reagan (from DeRivel, Kendall).",TrinTX,ETBU
+3,49,48,ETBU,attack,kill,TrinTX,"Bishop, Brynn","Hancock, Anita","Temple, Sydney",,,,0,1,25,24,"[Bishop, Brynn] Kill by Hancock, Anita (from Temple, Sydney).",TrinTX,ETBU
+3,50,49,ETBU,attack,kill,ETBU,"Hancock, Anita","Hancock, Anita","Temple, Sydney",,,,0,1,26,24,"[Hancock, Anita] Kill by Hancock, Anita (from Temple, Sydney).",TrinTX,ETBU
+4,1,0,TrinTX,attack,kill,ETBU,"Poore, Taylor","Whatley, Reagan","Rodriguez, Jenna",,,,0,1,0,1,"[Poore, Taylor] Kill by Whatley, Reagan (from Rodriguez, Jenna).",TrinTX,ETBU
+4,2,1,TrinTX,error,attack_error,TrinTX,"Long, Lily","Mosley, Graycee","Moody, Lexi",,"Mosley, Graycee",,0,0,0,2,"[Long, Lily] Attack error by Mosley, Graycee (from Moody, Lexi).",TrinTX,ETBU
+4,3,2,TrinTX,error,attack_error,TrinTX,"Long, Lily","Mosley, Graycee","Moody, Lexi",,"Mosley, Graycee",,0,0,0,3,"[Long, Lily] Attack error by Mosley, Graycee (from Moody, Lexi).",TrinTX,ETBU
+4,4,3,ETBU,attack,kill,TrinTX,"Long, Lily","Mosley, Graycee","Moody, Lexi",,,,0,0,1,3,"[Long, Lily] Kill by Mosley, Graycee (from Moody, Lexi).",TrinTX,ETBU
+4,5,4,TrinTX,error,attack_error,ETBU,"Server, Katherine","Mosley, Graycee",,,"Mosley, Graycee",,0,1,1,4,"[Server, Katherine] Attack error by Mosley, Graycee.",TrinTX,ETBU
+4,6,5,ETBU,attack,kill,TrinTX,"Starr, Taylor","Mosley, Graycee","Moody, Lexi",,,,0,1,2,4,"[Starr, Taylor] Kill by Mosley, Graycee (from Moody, Lexi).",TrinTX,ETBU
+4,7,6,TrinTX,attack,kill,ETBU,"Temple, Sydney","McWilliams, Connelley","DeRivel, Kendall",,,,0,1,2,5,"[Temple, Sydney] Kill by McWilliams, Connelley (from DeRivel, Kendall).",TrinTX,ETBU
+4,8,7,ETBU,attack,kill,TrinTX,"Dhayer, Jozie","Mosley, Graycee","Temple, Sydney",,,,0,1,3,5,"[Dhayer, Jozie] Kill by Mosley, Graycee (from Temple, Sydney).",TrinTX,ETBU
+4,9,8,ETBU,block,attack_error,ETBU,"Mosley, Graycee","Whatley, Reagan",,"Hancock, Anita; Gooch, Lindsey","Whatley, Reagan",,0,1,4,5,"[Mosley, Graycee] Attack error by Whatley, Reagan (block by Hancock, Anita; Gooch, Lindsey).",TrinTX,ETBU
+4,10,9,ETBU,attack,kill,ETBU,"Mosley, Graycee","Hancock, Anita","Gooch, Lindsey",,,,0,0,5,5,"[Mosley, Graycee] Kill by Hancock, Anita (from Gooch, Lindsey).",TrinTX,ETBU
+4,11,10,ETBU,ace,service_ace,ETBU,"Mosley, Graycee",,,,,"Long, Lily",0,1,6,5,"[Mosley, Graycee] Service ace (Long, Lily).",TrinTX,ETBU
+4,12,11,TrinTX,attack,kill,ETBU,"Mosley, Graycee","Pope, Courtney","Dhayer, Jozie",,,,0,0,6,6,"[Mosley, Graycee] Kill by Pope, Courtney (from Dhayer, Jozie).",TrinTX,ETBU
+4,13,12,TrinTX,error,attack_error,TrinTX,"Whatley, Reagan","Hornsby, Lara","Humphrey, Callie",,"Hornsby, Lara",,0,0,6,7,"[Whatley, Reagan] Attack error by Hornsby, Lara (from Humphrey, Callie).",TrinTX,ETBU
+4,14,13,ETBU,attack,kill,TrinTX,"Whatley, Reagan","Hancock, Anita","Long, Lily",,,,0,0,7,7,"[Whatley, Reagan] Kill by Hancock, Anita (from Long, Lily).",TrinTX,ETBU
+4,15,14,TrinTX,attack,kill,ETBU,"Humphrey, Callie","Long, Lily","Dhayer, Jozie",,,,0,1,7,8,"[Humphrey, Callie] Kill by Long, Lily (from Dhayer, Jozie).",TrinTX,ETBU
+4,16,15,ETBU,attack,kill,TrinTX,"Rodriguez, Jenna","Gooch, Lindsey","Temple, Sydney",,,,0,1,8,8,"[Rodriguez, Jenna] Kill by Gooch, Lindsey (from Temple, Sydney).",TrinTX,ETBU
+4,17,16,TrinTX,error,attack_error,ETBU,"Moody, Lexi","Riley, McKinzie","Moody, Lexi",,"Riley, McKinzie",,0,1,8,9,"[Moody, Lexi] Attack error by Riley, McKinzie (from Moody, Lexi).",TrinTX,ETBU
+4,18,17,ETBU,attack,kill,TrinTX,"DeRivel, Kendall","Hornsby, Lara","Moody, Lexi",,,,0,1,9,9,"[DeRivel, Kendall] Kill by Hornsby, Lara (from Moody, Lexi).",TrinTX,ETBU
+4,19,18,ETBU,attack,kill,ETBU,"Hornsby, Lara","Mosley, Graycee","Moody, Lexi",,,,0,0,10,9,"[Hornsby, Lara] Kill by Mosley, Graycee (from Moody, Lexi).",TrinTX,ETBU
+4,20,19,TrinTX,attack,kill,ETBU,"Hornsby, Lara","McWilliams, Connelley","DeRivel, Kendall",,,,0,0,10,10,"[Hornsby, Lara] Kill by McWilliams, Connelley (from DeRivel, Kendall).",TrinTX,ETBU
+4,21,20,ETBU,error,service_error,TrinTX,"Long, Lily",,,,"Long, Lily",,0,1,11,10,"[Long, Lily] Service error.",TrinTX,ETBU
+4,22,21,TrinTX,attack,kill,ETBU,"Kasowski, Sadie","Whatley, Reagan","DeRivel, Kendall",,,,0,1,11,11,"[Kasowski, Sadie] Kill by Whatley, Reagan (from DeRivel, Kendall).",TrinTX,ETBU
+4,23,22,ETBU,attack,kill,TrinTX,"Vera, Aeris","Mosley, Graycee","Moody, Lexi",,,,0,1,12,11,"[Vera, Aeris] Kill by Mosley, Graycee (from Moody, Lexi).",TrinTX,ETBU
+4,24,23,ETBU,attack,kill,ETBU,"Temple, Sydney","Mosley, Graycee","Hancock, Anita",,,,0,1,13,11,"[Temple, Sydney] Kill by Mosley, Graycee (from Hancock, Anita).",TrinTX,ETBU
+4,25,24,TrinTX,attack,kill,ETBU,"Temple, Sydney","Whatley, Reagan","DeRivel, Kendall",,,,0,0,13,12,"[Temple, Sydney] Kill by Whatley, Reagan (from DeRivel, Kendall).",TrinTX,ETBU
+4,26,25,ETBU,error,service_error,TrinTX,"Dhayer, Jozie",,,,"Dhayer, Jozie",,0,1,14,12,"[Dhayer, Jozie] Service error.",TrinTX,ETBU
+4,27,26,ETBU,attack,kill,ETBU,"Mosley, Graycee","Hancock, Anita","Temple, Sydney",,,,0,1,15,12,"[Mosley, Graycee] Kill by Hancock, Anita (from Temple, Sydney).",TrinTX,ETBU
+4,28,27,ETBU,attack,kill,ETBU,"Mosley, Graycee","Hornsby, Lara","Temple, Sydney",,,,0,0,16,12,"[Mosley, Graycee] Kill by Hornsby, Lara (from Temple, Sydney).",TrinTX,ETBU
+4,29,28,TrinTX,error,service_error,ETBU,"Mosley, Graycee",,,,"Mosley, Graycee",,0,0,16,13,"[Mosley, Graycee] Service error.",TrinTX,ETBU
+4,30,29,ETBU,attack,kill,TrinTX,"Whatley, Reagan","Hornsby, Lara","Temple, Sydney",,,,0,0,17,13,"[Whatley, Reagan] Kill by Hornsby, Lara (from Temple, Sydney).",TrinTX,ETBU
+4,31,30,ETBU,attack,kill,ETBU,"Humphrey, Callie","Gooch, Lindsey","Temple, Sydney",,,,0,1,18,13,"[Humphrey, Callie] Kill by Gooch, Lindsey (from Temple, Sydney).",TrinTX,ETBU
+4,32,31,ETBU,attack,kill,ETBU,"Humphrey, Callie","Hornsby, Lara","Temple, Sydney",,,,0,0,19,13,"[Humphrey, Callie] Kill by Hornsby, Lara (from Temple, Sydney).",TrinTX,ETBU
+4,33,32,ETBU,attack,kill,ETBU,"Humphrey, Callie","Gooch, Lindsey","Hornsby, Lara",,,,0,0,20,13,"[Humphrey, Callie] Kill by Gooch, Lindsey (from Hornsby, Lara).",TrinTX,ETBU
+4,34,33,TrinTX,attack,kill,ETBU,"Humphrey, Callie","Long, Lily","Dhayer, Jozie",,,,0,0,20,14,"[Humphrey, Callie] Kill by Long, Lily (from Dhayer, Jozie).",TrinTX,ETBU
+4,35,34,ETBU,attack,kill,TrinTX,"Rodriguez, Jenna","Gooch, Lindsey","Temple, Sydney",,,,0,1,21,14,"[Rodriguez, Jenna] Kill by Gooch, Lindsey (from Temple, Sydney).",TrinTX,ETBU
+4,36,35,ETBU,attack,kill,ETBU,"Moody, Lexi","Hornsby, Lara","Moody, Lexi",,,,0,1,22,14,"[Moody, Lexi] Kill by Hornsby, Lara (from Moody, Lexi).",TrinTX,ETBU
+4,37,36,ETBU,ace,service_ace,ETBU,"Moody, Lexi",,,,,Team,0,0,23,14,"[Moody, Lexi] Service ace (Team).",TrinTX,ETBU
+4,38,37,ETBU,error,attack_error,ETBU,"Moody, Lexi","Long, Lily","Dhayer, Jozie",,"Long, Lily",,0,0,24,14,"[Moody, Lexi] Attack error by Long, Lily (from Dhayer, Jozie).",TrinTX,ETBU
+4,39,38,TrinTX,attack,kill,ETBU,"Moody, Lexi","Starr, Taylor","Dhayer, Jozie",,,,0,0,24,15,"[Moody, Lexi] Kill by Starr, Taylor (from Dhayer, Jozie).",TrinTX,ETBU
+4,40,39,ETBU,attack,kill,TrinTX,"DeRivel, Kendall","Hornsby, Lara","Moody, Lexi",,,,0,1,25,15,"[DeRivel, Kendall] Kill by Hornsby, Lara (from Moody, Lexi).",TrinTX,ETBU

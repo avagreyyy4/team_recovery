@@ -1,0 +1,140 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,WSC,error,service_error,UNI,"Escobar, Graciela",,,,"Escobar, Graciela",,0,0,1,0,"[Escobar, Graciela] Service error.",UNI,WSC
+1,2,1,WSC,attack,kill,WSC,"Williams, Delainy","Sayre, Malya","Williams, Delainy",,,,0,1,2,0,"[Williams, Delainy] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+1,3,2,UNI,block,attack_error,WSC,"Williams, Delainy","Von Dohlen, Hope",,"Kronenberg, Allie; McGrath, Shannon","Von Dohlen, Hope",,0,0,2,1,"[Williams, Delainy] Attack error by Von Dohlen, Hope (block by Kronenberg, Allie; McGrath, Shannon).",UNI,WSC
+1,4,3,UNI,error,attack_error,UNI,"Herrin, Melody","Sayre, Malya","Vanderhoof, Kali",,"Sayre, Malya",,0,0,2,2,"[Herrin, Melody] Attack error by Sayre, Malya (from Vanderhoof, Kali).",UNI,WSC
+1,5,4,UNI,attack,kill,UNI,"Herrin, Melody","McGrath, Shannon",,,,,0,0,2,3,"[Herrin, Melody] Kill by McGrath, Shannon.",UNI,WSC
+1,6,5,WSC,attack,kill,UNI,"Herrin, Melody","Sayre, Malya","Williams, Delainy",,,,0,0,3,3,"[Herrin, Melody] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+1,7,6,WSC,block,attack_error,WSC,"Sayre, Malya","McCarron, Maddie",,"Newsome, Arielle; Von Dohlen, Hope","McCarron, Maddie",,0,0,4,3,"[Sayre, Malya] Attack error by McCarron, Maddie (block by Newsome, Arielle; Von Dohlen, Hope).",UNI,WSC
+1,8,7,WSC,block,attack_error,WSC,"Sayre, Malya","McCarron, Maddie",,"Fulton, Emily; Newsome, Arielle","McCarron, Maddie",,0,0,5,3,"[Sayre, Malya] Attack error by McCarron, Maddie (block by Fulton, Emily; Newsome, Arielle).",UNI,WSC
+1,9,8,WSC,ace,service_ace,WSC,"Sayre, Malya",,,,,"Main, Emma",0,0,6,3,"[Sayre, Malya] Service ace (Main, Emma).",UNI,WSC
+1,10,9,WSC,block,attack_error,WSC,"Sayre, Malya","McGrath, Shannon",,"Von Dohlen, Hope; Newsome, Arielle","McGrath, Shannon",,0,0,7,3,"[Sayre, Malya] Attack error by McGrath, Shannon (block by Von Dohlen, Hope; Newsome, Arielle).",UNI,WSC
+1,11,10,UNI,error,attack_error,WSC,"Sayre, Malya","Sayre, Malya","Williams, Delainy",,"Sayre, Malya",,0,0,7,4,"[Sayre, Malya] Attack error by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+1,12,11,WSC,attack,kill,UNI,"Kronenberg, Allie","Newsome, Arielle","Williams, Delainy",,,,0,1,8,4,"[Kronenberg, Allie] Kill by Newsome, Arielle (from Williams, Delainy).",UNI,WSC
+1,13,12,UNI,attack,kill,WSC,"Vanderhoof, Kali","McCarron, Maddie","Kronenberg, Allie",,,,0,0,8,5,"[Vanderhoof, Kali] Kill by McCarron, Maddie (from Kronenberg, Allie).",UNI,WSC
+1,14,13,WSC,attack,kill,UNI,"McGrath, Shannon","Von Dohlen, Hope","Williams, Delainy",,,,0,0,9,5,"[McGrath, Shannon] Kill by Von Dohlen, Hope (from Williams, Delainy).",UNI,WSC
+1,15,14,WSC,ace,service_ace,WSC,"Fernandez, Cydney",,,,,"Martinez Cartagena, Kayla",0,1,10,5,"[Fernandez, Cydney] Service ace (Martinez Cartagena, Kayla).",UNI,WSC
+1,16,15,WSC,error,attack_error,WSC,"Fernandez, Cydney","Pinciaro, Georgia","Kronenberg, Allie",,"Pinciaro, Georgia",,0,0,11,5,"[Fernandez, Cydney] Attack error by Pinciaro, Georgia (from Kronenberg, Allie).",UNI,WSC
+1,17,16,UNI,attack,kill,WSC,"Fernandez, Cydney","Pinciaro, Georgia","Pool, Georgia",,,,0,0,11,6,"[Fernandez, Cydney] Kill by Pinciaro, Georgia (from Pool, Georgia).",UNI,WSC
+1,18,17,WSC,attack,kill,UNI,"Pool, Georgia","Fulton, Emily","Williams, Delainy",,,,0,0,12,6,"[Pool, Georgia] Kill by Fulton, Emily (from Williams, Delainy).",UNI,WSC
+1,19,18,UNI,attack,kill,WSC,"Fulton, Emily","Martinez Cartagena, Kayla","Kronenberg, Allie",,,,0,0,12,7,"[Fulton, Emily] Kill by Martinez Cartagena, Kayla (from Kronenberg, Allie).",UNI,WSC
+1,20,19,WSC,attack,kill,UNI,"Main, Emma","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,13,7,"[Main, Emma] Kill by McCarthy, Jaylynn (from Williams, Delainy).",UNI,WSC
+1,21,20,UNI,error,service_error,WSC,"Kresl, Madilyn",,,,"Kresl, Madilyn",,0,1,13,8,"[Kresl, Madilyn] Service error.",UNI,WSC
+1,22,21,WSC,attack,kill,UNI,"Escobar, Graciela","Sayre, Malya","Williams, Delainy",,,,0,0,14,8,"[Escobar, Graciela] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+1,23,22,WSC,error,attack_error,WSC,"Williams, Delainy","Kronenberg, Allie",,,"Kronenberg, Allie",,0,0,15,8,"[Williams, Delainy] Attack error by Kronenberg, Allie.",UNI,WSC
+1,24,23,WSC,ace,service_ace,WSC,"Williams, Delainy",,,,,"Main, Emma",0,0,16,8,"[Williams, Delainy] Service ace (Main, Emma).",UNI,WSC
+1,25,24,UNI,attack,kill,WSC,"Williams, Delainy","McGrath, Shannon","Kronenberg, Allie",,,,0,0,16,9,"[Williams, Delainy] Kill by McGrath, Shannon (from Kronenberg, Allie).",UNI,WSC
+1,26,25,WSC,attack,kill,UNI,"Bailey, Madisen","Sayre, Malya","Williams, Delainy",,,,0,1,17,9,"[Bailey, Madisen] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+1,27,26,UNI,error,attack_error,WSC,"Sayre, Malya","Fulton, Emily","Vanderhoof, Kali",,"Fulton, Emily",,0,0,17,10,"[Sayre, Malya] Attack error by Fulton, Emily (from Vanderhoof, Kali).",UNI,WSC
+1,28,27,WSC,attack,kill,UNI,"Kronenberg, Allie","Newsome, Arielle","Williams, Delainy",,,,0,0,18,10,"[Kronenberg, Allie] Kill by Newsome, Arielle (from Williams, Delainy).",UNI,WSC
+1,29,28,UNI,error,attack_error,WSC,"Vanderhoof, Kali","Von Dohlen, Hope","Vanderhoof, Kali",,"Von Dohlen, Hope",,0,0,18,11,"[Vanderhoof, Kali] Attack error by Von Dohlen, Hope (from Vanderhoof, Kali).",UNI,WSC
+1,30,29,WSC,attack,kill,UNI,"McGrath, Shannon","Fulton, Emily","Williams, Delainy",,,,0,0,19,11,"[McGrath, Shannon] Kill by Fulton, Emily (from Williams, Delainy).",UNI,WSC
+1,31,30,WSC,error,attack_error,WSC,"Fernandez, Cydney","Pinciaro, Georgia","Kronenberg, Allie",,"Pinciaro, Georgia",,0,0,20,11,"[Fernandez, Cydney] Attack error by Pinciaro, Georgia (from Kronenberg, Allie).",UNI,WSC
+1,32,31,WSC,ace,service_ace,WSC,"Fernandez, Cydney",,,,,"Pool, Georgia",0,0,21,11,"[Fernandez, Cydney] Service ace (Pool, Georgia).",UNI,WSC
+1,33,32,WSC,ace,service_ace,WSC,"Fernandez, Cydney",,,,,"Pool, Georgia",0,0,22,11,"[Fernandez, Cydney] Service ace (Pool, Georgia).",UNI,WSC
+1,34,33,UNI,attack,kill,WSC,"Fernandez, Cydney","McCarron, Maddie","Kronenberg, Allie",,,,0,0,22,12,"[Fernandez, Cydney] Kill by McCarron, Maddie (from Kronenberg, Allie).",UNI,WSC
+1,35,34,UNI,block,attack_error,UNI,"Pool, Georgia","McCarthy, Jaylynn",,"Martinez Cartagena, Kayla; Herrin, Melody","McCarthy, Jaylynn",,0,0,22,13,"[Pool, Georgia] Attack error by McCarthy, Jaylynn (block by Martinez Cartagena, Kayla; Herrin, Melody).",UNI,WSC
+1,36,35,WSC,attack,kill,UNI,"Pool, Georgia","Fulton, Emily","Williams, Delainy",,,,0,0,23,13,"[Pool, Georgia] Kill by Fulton, Emily (from Williams, Delainy).",UNI,WSC
+1,37,36,UNI,attack,kill,WSC,"Fulton, Emily","Martinez Cartagena, Kayla","Kronenberg, Allie",,,,0,0,23,14,"[Fulton, Emily] Kill by Martinez Cartagena, Kayla (from Kronenberg, Allie).",UNI,WSC
+1,38,37,WSC,attack,kill,UNI,"McGrath, Shannon","Sayre, Malya","Williams, Delainy",,,,0,0,24,14,"[McGrath, Shannon] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+1,39,38,WSC,ace,service_ace,WSC,"Kresl, Madilyn",,,,,"McGrath, Shannon",0,0,25,14,"[Kresl, Madilyn] Service ace (McGrath, Shannon).",UNI,WSC
+2,1,0,WSC,attack,kill,WSC,"Williams, Delainy","Von Dohlen, Hope","Williams, Delainy",,,,0,1,1,0,"[Williams, Delainy] Kill by Von Dohlen, Hope (from Williams, Delainy).",UNI,WSC
+2,2,1,WSC,attack,kill,WSC,"Williams, Delainy","Sayre, Malya","Williams, Delainy",,,,0,0,2,0,"[Williams, Delainy] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+2,3,2,UNI,attack,kill,WSC,"Williams, Delainy","McGrath, Shannon","Kronenberg, Allie",,,,0,0,2,1,"[Williams, Delainy] Kill by McGrath, Shannon (from Kronenberg, Allie).",UNI,WSC
+2,4,3,WSC,attack,kill,UNI,"Escobar, Graciela","Newsome, Arielle","Williams, Delainy",,,,0,0,3,1,"[Escobar, Graciela] Kill by Newsome, Arielle (from Williams, Delainy).",UNI,WSC
+2,5,4,UNI,attack,kill,WSC,"Sayre, Malya","McGrath, Shannon","Pool, Georgia",,,,0,0,3,2,"[Sayre, Malya] Kill by McGrath, Shannon (from Pool, Georgia).",UNI,WSC
+2,6,5,UNI,attack,kill,UNI,"Kronenberg, Allie","McGrath, Shannon","Pool, Georgia",,,,0,0,3,3,"[Kronenberg, Allie] Kill by McGrath, Shannon (from Pool, Georgia).",UNI,WSC
+2,7,6,UNI,ace,service_ace,UNI,"Kronenberg, Allie",,,,,"Fulton, Emily",0,1,3,4,"[Kronenberg, Allie] Service ace (Fulton, Emily).",UNI,WSC
+2,8,7,UNI,attack,kill,UNI,"Kronenberg, Allie","McGrath, Shannon","Kronenberg, Allie",,,,0,0,3,5,"[Kronenberg, Allie] Kill by McGrath, Shannon (from Kronenberg, Allie).",UNI,WSC
+2,9,8,UNI,attack,kill,UNI,"Kronenberg, Allie","McGrath, Shannon","Kronenberg, Allie",,,,0,0,3,6,"[Kronenberg, Allie] Kill by McGrath, Shannon (from Kronenberg, Allie).",UNI,WSC
+2,10,9,UNI,attack,kill,UNI,"Kronenberg, Allie","McGrath, Shannon","Kronenberg, Allie",,,,0,0,3,7,"[Kronenberg, Allie] Kill by McGrath, Shannon (from Kronenberg, Allie).",UNI,WSC
+2,11,10,WSC,attack,kill,UNI,"Kronenberg, Allie","Fulton, Emily","Vanderhoof, Kali",,,,0,0,4,7,"[Kronenberg, Allie] Kill by Fulton, Emily (from Vanderhoof, Kali).",UNI,WSC
+2,12,11,UNI,attack,kill,WSC,"Vanderhoof, Kali","McCarron, Maddie","Kronenberg, Allie",,,,0,0,4,8,"[Vanderhoof, Kali] Kill by McCarron, Maddie (from Kronenberg, Allie).",UNI,WSC
+2,13,12,UNI,error,attack_error,UNI,"McGrath, Shannon","Fulton, Emily","Vanderhoof, Kali",,"Fulton, Emily",,0,0,4,9,"[McGrath, Shannon] Attack error by Fulton, Emily (from Vanderhoof, Kali).",UNI,WSC
+2,14,13,UNI,ace,service_ace,UNI,"McGrath, Shannon",,,,,"Vanderhoof, Kali",0,0,4,10,"[McGrath, Shannon] Service ace (Vanderhoof, Kali).",UNI,WSC
+2,15,14,WSC,attack,kill,UNI,"McGrath, Shannon","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,5,10,"[McGrath, Shannon] Kill by McCarthy, Jaylynn (from Williams, Delainy).",UNI,WSC
+2,16,15,UNI,attack,kill,WSC,"Fernandez, Cydney","McCarron, Maddie","Kronenberg, Allie",,,,0,1,5,11,"[Fernandez, Cydney] Kill by McCarron, Maddie (from Kronenberg, Allie).",UNI,WSC
+2,17,16,WSC,attack,kill,UNI,"Pool, Georgia","Fulton, Emily","Williams, Delainy",,,,0,0,6,11,"[Pool, Georgia] Kill by Fulton, Emily (from Williams, Delainy).",UNI,WSC
+2,18,17,UNI,block,attack_error,WSC,"Fulton, Emily","Sayre, Malya",,"Pinciaro, Georgia","Sayre, Malya",,0,0,6,12,"[Fulton, Emily] Attack error by Sayre, Malya (block by Pinciaro, Georgia).",UNI,WSC
+2,19,18,WSC,attack,kill,UNI,"Main, Emma","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,7,12,"[Main, Emma] Kill by McCarthy, Jaylynn (from Williams, Delainy).",UNI,WSC
+2,20,19,WSC,ace,service_ace,WSC,"Kresl, Madilyn",,,,,"Main, Emma",0,1,8,12,"[Kresl, Madilyn] Service ace (Main, Emma).",UNI,WSC
+2,21,20,WSC,attack,kill,WSC,"Kresl, Madilyn","Sayre, Malya","Williams, Delainy",,,,0,0,9,12,"[Kresl, Madilyn] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+2,22,21,UNI,attack,kill,WSC,"Kresl, Madilyn","Herrin, Melody","Kronenberg, Allie",,,,0,0,9,13,"[Kresl, Madilyn] Kill by Herrin, Melody (from Kronenberg, Allie).",UNI,WSC
+2,23,22,UNI,block,attack_error,UNI,"Escobar, Graciela","Newsome, Arielle",,"Herrin, Melody","Newsome, Arielle",,0,0,9,14,"[Escobar, Graciela] Attack error by Newsome, Arielle (block by Herrin, Melody).",UNI,WSC
+2,24,23,UNI,attack,kill,UNI,"Escobar, Graciela","McGrath, Shannon","Kronenberg, Allie",,,,0,1,9,15,"[Escobar, Graciela] Kill by McGrath, Shannon (from Kronenberg, Allie).",UNI,WSC
+2,25,24,UNI,error,attack_error,UNI,"Escobar, Graciela","Sayre, Malya","Williams, Delainy",,"Sayre, Malya",,0,0,9,16,"[Escobar, Graciela] Attack error by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+2,26,25,WSC,attack,kill,UNI,"Escobar, Graciela","Sayre, Malya","Williams, Delainy",,,,0,0,10,16,"[Escobar, Graciela] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+2,27,26,WSC,attack,kill,WSC,"Williams, Delainy","Sayre, Malya","Williams, Delainy",,,,0,0,11,16,"[Williams, Delainy] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+2,28,27,UNI,error,attack_error,WSC,"Williams, Delainy","Sayre, Malya","Williams, Delainy",,"Sayre, Malya",,0,0,11,17,"[Williams, Delainy] Attack error by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+2,29,28,WSC,error,attack_error,UNI,"Bailey, Madisen","Escobar, Graciela","Pool, Georgia",,"Escobar, Graciela",,0,1,12,17,"[Bailey, Madisen] Attack error by Escobar, Graciela (from Pool, Georgia).",UNI,WSC
+2,30,29,UNI,error,service_error,WSC,"Sayre, Malya",,,,"Sayre, Malya",,0,0,12,18,"[Sayre, Malya] Service error.",UNI,WSC
+2,31,30,UNI,error,attack_error,UNI,"Kronenberg, Allie","Von Dohlen, Hope","Williams, Delainy",,"Von Dohlen, Hope",,0,0,12,19,"[Kronenberg, Allie] Attack error by Von Dohlen, Hope (from Williams, Delainy).",UNI,WSC
+2,32,31,WSC,attack,kill,UNI,"Kronenberg, Allie","Von Dohlen, Hope","Williams, Delainy",,,,0,0,13,19,"[Kronenberg, Allie] Kill by Von Dohlen, Hope (from Williams, Delainy).",UNI,WSC
+2,33,32,UNI,attack,kill,WSC,"Williams, Delainy","McGrath, Shannon","Kronenberg, Allie",,,,0,0,13,20,"[Williams, Delainy] Kill by McGrath, Shannon (from Kronenberg, Allie).",UNI,WSC
+2,34,33,WSC,attack,kill,UNI,"McGrath, Shannon","Fulton, Emily",,,,,0,0,14,20,"[McGrath, Shannon] Kill by Fulton, Emily.",UNI,WSC
+2,35,34,UNI,error,service_error,WSC,"Fernandez, Cydney",,,,"Fernandez, Cydney",,0,0,14,21,"[Fernandez, Cydney] Service error.",UNI,WSC
+2,36,35,WSC,block,attack_error,UNI,"Pool, Georgia","Pinciaro, Georgia",,"McCarthy, Jaylynn; Fulton, Emily","Pinciaro, Georgia",,0,0,15,21,"[Pool, Georgia] Attack error by Pinciaro, Georgia (block by McCarthy, Jaylynn; Fulton, Emily).",UNI,WSC
+2,37,36,WSC,error,attack_error,WSC,"Fulton, Emily","Pinciaro, Georgia","McGrath, Shannon",,"Pinciaro, Georgia",,0,0,16,21,"[Fulton, Emily] Attack error by Pinciaro, Georgia (from McGrath, Shannon).",UNI,WSC
+2,38,37,WSC,ace,service_ace,WSC,"Fulton, Emily",,,,,"Martinez Cartagena, Kayla",0,0,17,21,"[Fulton, Emily] Service ace (Martinez Cartagena, Kayla).",UNI,WSC
+2,39,38,WSC,attack,kill,WSC,"Fulton, Emily","McCarthy, Jaylynn",,,,,0,0,18,21,"[Fulton, Emily] Kill by McCarthy, Jaylynn.",UNI,WSC
+2,40,39,UNI,attack,kill,WSC,"Fulton, Emily","Martinez Cartagena, Kayla","Kronenberg, Allie",,,,0,0,18,22,"[Fulton, Emily] Kill by Martinez Cartagena, Kayla (from Kronenberg, Allie).",UNI,WSC
+2,41,40,WSC,attack,kill,UNI,"Main, Emma","Sayre, Malya","Williams, Delainy",,,,0,0,19,22,"[Main, Emma] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+2,42,41,WSC,error,attack_error,WSC,"Kresl, Madilyn","Martinez Cartagena, Kayla","Kronenberg, Allie",,"Martinez Cartagena, Kayla",,0,0,20,22,"[Kresl, Madilyn] Attack error by Martinez Cartagena, Kayla (from Kronenberg, Allie).",UNI,WSC
+2,43,42,WSC,block,attack_error,WSC,"Kresl, Madilyn","Martinez Cartagena, Kayla",,"Williams, Delainy","Martinez Cartagena, Kayla",,0,0,21,22,"[Kresl, Madilyn] Attack error by Martinez Cartagena, Kayla (block by Williams, Delainy).",UNI,WSC
+2,44,43,WSC,error,attack_error,WSC,"Kresl, Madilyn","Herrin, Melody","Kronenberg, Allie",,"Herrin, Melody",,0,0,22,22,"[Kresl, Madilyn] Attack error by Herrin, Melody (from Kronenberg, Allie).",UNI,WSC
+2,45,44,WSC,attack,kill,WSC,"Kresl, Madilyn","Sayre, Malya","Williams, Delainy",,,,0,0,23,22,"[Kresl, Madilyn] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+2,46,45,UNI,error,service_error,WSC,"Kresl, Madilyn",,,,"Kresl, Madilyn",,0,0,23,23,"[Kresl, Madilyn] Service error.",UNI,WSC
+2,47,46,UNI,attack,kill,UNI,"Escobar, Graciela","McGrath, Shannon","Kronenberg, Allie",,,,0,0,23,24,"[Escobar, Graciela] Kill by McGrath, Shannon (from Kronenberg, Allie).",UNI,WSC
+2,48,47,WSC,attack,kill,UNI,"Escobar, Graciela","Sayre, Malya","Williams, Delainy",,,,0,0,24,24,"[Escobar, Graciela] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+2,49,48,UNI,attack,kill,WSC,"Williams, Delainy","McGrath, Shannon","Kronenberg, Allie",,,,0,0,24,25,"[Williams, Delainy] Kill by McGrath, Shannon (from Kronenberg, Allie).",UNI,WSC
+2,50,49,WSC,attack,kill,UNI,"Bailey, Madisen","Sayre, Malya","Vanderhoof, Kali",,,,0,0,25,25,"[Bailey, Madisen] Kill by Sayre, Malya (from Vanderhoof, Kali).",UNI,WSC
+2,51,50,UNI,attack,kill,WSC,"Sayre, Malya","McGrath, Shannon","Kronenberg, Allie",,,,0,0,25,26,"[Sayre, Malya] Kill by McGrath, Shannon (from Kronenberg, Allie).",UNI,WSC
+2,52,51,WSC,error,service_error,UNI,"Kronenberg, Allie",,,,"Kronenberg, Allie",,0,0,26,26,"[Kronenberg, Allie] Service error.",UNI,WSC
+2,53,52,WSC,attack,kill,WSC,"Vanderhoof, Kali","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,27,26,"[Vanderhoof, Kali] Kill by McCarthy, Jaylynn (from Williams, Delainy).",UNI,WSC
+2,54,53,UNI,error,service_error,WSC,"Vanderhoof, Kali",,,,"Vanderhoof, Kali",,0,0,27,27,"[Vanderhoof, Kali] Service error.",UNI,WSC
+2,55,54,WSC,attack,kill,UNI,"McGrath, Shannon","Fulton, Emily","Williams, Delainy",,,,0,0,28,27,"[McGrath, Shannon] Kill by Fulton, Emily (from Williams, Delainy).",UNI,WSC
+2,56,55,UNI,error,attack_error,WSC,"Fernandez, Cydney","Von Dohlen, Hope","Williams, Delainy",,"Von Dohlen, Hope",,0,0,28,28,"[Fernandez, Cydney] Attack error by Von Dohlen, Hope (from Williams, Delainy).",UNI,WSC
+2,57,56,WSC,attack,kill,UNI,"Pool, Georgia","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,29,28,"[Pool, Georgia] Kill by McCarthy, Jaylynn (from Williams, Delainy).",UNI,WSC
+2,58,57,WSC,attack,kill,WSC,"Fulton, Emily","Sayre, Malya","Williams, Delainy",,,,0,0,30,28,"[Fulton, Emily] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+3,1,0,WSC,attack,kill,UNI,"Escobar, Graciela","Sayre, Malya","Williams, Delainy",,,,0,1,1,0,"[Escobar, Graciela] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+3,2,1,UNI,error,attack_error,WSC,"Fulton, Emily","Sayre, Malya","Williams, Delainy",,"Sayre, Malya",,0,0,1,1,"[Fulton, Emily] Attack error by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+3,3,2,WSC,attack,kill,UNI,"Herrin, Melody","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,2,1,"[Herrin, Melody] Kill by McCarthy, Jaylynn (from Williams, Delainy).",UNI,WSC
+3,4,3,UNI,attack,kill,WSC,"Kresl, Madilyn","McCarron, Maddie","Kronenberg, Allie",,,,0,1,2,2,"[Kresl, Madilyn] Kill by McCarron, Maddie (from Kronenberg, Allie).",UNI,WSC
+3,5,4,WSC,attack,kill,UNI,"Kronenberg, Allie","Sayre, Malya","Williams, Delainy",,,,0,0,3,2,"[Kronenberg, Allie] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+3,6,5,WSC,attack,kill,WSC,"Williams, Delainy","Sayre, Malya","Vanderhoof, Kali",,,,0,0,4,2,"[Williams, Delainy] Kill by Sayre, Malya (from Vanderhoof, Kali).",UNI,WSC
+3,7,6,UNI,attack,kill,WSC,"Williams, Delainy","McGrath, Shannon","Kronenberg, Allie",,,,0,0,4,3,"[Williams, Delainy] Kill by McGrath, Shannon (from Kronenberg, Allie).",UNI,WSC
+3,8,7,UNI,ace,service_ace,UNI,"McGrath, Shannon",,,,,Team,0,1,4,4,"[McGrath, Shannon] Service ace (Team).",UNI,WSC
+3,9,8,WSC,attack,kill,UNI,"McGrath, Shannon","Sayre, Malya","Vanderhoof, Kali",,,,0,0,5,4,"[McGrath, Shannon] Kill by Sayre, Malya (from Vanderhoof, Kali).",UNI,WSC
+3,10,9,UNI,error,attack_error,WSC,"Sayre, Malya","Newsome, Arielle","Williams, Delainy",,"Newsome, Arielle",,0,1,5,5,"[Sayre, Malya] Attack error by Newsome, Arielle (from Williams, Delainy).",UNI,WSC
+3,11,10,UNI,error,attack_error,UNI,"Pool, Georgia","Von Dohlen, Hope","Williams, Delainy",,"Von Dohlen, Hope",,0,0,5,6,"[Pool, Georgia] Attack error by Von Dohlen, Hope (from Williams, Delainy).",UNI,WSC
+3,12,11,WSC,attack,kill,UNI,"Pool, Georgia","Vanderhoof, Kali",,,,,0,0,6,6,"[Pool, Georgia] Kill by Vanderhoof, Kali.",UNI,WSC
+3,13,12,UNI,attack,kill,WSC,"Vanderhoof, Kali","Pinciaro, Georgia","Pool, Georgia",,,,0,0,6,7,"[Vanderhoof, Kali] Kill by Pinciaro, Georgia (from Pool, Georgia).",UNI,WSC
+3,14,13,UNI,error,ball_handling_error,UNI,"Main, Emma",,,,"Sayre, Malya",,0,0,6,8,"[Main, Emma] Bad set by Sayre, Malya.",UNI,WSC
+3,15,14,WSC,attack,kill,UNI,"Main, Emma","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,7,8,"[Main, Emma] Kill by McCarthy, Jaylynn (from Williams, Delainy).",UNI,WSC
+3,16,15,WSC,block,attack_error,WSC,"Fernandez, Cydney","Martinez Cartagena, Kayla",,"McCarthy, Jaylynn; Williams, Delainy","Martinez Cartagena, Kayla",,0,1,8,8,"[Fernandez, Cydney] Attack error by Martinez Cartagena, Kayla (block by McCarthy, Jaylynn; Williams, Delainy).",UNI,WSC
+3,17,16,UNI,block,attack_error,WSC,"Fernandez, Cydney","Fulton, Emily",,"Herrin, Melody; Kronenberg, Allie","Fulton, Emily",,0,0,8,9,"[Fernandez, Cydney] Attack error by Fulton, Emily (block by Herrin, Melody; Kronenberg, Allie).",UNI,WSC
+3,18,17,WSC,attack,kill,UNI,"Escobar, Graciela","Fulton, Emily",,,,,0,0,9,9,"[Escobar, Graciela] Kill by Fulton, Emily.",UNI,WSC
+3,19,18,UNI,attack,kill,WSC,"Fulton, Emily","Herrin, Melody","Kronenberg, Allie",,,,0,0,9,10,"[Fulton, Emily] Kill by Herrin, Melody (from Kronenberg, Allie).",UNI,WSC
+3,20,19,UNI,error,attack_error,UNI,"Bailey, Madisen","Sayre, Malya","Vanderhoof, Kali",,"Sayre, Malya",,0,1,9,11,"[Bailey, Madisen] Attack error by Sayre, Malya (from Vanderhoof, Kali).",UNI,WSC
+3,21,20,WSC,attack,kill,UNI,"Bailey, Madisen","Sayre, Malya","Williams, Delainy",,,,0,0,10,11,"[Bailey, Madisen] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+3,22,21,WSC,attack,kill,WSC,"Kresl, Madilyn","Sayre, Malya","Williams, Delainy",,,,0,0,11,11,"[Kresl, Madilyn] Kill by Sayre, Malya (from Williams, Delainy).",UNI,WSC
+3,23,22,UNI,block,attack_error,WSC,"Kresl, Madilyn","Sayre, Malya",,"McCarron, Maddie; Kronenberg, Allie","Sayre, Malya",,0,0,11,12,"[Kresl, Madilyn] Attack error by Sayre, Malya (block by McCarron, Maddie; Kronenberg, Allie).",UNI,WSC
+3,24,23,UNI,ace,service_ace,UNI,"Kronenberg, Allie",,,,,Team,0,0,11,13,"[Kronenberg, Allie] Service ace (Team).",UNI,WSC
+3,25,24,WSC,attack,kill,UNI,"Kronenberg, Allie","Newsome, Arielle","Williams, Delainy",,,,0,0,12,13,"[Kronenberg, Allie] Kill by Newsome, Arielle (from Williams, Delainy).",UNI,WSC
+3,26,25,WSC,error,attack_error,WSC,"Williams, Delainy","McGrath, Shannon","Kronenberg, Allie",,"McGrath, Shannon",,0,0,13,13,"[Williams, Delainy] Attack error by McGrath, Shannon (from Kronenberg, Allie).",UNI,WSC
+3,27,26,WSC,attack,kill,WSC,"Williams, Delainy","Von Dohlen, Hope","Williams, Delainy",,,,0,0,14,13,"[Williams, Delainy] Kill by Von Dohlen, Hope (from Williams, Delainy).",UNI,WSC
+3,28,27,UNI,attack,kill,WSC,"Williams, Delainy","McGrath, Shannon","Kronenberg, Allie",,,,0,0,14,14,"[Williams, Delainy] Kill by McGrath, Shannon (from Kronenberg, Allie).",UNI,WSC
+3,29,28,WSC,attack,kill,UNI,"McGrath, Shannon","Newsome, Arielle","Williams, Delainy",,,,0,0,15,14,"[McGrath, Shannon] Kill by Newsome, Arielle (from Williams, Delainy).",UNI,WSC
+3,30,29,WSC,ace,service_ace,WSC,"Sayre, Malya",,,,,"Martinez Cartagena, Kayla",0,0,16,14,"[Sayre, Malya] Service ace (Martinez Cartagena, Kayla).",UNI,WSC
+3,31,30,WSC,block,attack_error,WSC,"Sayre, Malya","Pinciaro, Georgia",,"Fulton, Emily","Pinciaro, Georgia",,0,0,17,14,"[Sayre, Malya] Attack error by Pinciaro, Georgia (block by Fulton, Emily).",UNI,WSC
+3,32,31,UNI,attack,kill,WSC,"Sayre, Malya","Pinciaro, Georgia","Kronenberg, Allie",,,,0,0,17,15,"[Sayre, Malya] Kill by Pinciaro, Georgia (from Kronenberg, Allie).",UNI,WSC
+3,33,32,UNI,attack,kill,UNI,"Pool, Georgia","Pinciaro, Georgia","Kronenberg, Allie",,,,0,0,17,16,"[Pool, Georgia] Kill by Pinciaro, Georgia (from Kronenberg, Allie).",UNI,WSC
+3,34,33,WSC,error,service_error,UNI,"Pool, Georgia",,,,"Pool, Georgia",,0,0,18,16,"[Pool, Georgia] Service error.",UNI,WSC
+3,35,34,WSC,error,attack_error,WSC,"Vanderhoof, Kali","Martinez Cartagena, Kayla","Kronenberg, Allie",,"Martinez Cartagena, Kayla",,0,0,19,16,"[Vanderhoof, Kali] Attack error by Martinez Cartagena, Kayla (from Kronenberg, Allie).",UNI,WSC
+3,36,35,WSC,attack,kill,WSC,"Vanderhoof, Kali","Von Dohlen, Hope","Williams, Delainy",,,,0,0,20,16,"[Vanderhoof, Kali] Kill by Von Dohlen, Hope (from Williams, Delainy).",UNI,WSC
+3,37,36,WSC,attack,kill,WSC,"Vanderhoof, Kali","Williams, Delainy","Vanderhoof, Kali",,,,0,1,21,16,"[Vanderhoof, Kali] Kill by Williams, Delainy (from Vanderhoof, Kali).",UNI,WSC
+3,38,37,UNI,attack,kill,WSC,"Vanderhoof, Kali","Ringel, Shea","Kronenberg, Allie",,,,0,0,21,17,"[Vanderhoof, Kali] Kill by Ringel, Shea (from Kronenberg, Allie).",UNI,WSC
+3,39,38,WSC,attack,kill,UNI,"McGrath, Shannon","Fulton, Emily","Williams, Delainy",,,,0,0,22,17,"[McGrath, Shannon] Kill by Fulton, Emily (from Williams, Delainy).",UNI,WSC
+3,40,39,WSC,attack,kill,WSC,"Sayre, Malya","McCarthy, Jaylynn","Williams, Delainy",,,,0,0,23,17,"[Sayre, Malya] Kill by McCarthy, Jaylynn (from Williams, Delainy).",UNI,WSC
+3,41,40,WSC,block,attack_error,WSC,"Sayre, Malya","Ringel, Shea",,"Williams, Delainy","Ringel, Shea",,0,0,24,17,"[Sayre, Malya] Attack error by Ringel, Shea (block by Williams, Delainy).",UNI,WSC
+3,42,41,WSC,attack,kill,WSC,"Sayre, Malya","Fulton, Emily","Williams, Delainy",,,,0,0,25,17,"[Sayre, Malya] Kill by Fulton, Emily (from Williams, Delainy).",UNI,WSC

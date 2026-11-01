@@ -1,0 +1,172 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,NYU,attack,kill,NYU,"Launsbach, Ava","Nelson, Grace","Launsbach, Ava",,,,0,0,0,1,"[Launsbach, Ava] Kill by Nelson, Grace (from Launsbach, Ava).",NYU,East
+1,2,1,NYU,ace,service_ace,NYU,"Launsbach, Ava",,,,,Team,0,0,0,2,"[Launsbach, Ava] Service ace (Team).",NYU,East
+1,3,2,East,attack,kill,NYU,"Launsbach, Ava","Pringle, Hannah","Jiron-Bujanda, Elle",,,,0,0,1,2,"[Launsbach, Ava] Kill by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+1,4,3,East,ace,service_ace,East,"Casagrande, Grace",,,,,Team,0,0,2,2,"[Casagrande, Grace] Service ace (Team).",NYU,East
+1,5,4,East,block,attack_error,East,"Casagrande, Grace","Nazor, Camille",,"Pringle, Hannah; Kelly, Bridgette","Nazor, Camille",,0,0,3,2,"[Casagrande, Grace] Attack error by Nazor, Camille (block by Pringle, Hannah; Kelly, Bridgette).",NYU,East
+1,6,5,NYU,error,service_error,East,"Casagrande, Grace",,,,"Casagrande, Grace",,0,0,3,3,"[Casagrande, Grace] Service error.",NYU,East
+1,7,6,East,attack,kill,NYU,"Nelson, Grace","Kelly, Bridgette","Jiron-Bujanda, Elle",,,,0,0,4,3,"[Nelson, Grace] Kill by Kelly, Bridgette (from Jiron-Bujanda, Elle).",NYU,East
+1,8,7,East,block,attack_error,East,"Jiron-Bujanda, Elle","Holz, Haley",,"Lugo, Jailene; Kelly, Bridgette","Holz, Haley",,0,1,5,3,"[Jiron-Bujanda, Elle] Attack error by Holz, Haley (block by Lugo, Jailene; Kelly, Bridgette).",NYU,East
+1,9,8,NYU,attack,kill,East,"Jiron-Bujanda, Elle","Holz, Haley","Nelson, Grace",,,,0,0,5,4,"[Jiron-Bujanda, Elle] Kill by Holz, Haley (from Nelson, Grace).",NYU,East
+1,10,9,NYU,block,attack_error,NYU,"Hirano, Lindsey","Lugo, Jailene",,"Anvekar, Leela","Lugo, Jailene",,0,0,5,5,"[Hirano, Lindsey] Attack error by Lugo, Jailene (block by Anvekar, Leela).",NYU,East
+1,11,10,NYU,attack,kill,NYU,"Hirano, Lindsey","Anvekar, Leela","Jiron-Bujanda, Elle",,,,0,0,5,6,"[Hirano, Lindsey] Kill by Anvekar, Leela (from Jiron-Bujanda, Elle).",NYU,East
+1,12,11,East,attack,kill,NYU,"Hirano, Lindsey","Pringle, Hannah","Jiron-Bujanda, Elle",,,,0,0,6,6,"[Hirano, Lindsey] Kill by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+1,13,12,NYU,error,attack_error,East,"Gruber, Trinity","Lugo, Jailene","Jiron-Bujanda, Elle",,"Lugo, Jailene",,0,1,6,7,"[Gruber, Trinity] Attack error by Lugo, Jailene (from Jiron-Bujanda, Elle).",NYU,East
+1,14,13,NYU,attack,kill,NYU,"Drust, Dominique","Holz, Haley","Drust, Dominique",,,,0,1,6,8,"[Drust, Dominique] Kill by Holz, Haley (from Drust, Dominique).",NYU,East
+1,15,14,NYU,error,attack_error,NYU,"Drust, Dominique","Couch, Lexi","Jiron-Bujanda, Elle",,"Couch, Lexi",,0,0,6,9,"[Drust, Dominique] Attack error by Couch, Lexi (from Jiron-Bujanda, Elle).",NYU,East
+1,16,15,East,attack,kill,NYU,"Drust, Dominique","Kelly, Bridgette","Jiron-Bujanda, Elle",,,,0,0,7,9,"[Drust, Dominique] Kill by Kelly, Bridgette (from Jiron-Bujanda, Elle).",NYU,East
+1,17,16,East,attack,kill,East,"Kelly, Bridgette","Couch, Lexi",,,,,0,0,8,9,"[Kelly, Bridgette] Kill by Couch, Lexi.",NYU,East
+1,18,17,NYU,attack,kill,East,"Kelly, Bridgette","Weider, Ella","Drust, Dominique",,,,0,0,8,10,"[Kelly, Bridgette] Kill by Weider, Ella (from Drust, Dominique).",NYU,East
+1,19,18,NYU,attack,kill,NYU,"Holz, Haley","Nelson, Grace","Drust, Dominique",,,,0,0,8,11,"[Holz, Haley] Kill by Nelson, Grace (from Drust, Dominique).",NYU,East
+1,20,19,East,attack,kill,NYU,"Holz, Haley","Couch, Lexi","Jiron-Bujanda, Elle",,,,0,0,9,11,"[Holz, Haley] Kill by Couch, Lexi (from Jiron-Bujanda, Elle).",NYU,East
+1,21,20,East,ace,service_ace,East,"Cooper, Grace",,,,,"Nelson, Grace",0,0,10,11,"[Cooper, Grace] Service ace (Nelson, Grace).",NYU,East
+1,22,21,NYU,attack,kill,East,"Cooper, Grace","Nelson, Grace","Drust, Dominique",,,,0,0,10,12,"[Cooper, Grace] Kill by Nelson, Grace (from Drust, Dominique).",NYU,East
+1,23,22,East,error,attack_error,NYU,"Anvekar, Leela","Nelson, Grace","Anvekar, Leela",,"Nelson, Grace",,0,0,11,12,"[Anvekar, Leela] Attack error by Nelson, Grace (from Anvekar, Leela).",NYU,East
+1,24,23,East,error,attack_error,East,"Fragoso, Viviana","Curtin, Elise","Drust, Dominique",,"Curtin, Elise",,0,0,12,12,"[Fragoso, Viviana] Attack error by Curtin, Elise (from Drust, Dominique).",NYU,East
+1,25,24,NYU,attack,kill,East,"Fragoso, Viviana","Nelson, Grace","Drust, Dominique",,,,0,0,12,13,"[Fragoso, Viviana] Kill by Nelson, Grace (from Drust, Dominique).",NYU,East
+1,26,25,NYU,attack,kill,NYU,"Launsbach, Ava","Curtin, Elise",,,,,0,1,12,14,"[Launsbach, Ava] Kill by Curtin, Elise.",NYU,East
+1,27,26,NYU,block,attack_error,NYU,"Launsbach, Ava","Pringle, Hannah",,"Curtin, Elise","Pringle, Hannah",,0,0,12,15,"[Launsbach, Ava] Attack error by Pringle, Hannah (block by Curtin, Elise).",NYU,East
+1,28,27,East,attack,kill,NYU,"Launsbach, Ava","Martin, Logan","Jiron-Bujanda, Elle",,,,0,0,13,15,"[Launsbach, Ava] Kill by Martin, Logan (from Jiron-Bujanda, Elle).",NYU,East
+1,29,28,East,attack,kill,East,"Casagrande, Grace","Pringle, Hannah","Jiron-Bujanda, Elle",,,,0,0,14,15,"[Casagrande, Grace] Kill by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+1,30,29,East,ace,service_ace,East,"Casagrande, Grace",,,,,"Nelson, Grace",0,0,15,15,"[Casagrande, Grace] Service ace (Nelson, Grace).",NYU,East
+1,31,30,East,block,attack_error,East,"Casagrande, Grace","Curtin, Elise",,"Kelly, Bridgette","Curtin, Elise",,0,0,16,15,"[Casagrande, Grace] Attack error by Curtin, Elise (block by Kelly, Bridgette).",NYU,East
+1,32,31,East,attack,kill,East,"Casagrande, Grace","Pringle, Hannah","Fragoso, Viviana",,,,0,0,17,15,"[Casagrande, Grace] Kill by Pringle, Hannah (from Fragoso, Viviana).",NYU,East
+1,33,32,NYU,attack,kill,East,"Casagrande, Grace","Curtin, Elise","Launsbach, Ava",,,,0,0,17,16,"[Casagrande, Grace] Kill by Curtin, Elise (from Launsbach, Ava).",NYU,East
+1,34,33,East,attack,kill,NYU,"Nelson, Grace","Lugo, Jailene","Martin, Logan",,,,0,0,18,16,"[Nelson, Grace] Kill by Lugo, Jailene (from Martin, Logan).",NYU,East
+1,35,34,NYU,error,attack_error,East,"Jiron-Bujanda, Elle","Pringle, Hannah","Jiron-Bujanda, Elle",,"Pringle, Hannah",,0,1,18,17,"[Jiron-Bujanda, Elle] Attack error by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+1,36,35,NYU,attack,kill,NYU,"Hirano, Lindsey","Holz, Haley","Launsbach, Ava",,,,0,0,18,18,"[Hirano, Lindsey] Kill by Holz, Haley (from Launsbach, Ava).",NYU,East
+1,37,36,East,attack,kill,NYU,"Hirano, Lindsey","Pringle, Hannah","Jiron-Bujanda, Elle",,,,0,0,19,18,"[Hirano, Lindsey] Kill by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+1,38,37,NYU,block,attack_error,East,"Gruber, Trinity","Couch, Lexi",,"Pasmooij, Eveliena; Anvekar, Leela","Couch, Lexi",,0,0,19,19,"[Gruber, Trinity] Attack error by Couch, Lexi (block by Pasmooij, Eveliena; Anvekar, Leela).",NYU,East
+1,39,38,East,attack,kill,NYU,"Drust, Dominique","Lugo, Jailene","Jiron-Bujanda, Elle",,,,0,0,20,19,"[Drust, Dominique] Kill by Lugo, Jailene (from Jiron-Bujanda, Elle).",NYU,East
+1,40,39,NYU,attack,kill,East,"Kelly, Bridgette","Holz, Haley","Hirano, Lindsey",,,,0,0,20,20,"[Kelly, Bridgette] Kill by Holz, Haley (from Hirano, Lindsey).",NYU,East
+1,41,40,NYU,block,attack_error,NYU,"Holz, Haley","Martin, Logan",,"Weider, Ella; Anvekar, Leela","Martin, Logan",,0,0,20,21,"[Holz, Haley] Attack error by Martin, Logan (block by Weider, Ella; Anvekar, Leela).",NYU,East
+1,42,41,NYU,error,attack_error,NYU,"Holz, Haley","Couch, Lexi","Jiron-Bujanda, Elle",,"Couch, Lexi",,0,0,20,22,"[Holz, Haley] Attack error by Couch, Lexi (from Jiron-Bujanda, Elle).",NYU,East
+1,43,42,NYU,block,attack_error,NYU,"Holz, Haley","Lugo, Jailene",,"Nelson, Grace","Lugo, Jailene",,0,0,20,23,"[Holz, Haley] Attack error by Lugo, Jailene (block by Nelson, Grace).",NYU,East
+1,44,43,NYU,attack,kill,NYU,"Holz, Haley","Nelson, Grace","Drust, Dominique",,,,0,0,20,24,"[Holz, Haley] Kill by Nelson, Grace (from Drust, Dominique).",NYU,East
+1,45,44,NYU,ace,service_ace,NYU,"Holz, Haley",,,,,"Gruber, Trinity",0,0,20,25,"[Holz, Haley] Service ace (Gruber, Trinity).",NYU,East
+2,1,0,NYU,attack,kill,East,"Fragoso, Viviana","Nelson, Grace","Launsbach, Ava",,,,0,1,0,1,"[Fragoso, Viviana] Kill by Nelson, Grace (from Launsbach, Ava).",NYU,East
+2,2,1,East,attack,kill,NYU,"Nelson, Grace","Martin, Logan",,,,,0,0,1,1,"[Nelson, Grace] Kill by Martin, Logan.",NYU,East
+2,3,2,East,error,attack_error,East,"Casagrande, Grace","Pasmooij, Eveliena","Launsbach, Ava",,"Pasmooij, Eveliena",,0,1,2,1,"[Casagrande, Grace] Attack error by Pasmooij, Eveliena (from Launsbach, Ava).",NYU,East
+2,4,3,East,error,attack_error,East,"Casagrande, Grace","Holz, Haley","Launsbach, Ava",,"Holz, Haley",,0,0,3,1,"[Casagrande, Grace] Attack error by Holz, Haley (from Launsbach, Ava).",NYU,East
+2,5,4,NYU,attack,kill,East,"Casagrande, Grace","Holz, Haley","Hirano, Lindsey",,,,0,0,3,2,"[Casagrande, Grace] Kill by Holz, Haley (from Hirano, Lindsey).",NYU,East
+2,6,5,NYU,error,attack_error,NYU,"Hirano, Lindsey","Pringle, Hannah","Casagrande, Grace",,"Pringle, Hannah",,0,0,3,3,"[Hirano, Lindsey] Attack error by Pringle, Hannah (from Casagrande, Grace).",NYU,East
+2,7,6,East,attack,kill,NYU,"Hirano, Lindsey","Kelly, Bridgette","Jiron-Bujanda, Elle",,,,0,0,4,3,"[Hirano, Lindsey] Kill by Kelly, Bridgette (from Jiron-Bujanda, Elle).",NYU,East
+2,8,7,NYU,attack,kill,East,"Jiron-Bujanda, Elle","Holz, Haley","Launsbach, Ava",,,,0,1,4,4,"[Jiron-Bujanda, Elle] Kill by Holz, Haley (from Launsbach, Ava).",NYU,East
+2,9,8,East,error,service_error,NYU,"Drust, Dominique",,,,"Drust, Dominique",,0,1,5,4,"[Drust, Dominique] Service error.",NYU,East
+2,10,9,East,attack,kill,East,"Gruber, Trinity","Casagrande, Grace",,,,,0,1,6,4,"[Gruber, Trinity] Kill by Casagrande, Grace.",NYU,East
+2,11,10,East,error,attack_error,East,"Gruber, Trinity","Weider, Ella","Drust, Dominique",,"Weider, Ella",,0,0,7,4,"[Gruber, Trinity] Attack error by Weider, Ella (from Drust, Dominique).",NYU,East
+2,12,11,NYU,attack,kill,East,"Gruber, Trinity","Anvekar, Leela","Drust, Dominique",,,,0,0,7,5,"[Gruber, Trinity] Kill by Anvekar, Leela (from Drust, Dominique).",NYU,East
+2,13,12,NYU,error,ball_handling_error,NYU,"Holz, Haley",,,,"Jiron-Bujanda, Elle",,0,0,7,6,"[Holz, Haley] Bad set by Jiron-Bujanda, Elle.",NYU,East
+2,14,13,NYU,attack,kill,NYU,"Holz, Haley","Weider, Ella","Hirano, Lindsey",,,,0,0,7,7,"[Holz, Haley] Kill by Weider, Ella (from Hirano, Lindsey).",NYU,East
+2,15,14,NYU,block,attack_error,NYU,"Holz, Haley","Couch, Lexi",,"Anvekar, Leela","Couch, Lexi",,0,0,7,8,"[Holz, Haley] Attack error by Couch, Lexi (block by Anvekar, Leela).",NYU,East
+2,16,15,East,attack,kill,NYU,"Holz, Haley","Kelly, Bridgette","Jiron-Bujanda, Elle",,,,0,0,8,8,"[Holz, Haley] Kill by Kelly, Bridgette (from Jiron-Bujanda, Elle).",NYU,East
+2,17,16,East,error,attack_error,East,"Kelly, Bridgette","Weider, Ella","Drust, Dominique",,"Weider, Ella",,0,0,9,8,"[Kelly, Bridgette] Attack error by Weider, Ella (from Drust, Dominique).",NYU,East
+2,18,17,NYU,attack,kill,East,"Kelly, Bridgette","Anvekar, Leela","Drust, Dominique",,,,0,0,9,9,"[Kelly, Bridgette] Kill by Anvekar, Leela (from Drust, Dominique).",NYU,East
+2,19,18,East,attack,kill,NYU,"Anvekar, Leela","Couch, Lexi","Jiron-Bujanda, Elle",,,,0,0,10,9,"[Anvekar, Leela] Kill by Couch, Lexi (from Jiron-Bujanda, Elle).",NYU,East
+2,20,19,East,ace,service_ace,East,"Cooper, Grace",,,,,"Holz, Haley",0,0,11,9,"[Cooper, Grace] Service ace (Holz, Haley).",NYU,East
+2,21,20,NYU,attack,kill,East,"Cooper, Grace","Nelson, Grace","Drust, Dominique",,,,0,0,11,10,"[Cooper, Grace] Kill by Nelson, Grace (from Drust, Dominique).",NYU,East
+2,22,21,NYU,error,attack_error,NYU,"Launsbach, Ava","Couch, Lexi","Jiron-Bujanda, Elle",,"Couch, Lexi",,0,0,11,11,"[Launsbach, Ava] Attack error by Couch, Lexi (from Jiron-Bujanda, Elle).",NYU,East
+2,23,22,NYU,attack,kill,NYU,"Launsbach, Ava","Nelson, Grace","Launsbach, Ava",,,,0,0,11,12,"[Launsbach, Ava] Kill by Nelson, Grace (from Launsbach, Ava).",NYU,East
+2,24,23,NYU,error,attack_error,NYU,"Launsbach, Ava","Martin, Logan","Jiron-Bujanda, Elle",,"Martin, Logan",,0,1,11,13,"[Launsbach, Ava] Attack error by Martin, Logan (from Jiron-Bujanda, Elle).",NYU,East
+2,25,24,NYU,block,attack_error,NYU,"Launsbach, Ava","Flores, Emma",,"Curtin, Elise","Flores, Emma",,0,0,11,14,"[Launsbach, Ava] Attack error by Flores, Emma (block by Curtin, Elise).",NYU,East
+2,26,25,East,attack,kill,NYU,"Launsbach, Ava","Martin, Logan","Jiron-Bujanda, Elle",,,,0,0,12,14,"[Launsbach, Ava] Kill by Martin, Logan (from Jiron-Bujanda, Elle).",NYU,East
+2,27,26,East,ace,service_ace,East,"Fragoso, Viviana",,,,,"Holz, Haley",0,0,13,14,"[Fragoso, Viviana] Service ace (Holz, Haley).",NYU,East
+2,28,27,East,ace,service_ace,East,"Fragoso, Viviana",,,,,"Holz, Haley",0,0,14,14,"[Fragoso, Viviana] Service ace (Holz, Haley).",NYU,East
+2,29,28,East,attack,kill,East,"Fragoso, Viviana","Martin, Logan","Jiron-Bujanda, Elle",,,,0,0,15,14,"[Fragoso, Viviana] Kill by Martin, Logan (from Jiron-Bujanda, Elle).",NYU,East
+2,30,29,NYU,error,attack_error,East,"Fragoso, Viviana","Pringle, Hannah","Jiron-Bujanda, Elle",,"Pringle, Hannah",,0,0,15,15,"[Fragoso, Viviana] Attack error by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+2,31,30,East,attack,kill,NYU,"Nelson, Grace","Martin, Logan","Jiron-Bujanda, Elle",,,,0,0,16,15,"[Nelson, Grace] Kill by Martin, Logan (from Jiron-Bujanda, Elle).",NYU,East
+2,32,31,NYU,attack,kill,East,"Casagrande, Grace","Holz, Haley","Launsbach, Ava",,,,0,0,16,16,"[Casagrande, Grace] Kill by Holz, Haley (from Launsbach, Ava).",NYU,East
+2,33,32,East,attack,kill,NYU,"Hirano, Lindsey","Pringle, Hannah","Jiron-Bujanda, Elle",,,,0,0,17,16,"[Hirano, Lindsey] Kill by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+2,34,33,East,error,attack_error,East,"Jiron-Bujanda, Elle","Pasmooij, Eveliena","Launsbach, Ava",,"Pasmooij, Eveliena",,0,0,18,16,"[Jiron-Bujanda, Elle] Attack error by Pasmooij, Eveliena (from Launsbach, Ava).",NYU,East
+2,35,34,East,attack,kill,East,"Jiron-Bujanda, Elle","Pringle, Hannah","Jiron-Bujanda, Elle",,,,0,0,19,16,"[Jiron-Bujanda, Elle] Kill by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+2,36,35,East,error,attack_error,East,"Jiron-Bujanda, Elle","Hirano, Lindsey","Launsbach, Ava",,"Hirano, Lindsey",,0,0,20,16,"[Jiron-Bujanda, Elle] Attack error by Hirano, Lindsey (from Launsbach, Ava).",NYU,East
+2,37,36,East,attack,kill,East,"Jiron-Bujanda, Elle","Kelly, Bridgette","Jiron-Bujanda, Elle",,,,0,0,21,16,"[Jiron-Bujanda, Elle] Kill by Kelly, Bridgette (from Jiron-Bujanda, Elle).",NYU,East
+2,38,37,NYU,error,service_error,East,"Jiron-Bujanda, Elle",,,,"Jiron-Bujanda, Elle",,0,0,21,17,"[Jiron-Bujanda, Elle] Service error.",NYU,East
+2,39,38,NYU,attack,kill,NYU,"Drust, Dominique","Holz, Haley","Drust, Dominique",,,,0,0,21,18,"[Drust, Dominique] Kill by Holz, Haley (from Drust, Dominique).",NYU,East
+2,40,39,NYU,attack,kill,NYU,"Drust, Dominique","Anvekar, Leela","Drust, Dominique",,,,0,0,21,19,"[Drust, Dominique] Kill by Anvekar, Leela (from Drust, Dominique).",NYU,East
+2,41,40,East,attack,kill,NYU,"Drust, Dominique","Pringle, Hannah","Jiron-Bujanda, Elle",,,,0,0,22,19,"[Drust, Dominique] Kill by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+2,42,41,East,attack,kill,East,"Gruber, Trinity","Couch, Lexi","Jiron-Bujanda, Elle",,,,0,0,23,19,"[Gruber, Trinity] Kill by Couch, Lexi (from Jiron-Bujanda, Elle).",NYU,East
+2,43,42,NYU,attack,kill,East,"Gruber, Trinity","Holz, Haley","Drust, Dominique",,,,0,0,23,20,"[Gruber, Trinity] Kill by Holz, Haley (from Drust, Dominique).",NYU,East
+2,44,43,East,error,service_error,NYU,"Holz, Haley",,,,"Holz, Haley",,0,0,24,20,"[Holz, Haley] Service error.",NYU,East
+2,45,44,East,block,attack_error,East,"Kelly, Bridgette","Nelson, Grace",,"Lugo, Jailene","Nelson, Grace",,0,0,25,20,"[Kelly, Bridgette] Attack error by Nelson, Grace (block by Lugo, Jailene).",NYU,East
+3,1,0,NYU,error,attack_error,NYU,"Launsbach, Ava","Pringle, Hannah","Jiron-Bujanda, Elle",,"Pringle, Hannah",,0,1,0,1,"[Launsbach, Ava] Attack error by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+3,2,1,East,attack,kill,NYU,"Launsbach, Ava","Martin, Logan","Jiron-Bujanda, Elle",,,,0,0,1,1,"[Launsbach, Ava] Kill by Martin, Logan (from Jiron-Bujanda, Elle).",NYU,East
+3,3,2,East,attack,kill,East,"Casagrande, Grace","Pringle, Hannah","Casagrande, Grace",,,,0,0,2,1,"[Casagrande, Grace] Kill by Pringle, Hannah (from Casagrande, Grace).",NYU,East
+3,4,3,NYU,error,service_error,East,"Casagrande, Grace",,,,"Casagrande, Grace",,0,1,2,2,"[Casagrande, Grace] Service error.",NYU,East
+3,5,4,NYU,block,attack_error,NYU,"Nelson, Grace","Pringle, Hannah",,"Odum, Taylor; Lattan, Sarah","Pringle, Hannah",,0,0,2,3,"[Nelson, Grace] Attack error by Pringle, Hannah (block by Odum, Taylor; Lattan, Sarah).",NYU,East
+3,6,5,East,attack,kill,NYU,"Nelson, Grace","Kelly, Bridgette","Jiron-Bujanda, Elle",,,,0,0,3,3,"[Nelson, Grace] Kill by Kelly, Bridgette (from Jiron-Bujanda, Elle).",NYU,East
+3,7,6,NYU,error,attack_error,East,"Jiron-Bujanda, Elle","Pringle, Hannah","Jiron-Bujanda, Elle",,"Pringle, Hannah",,0,0,3,4,"[Jiron-Bujanda, Elle] Attack error by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+3,8,7,East,attack,kill,NYU,"Hirano, Lindsey","Pringle, Hannah","Jiron-Bujanda, Elle",,,,0,1,4,4,"[Hirano, Lindsey] Kill by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+3,9,8,East,ace,service_ace,East,"Gruber, Trinity",,,,,Team,0,1,5,4,"[Gruber, Trinity] Service ace (Team).",NYU,East
+3,10,9,NYU,attack,kill,East,"Gruber, Trinity","Anvekar, Leela","Launsbach, Ava",,,,0,0,5,5,"[Gruber, Trinity] Kill by Anvekar, Leela (from Launsbach, Ava).",NYU,East
+3,11,10,NYU,attack,kill,NYU,"Drust, Dominique","Weider, Ella","Drust, Dominique",,,,0,1,5,6,"[Drust, Dominique] Kill by Weider, Ella (from Drust, Dominique).",NYU,East
+3,12,11,NYU,ace,service_ace,NYU,"Drust, Dominique",,,,,Team,0,0,5,7,"[Drust, Dominique] Service ace (Team).",NYU,East
+3,13,12,NYU,attack,kill,NYU,"Drust, Dominique","Holz, Haley","Drust, Dominique",,,,0,0,5,8,"[Drust, Dominique] Kill by Holz, Haley (from Drust, Dominique).",NYU,East
+3,14,13,East,error,attack_error,NYU,"Drust, Dominique","Holz, Haley","Jiron-Bujanda, Elle",,"Holz, Haley",,0,0,6,8,"[Drust, Dominique] Attack error by Holz, Haley (from Jiron-Bujanda, Elle).",NYU,East
+3,15,14,NYU,error,service_error,East,"Kelly, Bridgette",,,,"Kelly, Bridgette",,0,0,6,9,"[Kelly, Bridgette] Service error.",NYU,East
+3,16,15,East,attack,kill,NYU,"Holz, Haley","Couch, Lexi","Jiron-Bujanda, Elle",,,,0,0,7,9,"[Holz, Haley] Kill by Couch, Lexi (from Jiron-Bujanda, Elle).",NYU,East
+3,17,16,NYU,attack,kill,East,"Cooper, Grace","Anvekar, Leela","Drust, Dominique",,,,0,0,7,10,"[Cooper, Grace] Kill by Anvekar, Leela (from Drust, Dominique).",NYU,East
+3,18,17,NYU,attack,kill,NYU,"Anvekar, Leela","Weider, Ella","Anvekar, Leela",,,,0,0,7,11,"[Anvekar, Leela] Kill by Weider, Ella (from Anvekar, Leela).",NYU,East
+3,19,18,East,attack,kill,NYU,"Anvekar, Leela","Couch, Lexi","Jiron-Bujanda, Elle",,,,0,0,8,11,"[Anvekar, Leela] Kill by Couch, Lexi (from Jiron-Bujanda, Elle).",NYU,East
+3,20,19,East,attack,kill,East,"Fragoso, Viviana","Martin, Logan","Jiron-Bujanda, Elle",,,,0,0,9,11,"[Fragoso, Viviana] Kill by Martin, Logan (from Jiron-Bujanda, Elle).",NYU,East
+3,21,20,East,attack,kill,East,"Fragoso, Viviana","Pringle, Hannah","Fragoso, Viviana",,,,0,0,10,11,"[Fragoso, Viviana] Kill by Pringle, Hannah (from Fragoso, Viviana).",NYU,East
+3,22,21,East,attack,kill,East,"Fragoso, Viviana","Pringle, Hannah","Casagrande, Grace",,,,0,0,11,11,"[Fragoso, Viviana] Kill by Pringle, Hannah (from Casagrande, Grace).",NYU,East
+3,23,22,NYU,attack,kill,East,"Fragoso, Viviana","Odum, Taylor","Drust, Dominique",,,,0,0,11,12,"[Fragoso, Viviana] Kill by Odum, Taylor (from Drust, Dominique).",NYU,East
+3,24,23,NYU,error,attack_error,NYU,"Launsbach, Ava","Pringle, Hannah","Casagrande, Grace",,"Pringle, Hannah",,0,0,11,13,"[Launsbach, Ava] Attack error by Pringle, Hannah (from Casagrande, Grace).",NYU,East
+3,25,24,NYU,error,attack_error,NYU,"Launsbach, Ava","Martin, Logan","Jiron-Bujanda, Elle",,"Martin, Logan",,0,0,11,14,"[Launsbach, Ava] Attack error by Martin, Logan (from Jiron-Bujanda, Elle).",NYU,East
+3,26,25,East,error,attack_error,NYU,"Launsbach, Ava","Lattan, Sarah","Launsbach, Ava",,"Lattan, Sarah",,0,0,12,14,"[Launsbach, Ava] Attack error by Lattan, Sarah (from Launsbach, Ava).",NYU,East
+3,27,26,NYU,attack,kill,East,"Casagrande, Grace","Odum, Taylor","Launsbach, Ava",,,,0,0,12,15,"[Casagrande, Grace] Kill by Odum, Taylor (from Launsbach, Ava).",NYU,East
+3,28,27,East,error,attack_error,NYU,"Nelson, Grace","Holz, Haley","Launsbach, Ava",,"Holz, Haley",,0,0,13,15,"[Nelson, Grace] Attack error by Holz, Haley (from Launsbach, Ava).",NYU,East
+3,29,28,NYU,attack,kill,East,"Jiron-Bujanda, Elle","Holz, Haley","Launsbach, Ava",,,,0,0,13,16,"[Jiron-Bujanda, Elle] Kill by Holz, Haley (from Launsbach, Ava).",NYU,East
+3,30,29,East,attack,kill,NYU,"Hirano, Lindsey","Pringle, Hannah","Jiron-Bujanda, Elle",,,,0,0,14,16,"[Hirano, Lindsey] Kill by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+3,31,30,NYU,error,attack_error,East,"Gruber, Trinity","Lugo, Jailene","Jiron-Bujanda, Elle",,"Lugo, Jailene",,0,0,14,17,"[Gruber, Trinity] Attack error by Lugo, Jailene (from Jiron-Bujanda, Elle).",NYU,East
+3,32,31,NYU,error,attack_error,NYU,"Drust, Dominique","Couch, Lexi","Jiron-Bujanda, Elle",,"Couch, Lexi",,0,0,14,18,"[Drust, Dominique] Attack error by Couch, Lexi (from Jiron-Bujanda, Elle).",NYU,East
+3,33,32,NYU,attack,kill,NYU,"Drust, Dominique","Anvekar, Leela",,,,,0,0,14,19,"[Drust, Dominique] Kill by Anvekar, Leela.",NYU,East
+3,34,33,East,attack,kill,NYU,"Drust, Dominique","Couch, Lexi","Jiron-Bujanda, Elle",,,,0,0,15,19,"[Drust, Dominique] Kill by Couch, Lexi (from Jiron-Bujanda, Elle).",NYU,East
+3,35,34,East,ace,service_ace,East,"Kelly, Bridgette",,,,,"Holz, Haley",0,0,16,19,"[Kelly, Bridgette] Service ace (Holz, Haley).",NYU,East
+3,36,35,NYU,block,attack_error,East,"Kelly, Bridgette","Couch, Lexi",,"Anvekar, Leela","Couch, Lexi",,0,0,16,20,"[Kelly, Bridgette] Attack error by Couch, Lexi (block by Anvekar, Leela).",NYU,East
+3,37,36,NYU,ace,service_ace,NYU,"Holz, Haley",,,,,"Casagrande, Grace",0,0,16,21,"[Holz, Haley] Service ace (Casagrande, Grace).",NYU,East
+3,38,37,NYU,attack,kill,NYU,"Holz, Haley","Holz, Haley","Drust, Dominique",,,,0,0,16,22,"[Holz, Haley] Kill by Holz, Haley (from Drust, Dominique).",NYU,East
+3,39,38,East,attack,kill,NYU,"Holz, Haley","Lugo, Jailene","Jiron-Bujanda, Elle",,,,0,0,17,22,"[Holz, Haley] Kill by Lugo, Jailene (from Jiron-Bujanda, Elle).",NYU,East
+3,40,39,NYU,attack,kill,East,"Cooper, Grace","Nelson, Grace","Drust, Dominique",,,,0,0,17,23,"[Cooper, Grace] Kill by Nelson, Grace (from Drust, Dominique).",NYU,East
+3,41,40,East,error,service_error,NYU,"Anvekar, Leela",,,,"Anvekar, Leela",,0,0,18,23,"[Anvekar, Leela] Service error.",NYU,East
+3,42,41,NYU,attack,kill,East,"Fragoso, Viviana","Nelson, Grace","Drust, Dominique",,,,0,0,18,24,"[Fragoso, Viviana] Kill by Nelson, Grace (from Drust, Dominique).",NYU,East
+3,43,42,NYU,block,attack_error,NYU,"Launsbach, Ava","Martin, Logan",,"Nelson, Grace","Martin, Logan",,0,0,18,25,"[Launsbach, Ava] Attack error by Martin, Logan (block by Nelson, Grace).",NYU,East
+4,1,0,NYU,attack,kill,East,"Fragoso, Viviana","Nelson, Grace","Launsbach, Ava",,,,0,1,0,1,"[Fragoso, Viviana] Kill by Nelson, Grace (from Launsbach, Ava).",NYU,East
+4,2,1,NYU,error,attack_error,NYU,"Nelson, Grace","Martin, Logan","Jiron-Bujanda, Elle",,"Martin, Logan",,0,0,0,2,"[Nelson, Grace] Attack error by Martin, Logan (from Jiron-Bujanda, Elle).",NYU,East
+4,3,2,East,attack,kill,NYU,"Nelson, Grace","Pringle, Hannah","Jiron-Bujanda, Elle",,,,0,0,1,2,"[Nelson, Grace] Kill by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+4,4,3,NYU,attack,kill,East,"Casagrande, Grace","Holz, Haley","Launsbach, Ava",,,,0,0,1,3,"[Casagrande, Grace] Kill by Holz, Haley (from Launsbach, Ava).",NYU,East
+4,5,4,East,attack,kill,NYU,"Hirano, Lindsey","Pringle, Hannah","Jiron-Bujanda, Elle",,,,0,0,2,3,"[Hirano, Lindsey] Kill by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+4,6,5,NYU,attack,kill,East,"Jiron-Bujanda, Elle","Holz, Haley","Launsbach, Ava",,,,0,1,2,4,"[Jiron-Bujanda, Elle] Kill by Holz, Haley (from Launsbach, Ava).",NYU,East
+4,7,6,NYU,error,attack_error,NYU,"Drust, Dominique","Pringle, Hannah","Jiron-Bujanda, Elle",,"Pringle, Hannah",,0,1,2,5,"[Drust, Dominique] Attack error by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+4,8,7,East,error,service_error,NYU,"Drust, Dominique",,,,"Drust, Dominique",,0,0,3,5,"[Drust, Dominique] Service error.",NYU,East
+4,9,8,NYU,attack,kill,East,"Gruber, Trinity","Holz, Haley","Drust, Dominique",,,,0,1,3,6,"[Gruber, Trinity] Kill by Holz, Haley (from Drust, Dominique).",NYU,East
+4,10,9,East,attack,kill,NYU,"Holz, Haley","Lugo, Jailene","Jiron-Bujanda, Elle",,,,0,0,4,6,"[Holz, Haley] Kill by Lugo, Jailene (from Jiron-Bujanda, Elle).",NYU,East
+4,11,10,NYU,attack,kill,East,"Kelly, Bridgette","Weider, Ella","Drust, Dominique",,,,0,0,4,7,"[Kelly, Bridgette] Kill by Weider, Ella (from Drust, Dominique).",NYU,East
+4,12,11,East,attack,kill,NYU,"Anvekar, Leela","Lugo, Jailene","Jiron-Bujanda, Elle",,,,0,0,5,7,"[Anvekar, Leela] Kill by Lugo, Jailene (from Jiron-Bujanda, Elle).",NYU,East
+4,13,12,NYU,attack,kill,East,"Cooper, Grace","Odum, Taylor","Drust, Dominique",,,,0,0,5,8,"[Cooper, Grace] Kill by Odum, Taylor (from Drust, Dominique).",NYU,East
+4,14,13,NYU,error,attack_error,NYU,"Launsbach, Ava","Couch, Lexi","Jiron-Bujanda, Elle",,"Couch, Lexi",,0,0,5,9,"[Launsbach, Ava] Attack error by Couch, Lexi (from Jiron-Bujanda, Elle).",NYU,East
+4,15,14,East,attack,kill,NYU,"Launsbach, Ava","Martin, Logan","Jiron-Bujanda, Elle",,,,0,0,6,9,"[Launsbach, Ava] Kill by Martin, Logan (from Jiron-Bujanda, Elle).",NYU,East
+4,16,15,East,error,attack_error,East,"Fragoso, Viviana","Lattan, Sarah","Launsbach, Ava",,"Lattan, Sarah",,0,0,7,9,"[Fragoso, Viviana] Attack error by Lattan, Sarah (from Launsbach, Ava).",NYU,East
+4,17,16,East,block,attack_error,East,"Fragoso, Viviana","Nelson, Grace",,"Martin, Logan","Nelson, Grace",,0,0,8,9,"[Fragoso, Viviana] Attack error by Nelson, Grace (block by Martin, Logan).",NYU,East
+4,18,17,NYU,attack,kill,East,"Fragoso, Viviana","Odum, Taylor","Launsbach, Ava",,,,0,0,8,10,"[Fragoso, Viviana] Kill by Odum, Taylor (from Launsbach, Ava).",NYU,East
+4,19,18,NYU,block,attack_error,NYU,"Nelson, Grace","Pringle, Hannah",,"Odum, Taylor; Lattan, Sarah","Pringle, Hannah",,0,0,8,11,"[Nelson, Grace] Attack error by Pringle, Hannah (block by Odum, Taylor; Lattan, Sarah).",NYU,East
+4,20,19,NYU,attack,kill,NYU,"Nelson, Grace","Odum, Taylor",,,,,0,0,8,12,"[Nelson, Grace] Kill by Odum, Taylor.",NYU,East
+4,21,20,NYU,attack,kill,NYU,"Nelson, Grace","Holz, Haley","Launsbach, Ava",,,,0,0,8,13,"[Nelson, Grace] Kill by Holz, Haley (from Launsbach, Ava).",NYU,East
+4,22,21,NYU,error,attack_error,NYU,"Nelson, Grace","Martin, Logan","Jiron-Bujanda, Elle",,"Martin, Logan",,0,0,8,14,"[Nelson, Grace] Attack error by Martin, Logan (from Jiron-Bujanda, Elle).",NYU,East
+4,23,22,NYU,attack,kill,NYU,"Nelson, Grace","Holz, Haley","Launsbach, Ava",,,,0,0,8,15,"[Nelson, Grace] Kill by Holz, Haley (from Launsbach, Ava).",NYU,East
+4,24,23,East,attack,kill,NYU,"Nelson, Grace","Pringle, Hannah","Jiron-Bujanda, Elle",,,,0,0,9,15,"[Nelson, Grace] Kill by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+4,25,24,NYU,attack,kill,East,"Casagrande, Grace","Holz, Haley","Launsbach, Ava",,,,0,0,9,16,"[Casagrande, Grace] Kill by Holz, Haley (from Launsbach, Ava).",NYU,East
+4,26,25,NYU,attack,kill,NYU,"Hirano, Lindsey","Anvekar, Leela",,,,,0,0,9,17,"[Hirano, Lindsey] Kill by Anvekar, Leela.",NYU,East
+4,27,26,East,attack,kill,NYU,"Hirano, Lindsey","Pringle, Hannah","Jiron-Bujanda, Elle",,,,0,0,10,17,"[Hirano, Lindsey] Kill by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+4,28,27,East,attack,kill,East,"Jiron-Bujanda, Elle","Pringle, Hannah","Jiron-Bujanda, Elle",,,,0,0,11,17,"[Jiron-Bujanda, Elle] Kill by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+4,29,28,NYU,attack,kill,East,"Jiron-Bujanda, Elle","Anvekar, Leela","Launsbach, Ava",,,,0,0,11,18,"[Jiron-Bujanda, Elle] Kill by Anvekar, Leela (from Launsbach, Ava).",NYU,East
+4,30,29,NYU,attack,kill,NYU,"Drust, Dominique","Anvekar, Leela",,,,,0,0,11,19,"[Drust, Dominique] Kill by Anvekar, Leela.",NYU,East
+4,31,30,NYU,attack,kill,NYU,"Drust, Dominique","Weider, Ella","Drust, Dominique",,,,0,0,11,20,"[Drust, Dominique] Kill by Weider, Ella (from Drust, Dominique).",NYU,East
+4,32,31,NYU,block,attack_error,NYU,"Drust, Dominique","Kelly, Bridgette",,"Anvekar, Leela","Kelly, Bridgette",,0,0,11,21,"[Drust, Dominique] Attack error by Kelly, Bridgette (block by Anvekar, Leela).",NYU,East
+4,33,32,East,attack,kill,NYU,"Drust, Dominique","Pringle, Hannah","Jiron-Bujanda, Elle",,,,0,0,12,21,"[Drust, Dominique] Kill by Pringle, Hannah (from Jiron-Bujanda, Elle).",NYU,East
+4,34,33,NYU,attack,kill,East,"Gruber, Trinity","Holz, Haley","Drust, Dominique",,,,0,0,12,22,"[Gruber, Trinity] Kill by Holz, Haley (from Drust, Dominique).",NYU,East
+4,35,34,NYU,error,attack_error,NYU,"Holz, Haley","Kelly, Bridgette","Jiron-Bujanda, Elle",,"Kelly, Bridgette",,0,0,12,23,"[Holz, Haley] Attack error by Kelly, Bridgette (from Jiron-Bujanda, Elle).",NYU,East
+4,36,35,East,error,service_error,NYU,"Holz, Haley",,,,"Holz, Haley",,0,0,13,23,"[Holz, Haley] Service error.",NYU,East
+4,37,36,NYU,attack,kill,East,"Kelly, Bridgette","Weider, Ella","Drust, Dominique",,,,0,0,13,24,"[Kelly, Bridgette] Kill by Weider, Ella (from Drust, Dominique).",NYU,East
+4,38,37,NYU,block,attack_error,NYU,"Anvekar, Leela","Martin, Logan",,"Odum, Taylor","Martin, Logan",,0,0,13,25,"[Anvekar, Leela] Attack error by Martin, Logan (block by Odum, Taylor).",NYU,East

@@ -1,0 +1,174 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,Den,ace,service_ace,Den,"MacKinnon, Kirby",,,,,Grace Marshall,0,0,1,0,"[MacKinnon, Kirby] Service ace (Grace Marshall).",HOPE,Den
+1,2,1,HOPE,attack,kill,Den,"MacKinnon, Kirby",Charlotte Brecht,Lauren Lee,,,,0,0,1,1,"[MacKinnon, Kirby] Kill by Charlotte Brecht (from Lauren Lee).",HOPE,Den
+1,3,2,HOPE,attack,kill,HOPE,Olivia Fiebing,Alison DeWeerd,Lauren Lee,,,,0,0,1,2,[Olivia Fiebing] Kill by Alison DeWeerd (from Lauren Lee).,HOPE,Den
+1,4,3,Den,error,attack_error,HOPE,Olivia Fiebing,Annie Lockett,,,Annie Lockett,,0,0,2,2,[Olivia Fiebing] Attack error by Annie Lockett.,HOPE,Den
+1,5,4,HOPE,attack,kill,Den,"Sobota, Sophia",Annie Lockett,Olivia Fiebing,,,,0,0,2,3,"[Sobota, Sophia] Kill by Annie Lockett (from Olivia Fiebing).",HOPE,Den
+1,6,5,HOPE,attack,kill,HOPE,Lauren Lee,Annie Lockett,Lauren Lee,,"Anderson, Lucy",,0,1,2,4,"[Lauren Lee] Kill by Annie Lockett (from Lauren Lee), block error by Anderson, Lucy.",HOPE,Den
+1,7,6,Den,error,attack_error,HOPE,Lauren Lee,Alison DeWeerd,,,Alison DeWeerd,,0,0,3,4,[Lauren Lee] Attack error by Alison DeWeerd.,HOPE,Den
+1,8,7,Den,attack,kill,Den,"Corrao, Jenna","Anderson, Lucy","MacKinnon, Kirby",,,,0,0,4,4,"[Corrao, Jenna] Kill by Anderson, Lucy (from MacKinnon, Kirby).",HOPE,Den
+1,9,8,HOPE,attack,kill,Den,"Corrao, Jenna",Alison DeWeerd,Lauren Lee,,,,0,0,4,5,"[Corrao, Jenna] Kill by Alison DeWeerd (from Lauren Lee).",HOPE,Den
+1,10,9,Den,attack,kill,HOPE,Annie Lockett,"Johns, Cailey","MacKinnon, Kirby",,,,0,1,5,5,"[Annie Lockett] Kill by Johns, Cailey (from MacKinnon, Kirby).",HOPE,Den
+1,11,10,HOPE,attack,kill,Den,"Anderson, Lucy",Alison DeWeerd,Lauren Lee,,,,0,0,5,6,"[Anderson, Lucy] Kill by Alison DeWeerd (from Lauren Lee).",HOPE,Den
+1,12,11,Den,block,attack_error,HOPE,Alison DeWeerd,Annie Lockett,,"Johns, Cailey",Annie Lockett,,0,1,6,6,"[Alison DeWeerd] Attack error by Annie Lockett (block by Johns, Cailey).",HOPE,Den
+1,13,12,Den,error,attack_error,Den,"McCaskey, Kelly",Lauren Lee,,,Lauren Lee,,0,0,7,6,"[McCaskey, Kelly] Attack error by Lauren Lee.",HOPE,Den
+1,14,13,Den,error,attack_error,Den,"McCaskey, Kelly",Emma Post,,,Emma Post,,0,0,8,6,"[McCaskey, Kelly] Attack error by Emma Post.",HOPE,Den
+1,15,14,HOPE,attack,kill,Den,"McCaskey, Kelly",Annie Lockett,Lauren Lee,,,,0,0,8,7,"[McCaskey, Kelly] Kill by Annie Lockett (from Lauren Lee).",HOPE,Den
+1,16,15,Den,attack,kill,HOPE,Emma Post,"Sobota, Sophia","Tight, Sophie",,,,0,0,9,7,"[Emma Post] Kill by Sobota, Sophia (from Tight, Sophie).",HOPE,Den
+1,17,16,HOPE,error,service_error,Den,"Johns, Cailey",,,,"Johns, Cailey",,0,0,9,8,"[Johns, Cailey] Service error.",HOPE,Den
+1,18,17,HOPE,error,attack_error,HOPE,Grace Marshall,"Sobota, Sophia",,,"Sobota, Sophia",,0,0,9,9,"[Grace Marshall] Attack error by Sobota, Sophia.",HOPE,Den
+1,19,18,Den,error,service_error,HOPE,Grace Marshall,,,,Grace Marshall,,0,0,10,9,[Grace Marshall] Service error.,HOPE,Den
+1,20,19,HOPE,error,attack_error,Den,"MacKinnon, Kirby","Sobota, Sophia",,,"Sobota, Sophia",,0,0,10,10,"[MacKinnon, Kirby] Attack error by Sobota, Sophia.",HOPE,Den
+1,21,20,HOPE,attack,kill,HOPE,Olivia Fiebing,Annie Lockett,Lauren Lee,,,,0,0,10,11,[Olivia Fiebing] Kill by Annie Lockett (from Lauren Lee).,HOPE,Den
+1,22,21,HOPE,attack,kill,HOPE,Olivia Fiebing,Alison DeWeerd,Lauren Lee,,,,0,0,10,12,[Olivia Fiebing] Kill by Alison DeWeerd (from Lauren Lee).,HOPE,Den
+1,23,22,Den,attack,kill,HOPE,Olivia Fiebing,"Sobota, Sophia","MacKinnon, Kirby",,,,0,0,11,12,"[Olivia Fiebing] Kill by Sobota, Sophia (from MacKinnon, Kirby).",HOPE,Den
+1,24,23,Den,error,attack_error,Den,"Sobota, Sophia",Annie Lockett,,,Annie Lockett,,0,0,12,12,"[Sobota, Sophia] Attack error by Annie Lockett.",HOPE,Den
+1,25,24,HOPE,attack,kill,Den,"Sobota, Sophia",Emma Post,Lauren Lee,,,,0,0,12,13,"[Sobota, Sophia] Kill by Emma Post (from Lauren Lee).",HOPE,Den
+1,26,25,HOPE,attack,kill,HOPE,Lauren Lee,Emma Post,Olivia Fiebing,,,,0,0,12,14,[Lauren Lee] Kill by Emma Post (from Olivia Fiebing).,HOPE,Den
+1,27,26,HOPE,attack,kill,HOPE,Lauren Lee,Annie Lockett,Olivia Fiebing,,,,0,0,12,15,[Lauren Lee] Kill by Annie Lockett (from Olivia Fiebing).,HOPE,Den
+1,28,27,Den,attack,kill,HOPE,Lauren Lee,"Anderson, Lucy","MacKinnon, Kirby",,,,0,0,13,15,"[Lauren Lee] Kill by Anderson, Lucy (from MacKinnon, Kirby).",HOPE,Den
+1,29,28,HOPE,attack,kill,Den,"Corrao, Jenna",Annie Lockett,Lauren Lee,,,,0,0,13,16,"[Corrao, Jenna] Kill by Annie Lockett (from Lauren Lee).",HOPE,Den
+1,30,29,Den,error,service_error,HOPE,Annie Lockett,,,,Annie Lockett,,0,0,14,16,[Annie Lockett] Service error.,HOPE,Den
+1,31,30,HOPE,attack,kill,Den,"Anderson, Lucy",Alison DeWeerd,Lauren Lee,,,,0,0,14,17,"[Anderson, Lucy] Kill by Alison DeWeerd (from Lauren Lee).",HOPE,Den
+1,32,31,Den,attack,kill,HOPE,Alison DeWeerd,"McCaskey, Kelly","Habeeb, Sadie",,,,0,0,15,17,"[Alison DeWeerd] Kill by McCaskey, Kelly (from Habeeb, Sadie).",HOPE,Den
+1,33,32,Den,error,attack_error,Den,"McCaskey, Kelly",Charlotte Brecht,,,Charlotte Brecht,,0,0,16,17,"[McCaskey, Kelly] Attack error by Charlotte Brecht.",HOPE,Den
+1,34,33,HOPE,attack,kill,Den,"McCaskey, Kelly",Jenna Core,Olivia Fiebing,,,,0,0,16,18,"[McCaskey, Kelly] Kill by Jenna Core (from Olivia Fiebing).",HOPE,Den
+1,35,34,HOPE,attack,kill,HOPE,Emma Post,Jenna Core,Lauren Lee,,,,0,0,16,19,[Emma Post] Kill by Jenna Core (from Lauren Lee).,HOPE,Den
+1,36,35,Den,error,ball_handling_error,HOPE,Emma Post,,,,Lauren Lee,,1,0,17,19,[Emma Post] Bad set by Lauren Lee.,HOPE,Den
+1,37,36,HOPE,error,service_error,Den,"Johns, Cailey",,,,"Johns, Cailey",,0,0,17,20,"[Johns, Cailey] Service error.",HOPE,Den
+1,38,37,Den,attack,kill,HOPE,Grace Marshall,"Sobota, Sophia","Tight, Sophie",,,,0,0,18,20,"[Grace Marshall] Kill by Sobota, Sophia (from Tight, Sophie).",HOPE,Den
+1,39,38,HOPE,block,attack_error,Den,"MacKinnon, Kirby","Sobota, Sophia",,Charlotte Brecht; Lauren Lee,"Sobota, Sophia",,0,0,18,21,"[MacKinnon, Kirby] Attack error by Sobota, Sophia (block by Charlotte Brecht; Lauren Lee).",HOPE,Den
+1,40,39,HOPE,attack,kill,HOPE,Olivia Fiebing,Annie Lockett,Lauren Lee,,,,0,0,18,22,[Olivia Fiebing] Kill by Annie Lockett (from Lauren Lee).,HOPE,Den
+1,41,40,HOPE,attack,kill,HOPE,Olivia Fiebing,Annie Lockett,Olivia Fiebing,,,,1,0,18,23,[Olivia Fiebing] Kill by Annie Lockett (from Olivia Fiebing).,HOPE,Den
+1,42,41,HOPE,error,attack_error,HOPE,Olivia Fiebing,"Sobota, Sophia",,,"Sobota, Sophia",,0,0,18,24,"[Olivia Fiebing] Attack error by Sobota, Sophia.",HOPE,Den
+1,43,42,Den,attack,kill,HOPE,Olivia Fiebing,"Sobota, Sophia","MacKinnon, Kirby",,,,0,0,19,24,"[Olivia Fiebing] Kill by Sobota, Sophia (from MacKinnon, Kirby).",HOPE,Den
+1,44,43,Den,error,attack_error,Den,"Sobota, Sophia",Emma Post,,,Emma Post,,0,0,20,24,"[Sobota, Sophia] Attack error by Emma Post.",HOPE,Den
+1,45,44,Den,attack,kill,Den,"Sobota, Sophia","Anderson, Lucy","MacKinnon, Kirby",,,,0,0,21,24,"[Sobota, Sophia] Kill by Anderson, Lucy (from MacKinnon, Kirby).",HOPE,Den
+1,46,45,Den,attack,kill,Den,"Sobota, Sophia","McCaskey, Kelly","MacKinnon, Kirby",,,,0,0,22,24,"[Sobota, Sophia] Kill by McCaskey, Kelly (from MacKinnon, Kirby).",HOPE,Den
+1,47,46,HOPE,attack,kill,Den,"Sobota, Sophia",Annie Lockett,Lauren Lee,,,,0,0,22,25,"[Sobota, Sophia] Kill by Annie Lockett (from Lauren Lee).",HOPE,Den
+2,1,0,Den,attack,kill,HOPE,Grace Marshall,"Anderson, Lucy","Tight, Sophie",,,,0,0,1,0,"[Grace Marshall] Kill by Anderson, Lucy (from Tight, Sophie).",HOPE,Den
+2,2,1,Den,attack,kill,Den,"Sobota, Sophia","McCaskey, Kelly","Tight, Sophie",,,,0,0,2,0,"[Sobota, Sophia] Kill by McCaskey, Kelly (from Tight, Sophie).",HOPE,Den
+2,3,2,Den,ace,service_ace,Den,"Sobota, Sophia",,,,,Emma Post,0,0,3,0,"[Sobota, Sophia] Service ace (Emma Post).",HOPE,Den
+2,4,3,Den,attack,kill,Den,"Sobota, Sophia","Boyd, Corinne","Tight, Sophie",,,,0,0,4,0,"[Sobota, Sophia] Kill by Boyd, Corinne (from Tight, Sophie).",HOPE,Den
+2,5,4,Den,attack,kill,Den,"Sobota, Sophia","Anderson, Lucy",,,,,0,0,5,0,"[Sobota, Sophia] Kill by Anderson, Lucy.",HOPE,Den
+2,6,5,Den,block,attack_error,Den,"Sobota, Sophia",Annie Lockett,,"Boyd, Corinne; Anderson, Lucy",Annie Lockett,,0,0,6,0,"[Sobota, Sophia] Attack error by Annie Lockett (block by Boyd, Corinne; Anderson, Lucy).",HOPE,Den
+2,7,6,HOPE,attack,kill,Den,"Sobota, Sophia",Annie Lockett,Lauren Lee,,,,1,0,6,1,"[Sobota, Sophia] Kill by Annie Lockett (from Lauren Lee).",HOPE,Den
+2,8,7,HOPE,attack,kill,HOPE,Olivia Fiebing,Annie Lockett,Lauren Lee,,,,0,1,6,2,[Olivia Fiebing] Kill by Annie Lockett (from Lauren Lee).,HOPE,Den
+2,9,8,HOPE,ace,service_ace,HOPE,Olivia Fiebing,,,,,"McCaskey, Kelly",0,0,6,3,"[Olivia Fiebing] Service ace (McCaskey, Kelly).",HOPE,Den
+2,10,9,HOPE,attack,kill,HOPE,Olivia Fiebing,Alison DeWeerd,Lauren Lee,,,,0,0,6,4,[Olivia Fiebing] Kill by Alison DeWeerd (from Lauren Lee).,HOPE,Den
+2,11,10,Den,error,attack_error,HOPE,Olivia Fiebing,Alison DeWeerd,,,Alison DeWeerd,,0,0,7,4,[Olivia Fiebing] Attack error by Alison DeWeerd.,HOPE,Den
+2,12,11,HOPE,attack,kill,Den,"Corrao, Jenna",Alison DeWeerd,Lauren Lee,,,,0,0,7,5,"[Corrao, Jenna] Kill by Alison DeWeerd (from Lauren Lee).",HOPE,Den
+2,13,12,HOPE,block,attack_error,HOPE,Lauren Lee,"McCaskey, Kelly",,Annie Lockett; Alison DeWeerd,"McCaskey, Kelly",,0,0,7,6,"[Lauren Lee] Attack error by McCaskey, Kelly (block by Annie Lockett; Alison DeWeerd).",HOPE,Den
+2,14,13,Den,attack,kill,HOPE,Lauren Lee,"Anderson, Lucy","Tight, Sophie",,,,0,0,8,6,"[Lauren Lee] Kill by Anderson, Lucy (from Tight, Sophie).",HOPE,Den
+2,15,14,HOPE,attack,kill,Den,"Anderson, Lucy",Annie Lockett,Lauren Lee,,,,0,0,8,7,"[Anderson, Lucy] Kill by Annie Lockett (from Lauren Lee).",HOPE,Den
+2,16,15,Den,error,attack_error,HOPE,Annie Lockett,Emma Post,,,Emma Post,,0,1,9,7,[Annie Lockett] Attack error by Emma Post.,HOPE,Den
+2,17,16,HOPE,attack,kill,Den,"McCaskey, Kelly",Jenna Core,Annie Lockett,,,,0,0,9,8,"[McCaskey, Kelly] Kill by Jenna Core (from Annie Lockett).",HOPE,Den
+2,18,17,Den,error,service_error,HOPE,Alison DeWeerd,,,,Alison DeWeerd,,0,0,10,8,[Alison DeWeerd] Service error.,HOPE,Den
+2,19,18,HOPE,error,service_error,Den,"Johns, Cailey",,,,"Johns, Cailey",,0,0,10,9,"[Johns, Cailey] Service error.",HOPE,Den
+2,20,19,HOPE,attack,kill,HOPE,Emma Post,Lauren Lee,Emma Post,,,,0,0,10,10,[Emma Post] Kill by Lauren Lee (from Emma Post).,HOPE,Den
+2,21,20,HOPE,attack,kill,HOPE,Emma Post,Jenna Core,Lauren Lee,,,,0,0,10,11,[Emma Post] Kill by Jenna Core (from Lauren Lee).,HOPE,Den
+2,22,21,HOPE,ace,service_ace,HOPE,Emma Post,,,,,"Sobota, Sophia",0,0,10,12,"[Emma Post] Service ace (Sobota, Sophia).",HOPE,Den
+2,23,22,HOPE,attack,kill,HOPE,Emma Post,Charlotte Brecht,Lauren Lee,,,,0,0,10,13,[Emma Post] Kill by Charlotte Brecht (from Lauren Lee).,HOPE,Den
+2,24,23,HOPE,attack,kill,HOPE,Emma Post,Charlotte Brecht,Lauren Lee,,,,1,0,10,14,[Emma Post] Kill by Charlotte Brecht (from Lauren Lee).,HOPE,Den
+2,25,24,HOPE,attack,kill,HOPE,Emma Post,Charlotte Brecht,Lauren Lee,,,,0,0,10,15,[Emma Post] Kill by Charlotte Brecht (from Lauren Lee).,HOPE,Den
+2,26,25,Den,error,service_error,HOPE,Emma Post,,,,Emma Post,,0,0,11,15,[Emma Post] Service error.,HOPE,Den
+2,27,26,HOPE,attack,kill,Den,"Tight, Sophie",Jenna Core,Lauren Lee,,,,0,0,11,16,"[Tight, Sophie] Kill by Jenna Core (from Lauren Lee).",HOPE,Den
+2,28,27,Den,attack,kill,HOPE,Grace Marshall,"Anderson, Lucy","Tight, Sophie",,,,0,0,12,16,"[Grace Marshall] Kill by Anderson, Lucy (from Tight, Sophie).",HOPE,Den
+2,29,28,Den,block,attack_error,Den,"Sobota, Sophia",Annie Lockett,,"Boyd, Corinne; Anderson, Lucy",Annie Lockett,,0,0,13,16,"[Sobota, Sophia] Attack error by Annie Lockett (block by Boyd, Corinne; Anderson, Lucy).",HOPE,Den
+2,30,29,Den,error,attack_error,Den,"Sobota, Sophia",Charlotte Brecht,,,Charlotte Brecht,,0,0,14,16,"[Sobota, Sophia] Attack error by Charlotte Brecht.",HOPE,Den
+2,31,30,HOPE,error,service_error,Den,"Sobota, Sophia",,,,"Sobota, Sophia",,0,0,14,17,"[Sobota, Sophia] Service error.",HOPE,Den
+2,32,31,HOPE,attack,kill,HOPE,Olivia Fiebing,Alison DeWeerd,Lauren Lee,,,,0,0,14,18,[Olivia Fiebing] Kill by Alison DeWeerd (from Lauren Lee).,HOPE,Den
+2,33,32,Den,error,attack_error,HOPE,Olivia Fiebing,Alison DeWeerd,,,Alison DeWeerd,,0,0,15,18,[Olivia Fiebing] Attack error by Alison DeWeerd.,HOPE,Den
+2,34,33,HOPE,attack,kill,Den,"Corrao, Jenna",Annie Lockett,Lauren Lee,,,,0,0,15,19,"[Corrao, Jenna] Kill by Annie Lockett (from Lauren Lee).",HOPE,Den
+2,35,34,HOPE,ace,service_ace,HOPE,Lauren Lee,,,,,"McCaskey, Kelly",0,0,15,20,"[Lauren Lee] Service ace (McCaskey, Kelly).",HOPE,Den
+2,36,35,HOPE,attack,kill,HOPE,Lauren Lee,Alison DeWeerd,Lauren Lee,,,,1,0,15,21,[Lauren Lee] Kill by Alison DeWeerd (from Lauren Lee).,HOPE,Den
+2,37,36,Den,attack,kill,HOPE,Lauren Lee,"Tight, Sophie",,,,,0,0,16,21,"[Lauren Lee] Kill by Tight, Sophie.",HOPE,Den
+2,38,37,HOPE,error,attack_error,Den,"Anderson, Lucy","Tight, Sophie",,,"Tight, Sophie",,0,0,16,22,"[Anderson, Lucy] Attack error by Tight, Sophie.",HOPE,Den
+2,39,38,HOPE,attack,kill,HOPE,Annie Lockett,Jenna Core,Olivia Fiebing,,,,0,1,16,23,[Annie Lockett] Kill by Jenna Core (from Olivia Fiebing).,HOPE,Den
+2,40,39,HOPE,error,attack_error,HOPE,Annie Lockett,"McCaskey, Kelly",,,"McCaskey, Kelly",,0,0,16,24,"[Annie Lockett] Attack error by McCaskey, Kelly.",HOPE,Den
+2,41,40,Den,attack,kill,HOPE,Annie Lockett,"McCaskey, Kelly","Tight, Sophie",,,,0,0,17,24,"[Annie Lockett] Kill by McCaskey, Kelly (from Tight, Sophie).",HOPE,Den
+2,42,41,HOPE,attack,kill,Den,"McCaskey, Kelly",Jenna Core,Lauren Lee,,,,0,0,17,25,"[McCaskey, Kelly] Kill by Jenna Core (from Lauren Lee).",HOPE,Den
+3,1,0,Den,attack,kill,Den,"Tight, Sophie","Boyd, Corinne","Tight, Sophie",,,,0,0,1,0,"[Tight, Sophie] Kill by Boyd, Corinne (from Tight, Sophie).",HOPE,Den
+3,2,1,Den,attack,kill,Den,"Tight, Sophie","Anderson, Lucy","Tight, Sophie",,,,0,0,2,0,"[Tight, Sophie] Kill by Anderson, Lucy (from Tight, Sophie).",HOPE,Den
+3,3,2,HOPE,attack,kill,Den,"Tight, Sophie",Annie Lockett,Lauren Lee,,,,0,0,2,1,"[Tight, Sophie] Kill by Annie Lockett (from Lauren Lee).",HOPE,Den
+3,4,3,HOPE,attack,kill,HOPE,Olivia Fiebing,Alison DeWeerd,Lauren Lee,,,,0,0,2,2,[Olivia Fiebing] Kill by Alison DeWeerd (from Lauren Lee).,HOPE,Den
+3,5,4,HOPE,ace,service_ace,HOPE,Olivia Fiebing,,,,,"McCaskey, Kelly",0,0,2,3,"[Olivia Fiebing] Service ace (McCaskey, Kelly).",HOPE,Den
+3,6,5,Den,attack,kill,HOPE,Olivia Fiebing,"Sobota, Sophia","Tight, Sophie",,,,0,0,3,3,"[Olivia Fiebing] Kill by Sobota, Sophia (from Tight, Sophie).",HOPE,Den
+3,7,6,Den,attack,kill,Den,"Sobota, Sophia","McCaskey, Kelly","Corrao, Jenna",,,,0,0,4,3,"[Sobota, Sophia] Kill by McCaskey, Kelly (from Corrao, Jenna).",HOPE,Den
+3,8,7,HOPE,attack,kill,Den,"Sobota, Sophia",Alison DeWeerd,Lauren Lee,,,,0,0,4,4,"[Sobota, Sophia] Kill by Alison DeWeerd (from Lauren Lee).",HOPE,Den
+3,9,8,Den,attack,kill,HOPE,Lauren Lee,"Anderson, Lucy","Tight, Sophie",,,,0,1,5,4,"[Lauren Lee] Kill by Anderson, Lucy (from Tight, Sophie).",HOPE,Den
+3,10,9,Den,error,attack_error,Den,"Corrao, Jenna",Emma Post,,,Emma Post,,0,0,6,4,"[Corrao, Jenna] Attack error by Emma Post.",HOPE,Den
+3,11,10,HOPE,attack,kill,Den,"Corrao, Jenna",Emma Post,Lauren Lee,,,,0,0,6,5,"[Corrao, Jenna] Kill by Emma Post (from Lauren Lee).",HOPE,Den
+3,12,11,Den,error,service_error,HOPE,Annie Lockett,,,,Annie Lockett,,0,1,7,5,[Annie Lockett] Service error.,HOPE,Den
+3,13,12,Den,ace,service_ace,Den,"Anderson, Lucy",,,,,Olivia Fiebing,0,0,8,5,"[Anderson, Lucy] Service ace (Olivia Fiebing).",HOPE,Den
+3,14,13,HOPE,error,attack_error,Den,"Anderson, Lucy","McCaskey, Kelly",,,"McCaskey, Kelly",,0,0,8,6,"[Anderson, Lucy] Attack error by McCaskey, Kelly.",HOPE,Den
+3,15,14,Den,error,attack_error,HOPE,Alison DeWeerd,Jenna Core,,,Jenna Core,,0,1,9,6,[Alison DeWeerd] Attack error by Jenna Core.,HOPE,Den
+3,16,15,HOPE,attack,kill,Den,"McCaskey, Kelly",Jenna Core,Lauren Lee,,,,0,0,9,7,"[McCaskey, Kelly] Kill by Jenna Core (from Lauren Lee).",HOPE,Den
+3,17,16,Den,error,service_error,HOPE,Emma Post,,,,Emma Post,,0,0,10,7,[Emma Post] Service error.,HOPE,Den
+3,18,17,Den,ace,service_ace,Den,"Johns, Cailey",,,,,Emma Post,0,0,11,7,"[Johns, Cailey] Service ace (Emma Post).",HOPE,Den
+3,19,18,HOPE,error,service_error,Den,"Johns, Cailey",,,,"Johns, Cailey",,0,0,11,8,"[Johns, Cailey] Service error.",HOPE,Den
+3,20,19,HOPE,error,attack_error,HOPE,Grace Marshall,"Boyd, Corinne",,,"Boyd, Corinne",,0,0,11,9,"[Grace Marshall] Attack error by Boyd, Corinne.",HOPE,Den
+3,21,20,Den,attack,kill,HOPE,Grace Marshall,"Boyd, Corinne","Tight, Sophie",,,,0,0,12,9,"[Grace Marshall] Kill by Boyd, Corinne (from Tight, Sophie).",HOPE,Den
+3,22,21,Den,attack,kill,Den,"Tight, Sophie","Sobota, Sophia","Tight, Sophie",,,,0,0,13,9,"[Tight, Sophie] Kill by Sobota, Sophia (from Tight, Sophie).",HOPE,Den
+3,23,22,HOPE,attack,kill,Den,"Tight, Sophie",Annie Lockett,Lauren Lee,,,,1,0,13,10,"[Tight, Sophie] Kill by Annie Lockett (from Lauren Lee).",HOPE,Den
+3,24,23,Den,attack,kill,HOPE,Olivia Fiebing,"Sobota, Sophia","Tight, Sophie",,,,0,0,14,10,"[Olivia Fiebing] Kill by Sobota, Sophia (from Tight, Sophie).",HOPE,Den
+3,25,24,HOPE,attack,kill,Den,"Sobota, Sophia",Alison DeWeerd,Lauren Lee,,,,0,0,14,11,"[Sobota, Sophia] Kill by Alison DeWeerd (from Lauren Lee).",HOPE,Den
+3,26,25,HOPE,ace,service_ace,HOPE,Lauren Lee,,,,,"McCaskey, Kelly",0,0,14,12,"[Lauren Lee] Service ace (McCaskey, Kelly).",HOPE,Den
+3,27,26,HOPE,error,attack_error,HOPE,Lauren Lee,"Boyd, Corinne",,,"Boyd, Corinne",,0,0,14,13,"[Lauren Lee] Attack error by Boyd, Corinne.",HOPE,Den
+3,28,27,HOPE,error,attack_error,HOPE,Lauren Lee,"Anderson, Lucy",,,"Anderson, Lucy",,0,0,14,14,"[Lauren Lee] Attack error by Anderson, Lucy.",HOPE,Den
+3,29,28,Den,error,service_error,HOPE,Lauren Lee,,,,Lauren Lee,,0,0,15,14,[Lauren Lee] Service error.,HOPE,Den
+3,30,29,Den,error,attack_error,Den,"Corrao, Jenna",Emma Post,,,Emma Post,,0,0,16,14,"[Corrao, Jenna] Attack error by Emma Post.",HOPE,Den
+3,31,30,HOPE,attack,kill,Den,"Corrao, Jenna",Annie Lockett,Lauren Lee,,,,0,0,16,15,"[Corrao, Jenna] Kill by Annie Lockett (from Lauren Lee).",HOPE,Den
+3,32,31,Den,error,service_error,HOPE,Annie Lockett,,,,Annie Lockett,,0,0,17,15,[Annie Lockett] Service error.,HOPE,Den
+3,33,32,HOPE,error,service_error,Den,"Anderson, Lucy",,,,"Anderson, Lucy",,0,0,17,16,"[Anderson, Lucy] Service error.",HOPE,Den
+3,34,33,HOPE,block,attack_error,HOPE,Alison DeWeerd,"Johns, Cailey",,Charlotte Brecht; Jenna Core,"Johns, Cailey",,0,0,17,17,"[Alison DeWeerd] Attack error by Johns, Cailey (block by Charlotte Brecht; Jenna Core).",HOPE,Den
+3,35,34,HOPE,ace,service_ace,HOPE,Alison DeWeerd,,,,,"Habeeb, Sadie",0,0,17,18,"[Alison DeWeerd] Service ace (Habeeb, Sadie).",HOPE,Den
+3,36,35,HOPE,error,attack_error,HOPE,Alison DeWeerd,"McCaskey, Kelly",,,"McCaskey, Kelly",,0,0,17,19,"[Alison DeWeerd] Attack error by McCaskey, Kelly.",HOPE,Den
+3,37,36,Den,error,attack_error,HOPE,Alison DeWeerd,Jenna Core,,,Jenna Core,,1,0,18,19,[Alison DeWeerd] Attack error by Jenna Core.,HOPE,Den
+3,38,37,Den,attack,kill,Den,"McCaskey, Kelly","Johns, Cailey","Tight, Sophie",,,,0,0,19,19,"[McCaskey, Kelly] Kill by Johns, Cailey (from Tight, Sophie).",HOPE,Den
+3,39,38,HOPE,attack,kill,Den,"McCaskey, Kelly",Jenna Core,Lauren Lee,,,,0,0,19,20,"[McCaskey, Kelly] Kill by Jenna Core (from Lauren Lee).",HOPE,Den
+3,40,39,Den,attack,kill,HOPE,Emma Post,"Sobota, Sophia","Tight, Sophie",,,,0,0,20,20,"[Emma Post] Kill by Sobota, Sophia (from Tight, Sophie).",HOPE,Den
+3,41,40,Den,error,ball_handling_error,Den,"Johns, Cailey",,,,Olivia Fiebing,,0,0,21,20,"[Johns, Cailey] Bad set by Olivia Fiebing.",HOPE,Den
+3,42,41,Den,attack,kill,Den,"Johns, Cailey","Sobota, Sophia","Tight, Sophie",,,,0,0,22,20,"[Johns, Cailey] Kill by Sobota, Sophia (from Tight, Sophie).",HOPE,Den
+3,43,42,Den,attack,kill,Den,"Johns, Cailey","Sobota, Sophia","Tight, Sophie",,,,0,0,23,20,"[Johns, Cailey] Kill by Sobota, Sophia (from Tight, Sophie).",HOPE,Den
+3,44,43,Den,error,attack_error,Den,"Johns, Cailey",Jenna Core,,,Jenna Core,,1,0,24,20,"[Johns, Cailey] Attack error by Jenna Core.",HOPE,Den
+3,45,44,HOPE,attack,kill,Den,"Johns, Cailey",Charlotte Brecht,Lauren Lee,,,,0,0,24,21,"[Johns, Cailey] Kill by Charlotte Brecht (from Lauren Lee).",HOPE,Den
+3,46,45,Den,attack,kill,HOPE,Grace Marshall,"Boyd, Corinne","Tight, Sophie",,,,0,0,25,21,"[Grace Marshall] Kill by Boyd, Corinne (from Tight, Sophie).",HOPE,Den
+4,1,0,HOPE,error,attack_error,HOPE,Annie Lockett,"Kempf, Alice",,,"Kempf, Alice",,0,0,0,1,"[Annie Lockett] Attack error by Kempf, Alice.",HOPE,Den
+4,2,1,HOPE,attack,kill,HOPE,Annie Lockett,Alison DeWeerd,Lauren Lee,,,,0,0,0,2,[Annie Lockett] Kill by Alison DeWeerd (from Lauren Lee).,HOPE,Den
+4,3,2,HOPE,ace,service_ace,HOPE,Annie Lockett,,,,,"Sobota, Sophia",0,0,0,3,"[Annie Lockett] Service ace (Sobota, Sophia).",HOPE,Den
+4,4,3,HOPE,attack,kill,HOPE,Annie Lockett,Alison DeWeerd,Lauren Lee,,,,0,0,0,4,[Annie Lockett] Kill by Alison DeWeerd (from Lauren Lee).,HOPE,Den
+4,5,4,HOPE,ace,service_ace,HOPE,Annie Lockett,,,,,"Sobota, Sophia",0,0,0,5,"[Annie Lockett] Service ace (Sobota, Sophia).",HOPE,Den
+4,6,5,HOPE,ace,service_ace,HOPE,Annie Lockett,,,,,"McCaskey, Kelly",1,0,0,6,"[Annie Lockett] Service ace (McCaskey, Kelly).",HOPE,Den
+4,7,6,Den,error,ball_handling_error,HOPE,Annie Lockett,,,,Lauren Lee,,0,0,1,6,[Annie Lockett] Bad set by Lauren Lee.,HOPE,Den
+4,8,7,HOPE,error,service_error,Den,"Tight, Sophie",,,,"Tight, Sophie",,0,1,1,7,"[Tight, Sophie] Service error.",HOPE,Den
+4,9,8,Den,attack,kill,HOPE,Alison DeWeerd,"Sobota, Sophia","Tight, Sophie",,,,0,0,2,7,"[Alison DeWeerd] Kill by Sobota, Sophia (from Tight, Sophie).",HOPE,Den
+4,10,9,HOPE,attack,kill,Den,"Sobota, Sophia",Jenna Core,Lauren Lee,,,,0,0,2,8,"[Sobota, Sophia] Kill by Jenna Core (from Lauren Lee).",HOPE,Den
+4,11,10,Den,error,service_error,HOPE,Emma Post,,,,Emma Post,,0,1,3,8,[Emma Post] Service error.,HOPE,Den
+4,12,11,Den,error,attack_error,Den,"Corrao, Jenna",Jenna Core,,,Jenna Core,,0,0,4,8,"[Corrao, Jenna] Attack error by Jenna Core.",HOPE,Den
+4,13,12,Den,error,attack_error,Den,"Corrao, Jenna",Jenna Core,,,Jenna Core,,0,0,5,8,"[Corrao, Jenna] Attack error by Jenna Core.",HOPE,Den
+4,14,13,HOPE,error,service_error,Den,"Corrao, Jenna",,,,"Corrao, Jenna",,0,0,5,9,"[Corrao, Jenna] Service error.",HOPE,Den
+4,15,14,HOPE,attack,kill,HOPE,Grace Marshall,Charlotte Brecht,Lauren Lee,,,,0,1,5,10,[Grace Marshall] Kill by Charlotte Brecht (from Lauren Lee).,HOPE,Den
+4,16,15,Den,attack,kill,HOPE,Grace Marshall,"Anderson, Lucy","Tight, Sophie",,,,0,0,6,10,"[Grace Marshall] Kill by Anderson, Lucy (from Tight, Sophie).",HOPE,Den
+4,17,16,Den,error,attack_error,Den,"Anderson, Lucy",Charlotte Brecht,,,Charlotte Brecht,,0,0,7,10,"[Anderson, Lucy] Attack error by Charlotte Brecht.",HOPE,Den
+4,18,17,HOPE,attack,kill,Den,"Anderson, Lucy",Charlotte Brecht,Lauren Lee,,,,0,0,7,11,"[Anderson, Lucy] Kill by Charlotte Brecht (from Lauren Lee).",HOPE,Den
+4,19,18,HOPE,error,attack_error,HOPE,Olivia Fiebing,"McCaskey, Kelly",,,"McCaskey, Kelly",,0,0,7,12,"[Olivia Fiebing] Attack error by McCaskey, Kelly.",HOPE,Den
+4,20,19,Den,attack,kill,HOPE,Olivia Fiebing,"Johns, Cailey",,,,,0,0,8,12,"[Olivia Fiebing] Kill by Johns, Cailey.",HOPE,Den
+4,21,20,HOPE,error,service_error,Den,"McCaskey, Kelly",,,,"McCaskey, Kelly",,0,0,8,13,"[McCaskey, Kelly] Service error.",HOPE,Den
+4,22,21,HOPE,ace,service_ace,HOPE,Lauren Lee,,,,,"McCaskey, Kelly",0,0,8,14,"[Lauren Lee] Service ace (McCaskey, Kelly).",HOPE,Den
+4,23,22,HOPE,error,attack_error,HOPE,Lauren Lee,"McCaskey, Kelly",,,"McCaskey, Kelly",,0,0,8,15,"[Lauren Lee] Attack error by McCaskey, Kelly.",HOPE,Den
+4,24,23,HOPE,ace,service_ace,HOPE,Lauren Lee,,,,,"Hutras, Natalie",0,1,8,16,"[Lauren Lee] Service ace (Hutras, Natalie).",HOPE,Den
+4,25,24,Den,error,attack_error,HOPE,Lauren Lee,Annie Lockett,,,Annie Lockett,,1,0,9,16,[Lauren Lee] Attack error by Annie Lockett.,HOPE,Den
+4,26,25,HOPE,attack,kill,Den,"Johns, Cailey",Alison DeWeerd,Lauren Lee,,,,0,0,9,17,"[Johns, Cailey] Kill by Alison DeWeerd (from Lauren Lee).",HOPE,Den
+4,27,26,Den,error,attack_error,HOPE,Annie Lockett,Emma Post,,,Emma Post,,0,0,10,17,[Annie Lockett] Attack error by Emma Post.,HOPE,Den
+4,28,27,HOPE,attack,kill,Den,"Tight, Sophie",Alison DeWeerd,Lauren Lee,,,,0,0,10,18,"[Tight, Sophie] Kill by Alison DeWeerd (from Lauren Lee).",HOPE,Den
+4,29,28,HOPE,ace,service_ace,HOPE,Alison DeWeerd,,,,,"Hutras, Natalie",0,0,10,19,"[Alison DeWeerd] Service ace (Hutras, Natalie).",HOPE,Den
+4,30,29,HOPE,attack,kill,HOPE,Alison DeWeerd,Emma Post,,,,,0,0,10,20,[Alison DeWeerd] Kill by Emma Post.,HOPE,Den
+4,31,30,Den,attack,kill,HOPE,Alison DeWeerd,"Sobota, Sophia","Hutras, Natalie",,,,0,0,11,20,"[Alison DeWeerd] Kill by Sobota, Sophia (from Hutras, Natalie).",HOPE,Den
+4,32,31,Den,error,attack_error,Den,"Sobota, Sophia",Jenna Core,,,Jenna Core,,0,0,12,20,"[Sobota, Sophia] Attack error by Jenna Core.",HOPE,Den
+4,33,32,HOPE,error,service_error,Den,"Sobota, Sophia",,,,"Sobota, Sophia",,0,0,12,21,"[Sobota, Sophia] Service error.",HOPE,Den
+4,34,33,HOPE,attack,kill,HOPE,Sammie Seib,Charlotte Brecht,Lauren Lee,,,,0,1,12,22,[Sammie Seib] Kill by Charlotte Brecht (from Lauren Lee).,HOPE,Den
+4,35,34,HOPE,attack,kill,HOPE,Sammie Seib,Charlotte Brecht,Lauren Lee,,,,0,0,12,23,[Sammie Seib] Kill by Charlotte Brecht (from Lauren Lee).,HOPE,Den
+4,36,35,Den,block,attack_error,HOPE,Sammie Seib,Charlotte Brecht,,"McCaskey, Kelly; Boyd, Corinne",Charlotte Brecht,,0,0,13,23,"[Sammie Seib] Attack error by Charlotte Brecht (block by McCaskey, Kelly; Boyd, Corinne).",HOPE,Den
+4,37,36,HOPE,attack,kill,Den,"Corrao, Jenna",Charlotte Brecht,Lauren Lee,,,,0,0,13,24,"[Corrao, Jenna] Kill by Charlotte Brecht (from Lauren Lee).",HOPE,Den
+4,38,37,HOPE,error,attack_error,HOPE,Grace Marshall,"Johns, Cailey",,,"Johns, Cailey",,0,0,13,25,"[Grace Marshall] Attack error by Johns, Cailey.",HOPE,Den

@@ -1,0 +1,148 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,EU,attack,kill,CC,Jordan Mullen,Morgan McKnight,Cassie Srb,,,,0,0,0,1,[Jordan Mullen] Kill by Morgan McKnight (from Cassie Srb).,EU,CC
+1,2,1,EU,error,attack_error,EU,Elyse Thompson,Laney Swan,,,Laney Swan,,0,0,0,2,[Elyse Thompson] Attack error by Laney Swan.,EU,CC
+1,3,2,CC,attack,kill,EU,Elyse Thompson,Allie Freeburg,Lizzy Counts,,,,0,0,1,2,[Elyse Thompson] Kill by Allie Freeburg (from Lizzy Counts).,EU,CC
+1,4,3,EU,attack,kill,CC,Anna Gurolnick,Morgan McKnight,Cassie Srb,,,,0,0,1,3,[Anna Gurolnick] Kill by Morgan McKnight (from Cassie Srb).,EU,CC
+1,5,4,CC,attack,kill,EU,Cassie Srb,Margo Spaethling,Lizzy Counts,,,,0,0,2,3,[Cassie Srb] Kill by Margo Spaethling (from Lizzy Counts).,EU,CC
+1,6,5,EU,error,service_error,CC,Isa Aragon-Menzel,,,,Isa Aragon-Menzel,,0,1,2,4,[Isa Aragon-Menzel] Service error.,EU,CC
+1,7,6,CC,attack,kill,EU,Morgan McKnight,Allie Freeburg,Lizzy Counts,,,,0,1,3,4,[Morgan McKnight] Kill by Allie Freeburg (from Lizzy Counts).,EU,CC
+1,8,7,CC,ace,service_ace,CC,Haley Harris,,,,,Maureen Schick,0,1,4,4,[Haley Harris] Service ace (Maureen Schick).,EU,CC
+1,9,8,CC,error,attack_error,CC,Haley Harris,Leah Saunders,,,Leah Saunders,,0,0,5,4,[Haley Harris] Attack error by Leah Saunders.,EU,CC
+1,10,9,EU,attack,kill,CC,Haley Harris,Tara Martin,Cassie Srb,,,,0,0,5,5,[Haley Harris] Kill by Tara Martin (from Cassie Srb).,EU,CC
+1,11,10,CC,attack,kill,EU,Kelsey Meins,Lizzy Counts,Margo Spaethling,,,,0,1,6,5,[Kelsey Meins] Kill by Lizzy Counts (from Margo Spaethling).,EU,CC
+1,12,11,CC,error,attack_error,CC,Margo Spaethling,Maggie Rimmel,,,Maggie Rimmel,,0,0,7,5,[Margo Spaethling] Attack error by Maggie Rimmel.,EU,CC
+1,13,12,EU,attack,kill,CC,Margo Spaethling,Tara Martin,Cassie Srb,,,,0,0,7,6,[Margo Spaethling] Kill by Tara Martin (from Cassie Srb).,EU,CC
+1,14,13,CC,block,attack_error,EU,Leah Saunders,Tara Martin,,Lizzy Counts; Georgia Mullins,Tara Martin,,0,0,8,6,[Leah Saunders] Attack error by Tara Martin (block by Lizzy Counts; Georgia Mullins).,EU,CC
+1,15,14,CC,error,attack_error,CC,Lizzy Counts,Leah Saunders,,,Leah Saunders,,0,1,9,6,[Lizzy Counts] Attack error by Leah Saunders.,EU,CC
+1,16,15,EU,attack,kill,CC,Lizzy Counts,Cassie Srb,Leah Saunders,,,,0,0,9,7,[Lizzy Counts] Kill by Cassie Srb (from Leah Saunders).,EU,CC
+1,17,16,EU,error,attack_error,EU,Sara Carr,Georgia Mullins,,,Georgia Mullins,,0,1,9,8,[Sara Carr] Attack error by Georgia Mullins.,EU,CC
+1,18,17,CC,attack,kill,EU,Sara Carr,Georgia Mullins,Lizzy Counts,,,,0,0,10,8,[Sara Carr] Kill by Georgia Mullins (from Lizzy Counts).,EU,CC
+1,19,18,EU,error,attack_error,CC,Jordan Mullen,Allie Freeburg,,,Allie Freeburg,,0,1,10,9,[Jordan Mullen] Attack error by Allie Freeburg.,EU,CC
+1,20,19,CC,error,service_error,EU,Elyse Thompson,,,,Elyse Thompson,,0,1,11,9,[Elyse Thompson] Service error.,EU,CC
+1,21,20,EU,error,attack_error,CC,Anna Gurolnick,Allie Freeburg,,,Allie Freeburg,,0,0,11,10,[Anna Gurolnick] Attack error by Allie Freeburg.,EU,CC
+1,22,21,EU,attack,kill,EU,Cassie Srb,Morgan McKnight,Leah Saunders,,,,0,0,11,11,[Cassie Srb] Kill by Morgan McKnight (from Leah Saunders).,EU,CC
+1,23,22,EU,error,attack_error,EU,Cassie Srb,Margo Spaethling,,,Margo Spaethling,,0,0,11,12,[Cassie Srb] Attack error by Margo Spaethling.,EU,CC
+1,24,23,CC,attack,kill,EU,Cassie Srb,Allie Freeburg,Lizzy Counts,,,,0,0,12,12,[Cassie Srb] Kill by Allie Freeburg (from Lizzy Counts).,EU,CC
+1,25,24,EU,error,service_error,CC,Isa Aragon-Menzel,,,,Isa Aragon-Menzel,,0,1,12,13,[Isa Aragon-Menzel] Service error.,EU,CC
+1,26,25,EU,error,attack_error,EU,Morgan McKnight,Allie Freeburg,,,Allie Freeburg,,0,1,12,14,[Morgan McKnight] Attack error by Allie Freeburg.,EU,CC
+1,27,26,CC,error,service_error,EU,Morgan McKnight,,,,Morgan McKnight,,0,0,13,14,[Morgan McKnight] Service error.,EU,CC
+1,28,27,CC,block,attack_error,CC,Haley Harris,Finn Wilkins,,Margo Spaethling; Jordan Mullen,Finn Wilkins,,0,1,14,14,[Haley Harris] Attack error by Finn Wilkins (block by Margo Spaethling; Jordan Mullen).,EU,CC
+1,29,28,CC,ace,service_ace,CC,Haley Harris,,,,,Maureen Schick,0,0,15,14,[Haley Harris] Service ace (Maureen Schick).,EU,CC
+1,30,29,EU,attack,kill,CC,Haley Harris,Finn Wilkins,Cassie Srb,,,,0,1,15,15,[Haley Harris] Kill by Finn Wilkins (from Cassie Srb).,EU,CC
+1,31,30,EU,ace,service_ace,EU,Kelsey Meins,,,,,Isa Aragon-Menzel,0,1,15,16,[Kelsey Meins] Service ace (Isa Aragon-Menzel).,EU,CC
+1,32,31,EU,error,attack_error,EU,Kelsey Meins,Lizzy Counts,,,Lizzy Counts,,0,0,15,17,[Kelsey Meins] Attack error by Lizzy Counts.,EU,CC
+1,33,32,CC,attack,kill,EU,Kelsey Meins,Jordan Mullen,Lizzy Counts,,,,1,0,16,17,[Kelsey Meins] Kill by Jordan Mullen (from Lizzy Counts).,EU,CC
+1,34,33,EU,attack,kill,CC,Margo Spaethling,Leah Saunders,Cassie Srb,,,,0,0,16,18,[Margo Spaethling] Kill by Leah Saunders (from Cassie Srb).,EU,CC
+1,35,34,CC,error,attack_error,EU,Leah Saunders,Jessica Schwenke,,,Jessica Schwenke,,0,0,17,18,[Leah Saunders] Attack error by Jessica Schwenke.,EU,CC
+1,36,35,EU,error,attack_error,CC,Lizzy Counts,Georgia Mullins,,,Georgia Mullins,,0,1,17,19,[Lizzy Counts] Attack error by Georgia Mullins.,EU,CC
+1,37,36,CC,block,attack_error,EU,Sara Carr,Maggie Rimmel,,Georgia Mullins,Maggie Rimmel,,0,1,18,19,[Sara Carr] Attack error by Maggie Rimmel (block by Georgia Mullins).,EU,CC
+1,38,37,EU,attack,kill,CC,Jordan Mullen,Morgan McKnight,Cassie Srb,,,,0,1,18,20,[Jordan Mullen] Kill by Morgan McKnight (from Cassie Srb).,EU,CC
+1,39,38,EU,attack,kill,EU,Elyse Thompson,Morgan McKnight,Cassie Srb,,,,0,1,18,21,[Elyse Thompson] Kill by Morgan McKnight (from Cassie Srb).,EU,CC
+1,40,39,EU,block,attack_error,EU,Elyse Thompson,Georgia Mullins,,Finn Wilkins,Georgia Mullins,,1,0,18,22,[Elyse Thompson] Attack error by Georgia Mullins (block by Finn Wilkins).,EU,CC
+1,41,40,EU,ace,service_ace,EU,Elyse Thompson,,,,,Allie Freeburg,0,0,18,23,[Elyse Thompson] Service ace (Allie Freeburg).,EU,CC
+1,42,41,CC,error,service_error,EU,Elyse Thompson,,,,Elyse Thompson,,0,0,19,23,[Elyse Thompson] Service error.,EU,CC
+1,43,42,EU,attack,kill,CC,Anna Gurolnick,Morgan McKnight,Cassie Srb,,,,0,0,19,24,[Anna Gurolnick] Kill by Morgan McKnight (from Cassie Srb).,EU,CC
+1,44,43,CC,error,attack_error,EU,Cassie Srb,Cassie Srb,,,Cassie Srb,,0,0,20,24,[Cassie Srb] Attack error by Cassie Srb.,EU,CC
+1,45,44,EU,attack,kill,CC,Isa Aragon-Menzel,Leah Saunders,Cassie Srb,,,,0,1,20,25,[Isa Aragon-Menzel] Kill by Leah Saunders (from Cassie Srb).,EU,CC
+2,1,0,CC,error,attack_error,EU,Sara Carr,Leah Saunders,,,Leah Saunders,,0,0,1,0,[Sara Carr] Attack error by Leah Saunders.,EU,CC
+2,2,1,EU,attack,kill,CC,Anna Gurolnick,Cassie Srb,Sara Carr,,,,0,0,1,1,[Anna Gurolnick] Kill by Cassie Srb (from Sara Carr).,EU,CC
+2,3,2,EU,attack,kill,EU,Elyse Thompson,Finn Wilkins,Cassie Srb,,Margo Spaethling,,0,0,1,2,"[Elyse Thompson] Kill by Finn Wilkins (from Cassie Srb), block error by Margo Spaethling.",EU,CC
+2,4,3,CC,error,service_error,EU,Elyse Thompson,,,,Elyse Thompson,,0,0,2,2,[Elyse Thompson] Service error.,EU,CC
+2,5,4,CC,block,attack_error,CC,Isa Aragon-Menzel,Morgan McKnight,,Margo Spaethling; Lizzy Counts,Morgan McKnight,,0,1,3,2,[Isa Aragon-Menzel] Attack error by Morgan McKnight (block by Margo Spaethling; Lizzy Counts).,EU,CC
+2,6,5,EU,attack,kill,CC,Isa Aragon-Menzel,Finn Wilkins,Cassie Srb,,,,0,0,3,3,[Isa Aragon-Menzel] Kill by Finn Wilkins (from Cassie Srb).,EU,CC
+2,7,6,EU,attack,kill,EU,Cassie Srb,Morgan McKnight,Cassie Srb,,,,0,0,3,4,[Cassie Srb] Kill by Morgan McKnight (from Cassie Srb).,EU,CC
+2,8,7,EU,error,attack_error,EU,Cassie Srb,Allie Freeburg,,,Allie Freeburg,,0,0,3,5,[Cassie Srb] Attack error by Allie Freeburg.,EU,CC
+2,9,8,EU,error,attack_error,EU,Cassie Srb,Margo Spaethling,,,Margo Spaethling,,0,0,3,6,[Cassie Srb] Attack error by Margo Spaethling.,EU,CC
+2,10,9,CC,attack,kill,EU,Cassie Srb,Allie Freeburg,Lizzy Counts,,,,0,0,4,6,[Cassie Srb] Kill by Allie Freeburg (from Lizzy Counts).,EU,CC
+2,11,10,CC,block,attack_error,CC,Haley Harris,Morgan McKnight,,Margo Spaethling; Lizzy Counts,Morgan McKnight,,0,1,5,6,[Haley Harris] Attack error by Morgan McKnight (block by Margo Spaethling; Lizzy Counts).,EU,CC
+2,12,11,EU,attack,kill,CC,Haley Harris,Finn Wilkins,Elyse Thompson,,,,0,0,5,7,[Haley Harris] Kill by Finn Wilkins (from Elyse Thompson).,EU,CC
+2,13,12,CC,error,attack_error,EU,Jessica Schwenke,Tara Martin,,,Tara Martin,,0,1,6,7,[Jessica Schwenke] Attack error by Tara Martin.,EU,CC
+2,14,13,EU,attack,kill,CC,Margo Spaethling,Tara Martin,Cassie Srb,,,,0,0,6,8,[Margo Spaethling] Kill by Tara Martin (from Cassie Srb).,EU,CC
+2,15,14,CC,attack,kill,EU,Kelsey Meins,Haley Harris,Lizzy Counts,,,,0,1,7,8,[Kelsey Meins] Kill by Haley Harris (from Lizzy Counts).,EU,CC
+2,16,15,CC,error,attack_error,CC,Lizzy Counts,Tara Martin,,,Tara Martin,,0,1,8,8,[Lizzy Counts] Attack error by Tara Martin.,EU,CC
+2,17,16,EU,attack,kill,CC,Lizzy Counts,Tara Martin,Elyse Thompson,,,,0,0,8,9,[Lizzy Counts] Kill by Tara Martin (from Elyse Thompson).,EU,CC
+2,18,17,EU,error,attack_error,EU,Leah Saunders,Georgia Mullins,,,Georgia Mullins,,0,0,8,10,[Leah Saunders] Attack error by Georgia Mullins.,EU,CC
+2,19,18,CC,attack,kill,EU,Leah Saunders,Jordan Mullen,Lizzy Counts,,,,0,0,9,10,[Leah Saunders] Kill by Jordan Mullen (from Lizzy Counts).,EU,CC
+2,20,19,EU,attack,kill,CC,Jordan Mullen,Tara Martin,Cassie Srb,,,,0,1,9,11,[Jordan Mullen] Kill by Tara Martin (from Cassie Srb).,EU,CC
+2,21,20,EU,attack,kill,EU,Sara Carr,Maggie Rimmel,Cassie Srb,,,,0,1,9,12,[Sara Carr] Kill by Maggie Rimmel (from Cassie Srb).,EU,CC
+2,22,21,CC,attack,kill,EU,Sara Carr,Meaghan Hohman,Lizzy Counts,,,,0,0,10,12,[Sara Carr] Kill by Meaghan Hohman (from Lizzy Counts).,EU,CC
+2,23,22,EU,attack,kill,CC,Anna Gurolnick,Morgan McKnight,Cassie Srb,,,,1,0,10,13,[Anna Gurolnick] Kill by Morgan McKnight (from Cassie Srb).,EU,CC
+2,24,23,CC,attack,kill,EU,Elyse Thompson,Meaghan Hohman,Lizzy Counts,,,,0,1,11,13,[Elyse Thompson] Kill by Meaghan Hohman (from Lizzy Counts).,EU,CC
+2,25,24,EU,attack,kill,CC,Isa Aragon-Menzel,Morgan McKnight,Cassie Srb,,,,0,1,11,14,[Isa Aragon-Menzel] Kill by Morgan McKnight (from Cassie Srb).,EU,CC
+2,26,25,CC,block,attack_error,EU,Cassie Srb,Leah Saunders,,Allie Freeburg; Margo Spaethling,Leah Saunders,,0,0,12,14,[Cassie Srb] Attack error by Leah Saunders (block by Allie Freeburg; Margo Spaethling).,EU,CC
+2,27,26,CC,attack,kill,CC,Haley Harris,Jordan Mullen,Lizzy Counts,,Leah Saunders,,0,1,13,14,"[Haley Harris] Kill by Jordan Mullen (from Lizzy Counts), block error by Leah Saunders.",EU,CC
+2,28,27,CC,ace,service_ace,CC,Haley Harris,,,,,Leah Saunders,0,0,14,14,[Haley Harris] Service ace (Leah Saunders).,EU,CC
+2,29,28,CC,ace,service_ace,CC,Haley Harris,,,,,Sara Carr,0,0,15,14,[Haley Harris] Service ace (Sara Carr).,EU,CC
+2,30,29,EU,attack,kill,CC,Haley Harris,Finn Wilkins,Cassie Srb,,,,0,0,15,15,[Haley Harris] Kill by Finn Wilkins (from Cassie Srb).,EU,CC
+2,31,30,CC,error,service_error,EU,Jessica Schwenke,,,,Jessica Schwenke,,0,1,16,15,[Jessica Schwenke] Service error.,EU,CC
+2,32,31,EU,error,attack_error,CC,Margo Spaethling,Georgia Mullins,,,Georgia Mullins,,0,0,16,16,[Margo Spaethling] Attack error by Georgia Mullins.,EU,CC
+2,33,32,CC,attack,kill,EU,Kelsey Meins,Georgia Mullins,Lizzy Counts,,,,0,1,17,16,[Kelsey Meins] Kill by Georgia Mullins (from Lizzy Counts).,EU,CC
+2,34,33,EU,attack,kill,CC,Lizzy Counts,Tara Martin,Cassie Srb,,,,0,1,17,17,[Lizzy Counts] Kill by Tara Martin (from Cassie Srb).,EU,CC
+2,35,34,EU,attack,kill,EU,Leah Saunders,Cassie Srb,Elyse Thompson,,,,0,0,17,18,[Leah Saunders] Kill by Cassie Srb (from Elyse Thompson).,EU,CC
+2,36,35,CC,attack,kill,EU,Leah Saunders,Jordan Mullen,Lizzy Counts,,,,0,0,18,18,[Leah Saunders] Kill by Jordan Mullen (from Lizzy Counts).,EU,CC
+2,37,36,EU,attack,kill,CC,Jordan Mullen,Tara Martin,Cassie Srb,,,,0,1,18,19,[Jordan Mullen] Kill by Tara Martin (from Cassie Srb).,EU,CC
+2,38,37,EU,block,attack_error,EU,Sara Carr,Meaghan Hohman,,Morgan McKnight; Maggie Rimmel,Meaghan Hohman,,0,1,18,20,[Sara Carr] Attack error by Meaghan Hohman (block by Morgan McKnight; Maggie Rimmel).,EU,CC
+2,39,38,CC,attack,kill,EU,Sara Carr,Meaghan Hohman,Lizzy Counts,,,,0,1,19,20,[Sara Carr] Kill by Meaghan Hohman (from Lizzy Counts).,EU,CC
+2,40,39,EU,attack,kill,CC,Anna Gurolnick,Maggie Rimmel,,,Margo Spaethling,,0,0,19,21,"[Anna Gurolnick] Kill by Maggie Rimmel, block error by Margo Spaethling.",EU,CC
+2,41,40,CC,attack,kill,EU,Elyse Thompson,Allie Freeburg,Lizzy Counts,,,,0,1,20,21,[Elyse Thompson] Kill by Allie Freeburg (from Lizzy Counts).,EU,CC
+2,42,41,EU,attack,kill,CC,Isa Aragon-Menzel,Finn Wilkins,,,,,0,1,20,22,[Isa Aragon-Menzel] Kill by Finn Wilkins.,EU,CC
+2,43,42,CC,attack,kill,EU,Cassie Srb,Allie Freeburg,Lizzy Counts,,,,0,0,21,22,[Cassie Srb] Kill by Allie Freeburg (from Lizzy Counts).,EU,CC
+2,44,43,EU,attack,kill,CC,Haley Harris,Morgan McKnight,Cassie Srb,,,,0,1,21,23,[Haley Harris] Kill by Morgan McKnight (from Cassie Srb).,EU,CC
+2,45,44,CC,attack,kill,EU,Morgan McKnight,Jordan Mullen,Lizzy Counts,,,,1,1,22,23,[Morgan McKnight] Kill by Jordan Mullen (from Lizzy Counts).,EU,CC
+2,46,45,CC,error,attack_error,CC,Margo Spaethling,Tara Martin,,,Tara Martin,,0,1,23,23,[Margo Spaethling] Attack error by Tara Martin.,EU,CC
+2,47,46,EU,attack,kill,CC,Margo Spaethling,Leah Saunders,Elyse Thompson,,,,1,0,23,24,[Margo Spaethling] Kill by Leah Saunders (from Elyse Thompson).,EU,CC
+2,48,47,CC,attack,kill,EU,Finn Wilkins,Jordan Mullen,Lizzy Counts,,,,0,0,24,24,[Finn Wilkins] Kill by Jordan Mullen (from Lizzy Counts).,EU,CC
+2,49,48,EU,attack,kill,CC,Lizzy Counts,Tara Martin,Cassie Srb,,,,0,1,24,25,[Lizzy Counts] Kill by Tara Martin (from Cassie Srb).,EU,CC
+2,50,49,CC,attack,kill,EU,Leah Saunders,Jordan Mullen,Lizzy Counts,,,,0,0,25,25,[Leah Saunders] Kill by Jordan Mullen (from Lizzy Counts).,EU,CC
+2,51,50,EU,attack,kill,CC,Jordan Mullen,Tara Martin,Cassie Srb,,,,0,1,25,26,[Jordan Mullen] Kill by Tara Martin (from Cassie Srb).,EU,CC
+2,52,51,CC,attack,kill,EU,Tara Martin,Meaghan Hohman,Lizzy Counts,,Morgan McKnight,,0,1,26,26,"[Tara Martin] Kill by Meaghan Hohman (from Lizzy Counts), block error by Morgan McKnight.",EU,CC
+2,53,52,CC,error,ball_handling_error,CC,Anna Gurolnick,,,,Cassie Srb,,0,0,27,26,[Anna Gurolnick] Bad set by Cassie Srb.,EU,CC
+2,54,53,EU,block,attack_error,CC,Anna Gurolnick,Meaghan Hohman,,Maggie Rimmel; Morgan McKnight,Meaghan Hohman,,0,0,27,27,[Anna Gurolnick] Attack error by Meaghan Hohman (block by Maggie Rimmel; Morgan McKnight).,EU,CC
+2,55,54,EU,error,attack_error,EU,Elyse Thompson,Margo Spaethling,,,Margo Spaethling,,0,0,27,28,[Elyse Thompson] Attack error by Margo Spaethling.,EU,CC
+2,56,55,EU,attack,kill,EU,Elyse Thompson,Morgan McKnight,Cassie Srb,,,,0,0,27,29,[Elyse Thompson] Kill by Morgan McKnight (from Cassie Srb).,EU,CC
+3,1,0,CC,attack,kill,CC,Isa Aragon-Menzel,Haley Harris,Isa Aragon-Menzel,,,,0,0,1,0,[Isa Aragon-Menzel] Kill by Haley Harris (from Isa Aragon-Menzel).,EU,CC
+3,2,1,EU,attack,kill,CC,Isa Aragon-Menzel,Morgan McKnight,Cassie Srb,,,,0,0,1,1,[Isa Aragon-Menzel] Kill by Morgan McKnight (from Cassie Srb).,EU,CC
+3,3,2,EU,attack,kill,EU,Elyse Thompson,Morgan McKnight,Cassie Srb,,Margo Spaethling,,0,0,1,2,"[Elyse Thompson] Kill by Morgan McKnight (from Cassie Srb), block error by Margo Spaethling.",EU,CC
+3,4,3,EU,error,ball_handling_error,EU,Elyse Thompson,,,,Lizzy Counts,,0,0,1,3,[Elyse Thompson] Ball handling error by Lizzy Counts.,EU,CC
+3,5,4,CC,error,service_error,EU,Elyse Thompson,,,,Elyse Thompson,,0,0,2,3,[Elyse Thompson] Service error.,EU,CC
+3,6,5,EU,attack,kill,CC,Haley Harris,Morgan McKnight,Cassie Srb,,,,0,0,2,4,[Haley Harris] Kill by Morgan McKnight (from Cassie Srb).,EU,CC
+3,7,6,CC,attack,kill,EU,Cassie Srb,Margo Spaethling,Lizzy Counts,,,,0,0,3,4,[Cassie Srb] Kill by Margo Spaethling (from Lizzy Counts).,EU,CC
+3,8,7,EU,attack,kill,CC,Margo Spaethling,Morgan McKnight,Cassie Srb,,,,0,0,3,5,[Margo Spaethling] Kill by Morgan McKnight (from Cassie Srb).,EU,CC
+3,9,8,EU,attack,kill,EU,Morgan McKnight,Leah Saunders,Elyse Thompson,,,,0,1,3,6,[Morgan McKnight] Kill by Leah Saunders (from Elyse Thompson).,EU,CC
+3,10,9,EU,error,attack_error,EU,Morgan McKnight,Jordan Mullen,,,Jordan Mullen,,0,0,3,7,[Morgan McKnight] Attack error by Jordan Mullen.,EU,CC
+3,11,10,CC,attack,kill,EU,Morgan McKnight,Jordan Mullen,Lizzy Counts,,Leah Saunders,,0,0,4,7,"[Morgan McKnight] Kill by Jordan Mullen (from Lizzy Counts), block error by Leah Saunders.",EU,CC
+3,12,11,CC,ace,service_ace,CC,Lizzy Counts,,,,,Maureen Schick,0,1,5,7,[Lizzy Counts] Service ace (Maureen Schick).,EU,CC
+3,13,12,EU,attack,kill,CC,Lizzy Counts,Leah Saunders,Cassie Srb,,,,0,0,5,8,[Lizzy Counts] Kill by Leah Saunders (from Cassie Srb).,EU,CC
+3,14,13,EU,block,attack_error,EU,Kelsey Meins,Jordan Mullen,,Leah Saunders; Maggie Rimmel,Jordan Mullen,,0,1,5,9,[Kelsey Meins] Attack error by Jordan Mullen (block by Leah Saunders; Maggie Rimmel).,EU,CC
+3,15,14,CC,attack,kill,EU,Kelsey Meins,Jordan Mullen,Lizzy Counts,,,,0,0,6,9,[Kelsey Meins] Kill by Jordan Mullen (from Lizzy Counts).,EU,CC
+3,16,15,EU,attack,kill,CC,Jordan Mullen,Maggie Rimmel,Cassie Srb,,,,0,1,6,10,[Jordan Mullen] Kill by Maggie Rimmel (from Cassie Srb).,EU,CC
+3,17,16,CC,error,service_error,EU,Leah Saunders,,,,Leah Saunders,,0,0,7,10,[Leah Saunders] Service error.,EU,CC
+3,18,17,CC,attack,kill,CC,Anna Gurolnick,Allie Freeburg,,,,,0,0,8,10,[Anna Gurolnick] Kill by Allie Freeburg.,EU,CC
+3,19,18,EU,attack,kill,CC,Anna Gurolnick,Maggie Rimmel,Cassie Srb,,,,0,0,8,11,[Anna Gurolnick] Kill by Maggie Rimmel (from Cassie Srb).,EU,CC
+3,20,19,CC,attack,kill,EU,Sara Carr,Meaghan Hohman,Lizzy Counts,,,,0,1,9,11,[Sara Carr] Kill by Meaghan Hohman (from Lizzy Counts).,EU,CC
+3,21,20,CC,error,attack_error,CC,Isa Aragon-Menzel,Leah Saunders,,,Leah Saunders,,0,1,10,11,[Isa Aragon-Menzel] Attack error by Leah Saunders.,EU,CC
+3,22,21,EU,error,service_error,CC,Isa Aragon-Menzel,,,,Isa Aragon-Menzel,,0,0,10,12,[Isa Aragon-Menzel] Service error.,EU,CC
+3,23,22,EU,attack,kill,EU,Elyse Thompson,Cassie Srb,Finn Wilkins,,,,0,1,10,13,[Elyse Thompson] Kill by Cassie Srb (from Finn Wilkins).,EU,CC
+3,24,23,EU,attack,kill,EU,Elyse Thompson,Finn Wilkins,Cassie Srb,,,,0,1,10,14,[Elyse Thompson] Kill by Finn Wilkins (from Cassie Srb).,EU,CC
+3,25,24,CC,attack,kill,EU,Elyse Thompson,Margo Spaethling,,,Cassie Srb,,0,0,11,14,"[Elyse Thompson] Kill by Margo Spaethling, block error by Cassie Srb.",EU,CC
+3,26,25,CC,block,attack_error,CC,Haley Harris,Morgan McKnight,,Lizzy Counts; Margo Spaethling,Morgan McKnight,,0,1,12,14,[Haley Harris] Attack error by Morgan McKnight (block by Lizzy Counts; Margo Spaethling).,EU,CC
+3,27,26,EU,attack,kill,CC,Haley Harris,Morgan McKnight,,,,,0,0,12,15,[Haley Harris] Kill by Morgan McKnight.,EU,CC
+3,28,27,EU,block,attack_error,EU,Cassie Srb,Jordan Mullen,,Finn Wilkins; Leah Saunders,Jordan Mullen,,0,0,12,16,[Cassie Srb] Attack error by Jordan Mullen (block by Finn Wilkins; Leah Saunders).,EU,CC
+3,29,28,CC,attack,kill,EU,Cassie Srb,Margo Spaethling,Lizzy Counts,,,,1,0,13,16,[Cassie Srb] Kill by Margo Spaethling (from Lizzy Counts).,EU,CC
+3,30,29,EU,attack,kill,CC,Margo Spaethling,Finn Wilkins,Cassie Srb,,,,0,0,13,17,[Margo Spaethling] Kill by Finn Wilkins (from Cassie Srb).,EU,CC
+3,31,30,CC,error,attack_error,EU,Morgan McKnight,Tara Martin,,,Tara Martin,,0,1,14,17,[Morgan McKnight] Attack error by Tara Martin.,EU,CC
+3,32,31,EU,attack,kill,CC,Lizzy Counts,Leah Saunders,Cassie Srb,,,,0,1,14,18,[Lizzy Counts] Kill by Leah Saunders (from Cassie Srb).,EU,CC
+3,33,32,CC,attack,kill,EU,Kelsey Meins,Georgia Mullins,Lizzy Counts,,,,0,1,15,18,[Kelsey Meins] Kill by Georgia Mullins (from Lizzy Counts).,EU,CC
+3,34,33,EU,attack,kill,CC,Jordan Mullen,Leah Saunders,Cassie Srb,,,,0,1,15,19,[Jordan Mullen] Kill by Leah Saunders (from Cassie Srb).,EU,CC
+3,35,34,CC,attack,kill,EU,Leah Saunders,Meaghan Hohman,Lizzy Counts,,,,0,0,16,19,[Leah Saunders] Kill by Meaghan Hohman (from Lizzy Counts).,EU,CC
+3,36,35,EU,attack,kill,CC,Anna Gurolnick,Maggie Rimmel,Cassie Srb,,,,0,0,16,20,[Anna Gurolnick] Kill by Maggie Rimmel (from Cassie Srb).,EU,CC
+3,37,36,EU,attack,kill,EU,Sara Carr,Morgan McKnight,Cassie Srb,,,,0,1,16,21,[Sara Carr] Kill by Morgan McKnight (from Cassie Srb).,EU,CC
+3,38,37,EU,attack,kill,EU,Sara Carr,Morgan McKnight,Cassie Srb,,,,1,0,16,22,[Sara Carr] Kill by Morgan McKnight (from Cassie Srb).,EU,CC
+3,39,38,CC,error,attack_error,EU,Sara Carr,Leah Saunders,,,Leah Saunders,,0,0,17,22,[Sara Carr] Attack error by Leah Saunders.,EU,CC
+3,40,39,EU,attack,kill,CC,Isa Aragon-Menzel,Morgan McKnight,Cassie Srb,,,,0,1,17,23,[Isa Aragon-Menzel] Kill by Morgan McKnight (from Cassie Srb).,EU,CC
+3,41,40,CC,attack,kill,EU,Elyse Thompson,Margo Spaethling,Lizzy Counts,,,,0,1,18,23,[Elyse Thompson] Kill by Margo Spaethling (from Lizzy Counts).,EU,CC
+3,42,41,CC,error,attack_error,CC,Haley Harris,Finn Wilkins,,,Finn Wilkins,,0,1,19,23,[Haley Harris] Attack error by Finn Wilkins.,EU,CC
+3,43,42,CC,ace,service_ace,CC,Haley Harris,,,,,Sara Carr,0,0,20,23,[Haley Harris] Service ace (Sara Carr).,EU,CC
+3,44,43,CC,attack,kill,CC,Haley Harris,Jordan Mullen,Lizzy Counts,,,,1,0,21,23,[Haley Harris] Kill by Jordan Mullen (from Lizzy Counts).,EU,CC
+3,45,44,EU,error,service_error,CC,Haley Harris,,,,Haley Harris,,0,0,21,24,[Haley Harris] Service error.,EU,CC
+3,46,45,EU,ace,service_ace,EU,Cassie Srb,,,,,Haley Harris,0,0,21,25,[Cassie Srb] Service ace (Haley Harris).,EU,CC

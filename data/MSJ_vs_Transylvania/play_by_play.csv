@@ -1,0 +1,179 @@
+set,point_num,huddle,team_win,won_via,play_type,serving_team,server,attacker,assist,blockers,error_by,ace_receiver,timeout_before,subs_before,visitor_score,home_score,description,home_team,away_team
+1,1,0,Transy,attack,kill,MSJ,"Graves, Hannah","Myers, Isabella","Lentz, Macy",,,,0,0,1,0,"[Graves, Hannah] Kill by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+1,2,1,Transy,attack,kill,Transy,"Brown, Julia","Myers, Isabella","Lentz, Macy",,,,0,0,2,0,"[Brown, Julia] Kill by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+1,3,2,Transy,ace,service_ace,Transy,"Brown, Julia",,,,,Team,0,0,3,0,"[Brown, Julia] Service ace (Team).",MSJ,Transy
+1,4,3,MSJ,attack,kill,Transy,"Brown, Julia","Sicking, Emma","Johnson, Ginger",,,,0,0,3,1,"[Brown, Julia] Kill by Sicking, Emma (from Johnson, Ginger).",MSJ,Transy
+1,5,4,MSJ,ace,service_ace,MSJ,"Kerr, Avery",,,,,"Beatty, Kennedy",0,0,3,2,"[Kerr, Avery] Service ace (Beatty, Kennedy).",MSJ,Transy
+1,6,5,Transy,error,service_error,MSJ,"Kerr, Avery",,,,"Kerr, Avery",,0,0,4,2,"[Kerr, Avery] Service error.",MSJ,Transy
+1,7,6,MSJ,attack,kill,Transy,"Lentz, Macy","Doty, Sydney","Johnson, Ginger",,,,0,1,4,3,"[Lentz, Macy] Kill by Doty, Sydney (from Johnson, Ginger).",MSJ,Transy
+1,8,7,Transy,attack,kill,MSJ,"Moore, Ava","Mast, Peyton","Lentz, Macy",,,,0,1,5,3,"[Moore, Ava] Kill by Mast, Peyton (from Lentz, Macy).",MSJ,Transy
+1,9,8,MSJ,error,service_error,Transy,"Myers, Isabella",,,,"Myers, Isabella",,0,1,5,4,"[Myers, Isabella] Service error.",MSJ,Transy
+1,10,9,MSJ,error,attack_error,MSJ,"Sicking, Emma","Mast, Peyton","Lentz, Macy",,"Mast, Peyton",,0,0,5,5,"[Sicking, Emma] Attack error by Mast, Peyton (from Lentz, Macy).",MSJ,Transy
+1,11,10,Transy,attack,kill,MSJ,"Sicking, Emma","Kaiser, Lilly","Lentz, Macy",,,,0,0,6,5,"[Sicking, Emma] Kill by Kaiser, Lilly (from Lentz, Macy).",MSJ,Transy
+1,12,11,MSJ,attack,kill,Transy,"Kaiser, Lilly","Graves, Hannah","Moore, Ava",,,,0,0,6,6,"[Kaiser, Lilly] Kill by Graves, Hannah (from Moore, Ava).",MSJ,Transy
+1,13,12,Transy,attack,kill,MSJ,"Stephenson, Lyndsey","Roberts, Cecelia","Lentz, Macy",,,,0,0,7,6,"[Stephenson, Lyndsey] Kill by Roberts, Cecelia (from Lentz, Macy).",MSJ,Transy
+1,14,13,Transy,error,attack_error,Transy,"Beatty, Kennedy","Graves, Hannah","Moore, Ava",,"Graves, Hannah",,0,0,8,6,"[Beatty, Kennedy] Attack error by Graves, Hannah (from Moore, Ava).",MSJ,Transy
+1,15,14,Transy,error,ball_handling_error,Transy,"Beatty, Kennedy",,,,"Moore, Ava",,0,0,9,6,"[Beatty, Kennedy] Bad set by Moore, Ava.",MSJ,Transy
+1,16,15,MSJ,error,service_error,Transy,"Beatty, Kennedy",,,,"Beatty, Kennedy",,0,0,9,7,"[Beatty, Kennedy] Service error.",MSJ,Transy
+1,17,16,MSJ,error,attack_error,MSJ,"Johnson, Ginger","Roberts, Cecelia","Lentz, Macy",,"Roberts, Cecelia",,0,0,9,8,"[Johnson, Ginger] Attack error by Roberts, Cecelia (from Lentz, Macy).",MSJ,Transy
+1,18,17,MSJ,block,attack_error,MSJ,"Johnson, Ginger","Atcher, Addie",,"Kerr, Avery; Doty, Sydney","Atcher, Addie",,0,0,9,9,"[Johnson, Ginger] Attack error by Atcher, Addie (block by Kerr, Avery; Doty, Sydney).",MSJ,Transy
+1,19,18,Transy,attack,kill,MSJ,"Johnson, Ginger","Roberts, Cecelia","Lentz, Macy",,,,0,0,10,9,"[Johnson, Ginger] Kill by Roberts, Cecelia (from Lentz, Macy).",MSJ,Transy
+1,20,19,MSJ,error,attack_error,Transy,"O'Connor, Alex","Lentz, Macy",,,"Lentz, Macy",,0,0,10,10,"[O'Connor, Alex] Attack error by Lentz, Macy.",MSJ,Transy
+1,21,20,Transy,attack,kill,MSJ,"Graves, Hannah","Roberts, Cecelia","Lentz, Macy",,,,0,0,11,10,"[Graves, Hannah] Kill by Roberts, Cecelia (from Lentz, Macy).",MSJ,Transy
+1,22,21,Transy,attack,kill,Transy,"Brown, Julia","Lentz, Macy","Kaiser, Lilly",,,,0,0,12,10,"[Brown, Julia] Kill by Lentz, Macy (from Kaiser, Lilly).",MSJ,Transy
+1,23,22,Transy,attack,kill,Transy,"Brown, Julia","Myers, Isabella","Lentz, Macy",,,,0,0,13,10,"[Brown, Julia] Kill by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+1,24,23,MSJ,attack,kill,Transy,"Brown, Julia","Sicking, Emma","Johnson, Ginger",,,,0,0,13,11,"[Brown, Julia] Kill by Sicking, Emma (from Johnson, Ginger).",MSJ,Transy
+1,25,24,MSJ,error,attack_error,MSJ,"Kerr, Avery","Myers, Isabella","Lentz, Macy",,"Myers, Isabella",,0,0,13,12,"[Kerr, Avery] Attack error by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+1,26,25,Transy,attack,kill,MSJ,"Kerr, Avery","Kaiser, Lilly","Lentz, Macy",,,,0,0,14,12,"[Kerr, Avery] Kill by Kaiser, Lilly (from Lentz, Macy).",MSJ,Transy
+1,27,26,Transy,attack,kill,Transy,"Lentz, Macy","Myers, Isabella","Brown, Julia",,,,0,0,15,12,"[Lentz, Macy] Kill by Myers, Isabella (from Brown, Julia).",MSJ,Transy
+1,28,27,MSJ,block,attack_error,Transy,"Lentz, Macy","Myers, Isabella",,"Mueller, Claudia; Doty, Sydney","Myers, Isabella",,0,0,15,13,"[Lentz, Macy] Attack error by Myers, Isabella (block by Mueller, Claudia; Doty, Sydney).",MSJ,Transy
+1,29,28,Transy,error,attack_error,MSJ,"Moore, Ava","Miranda, Aubrey","Moore, Ava",,"Miranda, Aubrey",,0,0,16,13,"[Moore, Ava] Attack error by Miranda, Aubrey (from Moore, Ava).",MSJ,Transy
+1,30,29,Transy,block,attack_error,Transy,"Myers, Isabella","Miranda, Aubrey",,"Atcher, Addie","Miranda, Aubrey",,0,0,17,13,"[Myers, Isabella] Attack error by Miranda, Aubrey (block by Atcher, Addie).",MSJ,Transy
+1,31,30,Transy,block,attack_error,Transy,"Myers, Isabella","Mueller, Claudia",,"Kaiser, Lilly; Atcher, Addie","Mueller, Claudia",,0,0,18,13,"[Myers, Isabella] Attack error by Mueller, Claudia (block by Kaiser, Lilly; Atcher, Addie).",MSJ,Transy
+1,32,31,MSJ,attack,kill,Transy,"Myers, Isabella","Sicking, Emma","Moore, Ava",,,,0,0,18,14,"[Myers, Isabella] Kill by Sicking, Emma (from Moore, Ava).",MSJ,Transy
+1,33,32,Transy,error,service_error,MSJ,"Sicking, Emma",,,,"Sicking, Emma",,0,0,19,14,"[Sicking, Emma] Service error.",MSJ,Transy
+1,34,33,Transy,attack,kill,Transy,"Kaiser, Lilly","Roberts, Cecelia","Lentz, Macy",,,,0,0,20,14,"[Kaiser, Lilly] Kill by Roberts, Cecelia (from Lentz, Macy).",MSJ,Transy
+1,35,34,Transy,error,attack_error,Transy,"Kaiser, Lilly","Miranda, Aubrey","Moore, Ava",,"Miranda, Aubrey",,0,1,21,14,"[Kaiser, Lilly] Attack error by Miranda, Aubrey (from Moore, Ava).",MSJ,Transy
+1,36,35,MSJ,attack,kill,Transy,"Kaiser, Lilly","Graves, Hannah","Moore, Ava",,,,0,0,21,15,"[Kaiser, Lilly] Kill by Graves, Hannah (from Moore, Ava).",MSJ,Transy
+1,37,36,Transy,attack,kill,MSJ,"Stephenson, Lyndsey","Atcher, Addie","Lentz, Macy",,,,0,0,22,15,"[Stephenson, Lyndsey] Kill by Atcher, Addie (from Lentz, Macy).",MSJ,Transy
+1,38,37,Transy,error,ball_handling_error,Transy,"Beatty, Kennedy",,,,"Moore, Ava",,0,0,23,15,"[Beatty, Kennedy] Bad set by Moore, Ava.",MSJ,Transy
+1,39,38,Transy,error,ball_handling_error,Transy,"Beatty, Kennedy",,,,"Moore, Ava",,0,0,24,15,"[Beatty, Kennedy] Bad set by Moore, Ava.",MSJ,Transy
+1,40,39,Transy,attack,kill,Transy,"Beatty, Kennedy","Roberts, Cecelia",,,,,0,0,25,15,"[Beatty, Kennedy] Kill by Roberts, Cecelia.",MSJ,Transy
+2,1,0,Transy,block,attack_error,Transy,"O'Connor, Alex","Sicking, Emma",,"Lentz, Macy; Roberts, Cecelia","Sicking, Emma",,0,1,1,0,"[O'Connor, Alex] Attack error by Sicking, Emma (block by Lentz, Macy; Roberts, Cecelia).",MSJ,Transy
+2,2,1,Transy,error,attack_error,Transy,"O'Connor, Alex","Doty, Sydney","Stephenson, Lyndsey",,"Doty, Sydney",,0,0,2,0,"[O'Connor, Alex] Attack error by Doty, Sydney (from Stephenson, Lyndsey).",MSJ,Transy
+2,3,2,MSJ,error,service_error,Transy,"O'Connor, Alex",,,,"O'Connor, Alex",,0,0,2,1,"[O'Connor, Alex] Service error.",MSJ,Transy
+2,4,3,MSJ,error,attack_error,MSJ,"Kerr, Avery","Myers, Isabella","Lentz, Macy",,"Myers, Isabella",,0,0,2,2,"[Kerr, Avery] Attack error by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+2,5,4,Transy,error,attack_error,MSJ,"Kerr, Avery","Sicking, Emma","Mueller, Claudia",,"Sicking, Emma",,0,0,3,2,"[Kerr, Avery] Attack error by Sicking, Emma (from Mueller, Claudia).",MSJ,Transy
+2,6,5,Transy,block,attack_error,Transy,"Brown, Julia","Graves, Hannah",,"Lentz, Macy","Graves, Hannah",,0,0,4,2,"[Brown, Julia] Attack error by Graves, Hannah (block by Lentz, Macy).",MSJ,Transy
+2,7,6,MSJ,attack,kill,Transy,"Brown, Julia","Doty, Sydney","Johnson, Ginger",,,,0,0,4,3,"[Brown, Julia] Kill by Doty, Sydney (from Johnson, Ginger).",MSJ,Transy
+2,8,7,Transy,error,service_error,MSJ,"Moore, Ava",,,,"Moore, Ava",,0,1,5,3,"[Moore, Ava] Service error.",MSJ,Transy
+2,9,8,Transy,ace,service_ace,Transy,"Lentz, Macy",,,,,"Sicking, Emma",0,1,6,3,"[Lentz, Macy] Service ace (Sicking, Emma).",MSJ,Transy
+2,10,9,MSJ,error,service_error,Transy,"Lentz, Macy",,,,"Lentz, Macy",,0,0,6,4,"[Lentz, Macy] Service error.",MSJ,Transy
+2,11,10,Transy,attack,kill,MSJ,"Sicking, Emma","Kaiser, Lilly","Lentz, Macy",,,,0,0,7,4,"[Sicking, Emma] Kill by Kaiser, Lilly (from Lentz, Macy).",MSJ,Transy
+2,12,11,MSJ,attack,kill,Transy,"Myers, Isabella","Graves, Hannah","Kerr, Avery",,,,0,1,7,5,"[Myers, Isabella] Kill by Graves, Hannah (from Kerr, Avery).",MSJ,Transy
+2,13,12,MSJ,attack,kill,MSJ,"Stephenson, Lyndsey","Graves, Hannah","Moore, Ava",,,,0,1,7,6,"[Stephenson, Lyndsey] Kill by Graves, Hannah (from Moore, Ava).",MSJ,Transy
+2,14,13,Transy,attack,kill,MSJ,"Stephenson, Lyndsey","Atcher, Addie","Lentz, Macy",,,,0,0,8,6,"[Stephenson, Lyndsey] Kill by Atcher, Addie (from Lentz, Macy).",MSJ,Transy
+2,15,14,MSJ,attack,kill,Transy,"Kaiser, Lilly","Moore, Ava","Lentz, Macy",,,,0,0,8,7,"[Kaiser, Lilly] Kill by Moore, Ava (from Lentz, Macy).",MSJ,Transy
+2,16,15,Transy,attack,kill,MSJ,"Johnson, Ginger","Atcher, Addie","Brown, Julia",,,,0,0,9,7,"[Johnson, Ginger] Kill by Atcher, Addie (from Brown, Julia).",MSJ,Transy
+2,17,16,MSJ,error,service_error,Transy,"Beatty, Kennedy",,,,"Beatty, Kennedy",,0,0,9,8,"[Beatty, Kennedy] Service error.",MSJ,Transy
+2,18,17,MSJ,attack,kill,MSJ,"Graves, Hannah","Sicking, Emma","Johnson, Ginger",,,,0,0,9,9,"[Graves, Hannah] Kill by Sicking, Emma (from Johnson, Ginger).",MSJ,Transy
+2,19,18,MSJ,error,attack_error,MSJ,"Graves, Hannah","Roberts, Cecelia","Lentz, Macy",,"Roberts, Cecelia",,0,0,9,10,"[Graves, Hannah] Attack error by Roberts, Cecelia (from Lentz, Macy).",MSJ,Transy
+2,20,19,Transy,error,service_error,MSJ,"Graves, Hannah",,,,"Graves, Hannah",,0,0,10,10,"[Graves, Hannah] Service error.",MSJ,Transy
+2,21,20,MSJ,attack,kill,Transy,"O'Connor, Alex","Doty, Sydney","Johnson, Ginger",,,,0,0,10,11,"[O'Connor, Alex] Kill by Doty, Sydney (from Johnson, Ginger).",MSJ,Transy
+2,22,21,Transy,error,attack_error,MSJ,"Kerr, Avery","Sicking, Emma","Johnson, Ginger",,"Sicking, Emma",,0,0,11,11,"[Kerr, Avery] Attack error by Sicking, Emma (from Johnson, Ginger).",MSJ,Transy
+2,23,22,Transy,attack,kill,Transy,"Brown, Julia","Myers, Isabella","Lentz, Macy",,,,0,0,12,11,"[Brown, Julia] Kill by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+2,24,23,Transy,attack,kill,Transy,"Brown, Julia","Kaiser, Lilly","Lentz, Macy",,,,0,0,13,11,"[Brown, Julia] Kill by Kaiser, Lilly (from Lentz, Macy).",MSJ,Transy
+2,25,24,Transy,attack,kill,Transy,"Brown, Julia","Myers, Isabella","Lentz, Macy",,,,0,0,14,11,"[Brown, Julia] Kill by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+2,26,25,MSJ,attack,kill,Transy,"Brown, Julia","Doty, Sydney","Johnson, Ginger",,,,0,0,14,12,"[Brown, Julia] Kill by Doty, Sydney (from Johnson, Ginger).",MSJ,Transy
+2,27,26,Transy,attack,kill,MSJ,"Moore, Ava","Myers, Isabella","Lentz, Macy",,,,0,0,15,12,"[Moore, Ava] Kill by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+2,28,27,Transy,attack,kill,Transy,"Lentz, Macy","Myers, Isabella","Lentz, Macy",,,,0,0,16,12,"[Lentz, Macy] Kill by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+2,29,28,MSJ,attack,kill,Transy,"Lentz, Macy","Miranda, Aubrey","Moore, Ava",,,,0,0,16,13,"[Lentz, Macy] Kill by Miranda, Aubrey (from Moore, Ava).",MSJ,Transy
+2,30,29,Transy,attack,kill,MSJ,"Sicking, Emma","Kaiser, Lilly","Lentz, Macy",,,,0,0,17,13,"[Sicking, Emma] Kill by Kaiser, Lilly (from Lentz, Macy).",MSJ,Transy
+2,31,30,MSJ,attack,kill,Transy,"Myers, Isabella","Sicking, Emma","Graves, Hannah",,,,0,1,17,14,"[Myers, Isabella] Kill by Sicking, Emma (from Graves, Hannah).",MSJ,Transy
+2,32,31,Transy,attack,kill,MSJ,"Stephenson, Lyndsey","Mast, Peyton","Lentz, Macy",,,,0,0,18,14,"[Stephenson, Lyndsey] Kill by Mast, Peyton (from Lentz, Macy).",MSJ,Transy
+2,33,32,Transy,block,attack_error,Transy,"Kaiser, Lilly","Miranda, Aubrey",,"Roberts, Cecelia; Atcher, Addie","Miranda, Aubrey",,0,0,19,14,"[Kaiser, Lilly] Attack error by Miranda, Aubrey (block by Roberts, Cecelia; Atcher, Addie).",MSJ,Transy
+2,34,33,Transy,attack,kill,Transy,"Kaiser, Lilly","Mast, Peyton","Lentz, Macy",,,,0,0,20,14,"[Kaiser, Lilly] Kill by Mast, Peyton (from Lentz, Macy).",MSJ,Transy
+2,35,34,MSJ,attack,kill,Transy,"Kaiser, Lilly","Miranda, Aubrey","Moore, Ava",,,,0,0,20,15,"[Kaiser, Lilly] Kill by Miranda, Aubrey (from Moore, Ava).",MSJ,Transy
+2,36,35,MSJ,attack,kill,MSJ,"Johnson, Ginger","Graves, Hannah","Johnson, Ginger",,,,0,0,20,16,"[Johnson, Ginger] Kill by Graves, Hannah (from Johnson, Ginger).",MSJ,Transy
+2,37,36,MSJ,ace,service_ace,MSJ,"Johnson, Ginger",,,,,"Brown, Julia",0,0,20,17,"[Johnson, Ginger] Service ace (Brown, Julia).",MSJ,Transy
+2,38,37,MSJ,ace,service_ace,MSJ,"Johnson, Ginger",,,,,Team,0,0,20,18,"[Johnson, Ginger] Service ace (Team).",MSJ,Transy
+2,39,38,Transy,attack,kill,MSJ,"Johnson, Ginger","Atcher, Addie","Roberts, Cecelia",,,,0,0,21,18,"[Johnson, Ginger] Kill by Atcher, Addie (from Roberts, Cecelia).",MSJ,Transy
+2,40,39,Transy,ace,service_ace,Transy,"Beatty, Kennedy",,,,,"Graves, Hannah",0,0,22,18,"[Beatty, Kennedy] Service ace (Graves, Hannah).",MSJ,Transy
+2,41,40,Transy,attack,kill,Transy,"Beatty, Kennedy","Atcher, Addie","Lentz, Macy",,,,0,0,23,18,"[Beatty, Kennedy] Kill by Atcher, Addie (from Lentz, Macy).",MSJ,Transy
+2,42,41,MSJ,error,service_error,Transy,"Beatty, Kennedy",,,,"Beatty, Kennedy",,0,0,23,19,"[Beatty, Kennedy] Service error.",MSJ,Transy
+2,43,42,MSJ,attack,kill,MSJ,"Graves, Hannah","Sicking, Emma","Graves, Hannah",,,,0,0,23,20,"[Graves, Hannah] Kill by Sicking, Emma (from Graves, Hannah).",MSJ,Transy
+2,44,43,Transy,attack,kill,MSJ,"Graves, Hannah","Atcher, Addie","Lentz, Macy",,,,0,0,24,20,"[Graves, Hannah] Kill by Atcher, Addie (from Lentz, Macy).",MSJ,Transy
+2,45,44,MSJ,error,service_error,Transy,"O'Connor, Alex",,,,"O'Connor, Alex",,0,0,24,21,"[O'Connor, Alex] Service error.",MSJ,Transy
+2,46,45,Transy,attack,kill,MSJ,"Rolf, Katie","Myers, Isabella","Lentz, Macy",,,,0,1,25,21,"[Rolf, Katie] Kill by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+3,1,0,Transy,error,ball_handling_error,MSJ,"Graves, Hannah",,,,"Kerr, Avery",,0,1,1,0,"[Graves, Hannah] Bad set by Kerr, Avery.",MSJ,Transy
+3,2,1,MSJ,attack,kill,Transy,"Brown, Julia","Johnson, Ginger","Sicking, Emma",,,,0,0,1,1,"[Brown, Julia] Kill by Johnson, Ginger (from Sicking, Emma).",MSJ,Transy
+3,3,2,Transy,attack,kill,MSJ,"Kerr, Avery","Myers, Isabella","Lentz, Macy",,,,0,0,2,1,"[Kerr, Avery] Kill by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+3,4,3,Transy,error,attack_error,Transy,"Lentz, Macy","Doty, Sydney","Johnson, Ginger",,"Doty, Sydney",,0,1,3,1,"[Lentz, Macy] Attack error by Doty, Sydney (from Johnson, Ginger).",MSJ,Transy
+3,5,4,Transy,block,attack_error,Transy,"Lentz, Macy","Sicking, Emma",,"Mast, Peyton","Sicking, Emma",,0,0,4,1,"[Lentz, Macy] Attack error by Sicking, Emma (block by Mast, Peyton).",MSJ,Transy
+3,6,5,MSJ,attack,kill,Transy,"Lentz, Macy","Sicking, Emma","Johnson, Ginger",,,,0,0,4,2,"[Lentz, Macy] Kill by Sicking, Emma (from Johnson, Ginger).",MSJ,Transy
+3,7,6,MSJ,ace,service_ace,MSJ,"Moore, Ava",,,,,Team,0,1,4,3,"[Moore, Ava] Service ace (Team).",MSJ,Transy
+3,8,7,MSJ,attack,kill,MSJ,"Moore, Ava","Sicking, Emma","Graves, Hannah",,,,0,0,4,4,"[Moore, Ava] Kill by Sicking, Emma (from Graves, Hannah).",MSJ,Transy
+3,9,8,MSJ,ace,service_ace,MSJ,"Moore, Ava",,,,,"O'Connor, Alex",0,0,4,5,"[Moore, Ava] Service ace (O'Connor, Alex).",MSJ,Transy
+3,10,9,MSJ,attack,kill,MSJ,"Moore, Ava","Sicking, Emma","Moore, Ava",,,,0,0,4,6,"[Moore, Ava] Kill by Sicking, Emma (from Moore, Ava).",MSJ,Transy
+3,11,10,MSJ,attack,kill,MSJ,"Moore, Ava","Sicking, Emma","Moore, Ava",,,,0,0,4,7,"[Moore, Ava] Kill by Sicking, Emma (from Moore, Ava).",MSJ,Transy
+3,12,11,Transy,error,service_error,MSJ,"Moore, Ava",,,,"Moore, Ava",,0,0,5,7,"[Moore, Ava] Service error.",MSJ,Transy
+3,13,12,MSJ,attack,kill,Transy,"Myers, Isabella","Sicking, Emma","Moore, Ava",,,,0,1,5,8,"[Myers, Isabella] Kill by Sicking, Emma (from Moore, Ava).",MSJ,Transy
+3,14,13,MSJ,attack,kill,MSJ,"Sicking, Emma","Graves, Hannah","Moore, Ava",,,,0,0,5,9,"[Sicking, Emma] Kill by Graves, Hannah (from Moore, Ava).",MSJ,Transy
+3,15,14,Transy,attack,kill,MSJ,"Sicking, Emma","Atcher, Addie","Mast, Peyton",,,,0,0,6,9,"[Sicking, Emma] Kill by Atcher, Addie (from Mast, Peyton).",MSJ,Transy
+3,16,15,Transy,ace,service_ace,Transy,"Kaiser, Lilly",,,,,"Stephenson, Lyndsey",0,0,7,9,"[Kaiser, Lilly] Service ace (Stephenson, Lyndsey).",MSJ,Transy
+3,17,16,Transy,attack,kill,Transy,"Kaiser, Lilly","Mast, Peyton","Lentz, Macy",,,,0,0,8,9,"[Kaiser, Lilly] Kill by Mast, Peyton (from Lentz, Macy).",MSJ,Transy
+3,18,17,MSJ,attack,kill,Transy,"Kaiser, Lilly","Graves, Hannah","Moore, Ava",,,,0,0,8,10,"[Kaiser, Lilly] Kill by Graves, Hannah (from Moore, Ava).",MSJ,Transy
+3,19,18,MSJ,attack,kill,MSJ,"Stephenson, Lyndsey","Graves, Hannah","Moore, Ava",,,,0,0,8,11,"[Stephenson, Lyndsey] Kill by Graves, Hannah (from Moore, Ava).",MSJ,Transy
+3,20,19,Transy,attack,kill,MSJ,"Stephenson, Lyndsey","Mast, Peyton","Brown, Julia",,,,0,0,9,11,"[Stephenson, Lyndsey] Kill by Mast, Peyton (from Brown, Julia).",MSJ,Transy
+3,21,20,MSJ,attack,kill,Transy,"Beatty, Kennedy","Moore, Ava","Moore, Ava",,,,0,0,9,12,"[Beatty, Kennedy] Kill by Moore, Ava (from Moore, Ava).",MSJ,Transy
+3,22,21,MSJ,ace,service_ace,MSJ,"Johnson, Ginger",,,,,"Brown, Julia",0,0,9,13,"[Johnson, Ginger] Service ace (Brown, Julia).",MSJ,Transy
+3,23,22,MSJ,error,attack_error,MSJ,"Johnson, Ginger","Atcher, Addie","Lentz, Macy",,"Atcher, Addie",,0,0,9,14,"[Johnson, Ginger] Attack error by Atcher, Addie (from Lentz, Macy).",MSJ,Transy
+3,24,23,Transy,attack,kill,MSJ,"Johnson, Ginger","Roberts, Cecelia","Lentz, Macy",,,,0,0,10,14,"[Johnson, Ginger] Kill by Roberts, Cecelia (from Lentz, Macy).",MSJ,Transy
+3,25,24,Transy,attack,kill,Transy,"O'Connor, Alex","Roberts, Cecelia","Lentz, Macy",,,,0,0,11,14,"[O'Connor, Alex] Kill by Roberts, Cecelia (from Lentz, Macy).",MSJ,Transy
+3,26,25,MSJ,attack,kill,Transy,"O'Connor, Alex","Doty, Sydney","Miranda, Aubrey",,,,0,0,11,15,"[O'Connor, Alex] Kill by Doty, Sydney (from Miranda, Aubrey).",MSJ,Transy
+3,27,26,MSJ,ace,service_ace,MSJ,"Graves, Hannah",,,,,"O'Connor, Alex",0,0,11,16,"[Graves, Hannah] Service ace (O'Connor, Alex).",MSJ,Transy
+3,28,27,Transy,error,service_error,MSJ,"Graves, Hannah",,,,"Graves, Hannah",,0,1,12,16,"[Graves, Hannah] Service error.",MSJ,Transy
+3,29,28,Transy,attack,kill,Transy,"Brown, Julia","Kaiser, Lilly","Lentz, Macy",,,,0,0,13,16,"[Brown, Julia] Kill by Kaiser, Lilly (from Lentz, Macy).",MSJ,Transy
+3,30,29,Transy,ace,service_ace,Transy,"Brown, Julia",,,,,Team,0,0,14,16,"[Brown, Julia] Service ace (Team).",MSJ,Transy
+3,31,30,MSJ,attack,kill,Transy,"Brown, Julia","Sicking, Emma","Johnson, Ginger",,,,0,0,14,17,"[Brown, Julia] Kill by Sicking, Emma (from Johnson, Ginger).",MSJ,Transy
+3,32,31,Transy,attack,kill,MSJ,"Kerr, Avery","Myers, Isabella","Lentz, Macy",,,,0,0,15,17,"[Kerr, Avery] Kill by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+3,33,32,MSJ,attack,kill,Transy,"Lentz, Macy","Sicking, Emma","Johnson, Ginger",,,,0,0,15,18,"[Lentz, Macy] Kill by Sicking, Emma (from Johnson, Ginger).",MSJ,Transy
+3,34,33,Transy,attack,kill,MSJ,"Moore, Ava","Mast, Peyton","Lentz, Macy",,,,0,0,16,18,"[Moore, Ava] Kill by Mast, Peyton (from Lentz, Macy).",MSJ,Transy
+3,35,34,Transy,attack,kill,Transy,"Myers, Isabella","Atcher, Addie","Brown, Julia",,,,0,0,17,18,"[Myers, Isabella] Kill by Atcher, Addie (from Brown, Julia).",MSJ,Transy
+3,36,35,MSJ,attack,kill,Transy,"Myers, Isabella","Sicking, Emma","Moore, Ava",,,,0,0,17,19,"[Myers, Isabella] Kill by Sicking, Emma (from Moore, Ava).",MSJ,Transy
+3,37,36,MSJ,attack,kill,MSJ,"Rolf, Katie","Graves, Hannah","Moore, Ava",,,,0,1,17,20,"[Rolf, Katie] Kill by Graves, Hannah (from Moore, Ava).",MSJ,Transy
+3,38,37,Transy,attack,kill,MSJ,"Rolf, Katie","Atcher, Addie","Myers, Isabella",,,,0,0,18,20,"[Rolf, Katie] Kill by Atcher, Addie (from Myers, Isabella).",MSJ,Transy
+3,39,38,MSJ,attack,kill,Transy,"Kaiser, Lilly","Graves, Hannah","Moore, Ava",,,,0,0,18,21,"[Kaiser, Lilly] Kill by Graves, Hannah (from Moore, Ava).",MSJ,Transy
+3,40,39,Transy,attack,kill,MSJ,"Stephenson, Lyndsey","Atcher, Addie","Lentz, Macy",,,,0,0,19,21,"[Stephenson, Lyndsey] Kill by Atcher, Addie (from Lentz, Macy).",MSJ,Transy
+3,41,40,MSJ,attack,kill,Transy,"Beatty, Kennedy","Graves, Hannah","Moore, Ava",,,,0,0,19,22,"[Beatty, Kennedy] Kill by Graves, Hannah (from Moore, Ava).",MSJ,Transy
+3,42,41,Transy,error,service_error,MSJ,"Johnson, Ginger",,,,"Johnson, Ginger",,0,0,20,22,"[Johnson, Ginger] Service error.",MSJ,Transy
+3,43,42,MSJ,attack,kill,Transy,"Sabin, Soleil","Graves, Hannah","Johnson, Ginger",,,,0,0,20,23,"[Sabin, Soleil] Kill by Graves, Hannah (from Johnson, Ginger).",MSJ,Transy
+3,44,43,MSJ,error,attack_error,MSJ,"Graves, Hannah","Myers, Isabella","Lentz, Macy",,"Myers, Isabella",,0,0,20,24,"[Graves, Hannah] Attack error by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+3,45,44,MSJ,block,attack_error,MSJ,"Graves, Hannah","Myers, Isabella",,"Doty, Sydney; Kerr, Avery","Myers, Isabella",,0,0,20,25,"[Graves, Hannah] Attack error by Myers, Isabella (block by Doty, Sydney; Kerr, Avery).",MSJ,Transy
+4,1,0,MSJ,attack,kill,Transy,"Sabin, Soleil","Graves, Hannah","Stephenson, Lyndsey",,,,0,1,0,1,"[Sabin, Soleil] Kill by Graves, Hannah (from Stephenson, Lyndsey).",MSJ,Transy
+4,2,1,Transy,attack,kill,MSJ,"Graves, Hannah","Myers, Isabella","Lentz, Macy",,,,0,0,1,1,"[Graves, Hannah] Kill by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+4,3,2,Transy,attack,kill,Transy,"Brown, Julia","Kaiser, Lilly","Lentz, Macy",,,,0,0,2,1,"[Brown, Julia] Kill by Kaiser, Lilly (from Lentz, Macy).",MSJ,Transy
+4,4,3,Transy,attack,kill,Transy,"Brown, Julia","Myers, Isabella","Lentz, Macy",,,,0,0,3,1,"[Brown, Julia] Kill by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+4,5,4,Transy,error,attack_error,Transy,"Brown, Julia","Sicking, Emma","Johnson, Ginger",,"Sicking, Emma",,0,0,4,1,"[Brown, Julia] Attack error by Sicking, Emma (from Johnson, Ginger).",MSJ,Transy
+4,6,5,MSJ,error,attack_error,Transy,"Brown, Julia","Myers, Isabella","Beatty, Kennedy",,"Myers, Isabella",,0,0,4,2,"[Brown, Julia] Attack error by Myers, Isabella (from Beatty, Kennedy).",MSJ,Transy
+4,7,6,Transy,attack,kill,MSJ,"Kerr, Avery","Myers, Isabella","Lentz, Macy",,,,0,0,5,2,"[Kerr, Avery] Kill by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+4,8,7,Transy,attack,kill,Transy,"Lentz, Macy","Myers, Isabella","Lentz, Macy",,,,0,1,6,2,"[Lentz, Macy] Kill by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+4,9,8,MSJ,attack,kill,Transy,"Lentz, Macy","Sicking, Emma","Johnson, Ginger",,,,0,0,6,3,"[Lentz, Macy] Kill by Sicking, Emma (from Johnson, Ginger).",MSJ,Transy
+4,10,9,MSJ,error,attack_error,MSJ,"Moore, Ava","Myers, Isabella","Lentz, Macy",,"Myers, Isabella",,0,1,6,4,"[Moore, Ava] Attack error by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+4,11,10,Transy,attack,kill,MSJ,"Moore, Ava","Kaiser, Lilly","Lentz, Macy",,,,0,0,7,4,"[Moore, Ava] Kill by Kaiser, Lilly (from Lentz, Macy).",MSJ,Transy
+4,12,11,MSJ,attack,kill,Transy,"Myers, Isabella","Miranda, Aubrey",,,,,0,1,7,5,"[Myers, Isabella] Kill by Miranda, Aubrey.",MSJ,Transy
+4,13,12,Transy,error,service_error,MSJ,"Sicking, Emma",,,,"Sicking, Emma",,0,0,8,5,"[Sicking, Emma] Service error.",MSJ,Transy
+4,14,13,MSJ,error,service_error,Transy,"Kaiser, Lilly",,,,"Kaiser, Lilly",,0,0,8,6,"[Kaiser, Lilly] Service error.",MSJ,Transy
+4,15,14,Transy,attack,kill,MSJ,"Stephenson, Lyndsey","Mast, Peyton","Lentz, Macy",,,,0,0,9,6,"[Stephenson, Lyndsey] Kill by Mast, Peyton (from Lentz, Macy).",MSJ,Transy
+4,16,15,MSJ,error,service_error,Transy,"Beatty, Kennedy",,,,"Beatty, Kennedy",,0,0,9,7,"[Beatty, Kennedy] Service error.",MSJ,Transy
+4,17,16,MSJ,attack,kill,MSJ,"Johnson, Ginger","Johnson, Ginger","Sicking, Emma",,,,0,0,9,8,"[Johnson, Ginger] Kill by Johnson, Ginger (from Sicking, Emma).",MSJ,Transy
+4,18,17,Transy,attack,kill,MSJ,"Johnson, Ginger","Atcher, Addie","Lentz, Macy",,,,0,0,10,8,"[Johnson, Ginger] Kill by Atcher, Addie (from Lentz, Macy).",MSJ,Transy
+4,19,18,Transy,ace,service_ace,Transy,"Sabin, Soleil",,,,,"Sicking, Emma",0,0,11,8,"[Sabin, Soleil] Service ace (Sicking, Emma).",MSJ,Transy
+4,20,19,MSJ,error,service_error,Transy,"Sabin, Soleil",,,,"Sabin, Soleil",,0,0,11,9,"[Sabin, Soleil] Service error.",MSJ,Transy
+4,21,20,Transy,attack,kill,MSJ,"Graves, Hannah","Myers, Isabella","Lentz, Macy",,,,0,0,12,9,"[Graves, Hannah] Kill by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+4,22,21,MSJ,attack,kill,Transy,"Brown, Julia","Doty, Sydney","Johnson, Ginger",,,,0,0,12,10,"[Brown, Julia] Kill by Doty, Sydney (from Johnson, Ginger).",MSJ,Transy
+4,23,22,Transy,attack,kill,MSJ,"Maxwell, Ava","Myers, Isabella","Sabin, Soleil",,,,0,1,13,10,"[Maxwell, Ava] Kill by Myers, Isabella (from Sabin, Soleil).",MSJ,Transy
+4,24,23,Transy,error,attack_error,Transy,"Lentz, Macy","Sicking, Emma","Johnson, Ginger",,"Sicking, Emma",,0,0,14,10,"[Lentz, Macy] Attack error by Sicking, Emma (from Johnson, Ginger).",MSJ,Transy
+4,25,24,MSJ,error,service_error,Transy,"Lentz, Macy",,,,"Lentz, Macy",,0,0,14,11,"[Lentz, Macy] Service error.",MSJ,Transy
+4,26,25,Transy,attack,kill,MSJ,"Moore, Ava","Myers, Isabella","Lentz, Macy",,,,0,0,15,11,"[Moore, Ava] Kill by Myers, Isabella (from Lentz, Macy).",MSJ,Transy
+4,27,26,MSJ,attack,kill,Transy,"Myers, Isabella","Miranda, Aubrey","Moore, Ava",,,,0,0,15,12,"[Myers, Isabella] Kill by Miranda, Aubrey (from Moore, Ava).",MSJ,Transy
+4,28,27,Transy,attack,kill,MSJ,"Rolf, Katie","Atcher, Addie","Lentz, Macy",,,,0,1,16,12,"[Rolf, Katie] Kill by Atcher, Addie (from Lentz, Macy).",MSJ,Transy
+4,29,28,Transy,attack,kill,Transy,"Kaiser, Lilly","Atcher, Addie","Lentz, Macy",,,,0,0,17,12,"[Kaiser, Lilly] Kill by Atcher, Addie (from Lentz, Macy).",MSJ,Transy
+4,30,29,MSJ,attack,kill,Transy,"Kaiser, Lilly","Graves, Hannah","Moore, Ava",,,,0,0,17,13,"[Kaiser, Lilly] Kill by Graves, Hannah (from Moore, Ava).",MSJ,Transy
+4,31,30,Transy,error,service_error,MSJ,"Stephenson, Lyndsey",,,,"Stephenson, Lyndsey",,0,0,18,13,"[Stephenson, Lyndsey] Service error.",MSJ,Transy
+4,32,31,MSJ,attack,kill,Transy,"Beatty, Kennedy","Kerr, Avery",,,,,0,0,18,14,"[Beatty, Kennedy] Kill by Kerr, Avery.",MSJ,Transy
+4,33,32,Transy,attack,kill,MSJ,"Johnson, Ginger","Lentz, Macy","Lentz, Macy",,,,0,0,19,14,"[Johnson, Ginger] Kill by Lentz, Macy (from Lentz, Macy).",MSJ,Transy
+4,34,33,Transy,attack,kill,Transy,"Sabin, Soleil","Roberts, Cecelia","Lentz, Macy",,,,0,0,20,14,"[Sabin, Soleil] Kill by Roberts, Cecelia (from Lentz, Macy).",MSJ,Transy
+4,35,34,MSJ,attack,kill,Transy,"Sabin, Soleil","Graves, Hannah","Johnson, Ginger",,,,0,0,20,15,"[Sabin, Soleil] Kill by Graves, Hannah (from Johnson, Ginger).",MSJ,Transy
+4,36,35,Transy,error,service_error,MSJ,"Graves, Hannah",,,,"Graves, Hannah",,0,0,21,15,"[Graves, Hannah] Service error.",MSJ,Transy
+4,37,36,MSJ,attack,kill,Transy,"Brown, Julia","Doty, Sydney","Johnson, Ginger",,,,0,0,21,16,"[Brown, Julia] Kill by Doty, Sydney (from Johnson, Ginger).",MSJ,Transy
+4,38,37,Transy,attack,kill,MSJ,"Kerr, Avery","Lentz, Macy",,,,,0,0,22,16,"[Kerr, Avery] Kill by Lentz, Macy.",MSJ,Transy
+4,39,38,MSJ,attack,kill,Transy,"Lentz, Macy","Sicking, Emma","Johnson, Ginger",,,,0,0,22,17,"[Lentz, Macy] Kill by Sicking, Emma (from Johnson, Ginger).",MSJ,Transy
+4,40,39,MSJ,attack,kill,MSJ,"Moore, Ava","Miranda, Aubrey","Moore, Ava",,,,0,0,22,18,"[Moore, Ava] Kill by Miranda, Aubrey (from Moore, Ava).",MSJ,Transy
+4,41,40,Transy,attack,kill,MSJ,"Moore, Ava","Kaiser, Lilly","Lentz, Macy",,,,0,0,23,18,"[Moore, Ava] Kill by Kaiser, Lilly (from Lentz, Macy).",MSJ,Transy
+4,42,41,MSJ,attack,kill,Transy,"Myers, Isabella","Sicking, Emma","Moore, Ava",,,,0,0,23,19,"[Myers, Isabella] Kill by Sicking, Emma (from Moore, Ava).",MSJ,Transy
+4,43,42,MSJ,error,attack_error,MSJ,"Sicking, Emma","Kaiser, Lilly","Lentz, Macy",,"Kaiser, Lilly",,0,0,23,20,"[Sicking, Emma] Attack error by Kaiser, Lilly (from Lentz, Macy).",MSJ,Transy
+4,44,43,MSJ,attack,kill,MSJ,"Sicking, Emma","Miranda, Aubrey","Moore, Ava",,,,0,0,23,21,"[Sicking, Emma] Kill by Miranda, Aubrey (from Moore, Ava).",MSJ,Transy
+4,45,44,Transy,attack,kill,MSJ,"Sicking, Emma","Kaiser, Lilly","Lentz, Macy",,,,0,0,24,21,"[Sicking, Emma] Kill by Kaiser, Lilly (from Lentz, Macy).",MSJ,Transy
+4,46,45,MSJ,attack,kill,Transy,"Kaiser, Lilly","Graves, Hannah","Moore, Ava",,,,0,0,24,22,"[Kaiser, Lilly] Kill by Graves, Hannah (from Moore, Ava).",MSJ,Transy
+4,47,46,Transy,attack,kill,MSJ,"Stephenson, Lyndsey","Atcher, Addie","Lentz, Macy",,,,0,0,25,22,"[Stephenson, Lyndsey] Kill by Atcher, Addie (from Lentz, Macy).",MSJ,Transy

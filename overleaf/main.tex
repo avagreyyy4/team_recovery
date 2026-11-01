@@ -1,0 +1,216 @@
+\documentclass[12pt]{article}          % 12-point font
+\usepackage{natbib}
+\usepackage{afterpage}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage[margin=1in]{geometry}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{pdflscape}
+\usepackage{listings}
+\usepackage[most]{tcolorbox}
+
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{adjustbox}
+\usepackage{subcaption}
+\usepackage[normalem]{ulem}
+\usepackage[hidelinks]{hyperref}
+\usepackage[capitalise, noabbrev]{cleveref}
+\usetikzlibrary{positioning, arrows.meta, calc}
+\newcommand{\ttl}[1]{{\sffamily\bfseries\small #1}}
+\newcommand{\sub}[1]{{\sffamily\scriptsize\color{black!62} #1}}
+\graphicspath{{images/}}
+\usepackage[margin=1in]{geometry}      % 1-inch margins on all sides
+\usepackage{setspace}
+\doublespacing   
+
+% Ragged-right fixed-width column used by the SI tables
+\newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\title{How Teams Regroup in the Seconds After a Setback}
+% TODO: add affiliations and corresponding-author contact
+\author{Ava Grey \and Evey Huang \and Matt Groh}
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+The difference between a temporary setback and a downward slide often comes down to what a team does next. In high-stakes environments, a team may only have seconds to respond during the transition phases between performance episodes. However, these transition phases are too brief for surveys to capture and occur too often to hand-code at scale. How do teams respond in the seconds after a setback, and how does their response influence their subsequent performance? We study collegiate volleyball, where every rally ends in an unambiguous point, and teammates respond by huddling briefly before the next serve. Using computer vision to convert match video into players' court positions, we measure 10,362 huddles by 48 teams across 32 NCAA Division III women's matches and link each huddle to the rallies before and after it. We find that teams tend to deploy a setback-specific recovery pattern in which players huddle longer, take longer to form the huddle, and huddle closer together, and this pattern strengthens as teams experience compounding losses.  We do not find that a single huddle predicts the next rally better than chance. However, we find that teams that consistently follow the recovery pattern win more often and by more points. These results, based on computer vision-extracted microdynamics of team huddles, present preliminary evidence that reliability of a recovery routine tracks and predicts team performance.
+\end{abstract}
+
+\section{Motivation}
+
+In high-stakes, fast-paced environments, teams often have only a brief moment to respond to a setback, and how they respond can shape whether the setback’s effect on future performance compounds or dissipates. For example, a surgical team may quickly huddle after one member makes an error to discuss how to complete the operation safely. These brief moments when teams step away from performance to huddle and evaluate what happened and plan for next steps are called transition phases \citep{marks2001temporally}.  Organizational scholars have discovered that teams are more likely to bounce back from the setback when they allow members to safely discuss errors \citep{edmondson1999}, draw on shared resources \citep{stoverink2020}, and surface potential threats \citep{goldenhar2013huddling} during these phases.  But if they treat setbacks as threats, they start to constrict attention and centralize
+control; the original setback could compound \citep{staw1981}. 
+
+% Teams in which members feel safe to discuss errors engage in more learning behavior \citep{edmondson1999}, and resilient teams draw on shared resources to bounce back from setbacks together \citep{stoverink2020}. Teams evaluate what happened and plan what comes next in the transition phase between performance episodes \citep{marks2001temporally}, but they can also treat setbacks as threats, constricting attention and centralizing control in ways that compound the original setback \citep{staw1981}. Huddles are one way teams use these transition phases. Hospitals hold safety huddles to surface threats before they cause harm \citep{goldenhar2013huddling}, and effective teams step away from the task for brief huddles to reallocate their remaining time \citep{fisher2024clock}.
+
+But we still know little about teams' behavior during these transition phases. Surveys capture teams' perceptions of what happens but not what they actually do \citep{WallerandKaplan}. Retrospective analysis captures whether a team recovered from a setback but not how it did so. Human annotators can code some of these interactions \citep{kraus2010, durdubas2021}, but hand-coding is too expensive to scale and can miss phases that last only seconds. Recent studies have started to use computational methods. For example, \cite{Serpell2023} used GPS to track rugby players' huddling behavior across 100 professional games but found no relationship with performance. Finding defensible patterns between team recovery and performance requires measurement that scales across thousands of moments and links each one to the setback that preceded it.
+
+%Current literature is missing systematic evidence about what happens during these huddles after preceding setbacks. Transition phases are moments that can tell us a lot about teams, and while they recur many times within a single performance, they often last only seconds. Surveys merely capture team members’ perceptions, and retrospective outcome analysis cannot measure what a team actually does during the recovery moments  \citep{WallerandKaplan}. Behavioral coding, while it can capture some interactions, struggles to reach a scale that can identify defensible patterns. GPS tracking of player clustering during stoppages across 100 professional rugby games found no link to match performance \citep{Serpell2023}. Linking regrouping to performance requires both scale and resolution to a single setback. 
+
+We propose to use collegiate volleyball to study team behavior in transition phases because setbacks are frequent and unambiguous, and each one is followed by a brief regrouping moment. Every rally yields a win for one team and a loss for the other; each team averages 87 lost points per game, and in the seconds before the next rally teammates often huddle and then break to their positions to continue the game. We treat this huddle as the team’s regrouping: a bounded, observable transition phase whose timing and shape we can measure. Because the rules control serving, rotation, and timeouts, we can separate regrouping a team chooses from interactions the rules require. Following past work that uses sports as a model system for organizational science \citep{dai2018quitting, day2012sporting, fonti2023sports, humphrey2014microdynamics}, we ask: How do volleyball teams regroup in the seconds after a setback, and does how they regroup relate to their performance?
+
+\section{Core Scientific Contribution}
+We develop an AI pipeline that takes full volleyball games and outputs temporal and spatial data from huddle moments. We characterize three properties of a team’s huddle interaction: time to converge, duration while in the huddle, and closeness during the huddle. We applied our pipeline to thousands of huddles, yielding repeated measurements that give us enough data to identify patterns within and across teams. Our framework enables us to measure team dynamics as an observational, behavioral measure \citep{kozlowskichao2018}. 
+
+We found that teams respond to setbacks with a clear regrouping pattern that intensifies as setbacks compound. Consistent post-point huddle rituals that follow the pattern of taking longer to come together, staying together longer, and coming together closer are positively related to team win percentage, while no single huddle predicts the outcome of the next rally. The remaining question is whether these regrouping patterns contribute to recovery, measure other team capabilities, or stem from game-related situations.
+
+Through measuring regrouping directly, we can examine these questions empirically and make three contributions. First, we place a setback response in the transition phase, where team process theory argues for it, and offer a way to distinguish resilient coordination from threat-induced cohesion. Second, we distinguish the regrouping pattern from its consistency across setbacks, echoing work on the relationship between regrouping patterns and variable performance \citep{feldman2003}. Last, we introduce a low-cost AI pipeline that takes full game footage and turns it into measurable transition episodes at \$0.06 per huddle, creating a new empirical measure for studying team dynamics \citep{kozlowskichao2018}. Together, our contributions create a framework for investigating how and when teams regroup following repeated setbacks. 
+
+\section{What we have done}
+\subsection{Data and Pipeline}
+We collected 32 Division III women's volleyball games from YouTube. Division III games offer optimal camera angles that capture huddles from both teams. The 32 games span the years 2019 through 2025 and include 48 unique teams and 39 unique schools, yielding 10,362 huddles for our analysis. 
+
+We implemented an AI-powered pipeline to process raw huddle data as team-level behavioral interactions. We used an MLLM to identify huddle moments during games and an AI computer vision model to track each team member throughout a huddle episode. With this information, we calculated team-level properties that describe the huddle as a whole. We identify three spatiotemporal features of huddles: \textit{latency}, \textit{closeness}, and \textit{duration} (see Appendix A for further details). Figure~\ref{fig:pipeline} in the Appendix shows how we transform video footage into huddle-level statistics that we combine with performance-based metrics. 
+
+After obtaining three descriptive statistics that capture the entire huddle interaction, we mapped these features to previous and future point outcomes. After standardizing the features within games, we examined how teams deviate from their normal rituals, how teams differ in recovery patterns, and how these patterns relate to a team's success. We regressed each standardized feature on the preceding point outcome or streak state with game fixed effects and huddle-clustered standard errors. 
+
+
+
+\subsection{Preliminary Results}
+Our analysis asks three main questions: do teams exhibit recovery behaviors in time-limited moments, how do recovery patterns change during compounded losses, and how important are short recovery moments for future success? Across 10,362 huddles and 32 games, teams deploy a setback-specific pattern that strengthens as teams experience compounded losses and relates to future success.
+
+\subsubsection{Teams deploy setback-specific huddle rituals}
+
+After losing a point, teams come together more slowly and stay together longer. Specifically, teams stay together 0.291 SD (p $<$ 0.001) longer and come together 0.544 SD (p $<$ 0.001) slower. Teams do not huddle any closer after losses than after wins. The huddle interaction features carry information on the outcome of the last point. However, they carry no predictive power for the immediate next point. Regressing on all three features to predict whether a team will win or lose the next point, given how they interacted in the prior huddle, is no better than random chance (AUC = 0.5). 
+
+During compounded losses, teams follow a clear huddling pattern that strengthens monotonically as the losing streak worsens. For example, after a single loss, teams huddle longer and take longer to come together as losses continue. These behaviors become more extreme as teams experience more losses. Additionally, after teams lose two points in a row, they statistically huddle closer. As teams fall deeper in losing streaks, their huddle behaviors more closely follow the pattern of staying together longer, taking longer to come together, and huddling closer together (as seen in Figure 1a). The three huddle properties together predict whether a team is in a losing streak far better than chance (AUC = 0.715).
+
+\subsubsection{Setback response relates to overall performance}
+
+We introduce a team-level measure, \textit{recovery-routine consistency}, that pairs how strongly a team follows the dominant recovery pattern during a losing streak (coming together slower, staying together longer, and huddling closer) with how often it follows it.
+
+Within games, the team that followed the recovery pattern more consistently won 72\% of the time (23 of 32 games, $p = 0.020$; Figure 1b). Among the 32 winners, the 23 with higher consistency won by an average of 13.7 points, compared with 9.8 points for the 9 with lower consistency. Across teams, recovery-routine consistency also correlates positively with team win percentage ($r = 0.361$, $p = 0.012$; Figure 1c).
+
+As a robustness check, teams with higher and lower recovery-routine consistency experience a similar number of losing streaks of similar lengths (mean length 2.83 vs. 2.85; $p > 0.1$), so consistency is not driven by how many losing streaks a team experiences. Our findings also do not differ between early-game and late-game situations, suggesting huddle behavior is not just an outcome of the game-specific situation.
+
+\begin{figure}[H]
+    \centering
+    \captionsetup[subfigure]{skip=2pt}% less space between each image and its subcaption
+    \def\figscale{0.85}% <- lower = shorter figure
+    \begin{subfigure}[t]{\figscale\dimexpr0.77\linewidth\relax}
+        \centering
+        \includegraphics[width=\linewidth]{images/run_state_profile.png}
+        \caption{Huddle closeness, duration, and latency by momentum state, relative to a single point just won (W1). Effects in within-game SD. Features are oriented so that higher values indicate tighter, longer, and faster huddles.}
+        \label{fig:run_state}
+    \end{subfigure}
+
+    \vspace{0.2em}
+    \begin{subfigure}[t]{\figscale\dimexpr0.37\linewidth\relax}
+        \centering
+        \includegraphics[width=\linewidth]{images/recovery_routine_consistency_OLS.png}
+        \caption{Recovery consistency for teams that won versus lost the game (mean, 95\% CI).}
+        \label{fig:won_lost}
+    \end{subfigure}
+    \hspace{\figscale\dimexpr0.03\linewidth\relax}
+    \begin{subfigure}[t]{\figscale\dimexpr0.37\linewidth\relax}
+        \centering
+        \includegraphics[width=\linewidth]{images/auc_vs_winpct.png}
+        \caption{Team-level recovery consistency versus point-win percentage.}
+        \label{fig:teams}
+    \end{subfigure}
+    \vspace{-0.3em}
+    \caption{Huddle behavior after setbacks and its relationship to winning.}
+    \label{fig:combined}
+\end{figure}
+
+
+\section{Risks}
+We acknowledge four potential risks of our proposed work. First, our geometric features are not resilience or emotional regulation themselves, and we do not know the exact recovery mechanism a team uses. For example, we cannot say that a team coming together more quickly shows a higher level of shared resilience. Rather, these are observable behaviors that provide insight into these latent processes. Second, our analysis is associational, so we cannot currently say that huddling causes recovery. Third, using sports as our domain introduces potential noise into our performance metrics. While scoring a point in volleyball is inherently team-dependent \citep{EomSchutz}, considerable randomness affects whether an action succeeds or fails. A single-point outcome may not cleanly measure whether a team recovers from a setback. Lastly, volleyball creates clear action-recovery-action episodes that most other domains do not define as cleanly. So, while our work builds the foundation for the microdynamics of team recovery, extending it to domains without clear, observable recovery moments will require further generalization. 
+
+
+
+\section{Proposed Future Work}
+First, to better understand \textit{when} teams initiate coordination and recovery, we need to extend our analysis beyond simple wins and losses. Not all losses carry the same degree of failure. Recent literature asks this as an open question: which characteristics of adversity matter for team recovery \citep{bisbey2025towards}. Losses that occur unexpectedly–a higher-ranked team surprisingly losing to a lower-ranked team–could result in different recovery behavior. For example, \citet{dai2018quitting} found that individuals who are expected to win but fall behind are more likely to quit than underdogs. More game-level data would let us test these questions.
+
+Huddle geometric variables are a good starting point, but recovery can involve many more variables. Facial expressions, touch frequency, body language, gestures, and the words teammates say can offer insight into how teams process setbacks and respond. Measuring whether certain individuals dominate the recovery process, like standing in the middle of a huddle, would show whether this behavior affects individual and team performance.
+
+Because terminal sports metrics tend to be very noisy \citep{berger2011losing}, more analysis is needed on when recovery works for a team and when it doesn’t. While we found that immediate next-point success is null, we found that game-level performance was significant. Additional questions remain about aggregate-level metrics, like over an entire season, or through mediating variables. There exists a strong opportunity to study what recovery leads to, since it is often measured as an outcome itself rather than a predictor \citep{kirkman2026team}. Outcomes to explore could include streak length; coordination quality; teammate re-involvement; or variation in performance under accumulated adversity.
+
+We believe our proposed approach of measuring transition-phase behavior directly from existing video could change how organizational science studies team dynamics by making the time between setbacks and renewed action observable temporally and at scale. Rather than relying on surveys that offer only static snapshots, researchers could measure recovery as a series of action-recovery-action episodes at a team level. With careful consideration of context, our computer vision-based team process measurement pipeline could be extended into other fast-paced domains like medical teams, military teams, flight crews, and emergency response.
+
+
+\clearpage
+\bibliographystyle{apalike}
+\bibliography{references}
+
+\clearpage
+\appendix
+\section*{Supplementary Information}
+\section{Data collection and huddle segmentation}
+\input{pipeline_figure}
+
+\subsection{Data Extraction}
+Our data consisted of multiple teams and multiple schools. Some schools have multiple games per year, and some have multiple games across years. A single team is defined as the same school and year. Additionally, the games span different importance levels, including non-conference games, regular-season conference games, post-season conference games, and NCAA post-season games. The 32 games yielded 5,571 post-point huddle moments, which amounted to 11,142 individual huddles, since every post-point huddle moment includes two unique huddles, one for each team. Also, we obtained in-game performance metrics for each game from the home team's play-by-play website. This performance data gave us information related to which team won which point, who scored and contributed to the point, and whether or not an error occurred. 
+
+We selected games filmed with a tactical side-angle camera that did not change angle during the huddles. A human identified the start and stop times of each game to shorten the video before cutting the individual huddles. Once we identified the smaller chunks of the full game video, we used Gemini 3.1 Pro Preview to identify the start and stop times of each huddle throughout the entire game \citep{gemini31pro2026}. We defined the start of a huddle as when the point ended, the ball hit the ground, and players began moving toward one another. We defined the end of the huddle as the time at which both teams had dispersed from their huddle. A single start-and-stop time encompassed both teams' huddle. A single set, averaging around 45 huddles, cost \$2.72, or \$0.060 per huddle. After Gemini identified the timestamps of each huddle, a human used a labeling tool to modify, add, or delete the huddles. The human-verification process was essential, as mistakes in the number or length of huddles would negatively impact subsequent analysis. After each huddle was cleanly cut and included, we saved the raw individual clips as mp4 files. 
+
+
+\subsection{Model}
+To model the players' locations, which we later used to calculate team-level features, we used the vision-language model SAM3. SAM3 is a unified model that can detect, segment, and track objects throughout an entire video \citep{sam3_2025}. SAM3 is particularly useful for its open-vocabulary detection embedding. We used SAM3 for two phases in our pipeline–court detection and player detection.
+
+\subsubsection{Court Detection}
+First, we used SAM3 to identify the volleyball court, specifically the lines and corners. This was necessary because camera angles distort depth perception. We prompted the model with ``white court lines," but this prompt could generalize to ``$<$color$>$ court lines". The segmented lines, along with additional calculus to identify the line type (end line versus attack line) and an extension mechanism to find intersection points, helped us identify the necessary corner points. We used these corner points to calculate the homography matrix, given the true corner locations of a simple 18m x 9m volleyball court. We applied the homography matrix to the player locations to obtain more accurate 2D locations \citep{hartley2004multiple}. 
+
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=0.5\linewidth]{white_court.png}
+  \caption{Colored lines detected and segmented by SAM3, and the white points at the corners created by extended segments and grouped angle values to correctly classify corners to their correct location.}
+  \label{fig:white_court}
+\end{figure}
+
+
+\subsubsection{Player Detection}
+Our second use case with SAM3 was for detecting and tracking the players on the court. First, we prompted the model with ``female volleyball player playing." This prompt was necessary to filter out coaches, refs, and fans that the model could mistakenly pick up with a more vague prompt. Second, we filtered the allowed player locations to the detected court from the court detection phase. This helped avoid tracking players that may be standing on the sideline but who were not playing in the game. We were able to include players who may have run off the court to chase an in-play ball and came into frame later in the video by re-injecting the prompt in frames 30 and 45. 
+
+Lastly, volleyball huddles are subject to occlusion. Players on the opposite side of the huddle from the camera are likely occluded by teammates' bodies. However, since the players' location is the bottom of their segmented box, and for most players that is the ground, we applied extrapolation logic to occluded players to estimate their location on the court. First, we identified all full masks throughout the huddle video and binned them by y-value to evenly cover each depth value. We then linearly regressed on all non-noisy segments based on height, defined as the player's head (y\_max) minus the player's feet (y\_min). We applied the slope and intercept to all players deemed occluded. These were players whose mask bottom overlapped with another player’s mask and whose mask was less than 90\% of the expected height. We also added a condition that occluded masks must be square-shaped rather than rectangular (this helped avoid incorrectly extrapolating diving players). 
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.5\linewidth]{player_track.png}
+  \caption{Players detected through the extrapolation and on-court logic. We classified teams as right or left based on their position relative to the court center.}
+  \label{fig:white_court}
+\end{figure}
+
+\subsubsection{Huddle Properties}
+Once we obtained all correctly located player masks, we calculated team-level features from all individual locations. The three main features we identified were \textit{huddle closeness}, \textit{huddle duration}, \textit{huddle latency}. Since the huddle embodies the entire transition phase where interpersonal processes and, by its reciprocal nature, emergent states are quantifiable, we believed that measuring the ``degree" of the action would be more powerful than just the binary value of whether or not the huddle occurred. For this reason, we chose these three properties to measure the huddle as a whole. We defined huddle closeness as the closest the team got during their huddle. We calculated it as the enclosing circle diameter (in ft) anchored on the minimum-gyration value via Welzl's algorithm \citep{welzl1991smallest}. We defined huddle duration as the amount of time the team stays close in their huddle. We calculated it as the time (in seconds) a team stays within 1.5 times the dataset median radius. Lastly, we defined huddle latency as the time it took the team to get to their eventual closest huddle value. We calculated it as the elapsed time from the team's first tracked spread size to their eventual closest value, controlled for starting position size. Together, these properties tell us how quickly a team comes together, how long they stay together, and how close they get after a point. 
+
+\begin{table}[htbp]
+  \centering
+  \small
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabular}{@{}l >{\raggedright\arraybackslash}p{0.22\linewidth}
+                      >{\raggedright\arraybackslash}p{0.42\linewidth} c@{}}
+    \hline
+    \textbf{Feature} & \textbf{What it captures} & \textbf{How it is computed} & \textbf{Unit} \\
+    \hline
+    Closeness & How tight teammates huddle
+      & Minimum enclosed-circle diameter over the huddle using Welzl's algorithm
+      & ft \\
+    Latency & How quickly the team comes together
+      & Time from the first tracked frame to the frame at closeness value, controlled for starting position
+      & s \\
+    Duration & How long the team stays together
+      & Time the team's enclosed circle stays within $1.5\times$ the data set median radius
+      & s \\
+    \hline
+  \end{tabular}
+  \caption{Huddle features computed from the smallest enclosing circle of a team's on-court players.}
+  \label{tab:huddle_features}
+\end{table}
+
+
+Also, we identified non-huddles as huddles where closeness never reached 5ft and three or more players were 2.5ft from the center. Together, these conditions helped identify huddles that never fully formed. Non-huddles can happen for many reasons, ranging from a true non-huddle to players arguing with the ref and not coming together. We found no clear pattern between point outcome and non-huddling: 3.03\% of potential huddle opportunities were not huddles after a win, and 4.00\% after a loss.
+
+\subsubsection{Outcome Data}
+In addition to huddle properties, we obtained outcome-specific data from each game's play-by-play site. The play-by-play data has extensive information on how a point was scored, by whom, and what other players were involved–either if they errored or contributed by assisting. This information allows us to automate the relationship between a huddle and the point outcome before and after it. We could also quickly calculate momentum or losing-streak values the same way by cumulating momentum scores as outcomes \{-1, +1\} over the span of a set. 
+
+Additionally, this data allowed us to create features related to how teams score their points–whether multiple players score or if it is the same couple of players every play. We also created Shannon entropy approximations to understand play type and player impact by measuring how diverse a team's scoring is \citep{shannon1948}. Lastly, we created features related to re-involvement, which let us track how players show up after making errors.
+
+We also encountered some modeling risks. We identified tracking noise in our model based on the number of players detected throughout the video or an irregular huddle shape. Additionally, during labeling, some huddles were filmed at the wrong angle or missed entirely, so we cut clips with fewer than 10 frames and flagged them. We filtered out huddles identified as tracking noise, camera-angle issues, or non-huddles, resulting in the 10,362 clean huddles for our analysis. 
+\end{document}
